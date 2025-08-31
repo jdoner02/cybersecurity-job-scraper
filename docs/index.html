@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EWU Cybersecurity Job Portal</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <img src="ewu-logo.png" alt="EWU Logo" class="logo-img">
+                <h1>EWU Cybersecurity Job Portal</h1>
+            </div>
+            <nav class="nav">
+                <a href="#home" class="nav-link active">Home</a>
+                <a href="#map" class="nav-link">Map View</a>
+                <a href="#list" class="nav-link">Job List</a>
+                <a href="#profile" class="nav-link">My Profile</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h2>Find Your Perfect Cybersecurity Career</h2>
+                <p>Discover federal job opportunities specifically curated for Eastern Washington University cybersecurity students and graduates.</p>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <i class="fas fa-briefcase"></i>
+                        <h3 id="total-jobs">Loading...</h3>
+                        <p>Active Positions</p>
+                    </div>
+                    <div class="stat-card">
+                        <i class="fas fa-graduation-cap"></i>
+                        <h3 id="entry-level-jobs">Loading...</h3>
+                        <p>Entry-Level</p>
+                    </div>
+                    <div class="stat-card">
+                        <i class="fas fa-shield-alt"></i>
+                        <h3 id="no-clearance-jobs">Loading...</h3>
+                        <p>No Clearance Required</p>
+                    </div>
+                    <div class="stat-card">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <h3 id="locations-count">Loading...</h3>
+                        <p>Locations</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Profile Setup Section -->
+    <section id="profile" class="profile-section">
+        <div class="container">
+            <h2>Setup Your Profile</h2>
+            <p>Tell us about your skills and experience to get personalized job matches.</p>
+            
+            <div class="profile-form">
+                <div class="form-group">
+                    <label for="education-level">Education Level</label>
+                    <select id="education-level">
+                        <option value="">Select your education level</option>
+                        <option value="high school">High School Diploma</option>
+                        <option value="associate">Associate's Degree</option>
+                        <option value="bachelor">Bachelor's Degree</option>
+                        <option value="master">Master's Degree</option>
+                        <option value="phd">PhD/Doctorate</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="major">Major/Field of Study</label>
+                    <select id="major">
+                        <option value="">Select your major</option>
+                        <option value="cybersecurity">Cybersecurity</option>
+                        <option value="computer science">Computer Science</option>
+                        <option value="information technology">Information Technology</option>
+                        <option value="computer engineering">Computer Engineering</option>
+                        <option value="information systems">Information Systems</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="experience-years">Years of Experience</label>
+                    <select id="experience-years">
+                        <option value="0">No professional experience</option>
+                        <option value="1">1 year</option>
+                        <option value="2">2 years</option>
+                        <option value="3">3-5 years</option>
+                        <option value="5">5+ years</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="skills">Technical Skills (Select all that apply)</label>
+                    <div class="skills-grid" id="skills-grid">
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="certifications">Certifications</label>
+                    <div class="certifications-grid" id="certifications-grid">
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="preferred-locations">Preferred Locations</label>
+                    <input type="text" id="preferred-locations" placeholder="e.g., Washington, DC; Remote; etc.">
+                </div>
+
+                <button id="save-profile" class="btn btn-primary">Save Profile & Get Matches</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filters Section -->
+    <section class="filters-section">
+        <div class="container">
+            <div class="filters-toggle">
+                <button id="toggle-filters" class="btn btn-secondary">
+                    <i class="fas fa-filter"></i> Filters
+                </button>
+            </div>
+            
+            <div id="filters-panel" class="filters-panel hidden">
+                <div class="filter-group">
+                    <label for="search-query">Search Jobs</label>
+                    <input type="text" id="search-query" placeholder="Search by title, agency, or keywords...">
+                </div>
+
+                <div class="filter-group">
+                    <label for="agency-filter">Agency</label>
+                    <select id="agency-filter">
+                        <option value="">All Agencies</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="grade-filter">Grade Level</label>
+                    <select id="grade-filter">
+                        <option value="">All Grades</option>
+                        <option value="GS-07">GS-07</option>
+                        <option value="GS-08">GS-08</option>
+                        <option value="GS-09">GS-09</option>
+                        <option value="GS-11">GS-11</option>
+                        <option value="GS-12">GS-12</option>
+                        <option value="GS-13">GS-13</option>
+                        <option value="GS-14">GS-14</option>
+                        <option value="GS-15">GS-15</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="location-filter">Location</label>
+                    <select id="location-filter">
+                        <option value="">All Locations</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>
+                        <input type="checkbox" id="entry-level-only"> Entry-Level Only
+                    </label>
+                </div>
+
+                <div class="filter-group">
+                    <label>
+                        <input type="checkbox" id="no-clearance-only"> No Clearance Required
+                    </label>
+                </div>
+
+                <button id="apply-filters" class="btn btn-primary">Apply Filters</button>
+                <button id="clear-filters" class="btn btn-secondary">Clear All</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Map View -->
+    <section id="map" class="map-section hidden">
+        <div class="container">
+            <h2>Job Locations Map</h2>
+            <div class="map-controls">
+                <button id="map-view-btn" class="btn btn-primary active">Map View</button>
+                <button id="list-view-btn" class="btn btn-secondary">List View</button>
+            </div>
+            <div id="jobs-map" class="jobs-map"></div>
+        </div>
+    </section>
+
+    <!-- Job List View -->
+    <section id="list" class="job-list-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Job Opportunities</h2>
+                <div class="sort-controls">
+                    <label for="sort-by">Sort by:</label>
+                    <select id="sort-by">
+                        <option value="match">Best Match</option>
+                        <option value="deadline">Application Deadline</option>
+                        <option value="salary">Salary Range</option>
+                        <option value="posted">Date Posted</option>
+                        <option value="title">Job Title</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div id="jobs-container" class="jobs-container">
+                <div class="loading-spinner">
+                    <i class="fas fa-spinner fa-spin"></i>
+                    <p>Loading job opportunities...</p>
+                </div>
+            </div>
+
+            <div id="pagination" class="pagination">
+                <!-- Pagination controls will be added dynamically -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Job Detail Modal -->
+    <div id="job-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="job-detail-content">
+                <!-- Job details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>EWU Cybersecurity Program</h3>
+                    <p>Preparing the next generation of cybersecurity professionals</p>
+                    <a href="https://www.ewu.edu" target="_blank">Visit EWU</a>
+                </div>
+                <div class="footer-section">
+                    <h3>Resources</h3>
+                    <ul>
+                        <li><a href="https://www.usajobs.gov" target="_blank">USAJobs.gov</a></li>
+                        <li><a href="https://niccs.cisa.gov" target="_blank">NICCS Career Portal</a></li>
+                        <li><a href="https://www.nsa.gov/careers" target="_blank">NSA Careers</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>About This Portal</h3>
+                    <p>Data sourced from USAJobs.gov API. Updated every 6 hours.</p>
+                    <p>Last updated: <span id="last-updated">Loading...</span></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
