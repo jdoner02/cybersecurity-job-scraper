@@ -32,8 +32,87 @@ a{color:var(--accent)}
 .apply-btn:hover{background:#4fd3f7}
 .muted{color:var(--muted)}
 
+/* Expandable description styles */
+.job-row.expanded .job-details{
+  max-width:600px;
+  background:rgba(97, 218, 251, 0.05);
+  padding:.5rem;
+  border-radius:.5rem;
+  border-left:3px solid var(--accent);
+}
+.expand-hint{
+  font-size:.75rem;
+  margin-top:.25rem;
+  opacity:0.7;
+  font-style:italic;
+}
+.job-details:hover .expand-hint{
+  opacity:1;
+}
+.desc-full{
+  margin-top:.25rem;
+  white-space:pre-wrap;
+}
+
+/* Subscription styles */
+.subscription-section{
+  background:var(--card);
+  border-radius:.75rem;
+  padding:2rem;
+  margin:2rem 0;
+  border:1px solid #21242a;
+}
+.subscription-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:1.5rem;
+  margin-top:1.5rem;
+}
+@media(min-width:640px){
+  .subscription-grid{grid-template-columns:1fr 1fr}
+}
+.subscription-option{
+  background:#0f1115;
+  border-radius:.5rem;
+  padding:1.5rem;
+  border:1px solid #2a2e36;
+  text-align:center;
+}
+.subscription-option h3{
+  color:var(--accent);
+  margin:0 0 1rem;
+}
+.subscription-option p{
+  margin:0 0 1.5rem;
+  font-size:.9rem;
+  line-height:1.4;
+}
+.sub-btn{
+  display:inline-block;
+  padding:.75rem 1.5rem;
+  background:var(--accent);
+  color:#0b0c10;
+  border-radius:.5rem;
+  text-decoration:none;
+  font-weight:600;
+  font-size:.9rem;
+}
+.sub-btn:hover{
+  background:#4fd3f7;
+}
+.sub-btn.secondary{
+  background:transparent;
+  color:var(--accent);
+  border:1px solid var(--accent);
+}
+.sub-btn.secondary:hover{
+  background:var(--accent);
+  color:#0b0c10;
+}
+
 @media(max-width:768px){
   th:nth-child(2), td:nth-child(2){display:none}
   .job-details{max-width:none}
+  .job-row.expanded .job-details{max-width:none}
 }
 

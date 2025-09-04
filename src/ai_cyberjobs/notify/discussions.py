@@ -148,10 +148,46 @@ def format_job_update_discussion(
 ### 🔗 View Jobs
 Visit our [job board]({site_url}) to see all available positions with detailed descriptions, locations, and application links.
 
-### 📊 Data Source
+### � Get Email Notifications
+To receive email notifications for future job updates:
+1. **Watch this repository** by clicking the "Watch" button above
+2. **Subscribe to discussions** in your GitHub notification settings
+3. You'll get emails when new job discussion posts are created
+
+### �📊 Data Source
 All positions are sourced from USAJOBS.gov with a 30-day search window, updated daily via automated workflows.
 
 ---
-*This update was generated automatically. Watch this repository to receive notifications for new job postings.*"""
+*This update was generated automatically. Watch this repository and subscribe to discussions to receive email notifications for new job postings.*"""
 
     return title, body
+
+
+def get_discussion_subscription_info(
+    owner: str,
+    repo: str,
+    token: str | None = None,
+) -> dict[str, Any]:
+    """Get information about subscribing to discussions for email notifications.
+    
+    Args:
+        owner: Repository owner
+        repo: Repository name
+        token: GitHub token (uses GITHUB_TOKEN env if not provided)
+    
+    Returns:
+        Dict with subscription info and URLs
+    """
+    base_url = f"https://github.com/{owner}/{repo}"
+    
+    return {
+        "repository_url": base_url,
+        "discussions_url": f"{base_url}/discussions",
+        "watch_url": f"{base_url}/subscription",
+        "instructions": [
+            "Visit the repository and click 'Watch' to enable notifications",
+            "Go to GitHub Settings > Notifications to configure email preferences",
+            "Subscribe to 'Discussions' to get emails for job updates",
+            "You'll receive emails when new job discussion posts are created"
+        ]
+    }

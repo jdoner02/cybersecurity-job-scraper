@@ -9,12 +9,92 @@
   <body>
     <main class="container">
       <h1>AI & Cybersecurity Jobs – USAJOBS</h1>
-      <p>Browse fresh roles; data updates daily.</p>
+      <p>Browse fresh government tech roles; data updates daily from USAJOBS.gov with a 30-day search window.</p>
+      
       <div class="grid">
-        <a class="card" href="ai.html">AI Jobs</a>
-        <a class="card" href="cyber.html">Cybersecurity Jobs</a>
+        <a class="card" href="ai.html">
+          <div>🤖 AI Jobs</div>
+          <div class="muted" style="font-size:.9rem;margin-top:.5rem;">Machine Learning, Data Science, AI Development</div>
+        </a>
+        <a class="card" href="cyber.html">
+          <div>🔒 Cybersecurity Jobs</div>
+          <div class="muted" style="font-size:.9rem;margin-top:.5rem;">InfoSec, Cyber Defense, Security Analysis</div>
+        </a>
       </div>
+
+      <section class="subscription-section">
+        <h2>📬 Stay Updated</h2>
+        <p>Get notified when new government tech jobs are posted. Choose your preferred notification method:</p>
+        
+        <div class="subscription-grid">
+          <div class="subscription-option">
+            <h3>💬 Discord Notifications</h3>
+            <p>Join our Discord server for real-time job alerts with rich formatting and direct links to new opportunities.</p>
+            <a href="#" class="sub-btn" id="discord-sub">Join Discord Server</a>
+          </div>
+          
+          <div class="subscription-option">
+            <h3>📧 Email Updates</h3>
+            <p>Subscribe via GitHub Discussions to get email notifications for daily job updates. Manage your subscription through GitHub.</p>
+            <a href="https://github.com/jdoner02/cybersecurity-job-scraper/discussions" class="sub-btn secondary" target="_blank" rel="noopener">Subscribe on GitHub</a>
+          </div>
+        </div>
+        
+        <div style="margin-top:1.5rem;padding:1rem;background:#0f1115;border-radius:.5rem;border:1px solid #2a2e36;">
+          <h4 style="margin:0 0 .5rem;color:var(--accent);font-size:.9rem;">📊 Current Stats</h4>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;font-size:.85rem;">
+            <div>
+              <span class="muted">AI Jobs:</span> <span id="ai-count">Loading...</span>
+            </div>
+            <div>
+              <span class="muted">Cyber Jobs:</span> <span id="cyber-count">Loading...</span>
+            </div>
+          </div>
+          <div style="margin-top:.5rem;font-size:.75rem;color:var(--muted);">
+            Last updated: <span id="last-updated">Loading...</span>
+          </div>
+        </div>
+      </section>
     </main>
+
+    <script>
+      // Load job counts for stats
+      Promise.all([
+        fetch('data/ai_jobs.json').then(r => r.json()),
+        fetch('data/cyber_jobs.json').then(r => r.json())
+      ]).then(([aiData, cyberData]) => {
+        const aiJobs = Array.isArray(aiData) ? aiData : (aiData.jobs || []);
+        const cyberJobs = Array.isArray(cyberData) ? cyberData : (cyberData.jobs || []);
+        
+        document.getElementById('ai-count').textContent = aiJobs.length;
+        document.getElementById('cyber-count').textContent = cyberJobs.length;
+        
+        // Get last updated from the more recent dataset
+        const aiDate = aiData.generated_at ? new Date(aiData.generated_at) : null;
+        const cyberDate = cyberData.generated_at ? new Date(cyberData.generated_at) : null;
+        const lastUpdate = aiDate && cyberDate ? (aiDate > cyberDate ? aiDate : cyberDate) : (aiDate || cyberDate);
+        
+        if (lastUpdate) {
+          document.getElementById('last-updated').textContent = lastUpdate.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'short', 
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+          });
+        }
+      }).catch(() => {
+        document.getElementById('ai-count').textContent = 'N/A';
+        document.getElementById('cyber-count').textContent = 'N/A';
+        document.getElementById('last-updated').textContent = 'N/A';
+      });
+
+      // Discord subscription placeholder
+      document.getElementById('discord-sub').addEventListener('click', (e) => {
+        e.preventDefault();
+        alert('Discord server setup is pending. For now, watch this GitHub repository or subscribe to discussions for updates!');
+      });
+    </script>
   </body>
-  </html>
+</html>
 
