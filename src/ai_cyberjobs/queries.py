@@ -1,8 +1,6 @@
 from __future__ import annotations
 
-from typing import Dict, List
-
-AI_KEYWORDS: List[str] = [
+AI_KEYWORDS: list[str] = [
     "artificial intelligence",
     "AI",
     "machine learning",
@@ -17,7 +15,7 @@ AI_KEYWORDS: List[str] = [
     "reinforcement learning",
 ]
 
-CYBER_KEYWORDS: List[str] = [
+CYBER_KEYWORDS: list[str] = [
     "cybersecurity",
     "information security",
     "infosec",
@@ -33,8 +31,7 @@ CYBER_KEYWORDS: List[str] = [
 ]
 
 
-CATEGORIES: Dict[str, List[str]] = {
+CATEGORIES: dict[str, list[str]] = {
     "ai": AI_KEYWORDS,
     "cyber": CYBER_KEYWORDS,
 }
-

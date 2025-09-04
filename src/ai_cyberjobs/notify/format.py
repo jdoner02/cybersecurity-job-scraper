@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from typing import Iterable, Tuple
+from collections.abc import Iterable
 
 from ..models import Job
 
@@ -10,7 +10,7 @@ def make_subject(category: str, count: int) -> str:
     return f"New {prefix} Jobs ({count}) – USAJOBS"
 
 
-def render_email_bodies(category: str, jobs: Iterable[Job]) -> Tuple[str, str]:
+def render_email_bodies(category: str, jobs: Iterable[Job]) -> tuple[str, str]:
     items = list(jobs)
     html_items = []
     text_items = []
@@ -28,7 +28,9 @@ def render_email_bodies(category: str, jobs: Iterable[Job]) -> Tuple[str, str]:
     {items}
   </ul>
 </body></html>
-""".strip().format(items="\n    ".join(html_items))
+""".strip().format(
+        items="\n    ".join(html_items)
+    )
 
     text = "New postings found on USAJOBS:\n\n" + "\n\n".join(text_items)
     return html, text
@@ -40,6 +42,5 @@ def escape(s: str) -> str:
         .replace("&", "&amp;")
         .replace("<", "&lt;")
         .replace(">", "&gt;")
-        .replace("\"", "&quot;")
+        .replace('"', "&quot;")
     )
-

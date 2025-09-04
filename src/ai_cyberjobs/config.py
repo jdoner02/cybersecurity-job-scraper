@@ -3,19 +3,27 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Literal
 
-from pydantic import Field
+from pydantic import AliasChoices, Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
-
 
 Root = Path(__file__).resolve().parents[2]
 
 
 class Settings(BaseSettings):
-    model_config = SettingsConfigDict(env_file=str(Root / ".env"), env_prefix="", case_sensitive=False)
+    model_config = SettingsConfigDict(
+        env_file=str(Root / ".env"), env_prefix="", case_sensitive=False
+    )
 
     # USAJOBS API credentials (required for real runs)
-    usajobs_email: str = Field(alias="USAJOBS_EMAIL")
-    usajobs_api_key: str = Field(alias="USAJOBS_API_KEY")
+    # Accept either standard envs or hyphenated keys found in some setups
+    usajobs_email: str = Field(
+        default="",
+        validation_alias=AliasChoices("USAJOBS_EMAIL", "usajobs-api-email"),
+    )
+    usajobs_api_key: str = Field(
+        default="",
+        validation_alias=AliasChoices("USAJOBS_API_KEY", "usajobs-api-key"),
+    )
 
     # Tuning
     requests_timeout: int = Field(20, alias="REQUESTS_TIMEOUT")
@@ -42,4 +50,3 @@ def ensure_dirs(settings: Settings) -> None:
         settings.repo_root / "out" / "emails",
     ]:
         p.mkdir(parents=True, exist_ok=True)
-

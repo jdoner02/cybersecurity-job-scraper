@@ -2,32 +2,35 @@ from __future__ import annotations
 
 import csv
 import json
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
-from typing import Iterable, List
 
 from ..config import Settings
 from ..models import Job
 
 
-def to_dict(j: Job) -> dict:
+def to_dict(j: Job) -> dict[str, object]:
     d = j.model_dump()
     # Coerce posted_at to isoformat string for consistent JSON
     pa = d.get("posted_at")
-    if hasattr(pa, "isoformat"):
+    if isinstance(pa, (datetime, date)):
         d["posted_at"] = pa.isoformat()
+    # Ensure url is a plain string for JSON
+    if "url" in d:
+        d["url"] = str(d["url"])
     return d
 
 
-def write_latest(settings: Settings, category: str, jobs: List[Job]) -> Path:
+def write_latest(settings: Settings, category: str, jobs: list[Job]) -> Path:
     latest_path = settings.data_dir / "latest" / f"{category}_jobs.json"
     latest_path.parent.mkdir(parents=True, exist_ok=True)
+
     # sort by posted_at desc then job_id for determinism
-    jobs_sorted = sorted(
-        jobs,
-        key=lambda j: (str(getattr(j.posted_at, "isoformat", lambda: j.posted_at)()), j.job_id),
-        reverse=True,
-    )
+    def _posted_at_key(j: Job) -> str:
+        pa = j.posted_at
+        return pa.isoformat() if hasattr(pa, "isoformat") else str(pa)
+
+    jobs_sorted = sorted(jobs, key=lambda j: (_posted_at_key(j), j.job_id), reverse=True)
     with latest_path.open("w", encoding="utf-8") as f:
         json.dump([to_dict(j) for j in jobs_sorted], f, indent=2)
     # also write CSV
@@ -35,17 +38,21 @@ def write_latest(settings: Settings, category: str, jobs: List[Job]) -> Path:
     return latest_path
 
 
-def write_csv(settings: Settings, category: str, jobs: List[Job]) -> Path:
+def write_csv(settings: Settings, category: str, jobs: list[Job]) -> Path:
     csv_path = settings.data_dir / "latest" / f"{category}_jobs.csv"
     with csv_path.open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["job_id", "title", "organization", "locations", "url", "posted_at"])
         for j in jobs:
-            w.writerow([j.job_id, j.title, j.organization, ", ".join(j.locations), str(j.url), getattr(j.posted_at, "isoformat", lambda: j.posted_at)()])
+            pa = j.posted_at
+            pa_str = pa.isoformat() if hasattr(pa, "isoformat") else str(pa)
+            w.writerow(
+                [j.job_id, j.title, j.organization, ", ".join(j.locations), str(j.url), pa_str]
+            )
     return csv_path
 
 
-def write_history_snapshot(settings: Settings, category: str, jobs: List[Job]) -> Path:
+def write_history_snapshot(settings: Settings, category: str, jobs: list[Job]) -> Path:
     date_str = datetime.utcnow().date().isoformat()
     hist_path = settings.data_dir / "history" / category / f"{date_str}.json"
     if not hist_path.exists():
@@ -55,7 +62,7 @@ def write_history_snapshot(settings: Settings, category: str, jobs: List[Job]) -
     return hist_path
 
 
-def write_new_jobs(settings: Settings, category: str, new_jobs: List[Job]) -> Path:
+def write_new_jobs(settings: Settings, category: str, new_jobs: list[Job]) -> Path:
     path = settings.data_dir / "latest" / f"new_{category}_jobs.json"
     with path.open("w", encoding="utf-8") as f:
         json.dump([to_dict(j) for j in new_jobs], f, indent=2)
@@ -71,4 +78,3 @@ def sync_docs_data(settings: Settings, category: str) -> Path:
     else:
         dst.write_text("[]", encoding="utf-8")
     return dst
-

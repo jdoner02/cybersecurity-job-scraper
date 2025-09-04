@@ -1,27 +1,58 @@
 from __future__ import annotations
 
 import json
+from datetime import date
 from pathlib import Path
+from typing import cast
+
+from pydantic import HttpUrl
 
 from ai_cyberjobs.config import Settings, ensure_dirs
 from ai_cyberjobs.models import Job
-from ai_cyberjobs.pipeline.store import write_latest, write_history_snapshot, sync_docs_data
+from ai_cyberjobs.pipeline.store import (
+    sync_docs_data,
+    write_history_snapshot,
+    write_latest,
+)
 
 
 def make_settings(tmp_path: Path) -> Settings:
-    s = Settings(USAJOBS_EMAIL="x@example.com", USAJOBS_API_KEY="k")
-    s.repo_root = tmp_path
-    s.data_dir = tmp_path / "data"
-    s.docs_data_dir = tmp_path / "docs" / "data"
+    s = Settings.model_construct(  # bypass env validation for tests
+        usajobs_email="x@example.com",
+        usajobs_api_key="k",
+        repo_root=tmp_path,
+        data_dir=tmp_path / "data",
+        docs_data_dir=tmp_path / "docs" / "data",
+        requests_timeout=20,
+        rate_limit_per_min=10,
+        default_days=2,
+        results_limit=50,
+    )
     ensure_dirs(s)
     return s
 
 
-def test_write_and_sync(tmp_path: Path):
+def test_write_and_sync(tmp_path: Path) -> None:
     s = make_settings(tmp_path)
     jobs = [
-        Job(job_id="1", title="A", organization="Org", locations=["Here"], description="", url="https://example.com/1", posted_at="2024-01-01"),
-        Job(job_id="2", title="B", organization="Org", locations=["There"], description="", url="https://example.com/2", posted_at="2024-01-02"),
+        Job(
+            job_id="1",
+            title="A",
+            organization="Org",
+            locations=["Here"],
+            description="",
+            url=cast(HttpUrl, "https://example.com/1"),
+            posted_at=date(2024, 1, 1),
+        ),
+        Job(
+            job_id="2",
+            title="B",
+            organization="Org",
+            locations=["There"],
+            description="",
+            url=cast(HttpUrl, "https://example.com/2"),
+            posted_at=date(2024, 1, 2),
+        ),
     ]
     lp = write_latest(s, "ai", jobs)
     assert lp.exists()

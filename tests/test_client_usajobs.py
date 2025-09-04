@@ -1,16 +1,20 @@
 from __future__ import annotations
 
+from typing import Any
+
 from ai_cyberjobs.pipeline.normalize import map_usajobs_item
 
 
-def test_map_usajobs_item_minimal():
-    sample = {
+def test_map_usajobs_item_minimal() -> None:
+    sample: dict[str, Any] = {
         "MatchedObjectId": "12345",
         "MatchedObjectDescriptor": {
             "PositionTitle": "AI Researcher",
             "OrganizationName": "Test Agency",
             "PositionLocation": [{"LocationName": "Remote"}],
-            "UserArea": {"Details": {"JobSummary": "<p>Lead AI research on mission-critical systems.</p>"}},
+            "UserArea": {
+                "Details": {"JobSummary": "<p>Lead AI research on mission-critical systems.</p>"}
+            },
             "ApplyURI": ["https://example.com/apply"],
             "PublicationStartDate": "2024-01-01T00:00:00Z",
         },
@@ -21,6 +25,5 @@ def test_map_usajobs_item_minimal():
     assert job.title == "AI Researcher"
     assert job.organization == "Test Agency"
     assert job.locations == ["Remote"]
-    assert job.url == "https://example.com/apply"
+    assert str(job.url) == "https://example.com/apply"
     assert "Lead AI research" in job.description
-

@@ -76,20 +76,20 @@ jobs:
           # If meta files exist, extract computed subjects with counts
           if [ -f out/emails/ai.meta.json ]; then
             AI_SUBJ=$(python - <<'PY'
-import json
-print(json.load(open('out/emails/ai.meta.json'))['subject'])
-PY
-)
-            echo "AI_SUBJECT=$AI_SUBJ" >> $GITHUB_ENV
-          fi
-          if [ -f out/emails/cyber.meta.json ]; then
-            CY_SUBJ=$(python - <<'PY'
-import json
-print(json.load(open('out/emails/cyber.meta.json'))['subject'])
-PY
-)
-            echo "CYBER_SUBJECT=$CY_SUBJ" >> $GITHUB_ENV
-          fi
+                import json
+                print(json.load(open('out/emails/ai.meta.json'))['subject'])
+                PY
+                )
+                            echo "AI_SUBJECT=$AI_SUBJ" >> $GITHUB_ENV
+                        fi
+                        if [ -f out/emails/cyber.meta.json ]; then
+                            CY_SUBJ=$(python - <<'PY'
+                import json
+                print(json.load(open('out/emails/cyber.meta.json'))['subject'])
+                PY
+                )
+                            echo "CYBER_SUBJECT=$CY_SUBJ" >> $GITHUB_ENV
+                        fi
 
       # === Email via SMTP action (works with Office365 or Gmail via secrets) ===
       - name: Send AI email

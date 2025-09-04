@@ -1,8 +1,9 @@
 from __future__ import annotations
 
 import time
+from collections.abc import Iterator
 from dataclasses import dataclass
-from typing import Iterator, Optional
+from typing import Any, cast
 
 import requests
 from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
@@ -81,18 +82,20 @@ class USAJobsClient:
         stop=stop_after_attempt(5),
         reraise=True,
     )
-    def _search_page(self, *, keyword: str, days: int, page: int, size: int) -> dict:
+    def _search_page(self, *, keyword: str, days: int, page: int, size: int) -> dict[str, Any]:
         self._throttle.sleep_if_needed()
-        params = {
+        params: dict[str, str] = {
             "Keyword": keyword,
             # DatePosted: 1 (24h), 3, 7, 30 etc. Using days ceiling mapping.
-            "DatePosted": normalize_days(days),
-            "ResultsPerPage": size,
-            "Page": page,
+            "DatePosted": str(normalize_days(days)),
+            "ResultsPerPage": str(size),
+            "Page": str(page),
         }
-        resp = self.session.get(self.BASE_URL, params=params, timeout=self.settings.requests_timeout)
+        resp = self.session.get(
+            self.BASE_URL, params=params, timeout=self.settings.requests_timeout
+        )
         resp.raise_for_status()
-        return resp.json()
+        return cast(dict[str, Any], resp.json())
 
 
 def build_keyword_query(keywords: list[str]) -> str:
@@ -114,4 +117,3 @@ def normalize_days(days: int) -> int:
     if days <= 7:
         return 7
     return 30
-

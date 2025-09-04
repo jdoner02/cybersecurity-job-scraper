@@ -2,12 +2,12 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Optional
 
 import typer
 
-from .config import Settings, ensure_dirs
+from .config import Category, Settings, ensure_dirs
 from .models import Job
+from .notify.format import make_subject, render_email_bodies
 from .pipeline.dedupe import compute_new_jobs, save_known_ids
 from .pipeline.fetch import fetch_category
 from .pipeline.store import (
@@ -16,8 +16,6 @@ from .pipeline.store import (
     write_latest,
     write_new_jobs,
 )
-from .notify.format import make_subject, render_email_bodies
-
 
 app = typer.Typer(add_completion=False, help="AI & Cybersecurity USAJOBS scraper")
 
@@ -28,24 +26,26 @@ def scrape(
     days: int = typer.Option(None, help="Lookback days window"),
     limit: int = typer.Option(None, help="Max results to fetch per category"),
     dry_run: bool = typer.Option(False, help="Do not write outputs/state"),
-):
+) -> None:
     """Fetch jobs for a category and update data/state/history.
 
     If dry-run, prints a summary and writes nothing.
     """
-    settings = Settings()
+    settings = Settings()  # type: ignore[call-arg]
     ensure_dirs(settings)
     days = days or settings.default_days
     limit = limit or settings.results_limit
 
-    cats = ["ai", "cyber"] if category == "both" else [category]
+    cats: list[Category] = ["ai", "cyber"] if category == "both" else [category]  # type: ignore[list-item]
     summary: dict[str, int] = {}
     for c in cats:
         jobs = fetch_category(settings, c, days=days, limit=limit)
         new_jobs, all_ids = compute_new_jobs(settings, c, jobs)
         summary[c] = len(new_jobs)
         if dry_run:
-            typer.secho(f"[dry-run] {c}: {len(jobs)} jobs, {len(new_jobs)} new", fg=typer.colors.YELLOW)
+            typer.secho(
+                f"[dry-run] {c}: {len(jobs)} jobs, {len(new_jobs)} new", fg=typer.colors.YELLOW
+            )
             continue
         if new_jobs:
             write_latest(settings, c, jobs)
@@ -65,12 +65,12 @@ def notify(
     category: str = typer.Option("both", help="ai|cyber|both"),
     output_dir: Path = typer.Option(Path("out/emails"), help="Where to write email files"),
     no_send: bool = typer.Option(True, help="Only prepare files; sending is done in CI"),
-):
+) -> None:
     """Generate HTML + text email bodies for new jobs.
 
     Writes out/emails/{ai,cyber}.{html,txt}. Skips when there are no new jobs.
     """
-    settings = Settings()
+    settings = Settings()  # type: ignore[call-arg]
     ensure_dirs(settings)
     cats = ["ai", "cyber"] if category == "both" else [category]
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -100,9 +100,9 @@ def notify(
 
 
 @app.command("build-site")
-def build_site():
+def build_site() -> None:
     """Copy latest JSONs into docs/data for GitHub Pages."""
-    settings = Settings()
+    settings = Settings()  # type: ignore[call-arg]
     ensure_dirs(settings)
     sync_docs_data(settings, "ai")
     sync_docs_data(settings, "cyber")
@@ -110,9 +110,9 @@ def build_site():
 
 
 @app.command()
-def validate():
+def validate() -> None:
     """Quick checks for expected files and configuration."""
-    settings = Settings()
+    settings = Settings()  # type: ignore[call-arg]
     ensure_dirs(settings)
     ok = True
     for p in [

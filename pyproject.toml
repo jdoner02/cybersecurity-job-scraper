@@ -42,7 +42,6 @@ ai-cyberjobs = "ai_cyberjobs.cli:app"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
-packages = ["find:"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
@@ -50,10 +49,12 @@ where = ["src"]
 [tool.ruff]
 line-length = 100
 target-version = "py311"
-select = ["E", "F", "I", "UP", "B", "C4", "T20", "Q", "PTH", "PL"]
-ignore = ["E203", "E266", "E501", "W503"]
 
-[tool.ruff.isort]
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "C4", "T20", "Q", "PTH", "PL"]
+ignore = ["E203", "E266", "E501", "B008", "PLR2004", "UP038"]
+
+[tool.ruff.lint.isort]
 combine-as-imports = true
 
 [tool.black]
@@ -82,4 +83,3 @@ testpaths = ["tests"]
 [tool.coverage.run]
 branch = true
 source = ["src/ai_cyberjobs"]
-

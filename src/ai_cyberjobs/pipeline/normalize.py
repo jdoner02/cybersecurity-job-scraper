@@ -3,7 +3,9 @@ from __future__ import annotations
 import html
 import re
 from datetime import datetime
-from typing import Any, Dict, List
+from typing import Any, cast
+
+from pydantic import HttpUrl
 
 from ..models import Job
 
@@ -22,17 +24,17 @@ def _trim(text: str, limit: int = 600) -> str:
     return cut + "…"
 
 
-def map_usajobs_item(item: Dict[str, Any]) -> Job:
+def map_usajobs_item(item: dict[str, Any]) -> Job:
     # USAJOBS v1 Search API fields as commonly observed.
     # NOTE: Verify against latest API docs before production use.
     job_id = str(item.get("MatchedObjectId") or item.get("id") or "")
     pos = item.get("MatchedObjectDescriptor", {})
     title = pos.get("PositionTitle") or pos.get("Title") or ""
     org = pos.get("OrganizationName") or pos.get("DepartmentName") or ""
-    locs: List[str] = [
-        l.get("LocationName", "") for l in (pos.get("PositionLocation", []) or [])
+    locs: list[str] = [
+        loc.get("LocationName", "") for loc in (pos.get("PositionLocation", []) or [])
     ]
-    url = (
+    url_str = str(
         pos.get("ApplyURI", [None])[0]
         or pos.get("PositionURI")
         or pos.get("ApplyURL")
@@ -62,12 +64,11 @@ def map_usajobs_item(item: Dict[str, Any]) -> Job:
         job_id=job_id,
         title=title,
         organization=org,
-        locations=[l for l in locs if l] or ["Various"],
+        locations=[loc for loc in locs if loc] or ["Various"],
         description=desc,
-        url=url,
+        url=cast(HttpUrl, url_str),
         posted_at=posted_at,
         salary=salary,
         grade=grade,
         remote=None,
     )
-
