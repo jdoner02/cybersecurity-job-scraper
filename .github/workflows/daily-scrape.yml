@@ -7,9 +7,11 @@ on:
   push:
     branches:
       - revamp/ai-cyber-scraper
+      - main
 
 permissions:
   contents: write
+  discussions: write
 
 jobs:
   run:
@@ -72,7 +74,7 @@ jobs:
         run: python -m ai_cyberjobs.cli send-detailed-discord
 
       - name: Send summary notifications
-        if: steps.changes.outputs.changed == 'true'
+        if: steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
@@ -80,6 +82,15 @@ jobs:
           DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
           DISCUSSION_CATEGORY_ID: ${{ secrets.DISCUSSION_CATEGORY_ID }}
         run: python -m ai_cyberjobs.cli send-notifications --site-url auto
+
+      - name: Post detailed Discussion (full listings)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCUSSION_CATEGORY_ID: ${{ secrets.DISCUSSION_CATEGORY_ID }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          echo "Posting detailed discussion with category $DISCUSSION_CATEGORY_ID"
+          python -m ai_cyberjobs.cli post-discussion-detailed --max-jobs-per-category 10 --site-url auto
 
       # === Optional: Keep SMTP email (can be removed if not needed) ===
       - name: Render email bodies (no send)
