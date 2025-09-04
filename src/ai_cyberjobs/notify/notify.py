@@ -12,7 +12,13 @@ from datetime import datetime
 from ..config import Settings
 from .discord import notify_job_update_discord
 from .discord_bot import notify_job_update_discord_bot
-from .discussions import create_discussion_post, format_job_update_discussion
+from .discussions import (
+    create_discussion_post,
+    format_job_update_discussion,
+    discussion_already_posted,
+    discussion_for_date_exists,
+    mark_discussion_posted,
+)
 
 
 def notify_job_update(
@@ -64,17 +70,23 @@ def notify_job_update(
         # Allow configuration via env DISCUSSION_CATEGORY_ID if not provided
         discussion_category_id = discussion_category_id or settings.discussion_category_id
         if discussion_category_id:
-            title, body = format_job_update_discussion(ai_count, cyber_count, site_url, date)
-            discussion = create_discussion_post(
-                owner=owner,
-                repo=repo,
-                title=title,
-                body=body,
-                category_id=discussion_category_id,
-            )
-            results["discussion"] = discussion is not None
-            if discussion:
-                print(f"Created discussion: {discussion['url']}")
+            # Guard: only one standard daily discussion per day
+            if discussion_already_posted(date) or discussion_for_date_exists(owner, repo, date):
+                print("Daily discussion already exists; skipping creation.")
+                results["discussion"] = True  # treat as success (idempotent)
+            else:
+                title, body = format_job_update_discussion(ai_count, cyber_count, site_url, date)
+                discussion = create_discussion_post(
+                    owner=owner,
+                    repo=repo,
+                    title=title,
+                    body=body,
+                    category_id=discussion_category_id,
+                )
+                results["discussion"] = discussion is not None
+                if discussion:
+                    print(f"Created discussion: {discussion['url']}")
+                    mark_discussion_posted(date)
         else:
             print("No Discussion category ID configured; skipping Discussions notification")
     except Exception as e:

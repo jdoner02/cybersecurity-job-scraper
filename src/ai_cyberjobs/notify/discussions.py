@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import os
 from datetime import datetime
-from typing import Any
+from typing import Any, Optional
 
 import requests
 from pathlib import Path
@@ -40,6 +40,52 @@ def mark_discussion_posted(today: datetime | None = None) -> None:
     if date_str not in existing:
         existing.add(date_str)
         p.write_text("\n".join(sorted(existing)), encoding="utf-8")
+
+
+def discussion_for_date_exists(
+    owner: str,
+    repo: str,
+    date: datetime | None = None,
+    token: str | None = None,
+    per_page: int = 30,
+) -> bool:
+    """Check remotely (GitHub API) if a daily discussion already exists for the date.
+
+    This provides a stronger single-post-per-day guarantee than the local state file,
+    which is ephemeral in CI unless explicitly committed. We look for any discussion
+    whose title starts with "Daily Job Update" and contains the date string (e.g.
+    "September 04, 2025").
+    """
+    date = date or datetime.utcnow()
+    date_str = date.strftime("%B %d, %Y")
+    token = token or os.getenv("GITHUB_TOKEN")
+    if not token:
+        # Without a token we cannot list; fall back to local file check only.
+        return False
+    try:
+        resp = requests.get(
+            f"https://api.github.com/repos/{owner}/{repo}/discussions",
+            params={"per_page": per_page},
+            headers={
+                "Authorization": f"token {token}",
+                "Accept": "application/vnd.github+json",
+            },
+            timeout=15,
+        )
+        if resp.status_code != 200:
+            print(
+                f"Could not list discussions (status {resp.status_code}); proceeding without remote guard"
+            )
+            return False
+        for item in resp.json():
+            title: Optional[str] = item.get("title")
+            if not title:
+                continue
+            if title.startswith("Daily Job Update") and date_str in title:
+                return True
+    except Exception as e:  # pragma: no cover - network errors
+        print(f"Remote duplicate check failed: {e}")
+    return False
 
 
 def create_discussion_post(

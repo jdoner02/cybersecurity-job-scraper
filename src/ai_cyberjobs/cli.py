@@ -15,6 +15,7 @@ from .notify.discussions import (
     format_job_update_discussion_detailed,
     create_discussion_post,
     discussion_already_posted,
+    discussion_for_date_exists,
     mark_discussion_posted,
 )
 from .pipeline.dedupe import compute_new_jobs, save_known_ids
@@ -185,9 +186,20 @@ def post_discussion_detailed(
     settings = Settings()  # type: ignore[call-arg]
     ensure_dirs(settings)
 
-    # Skip if already posted today
-    if discussion_already_posted():
-        typer.secho("Discussion already posted today; skipping.", fg=typer.colors.YELLOW)
+    # Skip if already posted today (local marker or remote API check)
+    from datetime import datetime
+
+    today = datetime.utcnow()
+    repo_env = os.getenv("GITHUB_REPOSITORY")
+    owner = ""
+    repo = ""
+    if repo_env and "/" in repo_env:
+        owner, repo = repo_env.split("/", 1)
+    else:
+        owner, repo = "jdoner02", "cybersecurity-job-scraper"
+
+    if discussion_already_posted(today) or discussion_for_date_exists(owner, repo, today):
+        typer.secho("Daily discussion already exists (guard); skipping.", fg=typer.colors.YELLOW)
         return
 
     # Load NEW jobs (not all jobs) from today's scrape
