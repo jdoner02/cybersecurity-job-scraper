@@ -81,10 +81,15 @@ def notify(
         jobs = [Job(**j) for j in jobs_data]
         if not jobs:
             continue
+        count = len(jobs)
+        subject = make_subject(c, count)
         html, text = render_email_bodies(c, jobs)
         (output_dir / f"{c}.html").write_text(html, encoding="utf-8")
         (output_dir / f"{c}.txt").write_text(text, encoding="utf-8")
-        typer.echo(make_subject(c, len(jobs)))
+        # Write a small meta file with subject + count for CI to consume
+        meta = {"category": c, "count": count, "subject": subject}
+        (output_dir / f"{c}.meta.json").write_text(json.dumps(meta), encoding="utf-8")
+        typer.echo(subject)
         any_output = True
 
     if not any_output:
@@ -124,4 +129,3 @@ def validate():
 
 if __name__ == "__main__":
     app()
-

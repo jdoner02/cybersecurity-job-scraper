@@ -20,8 +20,8 @@ def make_settings(tmp_path: Path) -> Settings:
 def test_write_and_sync(tmp_path: Path):
     s = make_settings(tmp_path)
     jobs = [
-        Job(job_id="1", title="A", organization="Org", locations=["Here"], description="", url="https://x", posted_at="2024-01-01"),
-        Job(job_id="2", title="B", organization="Org", locations=["There"], description="", url="https://x", posted_at="2024-01-02"),
+        Job(job_id="1", title="A", organization="Org", locations=["Here"], description="", url="https://example.com/1", posted_at="2024-01-01"),
+        Job(job_id="2", title="B", organization="Org", locations=["There"], description="", url="https://example.com/2", posted_at="2024-01-02"),
     ]
     lp = write_latest(s, "ai", jobs)
     assert lp.exists()
@@ -33,4 +33,3 @@ def test_write_and_sync(tmp_path: Path):
     assert dp.exists()
     docs = json.loads(dp.read_text())
     assert len(docs) == 2
-

@@ -20,6 +20,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: 'pip'
+          cache-dependency-path: 'pyproject.toml'
 
       - name: Install
         run: |
@@ -65,6 +67,30 @@ jobs:
           python -m ai_cyberjobs.cli notify --category both --no-send --output-dir out/emails
           ls -la out/emails || true
 
+      - name: Set email subjects
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          # Defaults without counts
+          echo "AI_SUBJECT=New AI Jobs – USAJOBS" >> $GITHUB_ENV
+          echo "CYBER_SUBJECT=New Cybersecurity Jobs – USAJOBS" >> $GITHUB_ENV
+          # If meta files exist, extract computed subjects with counts
+          if [ -f out/emails/ai.meta.json ]; then
+            AI_SUBJ=$(python - <<'PY'
+import json
+print(json.load(open('out/emails/ai.meta.json'))['subject'])
+PY
+)
+            echo "AI_SUBJECT=$AI_SUBJ" >> $GITHUB_ENV
+          fi
+          if [ -f out/emails/cyber.meta.json ]; then
+            CY_SUBJ=$(python - <<'PY'
+import json
+print(json.load(open('out/emails/cyber.meta.json'))['subject'])
+PY
+)
+            echo "CYBER_SUBJECT=$CY_SUBJ" >> $GITHUB_ENV
+          fi
+
       # === Email via SMTP action (works with Office365 or Gmail via secrets) ===
       - name: Send AI email
         if: hashFiles('out/emails/ai.html') != ''
@@ -74,7 +100,7 @@ jobs:
           server_port: ${{ secrets.SMTP_PORT }}
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
-          subject: New AI Jobs – USAJOBS
+          subject: ${{ env.AI_SUBJECT }}
           to: jdoner@ewu.edu, ssteiner@ewu.edu
           from: ${{ secrets.EMAIL_FROM }}
           html_body: file://out/emails/ai.html
@@ -88,7 +114,7 @@ jobs:
           server_port: ${{ secrets.SMTP_PORT }}
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
-          subject: New Cybersecurity Jobs – USAJOBS
+          subject: ${{ env.CYBER_SUBJECT }}
           to: jdoner@ewu.edu, ssteiner@ewu.edu
           from: ${{ secrets.EMAIL_FROM }}
           html_body: file://out/emails/cyber.html
