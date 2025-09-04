@@ -48,8 +48,9 @@ def scrape(
             typer.secho(f"[dry-run] {c}: {len(jobs)} jobs, {len(new_jobs)} new", fg=typer.colors.YELLOW)
             continue
         write_latest(settings, c, jobs)
-        write_history_snapshot(settings, c, jobs)
-        write_new_jobs(settings, c, new_jobs)
+        if new_jobs:
+            write_history_snapshot(settings, c, jobs)
+            write_new_jobs(settings, c, new_jobs)
         save_known_ids(settings, c, all_ids)
         sync_docs_data(settings, c)
         typer.echo(f"{c}: {len(jobs)} jobs, {len(new_jobs)} new")

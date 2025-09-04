@@ -31,10 +31,11 @@ Configuration
   - `REQUESTS_TIMEOUT` (default 20), `RATE_LIMIT_PER_MIN` (default 10)
   - `DEFAULT_DAYS` (default 2), `RESULTS_LIMIT` (default 50)
 
-Automation (GitHub Actions)
+ Automation (GitHub Actions)
 - Workflow: `.github/workflows/daily-scrape.yml`
 - Triggers: daily cron (UTC) and `workflow_dispatch`
 - Steps: checkout → setup python → install → `scrape` (AI, Cyber) → `build-site` → commit/push data changes → `notify` (generates email files) → send two emails via SMTP action (one per category) only if new jobs exist
+  - Email subjects include counts, e.g. "New AI Jobs (N) – USAJOBS" and "New Cybersecurity Jobs (N) – USAJOBS".
 - Required repository secrets for email delivery:
   - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, `EMAIL_FROM`
 - Permissions: `permissions: contents: write` to push data updates
