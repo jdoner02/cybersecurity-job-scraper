@@ -106,28 +106,45 @@ Architecture (ASCII)
                                                             v              v
                                                        [docs/data/*]     [notify -> out/emails/*]
 ## Data Flow
+# AI & Cybersecurity Job Feed
 
-Notes
-- Emails are sent by GitHub Actions using SMTP; Python only generates bodies
-- `send-notifications` auto‑derives the site URL from `GITHUB_REPOSITORY` (`https://<owner>.github.io/<repo>`). Override with `--site-url`.
-- Before production, verify USAJOBS API headers/params against latest official docs
-- No secrets are committed; use `.env` locally and CI secrets in GitHub
-- Keyword strategy: empirically the USAJOBS search can return fewer (even zero) results
-  when using long `term1 OR term2 OR term3` chains. Implementation now uses only the
-  primary phrase (e.g. "artificial intelligence") when many AI keywords are configured
-  to avoid over-filtering. With ≤4 terms it space-joins them for a broad match.
-## Notes
-- SMTP send done in CI; local run only renders artifacts
-- Site URL auto-derived; override with `--site-url`
-- No committed secrets; use `.env` + repo secrets
-- USAJOBS query simplified to avoid over-filter narrowing (broad match heuristics)
-## 📄 License
-## Contributing
-PRs welcome for: better filtering, additional export formats, alert channels, or pipeline robustness.
+**Live Board:** https://jdoner02.github.io/cybersecurity-job-scraper/  
+**Subscribe (email via GitHub Discussions):** https://github.com/jdoner02/cybersecurity-job-scraper/discussions
+
+## What This Is
+Daily, automated collection of new U.S. federal job postings related to Artificial Intelligence and Cybersecurity (sourced from USAJOBS). Results are published to a simple, fast, mobile‑friendly site and an optional daily Discussion post you can follow for email updates.
+
+## Who It’s For
+Students exploring internships or early career roles.  
+Faculty/advisors wanting a single, dependable link to share with cohorts.  
+Anyone tracking federal AI & Cyber opportunities without manually searching.
+
+## What You Get
+- Fresh AI & Cyber job listings (titles, agencies, locations, links) updated each morning.
+- One Discussion post per day (only if new jobs appeared) you can subscribe to for email notifications.
+- Lightweight historical archive (trend potential; not emphasized here).
+
+## How to Subscribe (Email)
+1. Open the Discussions link above.
+2. Click “Watch” → “Custom” → enable “Discussions”.
+3. You’ll receive an email when the daily post appears (only on days with new jobs).
+
+## Data & Schedule
+- Source: USAJOBS public API (official federal listings).
+- Update cadence: daily automated workflow (UTC morning).
+- Filtering: focused keyword sets for AI and Cyber; tuned to avoid empty results while staying relevant.
+- Privacy: no personal data stored—just public job metadata.
+
+## Reliability Notes
+- If USAJOBS is slow or rate limited, the run retries gracefully.
+- A day with no new postings = no email (reduced inbox noise).
+
+## Want to Contribute?
+Minor improvements (keyword tuning, formatting, accessibility) are welcome. Open an Issue or small PR.
 
 ## License
-MIT
+MIT. Use freely for educational and advising purposes.
 
 ---
-Happy job hunting! 🔍
+Helping students and faculty track federal AI & Cyber opportunities—concise and reliable.
 
