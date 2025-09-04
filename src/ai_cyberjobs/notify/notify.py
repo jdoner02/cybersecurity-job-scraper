@@ -9,6 +9,7 @@ from __future__ import annotations
 import os
 from datetime import datetime
 
+from ..config import Settings
 from .discord import notify_job_update_discord
 from .discord_bot import notify_job_update_discord_bot
 from .discussions import create_discussion_post, format_job_update_discussion
@@ -20,6 +21,7 @@ def notify_job_update(
     site_url: str | None = None,
     discussion_category_id: str | None = None,
     date: datetime | None = None,
+    settings: Settings | None = None,
 ) -> dict[str, bool]:
     """Send job update notifications via multiple channels.
 
@@ -29,10 +31,14 @@ def notify_job_update(
         site_url: URL to job board (auto-derives from repo if not provided)
         discussion_category_id: GitHub Discussion category ID (if configured)
         date: Update date (defaults to now)
+        settings: Settings object with Discord/notification configuration
 
     Returns:
         Dict with success status for each notification type
     """
+    if settings is None:
+        settings = Settings()
+
     results = {}
 
     # Derive owner/repo and site URL from environment where possible
@@ -56,7 +62,7 @@ def notify_job_update(
     # GitHub Discussion
     try:
         # Allow configuration via env DISCUSSION_CATEGORY_ID if not provided
-        discussion_category_id = discussion_category_id or os.getenv("DISCUSSION_CATEGORY_ID")
+        discussion_category_id = discussion_category_id or settings.discussion_category_id
         if discussion_category_id:
             title, body = format_job_update_discussion(ai_count, cyber_count, site_url, date)
             discussion = create_discussion_post(
@@ -77,7 +83,9 @@ def notify_job_update(
 
     # Discord (Webhook)
     try:
-        webhook_success = notify_job_update_discord(ai_count, cyber_count, site_url, date=date)
+        webhook_success = notify_job_update_discord(
+            ai_count, cyber_count, site_url, webhook_url=settings.discord_webhook_url, date=date
+        )
         if webhook_success:
             print("Discord (webhook) notification sent successfully")
         results["discord_webhook"] = webhook_success
@@ -87,7 +95,14 @@ def notify_job_update(
 
     # Discord (Bot token + channel)
     try:
-        bot_success = notify_job_update_discord_bot(ai_count, cyber_count, site_url, date=date)
+        bot_success = notify_job_update_discord_bot(
+            ai_count,
+            cyber_count,
+            site_url,
+            token=settings.discord_bot_token,
+            channel_id=settings.discord_channel_id,
+            date=date,
+        )
         if bot_success:
             print("Discord (bot) notification sent successfully")
         results["discord_bot"] = bot_success

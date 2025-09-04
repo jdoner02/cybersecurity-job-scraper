@@ -9,6 +9,7 @@ from .config import Category, Settings, ensure_dirs
 from .models import Job
 from .notify.format import make_subject, render_email_bodies
 from .notify.notify import notify_job_update
+from .notify.discord_detailed import send_detailed_discord_notifications
 from .pipeline.dedupe import compute_new_jobs, save_known_ids
 from .pipeline.fetch import fetch_category
 from .pipeline.store import (
@@ -142,6 +143,7 @@ def send_notifications(
         cyber_count=cyber_count,
         site_url=site_url,
         discussion_category_id=discussion_category,
+        settings=settings,
     )
 
     success_count = sum(results.values())
@@ -154,6 +156,37 @@ def send_notifications(
         for channel, success in results.items():
             status = "✅" if success else "❌"
             typer.echo(f"  {status} {channel}")
+
+
+@app.command("send-detailed-discord")
+def send_detailed_discord(
+    max_jobs_per_category: int = typer.Option(
+        10,
+        help="Maximum number of jobs to post per category (AI/Cyber)"
+    ),
+) -> None:
+    """Send detailed Discord notifications with individual job postings.
+    
+    This command posts individual job details to Discord, tracking which jobs
+    have been posted before to avoid duplicates. Shows job titles, descriptions,
+    organizations, locations, salaries, and apply links.
+    """
+    settings = Settings()  # type: ignore[call-arg]
+    
+    typer.echo("Sending detailed Discord job notifications...")
+    
+    results = send_detailed_discord_notifications(settings)
+    
+    success_count = sum(results.values())
+    total_count = len(results)
+    
+    if success_count == total_count:
+        typer.secho(f"✅ Detailed notifications sent successfully for all {total_count} categories", fg=typer.colors.GREEN)
+    else:
+        typer.secho(f"⚠️  {success_count}/{total_count} categories sent successfully", fg=typer.colors.YELLOW)
+        for category, success in results.items():
+            status = "✅" if success else "❌"
+            typer.echo(f"  {status} {category.upper()} jobs")
 
 
 @app.command("build-site")

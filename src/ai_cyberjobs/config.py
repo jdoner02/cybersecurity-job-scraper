@@ -31,6 +31,12 @@ class Settings(BaseSettings):
     default_days: int = Field(30, alias="DEFAULT_DAYS")
     results_limit: int = Field(100, alias="RESULTS_LIMIT")
 
+    # Discord/Notification settings (optional)
+    discord_webhook_url: str = Field(default="", alias="DISCORD_WEBHOOK_URL")
+    discord_bot_token: str = Field(default="", alias="DISCORD_BOT_TOKEN")
+    discord_channel_id: str = Field(default="", alias="DISCORD_CHANNEL_ID")
+    discussion_category_id: str = Field(default="", alias="DISCUSSION_CATEGORY_ID")
+
     # Paths
     repo_root: Path = Root
     data_dir: Path = Root / "data"

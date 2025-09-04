@@ -2,7 +2,7 @@ name: daily-scrape
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # 12:00 UTC daily
+    - cron: "0 8 * * *"  # 8:00 AM UTC daily (adjust timezone as needed)
   workflow_dispatch:
   push:
     branches:
@@ -64,7 +64,14 @@ jobs:
           git commit -m "chore(data): update job feeds $(date -u +'%Y-%m-%d')"
           git push
 
-      - name: Send notifications
+      - name: Send detailed Discord notifications
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+        run: python -m ai_cyberjobs.cli send-detailed-discord
+
+      - name: Send summary notifications
         if: steps.changes.outputs.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
