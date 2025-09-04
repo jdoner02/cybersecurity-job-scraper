@@ -1,0 +1,124 @@
+name: daily-scrape
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # 12:00 UTC daily
+  workflow_dispatch:
+  push:
+    branches:
+      - revamp/ai-cyber-scraper
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: 'pip'
+          cache-dependency-path: 'pyproject.toml'
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: Scrape AI
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+        run: python -m ai_cyberjobs.cli scrape --category ai
+
+      - name: Scrape Cyber
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+        run: python -m ai_cyberjobs.cli scrape --category cyber
+
+      - name: Build site data
+        run: python -m ai_cyberjobs.cli build-site
+
+      - name: Detect changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit & push data/site updates
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): update job feeds $(date -u +'%Y-%m-%d')"
+          git push
+
+      - name: Render email bodies (no send)
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          python -m ai_cyberjobs.cli notify --category both --no-send --output-dir out/emails
+          ls -la out/emails || true
+
+      - name: Set email subjects
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          # Defaults without counts
+          echo "AI_SUBJECT=New AI Jobs – USAJOBS" >> $GITHUB_ENV
+          echo "CYBER_SUBJECT=New Cybersecurity Jobs – USAJOBS" >> $GITHUB_ENV
+          # If meta files exist, extract computed subjects with counts
+          if [ -f out/emails/ai.meta.json ]; then
+            AI_SUBJ=$(python - <<'PY'
+                import json
+                print(json.load(open('out/emails/ai.meta.json'))['subject'])
+                PY
+                )
+                            echo "AI_SUBJECT=$AI_SUBJ" >> $GITHUB_ENV
+                        fi
+                        if [ -f out/emails/cyber.meta.json ]; then
+                            CY_SUBJ=$(python - <<'PY'
+                import json
+                print(json.load(open('out/emails/cyber.meta.json'))['subject'])
+                PY
+                )
+                            echo "CYBER_SUBJECT=$CY_SUBJ" >> $GITHUB_ENV
+                        fi
+
+      # === Email via SMTP action (works with Office365 or Gmail via secrets) ===
+      - name: Send AI email
+        if: hashFiles('out/emails/ai.html') != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: ${{ env.AI_SUBJECT }}
+          to: jdoner@ewu.edu, ssteiner@ewu.edu
+          from: ${{ secrets.EMAIL_FROM }}
+          html_body: file://out/emails/ai.html
+          ignore_cert: true
+
+      - name: Send Cyber email
+        if: hashFiles('out/emails/cyber.html') != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: ${{ env.CYBER_SUBJECT }}
+          to: jdoner@ewu.edu, ssteiner@ewu.edu
+          from: ${{ secrets.EMAIL_FROM }}
+          html_body: file://out/emails/cyber.html
+          ignore_cert: true

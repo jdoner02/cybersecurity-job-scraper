@@ -1,220 +1,104 @@
-# USAJobs Cybersecurity Job Scraper for NCAE Students
+# AI & Cybersecurity Jobs – USAJOBS
 
-A comprehensive job scraping system designed specifically for students in computer science, cybersecurity, and secure AI programs at NCAE (National Centers of Academic Excellence) designated schools.
+Daily scraper that fetches AI and Cybersecurity roles from USAJOBS, stores versioned data (JSON/CSV), publishes a small mobile-friendly site via GitHub Pages, and sends concise email digests through GitHub Actions.
 
-## 🎯 Purpose
+Features
+- Two categories: AI and Cybersecurity
+- Detects new postings and only emails when there are additions
+- Stores `data/latest/*.json|.csv` and daily snapshots under `data/history/*`
+- Static site under `docs/` with searchable, mobile-friendly pages
+- Automated daily run + manual dispatch via GitHub Actions
+- SOLID/OOP/DRY, typed models, tests, ruff/black/mypy, pre-commit
 
-This project automatically fetches and filters federal job postings from USAJobs.gov that are relevant for cybersecurity students, focusing on:
-- Entry-level and internship positions
-- Cybersecurity-related roles
-- Information Technology positions
-- Computer Science and AI/ML opportunities
-- Positions suitable for recent graduates
+Quickstart
+- Python 3.11+ (the package requires >=3.11; if your system python is older install 3.11 via pyenv or asdf)
+- `cp examples/.env.example .env` and fill in: `USAJOBS_EMAIL`, `USAJOBS_API_KEY`
+- `make install`
+- Dry run: `python -m ai_cyberjobs.cli scrape --category both --limit 5 --dry-run`
+- Build site data: `python -m ai_cyberjobs.cli build-site`
 
-## 🚀 Features
+Local usage
+- Scrape AI: `python -m ai_cyberjobs.cli scrape --category ai`
+- Scrape Cyber: `python -m ai_cyberjobs.cli scrape --category cyber`
+- Notify (generates files, does not send): `python -m ai_cyberjobs.cli notify --category both --no-send`
+- Validate structure: `python -m ai_cyberjobs.cli validate`
 
-- **Comprehensive Search**: Searches multiple keywords and occupational series codes
-- **Smart Filtering**: Identifies relevant positions for cybersecurity/CS students
-- **Entry-Level Focus**: Filters for positions suitable for new graduates
-- **Scheduled Execution**: Runs automatically to keep job listings current
-- **Data Persistence**: Maintains a database of all discovered positions
-- **Export Options**: Saves data in both JSON and CSV formats
-- **Agency Tracking**: Provides insights into which agencies have the most opportunities
+If credentials are not yet configured the scraper returns zero jobs instead of failing so you can still test the CLI & site pipeline.
 
-## 📁 Project Structure
+Configuration
+- Required env vars (via `.env` or CI secrets):
+  - `USAJOBS_EMAIL` – your registered email with USAJOBS for User-Agent
+  - `USAJOBS_API_KEY` – Authorization-Key header value
+- Optional:
+  - `REQUESTS_TIMEOUT` (default 20), `RATE_LIMIT_PER_MIN` (default 10)
+  - `DEFAULT_DAYS` (default 2), `RESULTS_LIMIT` (default 50)
 
+ Automation (GitHub Actions)
+- Workflow: `.github/workflows/daily-scrape.yml`
+- Triggers: daily cron (UTC) and `workflow_dispatch`
+- Steps: checkout → setup python → install → `scrape` (AI, Cyber) → `build-site` → commit/push data changes → `notify` (generates email files) → send two emails via SMTP action (one per category) only if new jobs exist
+  - Email subjects include counts, e.g. "New AI Jobs (N) – USAJOBS" and "New Cybersecurity Jobs (N) – USAJOBS".
+- Required repository secrets for email delivery:
+  - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, `EMAIL_FROM`
+- Permissions: `permissions: contents: write` to push data updates
+
+GitHub Pages
+- Configure Pages to serve from the `/docs` folder on the default branch
+- The scraper updates `docs/data/{ai,cyber}_jobs.json` each run
+
+Project structure
 ```
-cybersecurity-job-scraper/
-├── .env                        # API credentials (create this)
-├── .gitignore                  # Git ignore patterns
-├── README.md                   # Project documentation
-├── requirements.txt            # Python dependencies
-├── config.py                   # Configuration settings
-├── usajobs_client.py          # Core API client
-├── cybersecurity_scraper.py   # Main scraping logic
-├── scheduled_scraper.py       # Scheduled job management
-├── analyze_jobs.py            # Data analysis tools
-├── demo.py                    # Quick demo script
-└── job_data/                  # Data storage directory (auto-created)
-    ├── master_jobs_database.json
-    ├── active_cybersecurity_jobs.json
-    ├── active_cybersecurity_jobs.csv
-    ├── entry_level_cybersecurity_jobs.csv
-    ├── no_clearance_cybersecurity_jobs.csv
-    └── scraping_stats.json
-```
-
-## 🛠️ Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/jdoner02/cybersecurity-job-scraper.git
-   cd cybersecurity-job-scraper
-   ```
-
-2. **Set up Python virtual environment**:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # On macOS/Linux
-   # or
-   .venv\\Scripts\\activate  # On Windows
-   ```
-
-3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure API credentials**:
-   - Get your USAJobs API key from [developer.usajobs.gov](https://developer.usajobs.gov/)
-   - Create a `.env` file with your credentials:
-   ```
-   USAJOBS_API_KEY=your_api_key_here
-   USAJOBS_EMAIL=your_email@example.com
-   ```
-
-## 🚀 Quick Start
-
-Run the demo script to see the system in action:
-
-```bash
-python demo.py
+src/ai_cyberjobs/
+  client/ (USAJOBS client)
+  pipeline/ (fetch, normalize, dedupe, store)
+  notify/ (email formatting)
+  cli.py (Typer CLI)
+data/ (state, latest, history)
+docs/ (static site)
 ```
 
-This will:
-1. Test your API connection
-2. Fetch recent cybersecurity job postings
-3. Filter for relevant positions
-4. Generate a summary report
-5. Save data to the `job_data/` directory
-
-## 📊 Usage Examples
-
-### Run a One-Time Job Search
-```bash
-python scheduled_scraper.py once
+Architecture (ASCII)
+```
+[queries] -> [USAJobsClient] -> raw -> [normalize] -> Job -> [dedupe] -> new
+                                                            |            \
+                                                            v             v
+                                                         [store latest]  [write new_*]
+                                                            |             \
+                                                            v              v
+                                                       [docs/data/*]     [notify -> out/emails/*]
 ```
 
-### Start Scheduled Job Collection (runs every 6 hours)
-```bash
-python scheduled_scraper.py start
-```
+Notes
+- Emails are sent by GitHub Actions using SMTP; Python only generates bodies
+- Before production, verify USAJOBS API headers/params against latest official docs
+- No secrets are committed; use `.env` locally and CI secrets in GitHub
+- Keyword strategy: empirically the USAJOBS search can return fewer (even zero) results
+  when using long `term1 OR term2 OR term3` chains. Implementation now uses only the
+  primary phrase (e.g. "artificial intelligence") when many AI keywords are configured
+  to avoid over-filtering. With ≤4 terms it space-joins them for a broad match.
 
-### Analyze Collected Data
-```bash
-python analyze_jobs.py
-```
 
-### View Sample Output
-The system will create several files in the `job_data/` directory:
-- `active_cybersecurity_jobs.json` - All current job postings
-- `entry_level_cybersecurity_jobs.csv` - Filtered entry-level positions
-- `no_clearance_cybersecurity_jobs.csv` - Jobs not requiring security clearance
+## 📧 Support
 
-## 📈 Analysis Features
+For questions about:
+- **API Access**: Contact USAJobs developer support
+- **NCAE Programs**: Consult your school's cybersecurity department
+- **Federal Hiring**: Visit [help.usajobs.gov](https://help.usajobs.gov/)
 
-The analysis script provides:
-- Salary range analysis
-- Geographic distribution of opportunities
-- Agency-by-agency breakdown
-- Entry-level opportunity identification
-- Security clearance requirements
-- Most common keywords and skills
+## 📄 License
 
-## 🎓 For Students
-
-This tool is specifically designed for NCAE cybersecurity students to:
-1. **Discover Opportunities**: Find federal positions you might not know existed
-2. **Track Requirements**: Understand what skills are most in-demand
-3. **Plan Applications**: Focus on positions matching your background
-4. **Monitor Trends**: See how the job market evolves over time
-
-### Key Benefits for New Graduates:
-- Identifies positions that don't require security clearance
-- Filters for entry-level and trainee positions
-- Highlights internships and fellowship programs
-- Shows salary ranges to help with career planning
-
-## 🔧 Configuration
-
-Customize the search by editing `config.py`:
-- Add new search keywords
-- Modify occupational series codes
-- Adjust entry-level indicators
-- Change scheduling intervals
-
-## 📋 Data Output
-
-Each job posting includes:
-- Position title and department
-- Salary range and grade level
-- Location(s)
-- Application deadline
-- Qualifications summary
-- Security clearance requirements
-- Relevant keywords matched
-- Agency and organization details
+This project is provided as-is for educational and career development purposes for NCAE students and cybersecurity professionals.
 
 ## 🤝 Contributing
 
-This project is designed for educational use. Students are encouraged to:
-- Fork the repository
-- Add new filtering capabilities
-- Improve the analysis features
-- Submit pull requests with enhancements
-
-## ⚡ Performance Notes
-
-- Initial run may take 2-3 minutes to fetch all data
-- Subsequent runs are faster due to duplicate detection
-- API rate limiting is automatically handled
-- Data is cached locally to minimize API calls
-
-## 📋 Requirements
-
-- Python 3.7+
-- USAJobs.gov API key (free)
-- Internet connection
-- ~50MB disk space for data storage
-
-## 🔒 Privacy & Security
-
-- No personal data is collected
-- API credentials are stored locally only
-- All data comes from public USAJobs.gov listings
-- No tracking or analytics
-
-## 📚 Educational Context
-
-Developed as part of cybersecurity workforce development initiatives to help NCAE students:
-- Understand the federal hiring process
-- Identify career pathways in cybersecurity
-- Build skills in data analysis and automation
-- Connect academic learning with career opportunities
-
-## 🆘 Support
-
-For issues or questions:
-1. Check the troubleshooting section below
-2. Review the API documentation at developer.usajobs.gov
-3. Ensure your API credentials are correctly configured
-
-## 🐛 Troubleshooting
-
-**No jobs found?**
-- Verify your API key is valid
-- Check your internet connection
-- Ensure the email in .env matches your API registration
-
-**Analysis script errors?**
-- Run the scraper first to generate data
-- Check that job_data directory exists
-- Verify Python dependencies are installed
-
-**Permission errors?**
-- Ensure you have write permissions in the project directory
-- Check that .env file is readable
+To improve the scraper:
+1. Add new relevant keywords to the search criteria
+2. Enhance filtering logic for better job relevance
+3. Improve data export formats
+4. Add new scheduling options
 
 ---
 
-*This project is intended for educational use by cybersecurity students. Always follow your institution's guidelines for academic projects and respect API usage terms.*
+**Happy Job Hunting! 🔍💼**
+
+*This tool helps you stay ahead of federal cybersecurity opportunities - perfect for launching your career in government cybersecurity roles.*
