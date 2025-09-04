@@ -177,10 +177,10 @@ def post_discussion_detailed(
         help="Override Discussion category ID; otherwise uses DISCUSSION_CATEGORY_ID env/setting",
     ),
 ) -> None:
-    """Create a one-off detailed GitHub Discussion post listing current jobs.
+    """Create a detailed GitHub Discussion post listing NEW jobs found today.
 
-    Useful for initial seeding or manual testing. Does not rely on 'new jobs' logic;
-    it reads the current latest datasets and posts their contents.
+    Only posts when there are actual new jobs found during the current scrape run.
+    Uses the new_{category}_jobs.json files to determine if there are new jobs.
     """
     settings = Settings()  # type: ignore[call-arg]
     ensure_dirs(settings)
@@ -190,7 +190,29 @@ def post_discussion_detailed(
         typer.secho("Discussion already posted today; skipping.", fg=typer.colors.YELLOW)
         return
 
-    # Load current AI/Cyber jobs
+    # Load NEW jobs (not all jobs) from today's scrape
+    new_ai_file = settings.data_dir / "latest" / "new_ai_jobs.json"
+    new_cyber_file = settings.data_dir / "latest" / "new_cyber_jobs.json"
+    
+    # Check if we have any new jobs at all
+    new_ai_jobs = []
+    new_cyber_jobs = []
+    
+    if new_ai_file.exists():
+        new_ai_jobs = json.loads(new_ai_file.read_text(encoding="utf-8"))
+    if new_cyber_file.exists():
+        new_cyber_jobs = json.loads(new_cyber_file.read_text(encoding="utf-8"))
+    
+    total_new_jobs = len(new_ai_jobs) + len(new_cyber_jobs)
+    
+    if total_new_jobs == 0:
+        typer.secho("No new jobs found today; skipping discussion post.", fg=typer.colors.YELLOW)
+        return
+    
+    typer.secho(f"Found {len(new_ai_jobs)} new AI jobs and {len(new_cyber_jobs)} new cyber jobs", fg=typer.colors.GREEN)
+
+    # For discussion posting, we still use the full latest datasets (to show context)
+    # but we only post when there are new jobs
     ai_file = settings.data_dir / "latest" / "ai_jobs.json"
     cyber_file = settings.data_dir / "latest" / "cyber_jobs.json"
     if not ai_file.exists() or not cyber_file.exists():

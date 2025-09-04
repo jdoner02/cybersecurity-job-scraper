@@ -84,7 +84,6 @@ jobs:
         run: python -m ai_cyberjobs.cli send-notifications --site-url auto
 
       - name: Post detailed Discussion (full listings)
-        if: steps.changes.outputs.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCUSSION_CATEGORY_ID: ${{ secrets.DISCUSSION_CATEGORY_ID }}

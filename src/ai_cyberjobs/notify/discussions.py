@@ -9,8 +9,10 @@ from typing import Any
 import requests
 from pathlib import Path
 
+
 def _discussion_state_path() -> Path:
     return Path("data/state/discussion_posted.json")
+
 
 def discussion_already_posted(today: datetime | None = None) -> bool:
     today = today or datetime.utcnow()
@@ -22,6 +24,7 @@ def discussion_already_posted(today: datetime | None = None) -> bool:
         return today.strftime("%Y-%m-%d") in data
     except Exception:
         return False
+
 
 def mark_discussion_posted(today: datetime | None = None) -> None:
     today = today or datetime.utcnow()
@@ -99,9 +102,7 @@ def create_discussion_post(
             "url": rj.get("html_url"),
         }
     else:
-        print(
-            f"REST create discussion failed: {rest_resp.status_code} - {rest_resp.text[:200]}"
-        )
+        print(f"REST create discussion failed: {rest_resp.status_code} - {rest_resp.text[:200]}")
 
     # If REST failed (e.g., missing scope), attempt GraphQL fallback
     mutation = """
@@ -174,7 +175,7 @@ def create_discussion_post(
         print(f"GraphQL errors: {create_data['errors']}")
         print(
             "Hint: Ensure your token has 'Discussions write' permission (classic PAT: repo/public_repo) "
-            "or a fine-grained token with Discussions: Read & Write." 
+            "or a fine-grained token with Discussions: Read & Write."
         )
         return None
     return create_data["data"]["createDiscussion"]["discussion"]
@@ -290,17 +291,17 @@ def get_discussion_subscription_info(
     token: str | None = None,
 ) -> dict[str, Any]:
     """Get information about subscribing to discussions for email notifications.
-    
+
     Args:
         owner: Repository owner
         repo: Repository name
         token: GitHub token (uses GITHUB_TOKEN env if not provided)
-    
+
     Returns:
         Dict with subscription info and URLs
     """
     base_url = f"https://github.com/{owner}/{repo}"
-    
+
     return {
         "repository_url": base_url,
         "discussions_url": f"{base_url}/discussions",
@@ -309,6 +310,6 @@ def get_discussion_subscription_info(
             "Visit the repository and click 'Watch' to enable notifications",
             "Go to GitHub Settings > Notifications to configure email preferences",
             "Subscribe to 'Discussions' to get emails for job updates",
-            "You'll receive emails when new job discussion posts are created"
-        ]
+            "You'll receive emails when new job discussion posts are created",
+        ],
     }
