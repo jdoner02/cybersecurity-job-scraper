@@ -1,0 +1,95 @@
+name: daily-scrape
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # 12:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: Scrape AI
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+        run: python -m ai_cyberjobs.cli scrape --category ai
+
+      - name: Scrape Cyber
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+        run: python -m ai_cyberjobs.cli scrape --category cyber
+
+      - name: Build site data
+        run: python -m ai_cyberjobs.cli build-site
+
+      - name: Detect changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit & push data/site updates
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): update job feeds $(date -u +'%Y-%m-%d')"
+          git push
+
+      - name: Render email bodies (no send)
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          python -m ai_cyberjobs.cli notify --category both --no-send --output-dir out/emails
+          ls -la out/emails || true
+
+      # === Email via SMTP action (works with Office365 or Gmail via secrets) ===
+      - name: Send AI email
+        if: hashFiles('out/emails/ai.html') != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: New AI Jobs – USAJOBS
+          to: jdoner@ewu.edu, ssteiner@ewu.edu
+          from: ${{ secrets.EMAIL_FROM }}
+          html_body: file://out/emails/ai.html
+          ignore_cert: true
+
+      - name: Send Cyber email
+        if: hashFiles('out/emails/cyber.html') != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: New Cybersecurity Jobs – USAJOBS
+          to: jdoner@ewu.edu, ssteiner@ewu.edu
+          from: ${{ secrets.EMAIL_FROM }}
+          html_body: file://out/emails/cyber.html
+          ignore_cert: true
