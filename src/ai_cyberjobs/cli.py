@@ -103,10 +103,18 @@ def notify(
 @app.command("send-notifications")
 def send_notifications(
     site_url: str = typer.Option(
-        "https://jdoner02.github.io/cybersecurity-job-scraper", help="Job board URL"
+        "auto",
+        help=(
+            "Job board URL. Use 'auto' to derive as https://<owner>.github.io/<repo> "
+            "from GITHUB_REPOSITORY or GITHUB_OWNER/GITHUB_REPO envs."
+        ),
     ),
     discussion_category: str = typer.Option(
-        "DIC_kwDONJKdhM4CjCr7", help="GitHub Discussion category ID"
+        "",
+        help=(
+            "GitHub Discussion category ID (optional). If omitted, uses env "
+            "DISCUSSION_CATEGORY_ID. Leave empty to skip Discussions."
+        ),
     ),
 ) -> None:
     """Send notifications via GitHub Discussions and Discord for current job counts."""

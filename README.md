@@ -1,6 +1,6 @@
 # AI & Cybersecurity Jobs – USAJOBS
 
-Daily scraper that fetches AI and Cybersecurity roles from USAJOBS, stores versioned data (JSON/CSV), publishes a small mobile-friendly site via GitHub Pages, and sends concise email digests through GitHub Actions.
+Daily scraper that fetches AI and Cybersecurity roles from USAJOBS, stores versioned data (JSON/CSV), publishes a small mobile-friendly site via GitHub Pages, and sends concise email digests through GitHub Actions. It can also notify a Discord channel (Webhook or Bot) and post to GitHub Discussions so subscribers get emails.
 
 Features
 - Two categories: AI and Cybersecurity
@@ -8,6 +8,8 @@ Features
 - Stores `data/latest/*.json|.csv` and daily snapshots under `data/history/*`
 - Static site under `docs/` with searchable, mobile-friendly pages
 - Automated daily run + manual dispatch via GitHub Actions
+- Discord notifications (Webhook and/or Bot)
+- Optional GitHub Discussions posts (email via subscriptions)
 - SOLID/OOP/DRY, typed models, tests, ruff/black/mypy, pre-commit
 
 Quickstart
@@ -21,6 +23,7 @@ Local usage
 - Scrape AI: `python -m ai_cyberjobs.cli scrape --category ai`
 - Scrape Cyber: `python -m ai_cyberjobs.cli scrape --category cyber`
 - Notify (generates files, does not send): `python -m ai_cyberjobs.cli notify --category both --no-send`
+- Send Discord + Discussions notifications: `python -m ai_cyberjobs.cli send-notifications --site-url auto`
 - Validate structure: `python -m ai_cyberjobs.cli validate`
 
 If credentials are not yet configured the scraper returns zero jobs instead of failing so you can still test the CLI & site pipeline.
@@ -32,6 +35,10 @@ Configuration
 - Optional:
   - `REQUESTS_TIMEOUT` (default 20), `RATE_LIMIT_PER_MIN` (default 10)
   - `DEFAULT_DAYS` (default 2), `RESULTS_LIMIT` (default 50)
+  - Discord Webhook: `DISCORD_WEBHOOK_URL`
+  - Discord Bot: `DISCORD_BOT_TOKEN`, `DISCORD_CHANNEL_ID`
+  - GitHub Discussions: `DISCUSSION_CATEGORY_ID`
+  - Site URL override: `SITE_URL` or `--site-url` (defaults to `https://<owner>.github.io/<repo>`)
 
  Automation (GitHub Actions)
 - Workflow: `.github/workflows/daily-scrape.yml`
@@ -45,6 +52,23 @@ Configuration
 GitHub Pages
 - Configure Pages to serve from the `/docs` folder on the default branch
 - The scraper updates `docs/data/{ai,cyber}_jobs.json` each run
+
+Discord notifications
+- Webhook (simple): create a channel webhook (Integrations → Webhooks) and set `DISCORD_WEBHOOK_URL` secret. No bot user required.
+- Bot (posts as a real bot user):
+  - Create an application at https://discord.com/developers → add a Bot, copy the token.
+  - Invite the bot to your server, grant Read/Send permissions in target channel.
+  - Enable Developer Mode in Discord → right‑click the channel → Copy ID.
+  - Add repo secrets: `DISCORD_BOT_TOKEN`, `DISCORD_CHANNEL_ID`.
+  - The workflow tries both: it uses the bot when configured, and/or the webhook when present.
+
+GitHub Discussions (email by subscription)
+- Enable Discussions: Repository Settings → General → Enable “Discussions”.
+- Pick a category for updates (e.g., General or Announcements).
+- Find the category ID:
+  - Use the GraphQL API to list `discussionCategories` for the repo and copy the `id`.
+  - Or create a discussion in the UI, inspect the GraphQL call (Network tab), and copy the `categoryId`.
+- Add repo secret `DISCUSSION_CATEGORY_ID` with that ID. Users who watch Discussions will receive emails.
 
 Project structure
 ```
@@ -70,6 +94,7 @@ Architecture (ASCII)
 
 Notes
 - Emails are sent by GitHub Actions using SMTP; Python only generates bodies
+- `send-notifications` auto‑derives the site URL from `GITHUB_REPOSITORY` (`https://<owner>.github.io/<repo>`). Override with `--site-url`.
 - Before production, verify USAJOBS API headers/params against latest official docs
 - No secrets are committed; use `.env` locally and CI secrets in GitHub
 - Keyword strategy: empirically the USAJOBS search can return fewer (even zero) results

@@ -117,6 +117,9 @@ def notify_job_update_discord(
 
     embed = create_job_update_embed(ai_count, cyber_count, site_url, date)
 
-    content = f"**{ai_count + cyber_count} new government tech jobs** available! Check out the latest AI and cybersecurity positions."
+    content = (
+        f"**{ai_count + cyber_count} new government tech jobs** available! "
+        f"Browse them here: {site_url}"
+    )
 
     return send_discord_webhook(webhook_url, content, [embed])

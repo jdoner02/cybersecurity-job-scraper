@@ -34,3 +34,4 @@ docs/data/*
 !docs/data/ai_jobs.json
 !docs/data/cyber_jobs.json
 
+.venv*
