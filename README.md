@@ -11,7 +11,7 @@ Features
 - SOLID/OOP/DRY, typed models, tests, ruff/black/mypy, pre-commit
 
 Quickstart
-- Python 3.11+
+- Python 3.11+ (the package requires >=3.11; if your system python is older install 3.11 via pyenv or asdf)
 - `cp examples/.env.example .env` and fill in: `USAJOBS_EMAIL`, `USAJOBS_API_KEY`
 - `make install`
 - Dry run: `python -m ai_cyberjobs.cli scrape --category both --limit 5 --dry-run`
@@ -22,6 +22,8 @@ Local usage
 - Scrape Cyber: `python -m ai_cyberjobs.cli scrape --category cyber`
 - Notify (generates files, does not send): `python -m ai_cyberjobs.cli notify --category both --no-send`
 - Validate structure: `python -m ai_cyberjobs.cli validate`
+
+If credentials are not yet configured the scraper returns zero jobs instead of failing so you can still test the CLI & site pipeline.
 
 Configuration
 - Required env vars (via `.env` or CI secrets):
