@@ -68,13 +68,19 @@ GitHub Discussions (email by subscription)
 - Create a category (recommended: Announcement format) named **“Job Notifications”**.
 - Find the category ID (starts with `DIC_`):
   - Option A: Open DevTools → Network → reload a discussion page → inspect GraphQL response for `category { id }`.
-  - Option B: Run `python get_discussion_categories.py` with a temporary token (scopes: `repo`, `read:discussion`).
+  - Option B: Run `python scripts/get_discussion_categories.py <owner> <repo>` with a temporary token (scopes: `repo`, `read:discussion`).
 - Add repo secret `DISCUSSION_CATEGORY_ID=<that id>`.
 - Users subscribe via: Watch button → Custom → check “Discussions”. They receive an email for each automated post.
 
 Subscribe links
 - GitHub Discussions (email): https://github.com/jdoner02/cybersecurity-job-scraper/discussions
 - Job Board: https://jdoner02.github.io/cybersecurity-job-scraper/
+
+Advanced notifications
+- Detailed Discord drops (per-job embeds, de‑duped): `python -m ai_cyberjobs.cli send-detailed-discord`
+- Post a detailed GitHub Discussion (top N jobs per category): `python -m ai_cyberjobs.cli post-discussion-detailed --max-jobs-per-category 10`
+
+See also: `docs/notifications.md` for step‑by‑step setup with screenshots guidance.
 
 Add a README badge (optional):
 ```

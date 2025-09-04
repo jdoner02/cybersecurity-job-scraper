@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import os
 
 import typer
 
@@ -10,6 +11,7 @@ from .models import Job
 from .notify.format import make_subject, render_email_bodies
 from .notify.notify import notify_job_update
 from .notify.discord_detailed import send_detailed_discord_notifications
+from .notify.discussions import format_job_update_discussion_detailed, create_discussion_post
 from .pipeline.dedupe import compute_new_jobs, save_known_ids
 from .pipeline.fetch import fetch_category
 from .pipeline.store import (
@@ -158,32 +160,110 @@ def send_notifications(
             typer.echo(f"  {status} {channel}")
 
 
+@app.command("post-discussion-detailed")
+def post_discussion_detailed(
+    max_jobs_per_category: int = typer.Option(10, help="Max jobs to list per category"),
+    site_url: str = typer.Option(
+        "auto",
+        help="Job board URL or 'auto' to derive https://<owner>.github.io/<repo>",
+    ),
+    discussion_category: str = typer.Option(
+        "",
+        help="Override Discussion category ID; otherwise uses DISCUSSION_CATEGORY_ID env/setting",
+    ),
+) -> None:
+    """Create a one-off detailed GitHub Discussion post listing current jobs.
+
+    Useful for initial seeding or manual testing. Does not rely on 'new jobs' logic;
+    it reads the current latest datasets and posts their contents.
+    """
+    settings = Settings()  # type: ignore[call-arg]
+    ensure_dirs(settings)
+
+    # Load current AI/Cyber jobs
+    ai_file = settings.data_dir / "latest" / "ai_jobs.json"
+    cyber_file = settings.data_dir / "latest" / "cyber_jobs.json"
+    if not ai_file.exists() or not cyber_file.exists():
+        typer.secho("Missing latest job files. Run scrape/build-site first.", fg=typer.colors.RED)
+        raise typer.Exit(1)
+
+    ai_jobs = json.loads(ai_file.read_text(encoding="utf-8"))
+    cyber_jobs = json.loads(cyber_file.read_text(encoding="utf-8"))
+    if not isinstance(ai_jobs, list):
+        ai_jobs = ai_jobs.get("jobs", [])
+    if not isinstance(cyber_jobs, list):
+        cyber_jobs = cyber_jobs.get("jobs", [])
+
+    # Derive repo for site URL
+    repo_env = os.getenv("GITHUB_REPOSITORY")
+    owner_env = os.getenv("GITHUB_OWNER")
+    repo_name_env = os.getenv("GITHUB_REPO")
+    if owner_env and repo_name_env:
+        owner, repo = owner_env, repo_name_env
+    elif repo_env and "/" in repo_env:
+        owner, repo = repo_env.split("/", 1)
+    else:
+        owner, repo = "jdoner02", "cybersecurity-job-scraper"
+
+    if site_url.strip().lower() == "auto":
+        site_url = f"https://{owner}.github.io/{repo}"
+
+    discussion_category = discussion_category or settings.discussion_category_id
+    if not discussion_category:
+        typer.secho("No Discussion category ID provided or configured.", fg=typer.colors.RED)
+        raise typer.Exit(1)
+
+    title, body = format_job_update_discussion_detailed(
+        ai_jobs=ai_jobs,
+        cyber_jobs=cyber_jobs,
+        site_url=site_url,
+        max_per_category=max_jobs_per_category,
+    )
+
+    discussion = create_discussion_post(
+        owner=owner,
+        repo=repo,
+        title=title,
+        body=body,
+        category_id=discussion_category,
+    )
+
+    if discussion:
+        typer.secho(f"Created discussion: {discussion['url']}", fg=typer.colors.GREEN)
+    else:
+        typer.secho("Failed to create discussion.", fg=typer.colors.RED)
+
+
 @app.command("send-detailed-discord")
 def send_detailed_discord(
     max_jobs_per_category: int = typer.Option(
-        10,
-        help="Maximum number of jobs to post per category (AI/Cyber)"
+        10, help="Maximum number of jobs to post per category (AI/Cyber)"
     ),
 ) -> None:
     """Send detailed Discord notifications with individual job postings.
-    
+
     This command posts individual job details to Discord, tracking which jobs
     have been posted before to avoid duplicates. Shows job titles, descriptions,
     organizations, locations, salaries, and apply links.
     """
     settings = Settings()  # type: ignore[call-arg]
-    
+
     typer.echo("Sending detailed Discord job notifications...")
-    
+
     results = send_detailed_discord_notifications(settings)
-    
+
     success_count = sum(results.values())
     total_count = len(results)
-    
+
     if success_count == total_count:
-        typer.secho(f"✅ Detailed notifications sent successfully for all {total_count} categories", fg=typer.colors.GREEN)
+        typer.secho(
+            f"✅ Detailed notifications sent successfully for all {total_count} categories",
+            fg=typer.colors.GREEN,
+        )
     else:
-        typer.secho(f"⚠️  {success_count}/{total_count} categories sent successfully", fg=typer.colors.YELLOW)
+        typer.secho(
+            f"⚠️  {success_count}/{total_count} categories sent successfully", fg=typer.colors.YELLOW
+        )
         for category, success in results.items():
             status = "✅" if success else "❌"
             typer.echo(f"  {status} {category.upper()} jobs")

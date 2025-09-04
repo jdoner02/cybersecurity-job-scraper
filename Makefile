@@ -29,3 +29,11 @@ scrape-cyber:
 site:
 	$(PY) -m ai_cyberjobs.cli build-site
 
+notify:
+	$(PY) -m ai_cyberjobs.cli send-notifications --site-url auto
+
+notify-detailed:
+	$(PY) -m ai_cyberjobs.cli send-detailed-discord
+
+discussion-detailed:
+	$(PY) -m ai_cyberjobs.cli post-discussion-detailed --max-jobs-per-category 10 --site-url auto

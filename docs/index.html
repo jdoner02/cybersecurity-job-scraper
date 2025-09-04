@@ -40,7 +40,7 @@
               <strong>Discussions</strong>. You will receive an email whenever the daily automation posts a new
               job summary in the <em>Job Notifications</em> category.
             </p>
-            <a href="https://github.com/jdoner02/cybersecurity-job-scraper/discussions" class="sub-btn secondary" target="_blank" rel="noopener">Subscribe on GitHub</a>
+            <a id="gh-discussions" href="#" class="sub-btn secondary" target="_blank" rel="noopener">Subscribe on GitHub</a>
           </div>
         </div>
         
@@ -93,6 +93,18 @@
         document.getElementById('last-updated').textContent = 'N/A';
       });
 
+      // Compute GitHub Discussions link dynamically based on Pages URL
+      try {
+        const host = window.location.hostname; // e.g., owner.github.io
+        const owner = host.split('.')[0];
+        const pathParts = window.location.pathname.split('/').filter(Boolean);
+        const repo = pathParts.length > 0 ? pathParts[0] : '';
+        const ghDiscussions = document.getElementById('gh-discussions');
+        if (owner && repo && ghDiscussions) {
+          ghDiscussions.href = `https://github.com/${owner}/${repo}/discussions`;
+        }
+      } catch (e) {}
+
       // Discord subscription placeholder
       document.getElementById('discord-sub').addEventListener('click', (e) => {
         e.preventDefault();
@@ -101,4 +113,3 @@
     </script>
   </body>
 </html>
-

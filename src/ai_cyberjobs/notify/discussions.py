@@ -163,6 +163,69 @@ All positions are sourced from USAJOBS.gov with a 30-day search window, updated 
     return title, body
 
 
+def format_job_update_discussion_detailed(
+    ai_jobs: list[dict],
+    cyber_jobs: list[dict],
+    site_url: str,
+    max_per_category: int = 10,
+    date: datetime | None = None,
+) -> tuple[str, str]:
+    """Format a more detailed discussion body including job titles & links.
+
+    Args:
+        ai_jobs: List of AI job dicts (expects keys: title, url)
+        cyber_jobs: List of Cyber job dicts
+        site_url: Job board URL
+        max_per_category: Max jobs to list per category
+        date: Optional date override
+
+    Returns:
+        (title, body) markdown
+    """
+    date = date or datetime.now()
+    date_str = date.strftime("%B %d, %Y")
+    ai_count = len(ai_jobs)
+    cyber_count = len(cyber_jobs)
+
+    title = f"Daily Job Update (Detailed) – {ai_count} AI / {cyber_count} Cyber – {date_str}"
+
+    def _format_jobs(jobs: list[dict]):
+        lines: list[str] = []
+        for j in jobs[:max_per_category]:
+            t = j.get("title", "(Untitled)")
+            url = j.get("url") or site_url
+            org = j.get("organization") or ""  # optional
+            lines.append(f"- [{t}]({url}){f' – {org}' if org else ''}")
+        if len(jobs) > max_per_category:
+            lines.append(f"- … and {len(jobs) - max_per_category} more on the site")
+        return "\n".join(lines) if lines else "(No jobs listed)"
+
+    body = f"""## 🔍 Daily Job Update – {date_str}
+
+### Summary
+- **AI Jobs**: {ai_count}
+- **Cybersecurity Jobs**: {cyber_count}
+- **Total**: {ai_count + cyber_count}
+
+### 🤖 AI (Top {min(max_per_category, ai_count)} of {ai_count})
+{_format_jobs(ai_jobs)}
+
+### 🔒 Cybersecurity (Top {min(max_per_category, cyber_count)} of {cyber_count})
+{_format_jobs(cyber_jobs)}
+
+### 🔗 Full Listings
+Browse all details, filters, and apply links on the **[Job Board]({site_url})**.
+
+### 📫 Subscribe / Emails
+Watch this repository → Custom → enable *Discussions* to receive these updates via email.
+
+---
+*Automated post. Generated at {date.isoformat()}.*
+"""
+
+    return title, body
+
+
 def get_discussion_subscription_info(
     owner: str,
     repo: str,
