@@ -28,6 +28,9 @@ out/
 # Data artifacts
 data/history/*
 !data/history/.gitkeep
+# Keep history dynamic but allow committed seed JSONs so site renders before first run
 docs/data/*
 !docs/data/.gitkeep
+!docs/data/ai_jobs.json
+!docs/data/cyber_jobs.json
 

@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 12 * * *"  # 12:00 UTC daily
   workflow_dispatch:
+  push:
+    branches:
+      - revamp/ai-cyber-scraper
 
 permissions:
   contents: write
