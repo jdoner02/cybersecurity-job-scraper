@@ -34,4 +34,10 @@ docs/data/*
 !docs/data/ai_jobs.json
 !docs/data/cyber_jobs.json
 
+# Ignore generated latest snapshot & state (except keep directory via .gitkeep)
+data/latest/*
+!data/latest/.gitkeep
+data/state/*
+!data/state/.gitkeep
+
 .venv*
