@@ -35,7 +35,45 @@ def create_discussion_post(
         print("No GitHub token available")
         return None
 
-    # GraphQL mutation to create discussion
+    # Show token scopes (best effort) for debugging permissions
+    try:
+        scope_resp = requests.get(
+            "https://api.github.com/user",
+            headers={
+                "Authorization": f"token {token}",
+                "Accept": "application/vnd.github+json",
+            },
+            timeout=10,
+        )
+        scopes = scope_resp.headers.get("X-OAuth-Scopes", "(unavailable)")
+        print(f"GitHub token scopes: {scopes}")
+    except Exception as e:  # pragma: no cover - diagnostic only
+        print(f"Could not retrieve token scopes: {e}")
+
+    # --- Attempt REST API first (simpler) ---
+    rest_headers = {
+        "Authorization": f"token {token}",
+        "Accept": "application/vnd.github+json",
+    }
+    rest_payload = {"title": title, "body": body, "category_id": category_id}
+    rest_url = f"https://api.github.com/repos/{owner}/{repo}/discussions"
+    rest_resp = requests.post(rest_url, json=rest_payload, headers=rest_headers, timeout=30)
+
+    if rest_resp.status_code == 201:
+        rj = rest_resp.json()
+        print("Created discussion via REST API")
+        return {
+            "id": rj.get("node_id"),
+            "number": rj.get("number"),
+            "title": rj.get("title"),
+            "url": rj.get("html_url"),
+        }
+    else:
+        print(
+            f"REST create discussion failed: {rest_resp.status_code} - {rest_resp.text[:200]}"
+        )
+
+    # If REST failed (e.g., missing scope), attempt GraphQL fallback
     mutation = """
     mutation CreateDiscussion($repositoryId: ID!, $categoryId: ID!, $title: String!, $body: String!) {
       createDiscussion(input: {
@@ -54,48 +92,37 @@ def create_discussion_post(
     }
     """
 
-    # First get repository ID
     repo_query = """
     query GetRepository($owner: String!, $name: String!) {
       repository(owner: $owner, name: $name) {
         id
-        discussionCategories(first: 20) {
-          nodes {
-            id
-            name
-            slug
-          }
+        discussionCategories(first: 50) {
+          nodes { id name slug }
         }
       }
     }
     """
 
-    headers = {
+    gql_headers = {
         "Authorization": f"token {token}",
         "Content-Type": "application/json",
     }
-
-    # Get repository ID and categories
-    response = requests.post(
+    repo_resp = requests.post(
         "https://api.github.com/graphql",
         json={"query": repo_query, "variables": {"owner": owner, "name": repo}},
-        headers=headers,
+        headers=gql_headers,
         timeout=30,
     )
-
-    if response.status_code != 200:
-        print(f"Failed to get repository info: {response.status_code}")
+    if repo_resp.status_code != 200:
+        print(f"GraphQL repo lookup failed: {repo_resp.status_code}")
         return None
-
-    data = response.json()
-    if "errors" in data:
-        print(f"GraphQL errors: {data['errors']}")
+    repo_data = repo_resp.json()
+    if "errors" in repo_data:
+        print(f"GraphQL repo errors: {repo_data['errors']}")
         return None
+    repository_id = repo_data["data"]["repository"]["id"]
 
-    repository_id = data["data"]["repository"]["id"]
-
-    # Create discussion
-    response = requests.post(
+    create_resp = requests.post(
         "https://api.github.com/graphql",
         json={
             "query": mutation,
@@ -106,20 +133,21 @@ def create_discussion_post(
                 "body": body,
             },
         },
-        headers=headers,
+        headers=gql_headers,
         timeout=30,
     )
-
-    if response.status_code != 200:
-        print(f"Failed to create discussion: {response.status_code}")
+    if create_resp.status_code != 200:
+        print(f"GraphQL create failed: {create_resp.status_code}")
         return None
-
-    data = response.json()
-    if "errors" in data:
-        print(f"GraphQL errors: {data['errors']}")
+    create_data = create_resp.json()
+    if "errors" in create_data:
+        print(f"GraphQL errors: {create_data['errors']}")
+        print(
+            "Hint: Ensure your token has 'Discussions write' permission (classic PAT: repo/public_repo) "
+            "or a fine-grained token with Discussions: Read & Write." 
+        )
         return None
-
-    return data["data"]["createDiscussion"]["discussion"]
+    return create_data["data"]["createDiscussion"]["discussion"]
 
 
 def format_job_update_discussion(
