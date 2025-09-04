@@ -7,6 +7,36 @@ from datetime import datetime
 from typing import Any
 
 import requests
+from pathlib import Path
+
+def _discussion_state_path() -> Path:
+    return Path("data/state/discussion_posted.json")
+
+def discussion_already_posted(today: datetime | None = None) -> bool:
+    today = today or datetime.utcnow()
+    p = _discussion_state_path()
+    if not p.exists():
+        return False
+    try:
+        data = p.read_text(encoding="utf-8").strip().splitlines()
+        return today.strftime("%Y-%m-%d") in data
+    except Exception:
+        return False
+
+def mark_discussion_posted(today: datetime | None = None) -> None:
+    today = today or datetime.utcnow()
+    p = _discussion_state_path()
+    p.parent.mkdir(parents=True, exist_ok=True)
+    date_str = today.strftime("%Y-%m-%d")
+    existing: set[str] = set()
+    if p.exists():
+        try:
+            existing.update(p.read_text(encoding="utf-8").splitlines())
+        except Exception:
+            pass
+    if date_str not in existing:
+        existing.add(date_str)
+        p.write_text("\n".join(sorted(existing)), encoding="utf-8")
 
 
 def create_discussion_post(

@@ -11,7 +11,12 @@ from .models import Job
 from .notify.format import make_subject, render_email_bodies
 from .notify.notify import notify_job_update
 from .notify.discord_detailed import send_detailed_discord_notifications
-from .notify.discussions import format_job_update_discussion_detailed, create_discussion_post
+from .notify.discussions import (
+    format_job_update_discussion_detailed,
+    create_discussion_post,
+    discussion_already_posted,
+    mark_discussion_posted,
+)
 from .pipeline.dedupe import compute_new_jobs, save_known_ids
 from .pipeline.fetch import fetch_category
 from .pipeline.store import (
@@ -180,6 +185,11 @@ def post_discussion_detailed(
     settings = Settings()  # type: ignore[call-arg]
     ensure_dirs(settings)
 
+    # Skip if already posted today
+    if discussion_already_posted():
+        typer.secho("Discussion already posted today; skipping.", fg=typer.colors.YELLOW)
+        return
+
     # Load current AI/Cyber jobs
     ai_file = settings.data_dir / "latest" / "ai_jobs.json"
     cyber_file = settings.data_dir / "latest" / "cyber_jobs.json"
@@ -230,6 +240,7 @@ def post_discussion_detailed(
 
     if discussion:
         typer.secho(f"Created discussion: {discussion['url']}", fg=typer.colors.GREEN)
+        mark_discussion_posted()
     else:
         typer.secho("Failed to create discussion.", fg=typer.colors.RED)
 

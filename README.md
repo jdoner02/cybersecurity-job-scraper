@@ -7,96 +7,94 @@ Features
 - Detects new postings and only emails when there are additions
 - Stores `data/latest/*.json|.csv` and daily snapshots under `data/history/*`
 - Static site under `docs/` with searchable, mobile-friendly pages
-- Automated daily run + manual dispatch via GitHub Actions
-- Discord notifications (Webhook and/or Bot)
-- Optional GitHub Discussions posts (email via subscriptions)
-- Detailed Discord job drops (individual embeds, de‑duped, up to 10 per category)
-- SOLID/OOP/DRY, typed models, tests, ruff/black/mypy, pre-commit
+# AI & Cybersecurity USAJOBS Tracker
 
-Quickstart
-- Python 3.11+ (the package requires >=3.11; if your system python is older install 3.11 via pyenv or asdf)
-- `cp examples/.env.example .env` and fill in: `USAJOBS_EMAIL`, `USAJOBS_API_KEY`
-- `make install`
-- Dry run: `python -m ai_cyberjobs.cli scrape --category both --limit 5 --dry-run`
-- Build site data: `python -m ai_cyberjobs.cli build-site`
+Automated daily pipeline that fetches AI & Cybersecurity roles from USAJOBS, publishes a lightweight searchable site (GitHub Pages), and sends optional notifications (Discord + GitHub Discussions for email subscribers). Designed to be minimal, auditable, and easy to fork.
 
-Local usage
+## Highlights
+- AI + Cyber categories (separate feeds)
+- Detects new jobs; only notifies when new records appear
+- Daily snapshots in `data/history/` (for longitudinal analysis)
+- Static site in `docs/` (mobile friendly)
+- Discord (webhook + bot) + GitHub Discussions email posts
+- Detailed Discord job drops (top N per category, deduped)
+- Typed models, tests, ruff / black / mypy, pre-commit hooks
 - Scrape AI: `python -m ai_cyberjobs.cli scrape --category ai`
-- Scrape Cyber: `python -m ai_cyberjobs.cli scrape --category cyber`
-- Notify (generates files, does not send): `python -m ai_cyberjobs.cli notify --category both --no-send`
-- Send Discord + Discussions notifications: `python -m ai_cyberjobs.cli send-notifications --site-url auto`
-- Validate structure: `python -m ai_cyberjobs.cli validate`
+## Quick Start
+1. Python 3.11+
+2. Create `.env` with `USAJOBS_EMAIL`, `USAJOBS_API_KEY`
+3. Install: `make install`
+4. Dry run: `python -m ai_cyberjobs.cli scrape --category both --limit 5 --dry-run`
+5. Build site data: `python -m ai_cyberjobs.cli build-site`
 
-If credentials are not yet configured the scraper returns zero jobs instead of failing so you can still test the CLI & site pipeline.
-
-Configuration
-- Required env vars (via `.env` or CI secrets):
-  - `USAJOBS_EMAIL` – your registered email with USAJOBS for User-Agent
-  - `USAJOBS_API_KEY` – Authorization-Key header value
-- Optional:
-  - `REQUESTS_TIMEOUT` (default 20), `RATE_LIMIT_PER_MIN` (default 10)
+## Common Commands
+| Purpose | Command |
+|---------|---------|
+| Scrape AI | `python -m ai_cyberjobs.cli scrape --category ai` |
+| Scrape Cyber | `python -m ai_cyberjobs.cli scrape --category cyber` |
+| Generate (no send) email artifacts | `python -m ai_cyberjobs.cli notify --category both --no-send` |
+| Send summary notifications | `python -m ai_cyberjobs.cli send-notifications --site-url auto` |
+| Detailed Discord job posts | `python -m ai_cyberjobs.cli send-detailed-discord` |
+| One‑off detailed Discussion | `python -m ai_cyberjobs.cli post-discussion-detailed --max-jobs-per-category 10` |
+| Validate expected files | `python -m ai_cyberjobs.cli validate` |
   - `DEFAULT_DAYS` (default 2), `RESULTS_LIMIT` (default 50)
-  - Discord Webhook: `DISCORD_WEBHOOK_URL`
+If credentials are absent the scraper returns zero jobs so you can still test the pipeline.
   - Discord Bot: `DISCORD_BOT_TOKEN`, `DISCORD_CHANNEL_ID`
-  - GitHub Discussions: `DISCUSSION_CATEGORY_ID`
-  - Site URL override: `SITE_URL` or `--site-url` (defaults to `https://<owner>.github.io/<repo>`)
+## Configuration
+Required:
+- `USAJOBS_EMAIL` (User-Agent email)
+- `USAJOBS_API_KEY`
 
- Automation (GitHub Actions)
-- Workflow: `.github/workflows/daily-scrape.yml`
-- Triggers: daily cron (UTC) and `workflow_dispatch`
-- Steps: checkout → setup python → install → `scrape` (AI, Cyber) → `build-site` → commit/push data changes → `notify` (generates email files) → send two emails via SMTP action (one per category) only if new jobs exist
-  - Email subjects include counts, e.g. "New AI Jobs (N) – USAJOBS" and "New Cybersecurity Jobs (N) – USAJOBS".
-- Required repository secrets for email delivery:
-  - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, `EMAIL_FROM`
-- Permissions: `permissions: contents: write` to push data updates
+Optional:
+- `REQUESTS_TIMEOUT` (default 20)
+- `RATE_LIMIT_PER_MIN` (default 10)
+- `DEFAULT_DAYS` (default 2)
+- `RESULTS_LIMIT` (default 50)
+- Discord webhook: `DISCORD_WEBHOOK_URL`
+- Discord bot: `DISCORD_BOT_TOKEN`, `DISCORD_CHANNEL_ID`
+- GitHub Discussions: `DISCUSSION_CATEGORY_ID`
+- Override site URL: `SITE_URL` or `--site-url`
 
-GitHub Pages
-- Configure Pages to serve from the `/docs` folder on the default branch
-- The scraper updates `docs/data/{ai,cyber}_jobs.json` each run
+## Automation (GitHub Actions)
+Workflow: `.github/workflows/daily-scrape.yml`
 
-Discord notifications
-- Webhook (simple): create a channel webhook (Integrations → Webhooks) and set `DISCORD_WEBHOOK_URL` secret. No bot user required.
-- Bot (posts as a real bot user):
-  - Create an application at https://discord.com/developers → add a Bot, copy the token.
+Pipeline: scrape (AI + Cyber) → build-site → commit changes → notifications → (optional) email.
+
+Daily Discussion & detailed Discord posts occur only when new jobs were detected that day (prevents spam). Manual dispatch (`workflow_dispatch`) can force a run; the Discussion logic still skips if no new jobs.
+
+Email (optional): requires `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, `EMAIL_FROM` secrets.
   - Invite the bot to your server, grant Read/Send permissions in target channel.
-  - Enable Developer Mode in Discord → right‑click the channel → Copy ID.
-  - Add repo secrets: `DISCORD_BOT_TOKEN`, `DISCORD_CHANNEL_ID`.
-  - The workflow tries both: it uses the bot when configured, and/or the webhook when present.
+## GitHub Pages
+Serve `/docs` as Pages. JSON feeds auto-refresh there after each run.
 
-GitHub Discussions (email by subscription)
-- Enable Discussions: Repository Settings → General → Enable “Discussions”.
-- Create a category (recommended: Announcement format) named **“Job Notifications”**.
-- Find the category ID (starts with `DIC_`):
-  - Option A: Open DevTools → Network → reload a discussion page → inspect GraphQL response for `category { id }`.
-  - Option B: Run `python scripts/get_discussion_categories.py <owner> <repo>` with a temporary token (scopes: `repo`, `read:discussion`).
-- Add repo secret `DISCUSSION_CATEGORY_ID=<that id>`.
-- Users subscribe via: Watch button → Custom → check “Discussions”. They receive an email for each automated post.
+## Discord
+Webhook: only `DISCORD_WEBHOOK_URL`.
 
-Subscribe links
-- GitHub Discussions (email): https://github.com/jdoner02/cybersecurity-job-scraper/discussions
-- Job Board: https://jdoner02.github.io/cybersecurity-job-scraper/
+Bot (optional): `DISCORD_BOT_TOKEN` + `DISCORD_CHANNEL_ID` (channel ID from Developer Mode).
 
-Advanced notifications
-- Detailed Discord drops (per-job embeds, de‑duped): `python -m ai_cyberjobs.cli send-detailed-discord`
-- Post a detailed GitHub Discussion (top N jobs per category): `python -m ai_cyberjobs.cli post-discussion-detailed --max-jobs-per-category 10`
-
+## GitHub Discussions (Email Subscription)
+1. Enable Discussions in repo settings.
+2. Create category “Job Notifications”.
+3. Find its ID (`DIC_...`) via DevTools or script.
+4. Set secret `DISCUSSION_CATEGORY_ID`.
+5. Users: Watch → Custom → enable Discussions.
 See also: `docs/notifications.md` for step‑by‑step setup with screenshots guidance.
-
-Add a README badge (optional):
+Subscription Links:
+- Discussions: https://github.com/jdoner02/cybersecurity-job-scraper/discussions
+- Job Board: https://jdoner02.github.io/cybersecurity-job-scraper/
+[![Subscribe – GitHub Discussions](https://img.shields.io/badge/Subscribe-Job%20Alerts-blue)](https://github.com/jdoner02/cybersecurity-job-scraper/discussions)
+Advanced:
+- Detailed Discord embeds: `send-detailed-discord`
+- One-off detailed Discussion: `post-discussion-detailed`
+```
+See also: `docs/notifications.md` (optional extra detail).
+  client/ (USAJOBS client)
+Badge (optional):
 ```
 [![Subscribe – GitHub Discussions](https://img.shields.io/badge/Subscribe-Job%20Alerts-blue)](https://github.com/jdoner02/cybersecurity-job-scraper/discussions)
 ```
-
-Project structure
-```
-src/ai_cyberjobs/
-  client/ (USAJOBS client)
-  pipeline/ (fetch, normalize, dedupe, store)
-  notify/ (email formatting)
-  cli.py (Typer CLI)
-data/ (state, latest, history)
 docs/ (static site)
-```
+## Project Structure
 
 Architecture (ASCII)
 ```
@@ -107,7 +105,7 @@ Architecture (ASCII)
                                                             |             \
                                                             v              v
                                                        [docs/data/*]     [notify -> out/emails/*]
-```
+## Data Flow
 
 Notes
 - Emails are sent by GitHub Actions using SMTP; Python only generates bodies
@@ -118,29 +116,18 @@ Notes
   when using long `term1 OR term2 OR term3` chains. Implementation now uses only the
   primary phrase (e.g. "artificial intelligence") when many AI keywords are configured
   to avoid over-filtering. With ≤4 terms it space-joins them for a broad match.
-
-
-## 📧 Support
-
-For questions about:
-- **API Access**: Contact USAJobs developer support
-- **NCAE Programs**: Consult your school's cybersecurity department
-- **Federal Hiring**: Visit [help.usajobs.gov](https://help.usajobs.gov/)
-
+## Notes
+- SMTP send done in CI; local run only renders artifacts
+- Site URL auto-derived; override with `--site-url`
+- No committed secrets; use `.env` + repo secrets
+- USAJOBS query simplified to avoid over-filter narrowing (broad match heuristics)
 ## 📄 License
+## Contributing
+PRs welcome for: better filtering, additional export formats, alert channels, or pipeline robustness.
 
-This project is provided as-is for educational and career development purposes for NCAE students and cybersecurity professionals.
-
-## 🤝 Contributing
-
-To improve the scraper:
-1. Add new relevant keywords to the search criteria
-2. Enhance filtering logic for better job relevance
-3. Improve data export formats
-4. Add new scheduling options
+## License
+MIT
 
 ---
+Happy job hunting! 🔍
 
-**Happy Job Hunting! 🔍💼**
-
-*This tool helps you stay ahead of federal cybersecurity opportunities - perfect for launching your career in government cybersecurity roles.*
