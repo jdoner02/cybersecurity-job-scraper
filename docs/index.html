@@ -8,8 +8,13 @@
   </head>
   <body>
     <main class="container">
-      <h1>AI & Cybersecurity Jobs – USAJOBS</h1>
-      <p>Browse fresh government tech roles; data updates daily from USAJOBS.gov with a 30-day search window.</p>
+      <header style="margin-bottom:2rem;">
+        <h1 style="margin:0 0 .75rem;font-size:2rem;">Find Federal AI & Cybersecurity Roles</h1>
+        <p style="margin:0;max-width:760px;color:var(--muted);font-size:1rem;line-height:1.5;">
+          Updated each morning from official USAJOBS data. Fast, ad‑free, student & faculty friendly. 
+          Browse openings, skim summaries, and subscribe for a single concise daily update (only if new jobs appear).
+        </p>
+      </header>
       
       <div class="grid">
         <a class="card" href="ai.html">
@@ -23,46 +28,60 @@
       </div>
 
       <section class="subscription-section">
-        <h2>📬 Stay Updated</h2>
-  <p>Get notified when new government tech jobs are posted. Subscribe via Discord or GitHub (email):</p>
+        <h2>📬 Daily Email (Optional)</h2>
+        <p style="max-width:720px;margin-top:0;">
+          Want this in your inbox? We post <strong>one discussion per day</strong> only if new jobs were found. 
+          Subscribing takes ~10 seconds; unsubscribe anytime.
+        </p>
         
         <div class="subscription-grid">
           <div class="subscription-option">
-            <h3>💬 Discord Notifications</h3>
-            <p>Join our Discord server for real-time job alerts with rich formatting and direct links to new opportunities.</p>
-            <a href="#" class="sub-btn" id="discord-sub">Join Discord Server</a>
+            <h3>� Email (GitHub Discussions)</h3>
+            <ol style="text-align:left;margin:0 0 1.25rem;padding-left:1.1rem;font-size:.85rem;line-height:1.4;">
+              <li>Open the subscription page</li>
+              <li>Click <strong>Watch</strong> → <strong>Custom</strong></li>
+              <li>Check <strong>Discussions</strong></li>
+              <li>Done – you’ll get the next update</li>
+            </ol>
+            <a id="gh-discussions" href="#" class="sub-btn secondary" target="_blank" rel="noopener">Subscribe (Email)</a>
           </div>
           
           <div class="subscription-option">
-            <h3>📧 Email Updates (GitHub)</h3>
-            <p>
-              Click below, then press the <strong>Watch</strong> button → <strong>Custom</strong> → check
-              <strong>Discussions</strong>. You will receive an email whenever the daily automation posts a new
-              job summary in the <em>Job Notifications</em> category.
-            </p>
-            <a id="gh-discussions" href="#" class="sub-btn secondary" target="_blank" rel="noopener">Subscribe on GitHub</a>
+            <h3>💬 Discord (Optional)</h3>
+            <p style="font-size:.85rem;line-height:1.4;">Rich embeds & per‑job drops (pilot). Email is simplest—Discord channel invite coming soon.</p>
+            <a href="#" class="sub-btn" id="discord-sub">Discord (Coming Soon)</a>
           </div>
         </div>
         
-        <div style="margin-top:1.5rem;padding:1rem;background:#0f1115;border-radius:.5rem;border:1px solid #2a2e36;">
-          <h4 style="margin:0 0 .5rem;color:var(--accent);font-size:.9rem;">📊 Current Stats</h4>
-          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;font-size:.85rem;">
-            <div>
-              <span class="muted">AI Jobs:</span> <span id="ai-count">Loading...</span>
-            </div>
-            <div>
-              <span class="muted">Cyber Jobs:</span> <span id="cyber-count">Loading...</span>
-            </div>
+        <div style="margin-top:1.75rem;padding:1rem 1.25rem;background:#0f1115;border-radius:.6rem;border:1px solid #2a2e36;">
+          <h4 style="margin:0 0 .75rem;color:var(--accent);font-size:.95rem;display:flex;align-items:center;gap:.4rem;">📊 Today’s Snapshot</h4>
+          <div style="display:flex;flex-wrap:wrap;gap:1.25rem;font-size:.85rem;">
+            <div><span class="muted">AI:</span> <strong id="ai-count">–</strong></div>
+            <div><span class="muted">Cyber:</span> <strong id="cyber-count">–</strong></div>
+            <div><span class="muted">Last Update:</span> <span id="last-updated">–</span></div>
           </div>
-          <div style="margin-top:.5rem;font-size:.75rem;color:var(--muted);">
-            Last updated: <span id="last-updated">Loading...</span>
+          <div style="margin-top:.6rem;font-size:.7rem;color:var(--muted);max-width:620px;">
+            Posts appear only if new roles were found since yesterday. No noise on quiet days.
           </div>
         </div>
+      </section>
+
+      <section style="margin:3rem 0 2rem;">
+        <h2 style="margin:0 0 .75rem;">Why This Exists</h2>
+        <p style="margin:0 0 1.25rem;color:var(--muted);max-width:780px;font-size:.95rem;line-height:1.55;">
+          Federal AI and Cybersecurity hiring is broad and changes daily. This board saves students and advisors time by consolidating relevant roles into a single glanceable feed with quick filters and optional low-noise email alerts.
+        </p>
+        <h3 style="margin:1.5rem 0 .5rem;font-size:1rem;">Tips</h3>
+        <ul style="margin:0 0 1.5rem;padding-left:1.1rem;font-size:.8rem;line-height:1.5;color:var(--muted);max-width:700px;">
+          <li>Use the search box on category pages to filter by location, agency, or keyword.</li>
+          <li>Open roles early—some close before the listed end date once applicant limits are hit.</li>
+          <li>Save links to roles you apply for; USAJOBS pages update after status changes.</li>
+        </ul>
       </section>
     </main>
 
     <script>
-      // Load job counts for stats
+  // Load job counts for stats
       Promise.all([
         fetch('data/ai_jobs.json').then(r => r.json()),
         fetch('data/cyber_jobs.json').then(r => r.json())
