@@ -10,6 +10,7 @@ Features
 - Automated daily run + manual dispatch via GitHub Actions
 - Discord notifications (Webhook and/or Bot)
 - Optional GitHub Discussions posts (email via subscriptions)
+- Detailed Discord job drops (individual embeds, de‑duped, up to 10 per category)
 - SOLID/OOP/DRY, typed models, tests, ruff/black/mypy, pre-commit
 
 Quickstart
@@ -64,11 +65,21 @@ Discord notifications
 
 GitHub Discussions (email by subscription)
 - Enable Discussions: Repository Settings → General → Enable “Discussions”.
-- Pick a category for updates (e.g., General or Announcements).
-- Find the category ID:
-  - Use the GraphQL API to list `discussionCategories` for the repo and copy the `id`.
-  - Or create a discussion in the UI, inspect the GraphQL call (Network tab), and copy the `categoryId`.
-- Add repo secret `DISCUSSION_CATEGORY_ID` with that ID. Users who watch Discussions will receive emails.
+- Create a category (recommended: Announcement format) named **“Job Notifications”**.
+- Find the category ID (starts with `DIC_`):
+  - Option A: Open DevTools → Network → reload a discussion page → inspect GraphQL response for `category { id }`.
+  - Option B: Run `python get_discussion_categories.py` with a temporary token (scopes: `repo`, `read:discussion`).
+- Add repo secret `DISCUSSION_CATEGORY_ID=<that id>`.
+- Users subscribe via: Watch button → Custom → check “Discussions”. They receive an email for each automated post.
+
+Subscribe links
+- GitHub Discussions (email): https://github.com/jdoner02/cybersecurity-job-scraper/discussions
+- Job Board: https://jdoner02.github.io/cybersecurity-job-scraper/
+
+Add a README badge (optional):
+```
+[![Subscribe – GitHub Discussions](https://img.shields.io/badge/Subscribe-Job%20Alerts-blue)](https://github.com/jdoner02/cybersecurity-job-scraper/discussions)
+```
 
 Project structure
 ```
