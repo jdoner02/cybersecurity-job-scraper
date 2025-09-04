@@ -72,6 +72,10 @@ Notes
 - Emails are sent by GitHub Actions using SMTP; Python only generates bodies
 - Before production, verify USAJOBS API headers/params against latest official docs
 - No secrets are committed; use `.env` locally and CI secrets in GitHub
+- Keyword strategy: empirically the USAJOBS search can return fewer (even zero) results
+  when using long `term1 OR term2 OR term3` chains. Implementation now uses only the
+  primary phrase (e.g. "artificial intelligence") when many AI keywords are configured
+  to avoid over-filtering. With ≤4 terms it space-joins them for a broad match.
 
 
 ## 📧 Support

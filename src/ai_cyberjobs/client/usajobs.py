@@ -99,13 +99,30 @@ class USAJobsClient:
 
 
 def build_keyword_query(keywords: list[str]) -> str:
-    # Create a simple OR query string: term1 OR term2
-    # Quote terms with spaces.
-    def quote(t: str) -> str:
-        t = t.strip()
-        return f'"{t}"' if " " in t else t
+    """Return a keyword string for USAJOBS.
 
-    return " OR ".join(quote(k) for k in keywords if k.strip())
+    Observed behavior (empirical): using an "A OR B OR C" style query can
+    sometimes yield zero results even when individual primary terms return
+    matches. To reduce over-filtering we bias toward the *first* high-signal
+    phrase when more than ~4 keywords are supplied. This keeps the search
+    broad (logical implicit OR / relevance weighting server side) and avoids
+    accidental exclusion.
+
+    Strategy:
+    - If <=4 keywords: join with spaces (space-delimited behaves like broad search)
+    - If >4 keywords: use only the first phrase (usually "artificial intelligence" for AI)
+    - Terms with spaces are kept quoted for safety.
+    """
+    kws = [k.strip() for k in keywords if k.strip()]
+    if not kws:
+        return ""
+    if len(kws) > 4:
+        primary = kws[0]
+        return f'"{primary}"' if " " in primary else primary
+    # Broad multi-term: space joined
+    def render(t: str) -> str:
+        return f'"{t}"' if " " in t else t
+    return " ".join(render(k) for k in kws)
 
 
 def normalize_days(days: int) -> int:
