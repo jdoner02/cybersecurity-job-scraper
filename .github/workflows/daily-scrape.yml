@@ -64,6 +64,14 @@ jobs:
           git commit -m "chore(data): update job feeds $(date -u +'%Y-%m-%d')"
           git push
 
+      - name: Send notifications
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python -m ai_cyberjobs.cli send-notifications
+
+      # === Optional: Keep SMTP email (can be removed if not needed) ===
       - name: Render email bodies (no send)
         if: steps.changes.outputs.changed == 'true'
         run: |

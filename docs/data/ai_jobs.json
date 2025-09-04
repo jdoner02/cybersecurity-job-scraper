@@ -54,5 +54,118 @@
     "salary": "00-00",
     "grade": null,
     "remote": null
+  },
+  {
+    "job_id": "844423700",
+    "title": "DATA SCIENTIST",
+    "organization": "Air Force Elements, U.S. Transportation Command",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "Direct-Hire Auth (Cyber), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
+    "url": "https://www.usajobs.gov/job/844423700",
+    "posted_at": "2025-08-27T13:55:50.700000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844406000",
+    "title": "IT SPECIALIST (POLICY AND PLANNING/PLCYPLN)",
+    "organization": "Organization of the Joint Chiefs of Staff",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is being filled under DoD Modified Direct-Hire Auth (Certain DoD Personnel), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Organization of the Joint Chiefs of Staff. The incumbent serves as an Information Technology (IT)Specialist (Policy and Planning) and provides strategy, architecture, and guidance for Joint Staff (JS) Artificial Intelligence (AI) initiatives within the Department of Defense (DoD) AI domain.",
+    "url": "https://www.usajobs.gov/job/844406000",
+    "posted_at": "2025-08-27T08:28:04.190000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844349400",
+    "title": "Operations Research Analyst",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Groton Submarine Base, Connecticut"
+    ],
+    "description": "You will serve as an OPERATIONS RESEARCH ANALYST in the ARTIFICAL INTELLIGENCE/MACHINE LEARNING (AI/ML) DEPARTMENT of UNDERSEA WARFIGHTING DEVELOPMENT CENTER.",
+    "url": "https://www.usajobs.gov/job/844349400",
+    "posted_at": "2025-08-27T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844261200",
+    "title": "Program Analyst - Informatics",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Kansas City, Missouri"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/844261200",
+    "posted_at": "2025-08-26T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844072700",
+    "title": "Supervisory Human Resources Specialist  (INFORMATION SYSTEMS)",
+    "organization": "Defense Contract Audit Agency",
+    "locations": [
+      "Irving, Texas",
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "Reemployed annuitant: This vacancy does not meet the criteria for appointment of annuitants.",
+    "url": "https://www.usajobs.gov/job/844072700",
+    "posted_at": "2025-08-22T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "843960800",
+    "title": "Deputy Assistant Director/Deputy Chief Information Technology Officer (DCIO)",
+    "organization": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "ATF is a law enforcement agency in the U.S. Department of Justice that protects our communities from violent criminals/criminal organizations, illegal use/trafficking of firearms, illegal use/storage of explosives, acts of arson/bombings, acts of terrorism, and illegal diversion of alcohol/tobacco products. We partner with communities, industries, law enforcement, and public safety agencies to safeguard the public through information sharing, training, research, & technology. Visit www.atf.gov",
+    "url": "https://www.usajobs.gov/job/843960800",
+    "posted_at": "2025-08-21T10:47:29.777000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "843857400",
+    "title": "Data Scientist",
+    "organization": "U.S. Army Military Surface Deployment and Distribution Command",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "Please limit your resume to 5 pages. If more than 5 pages are submitted, only the first 5 pages will be reviewed to determine your eligibility/qualifications. About the Position: The incumbent will serve as a Data Scientist and technical expert responsible for the application of operations research and advanced data analysis techniques and perform a wide range of complex analytical, mathematical and statistical research that inform operational requirements.",
+    "url": "https://www.usajobs.gov/job/843857400",
+    "posted_at": "2025-08-21T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "843856900",
+    "title": "Data Scientist",
+    "organization": "U.S. Army Military Surface Deployment and Distribution Command",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for STEM Positions to recruit and appoint qualified candidates to positions in the competitive service. About the Position: The incumbent will serve as a Data Scientist and technical expert responsible for the application of operations research and advanced data analysis techniques and perform a wide range of complex analytical, mathematical and statistical research that inform operational requirements.",
+    "url": "https://www.usajobs.gov/job/843856900",
+    "posted_at": "2025-08-21T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
   }
 ]

@@ -119,9 +119,11 @@ def build_keyword_query(keywords: list[str]) -> str:
     if len(kws) > 4:
         primary = kws[0]
         return f'"{primary}"' if " " in primary else primary
+
     # Broad multi-term: space joined
     def render(t: str) -> str:
         return f'"{t}"' if " " in t else t
+
     return " ".join(render(k) for k in kws)
 
 

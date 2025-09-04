@@ -8,6 +8,7 @@ import typer
 from .config import Category, Settings, ensure_dirs
 from .models import Job
 from .notify.format import make_subject, render_email_bodies
+from .notify.notify import notify_job_update
 from .pipeline.dedupe import compute_new_jobs, save_known_ids
 from .pipeline.fetch import fetch_category
 from .pipeline.store import (
@@ -97,6 +98,54 @@ def notify(
 
     if not any_output:
         typer.echo("No new jobs; no email files produced.")
+
+
+@app.command("send-notifications")
+def send_notifications(
+    site_url: str = typer.Option(
+        "https://jdoner02.github.io/cybersecurity-job-scraper", help="Job board URL"
+    ),
+    discussion_category: str = typer.Option(
+        "DIC_kwDONJKdhM4CjCr7", help="GitHub Discussion category ID"
+    ),
+) -> None:
+    """Send notifications via GitHub Discussions and Discord for current job counts."""
+    settings = Settings()  # type: ignore[call-arg]
+
+    # Count current jobs
+    ai_path = settings.data_dir / "latest" / "ai_jobs.json"
+    cyber_path = settings.data_dir / "latest" / "cyber_jobs.json"
+
+    ai_count = 0
+    cyber_count = 0
+
+    if ai_path.exists():
+        ai_data = json.loads(ai_path.read_text(encoding="utf-8"))
+        ai_count = len(ai_data)
+
+    if cyber_path.exists():
+        cyber_data = json.loads(cyber_path.read_text(encoding="utf-8"))
+        cyber_count = len(cyber_data)
+
+    typer.echo(f"Sending notifications: {ai_count} AI jobs, {cyber_count} cyber jobs")
+
+    results = notify_job_update(
+        ai_count=ai_count,
+        cyber_count=cyber_count,
+        site_url=site_url,
+        discussion_category_id=discussion_category,
+    )
+
+    success_count = sum(results.values())
+    total_count = len(results)
+
+    if success_count == total_count:
+        typer.secho(f"✅ All {total_count} notifications sent successfully", fg=typer.colors.GREEN)
+    else:
+        typer.secho(f"⚠️  {success_count}/{total_count} notifications sent", fg=typer.colors.YELLOW)
+        for channel, success in results.items():
+            status = "✅" if success else "❌"
+            typer.echo(f"  {status} {channel}")
 
 
 @app.command("build-site")

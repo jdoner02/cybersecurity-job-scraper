@@ -28,8 +28,8 @@ class Settings(BaseSettings):
     # Tuning
     requests_timeout: int = Field(20, alias="REQUESTS_TIMEOUT")
     rate_limit_per_min: int = Field(10, alias="RATE_LIMIT_PER_MIN")
-    default_days: int = Field(2, alias="DEFAULT_DAYS")
-    results_limit: int = Field(50, alias="RESULTS_LIMIT")
+    default_days: int = Field(30, alias="DEFAULT_DAYS")
+    results_limit: int = Field(100, alias="RESULTS_LIMIT")
 
     # Paths
     repo_root: Path = Root
