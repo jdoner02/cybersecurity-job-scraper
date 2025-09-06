@@ -1,5 +1,131 @@
 [
   {
+    "job_id": "845012700",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Defense Health Agency",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "About the Position: This position is located in San Antonio, Texas, with the Defense Health Agency.",
+    "url": "https://www.usajobs.gov/job/845012700",
+    "posted_at": "2025-09-06T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845012700",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Defense Health Agency",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "About the Position: This position is located in San Antonio, Texas, with the Defense Health Agency.",
+    "url": "https://www.usajobs.gov/job/845012700",
+    "posted_at": "2025-09-06T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845179800",
+    "title": "General Attorney - Cybersecurity and Information Technology Law",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "Are you a client-focused cybersecurity and information technology law attorney? Are you excited to work on cutting-edge legal issues in a collaborative office while advancing USPTO's intellectual property mission? If so, then apply to join our team - we're excited to meet you!",
+    "url": "https://www.usajobs.gov/job/845179800",
+    "posted_at": "2025-09-05T14:40:37.510000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844909400",
+    "title": "Supervisory IT Cybersecurity Specialist",
+    "organization": "Defense Commissary Agency",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "As a GS-15 Supervisory IT Cybersecurity Specialist serving as the Cybersecurity Director, you will serve as the Principal advisor to the CIO for Cybersecurity matters and lead the DeCA Cybersecurity Directorate which provides oversight, testing and evaluation, and accreditation services to the Agency. You will be responsible for the development and maintenance of DeCA-wide cybersecurity plans, programs, policies, and procedures, subject to the approval of the DeCA Director and/or CIO.",
+    "url": "https://www.usajobs.gov/job/844909400",
+    "posted_at": "2025-09-05T13:16:52.690000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845153000",
+    "title": "Information Technology Specialist (Security) (Security)",
+    "organization": "Nuclear Regulatory Commission",
+    "locations": [
+      "Rockville, Maryland"
+    ],
+    "description": "This position is located in the U.S. Nuclear Regulatory Commission's (NRC), Office of Nuclear Security and Incident Response, Division of Physical and Cyber Security Policy Branch. The supervisor is Mario Fernandez. This position is Non Bargaining Unit. This position IS subject to Confidential Financial Disclosure reporting requirements. This position IS subject to security ownership restriction reporting requirements",
+    "url": "https://www.usajobs.gov/job/845153000",
+    "posted_at": "2025-09-05T12:35:59.323000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845121700",
+    "title": "Supervisory IT Specialist",
+    "organization": "Deputy Assistant Secretary for Information and Technology",
+    "locations": [
+      "New Lenox, Illinois"
+    ],
+    "description": "Join the Infrastructure Operations (IO) service line under OIT and be part of VA's digital transformation. IO serves as an operational service provider of foundational compute, storage, physical database, cloud platforms, and client management components. As a IT Specialist in IO, you will enhance the availability and reliability of VA's IT infrastructure and deliver quality IT services to Veterans and their families.",
+    "url": "https://www.usajobs.gov/job/845121700",
+    "posted_at": "2025-09-05T10:06:58.667000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845121700",
+    "title": "Supervisory IT Specialist",
+    "organization": "Deputy Assistant Secretary for Information and Technology",
+    "locations": [
+      "New Lenox, Illinois"
+    ],
+    "description": "Join the Infrastructure Operations (IO) service line under OIT and be part of VA's digital transformation. IO serves as an operational service provider of foundational compute, storage, physical database, cloud platforms, and client management components. As a IT Specialist in IO, you will enhance the availability and reliability of VA's IT infrastructure and deliver quality IT services to Veterans and their families.",
+    "url": "https://www.usajobs.gov/job/845121700",
+    "posted_at": "2025-09-05T10:06:58.667000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845111300",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Hot Springs, South Dakota"
+    ],
+    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
+    "url": "https://www.usajobs.gov/job/845111300",
+    "posted_at": "2025-09-05T09:02:53.270000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845110600",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Hot Springs, South Dakota"
+    ],
+    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
+    "url": "https://www.usajobs.gov/job/845110600",
+    "posted_at": "2025-09-05T08:58:56.610000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845088900",
     "title": "SUPV INFORMATION TECHNOLOGY SPECIALIST",
     "organization": "U.S. Pacific Fleet",
@@ -94,20 +220,6 @@
     "url": "https://www.usajobs.gov/job/844918800",
     "posted_at": "2025-09-05T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844909400",
-    "title": "Supervisory IT Cybersecurity Specialist",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "As a GS-15 Supervisory IT Cybersecurity Specialist serving as the Cybersecurity Director, you will serve as the Principal advisor to the CIO for Cybersecurity matters and lead the DeCA Cybersecurity Directorate which provides oversight, testing and evaluation, and accreditation services to the Agency. You will be responsible for the development and maintenance of DeCA-wide cybersecurity plans, programs, policies, and procedures, subject to the approval of the DeCA Director and/or CIO.",
-    "url": "https://www.usajobs.gov/job/844909400",
-    "posted_at": "2025-09-05T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -874,16 +986,16 @@
     "remote": null
   },
   {
-    "job_id": "844622100",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "United States Space Force",
+    "job_id": "844640900",
+    "title": "Biomedical Equipment Support Specialist  (BESS)",
+    "organization": "Veterans Health Administration",
     "locations": [
-      "Peterson AFB, Colorado"
+      "Fresno, California"
     ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/844622100",
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) at the Central California Healthcare System, in Fresno, CA. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/844640900",
     "posted_at": "2025-08-29T00:00:00",
-    "salary": "7-7",
+    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -997,34 +1109,6 @@
     "url": "https://www.usajobs.gov/job/844414300",
     "posted_at": "2025-08-27T09:07:39.607000",
     "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844409400",
-    "title": "Biomedical Equipment Support Specialist (Imaging)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Wilmington, Delaware"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/844409400",
-    "posted_at": "2025-08-27T08:49:03.320000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844408400",
-    "title": "Biomedical Equipment Support Specialist (Imaging)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Wilmington, Delaware"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/844408400",
-    "posted_at": "2025-08-27T08:41:25.047000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1301,62 +1385,6 @@
     "remote": null
   },
   {
-    "job_id": "843533400",
-    "title": "Biomedical Equipment Support Specialist (Imaging)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/843533400",
-    "posted_at": "2025-08-15T14:00:14.343000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843533400",
-    "title": "Biomedical Equipment Support Specialist (Imaging)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/843533400",
-    "posted_at": "2025-08-15T14:00:14.343000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843532600",
-    "title": "Biomedical Equipment Support Specialist (Imaging)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/843532600",
-    "posted_at": "2025-08-15T13:57:51.970000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843532600",
-    "title": "Biomedical Equipment Support Specialist (Imaging)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/843532600",
-    "posted_at": "2025-08-15T13:57:51.970000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "843472000",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -1366,34 +1394,6 @@
     "description": "This job opportunity is for a IT CYBERSECURITY SPECIALIST (INFOSEC), position descriptionPDD2792000 , within the NJ 204th INTEL SQ, National Guard. This vacancy announcement is a Title 32, Excepted Service position.",
     "url": "https://www.usajobs.gov/job/843472000",
     "posted_at": "2025-08-15T09:27:02.703000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843438000",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/INFOSEC)",
-    "organization": "Space Systems Command",
-    "locations": [
-      "Kirtland AFB, New Mexico"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to perform as the Directorate's developer for the planning, execution and reporting of Information Assurance (IA) and Cyber Security disciplines for the space ground and launch systems throughout the Innovation & Prototyping Acquisition Delta (SSC/SZI).",
-    "url": "https://www.usajobs.gov/job/843438000",
-    "posted_at": "2025-08-15T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843347400",
-    "title": "Electronics Engineer (Industrial Controls)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "New Cumberland Defense Logistics Center, Pennsylvania"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/843347400",
-    "posted_at": "2025-08-13T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null

@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "845179800",
+    "title": "General Attorney - Cybersecurity and Information Technology Law",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "Are you a client-focused cybersecurity and information technology law attorney? Are you excited to work on cutting-edge legal issues in a collaborative office while advancing USPTO's intellectual property mission? If so, then apply to join our team - we're excited to meet you!",
+    "url": "https://www.usajobs.gov/job/845179800",
+    "posted_at": "2025-09-05T14:40:37.510000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "844932500",
     "title": "Developer/AI Expert",
     "organization": "U.S. Courts",
@@ -80,34 +94,6 @@
     "url": "https://www.usajobs.gov/job/844406000",
     "posted_at": "2025-08-27T08:28:04.190000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844349400",
-    "title": "Operations Research Analyst",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Groton Submarine Base, Connecticut"
-    ],
-    "description": "You will serve as an OPERATIONS RESEARCH ANALYST in the ARTIFICAL INTELLIGENCE/MACHINE LEARNING (AI/ML) DEPARTMENT of UNDERSEA WARFIGHTING DEVELOPMENT CENTER.",
-    "url": "https://www.usajobs.gov/job/844349400",
-    "posted_at": "2025-08-27T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844261200",
-    "title": "Program Analyst - Informatics",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Kansas City, Missouri"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/844261200",
-    "posted_at": "2025-08-26T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
