@@ -210,20 +210,6 @@
     "remote": null
   },
   {
-    "job_id": "844918800",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
-    "organization": "Commander, Navy Installations",
-    "locations": [
-      "Pearl Harbor, Hawaii"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/844918800",
-    "posted_at": "2025-09-05T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845083200",
     "title": "Supervisory Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -308,6 +294,44 @@
     "url": "https://www.usajobs.gov/job/845061200",
     "posted_at": "2025-09-04T14:53:57.997000",
     "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845061200",
+    "title": "Auditor - Multiple Directorates & Locations",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Denver, Colorado",
+      "Carol Stream, Illinois",
+      "Woburn, Massachusetts",
+      "Bethesda, Maryland",
+      "Saint Charles, Missouri",
+      "Warrendale, Pennsylvania",
+      "Arlington, Virginia"
+    ],
+    "description": "Do you want to make an impact? The United States Postal Service Office of Inspector General (USPS OIG) is seeking highly qualified applicants to fill our Auditor positions across Office of Audit directorates and locations, including: Arlington, VA Bethesda, MD Carol Stream, IL Denver, CO St. Charles, MO Warrendale, PA Woburn, MO Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/845061200",
+    "posted_at": "2025-09-04T14:53:57.997000",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845058900",
+    "title": "Student Cooperative - Office of Audit - Retail, Sales, Network Ops, Strategic, and Audit Services",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Denver, Colorado",
+      "Carol Stream, Illinois",
+      "Woburn, Massachusetts",
+      "Bethesda, Maryland",
+      "Arlington, Virginia"
+    ],
+    "description": "Are you currently enrolled in a college or graduate program and seeking a valuable opportunity while you study? The Office of Audit within the U.S. Postal Service Office of Inspector General is looking for passionate and driven students for our Student Cooperative program. These opportunities will support multiple directorates in: Arlington, VA Bethesda, MD Carol Stream, IL Denver, CO Woburn, MA Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/845058900",
+    "posted_at": "2025-09-04T14:46:32.983000",
+    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -437,21 +461,6 @@
     "remote": null
   },
   {
-    "job_id": "844850400",
-    "title": "SUPV IT SPEC (SYSANALYSIS)",
-    "organization": "Defense Human Resources Activity",
-    "locations": [
-      "Seaside, California",
-      "Alexandria, Virginia"
-    ],
-    "description": "This position is part of the Defense Human Resources Activity. The incumbent will be responsible for the reliability, security, and performance of critical infrastructure supporting DoD ID card issuance systems. This role requires a strong technical background in Public Key Infrastructure (PKI), smart card technology, network engineering, and cybersecurity, with a growing understanding of Post-Quantum Cryptography (PQC).",
-    "url": "https://www.usajobs.gov/job/844850400",
-    "posted_at": "2025-09-03T07:15:27.520000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "844585600",
     "title": "IT Cybersecurity Specialist (APPSW)",
     "organization": "U.S. Army Intelligence and Security Command",
@@ -545,6 +554,21 @@
     "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
     "url": "https://www.usajobs.gov/job/844835200",
     "posted_at": "2025-09-02T17:07:27.593000",
+    "salary": "4-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844833000",
+    "title": "NSA 2026 Summer Language Program - Maryland and Hawaii",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Honolulu, Hawaii",
+      "Fort Meade, Maryland"
+    ],
+    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
+    "url": "https://www.usajobs.gov/job/844833000",
+    "posted_at": "2025-09-02T16:54:19.407000",
     "salary": "4-9",
     "grade": null,
     "remote": null
@@ -925,6 +949,34 @@
     "remote": null
   },
   {
+    "job_id": "844713600",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at the Hampton VA Medical Center. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/844713600",
+    "posted_at": "2025-08-29T14:35:47.760000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844713100",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at the Hampton VA Medical Center. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/844713100",
+    "posted_at": "2025-08-29T14:33:24.757000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "844713100",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -1053,20 +1105,6 @@
     "url": "https://www.usajobs.gov/job/844453800",
     "posted_at": "2025-08-28T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844423700",
-    "title": "DATA SCIENTIST",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Direct-Hire Auth (Cyber), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/844423700",
-    "posted_at": "2025-08-27T13:55:50.700000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1255,20 +1293,6 @@
     "remote": null
   },
   {
-    "job_id": "844112100",
-    "title": "Information Technology Specialist (SECURITY) - Direct Hiring Authority",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Eglin AFB, Florida"
-    ],
-    "description": "Veterans' preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to provide responsive cyberspace capabilities. Serves in the Communications Security (COMSEC) office by administering and managing the overall COMSEC program. Administers the Key Management Infrastructure (KMI) system. Performs site audits to protect critical National Security Information and cryptographic assets.",
-    "url": "https://www.usajobs.gov/job/844112100",
-    "posted_at": "2025-08-22T13:27:00.223000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "844098300",
     "title": "PUBLIC NOTICE for IT Cyber Security Specialist (INFOSEC) (Direct Hire)",
     "organization": "Transportation Security Administration",
@@ -1323,6 +1347,20 @@
     ],
     "description": "Who may apply: Current, permanent DoD Federal Employees in the competitive service, Priority Placement Program DoD Military Spouse Preference, PPP applicants, current DoD VRA employees, Veterans Employment Opportunities Act (VEOA), Military Spouse, Interagency Career Transition Assistance Plan (ICTAP). Position located in: I&T Directorate, Infrastructure Services, Security Operations Center, ZTDBC. This job announcement may be used to fill similar positions in the I&T Directorate.",
     "url": "https://www.usajobs.gov/job/844057300",
+    "posted_at": "2025-08-22T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844016000",
+    "title": "INTELLIGENCE SPECIALIST - ALTERNATE HIRE AUTHORITY",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Tinker AFB, Oklahoma"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as a Cyber Intelligence Analyst providing cyber threat analysis and analytic support to the production and sustainment of Air Force warfighting capabilities. Supports sustainment and improvement of AF capabilities by identifying cyber related threats and intelligence requirements and providing intelligence data and assessments in a timely/secure manner.",
+    "url": "https://www.usajobs.gov/job/844016000",
     "posted_at": "2025-08-22T00:00:00",
     "salary": "13-13",
     "grade": null,
@@ -1462,34 +1500,6 @@
     "url": "https://www.usajobs.gov/job/843035900",
     "posted_at": "2025-08-11T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "842719900",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Billings, Montana"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/842719900",
-    "posted_at": "2025-08-07T00:00:00",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "842719200",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Billings, Montana"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/842719200",
-    "posted_at": "2025-08-07T00:00:00",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   }
