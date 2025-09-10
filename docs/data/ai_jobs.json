@@ -124,33 +124,5 @@
     "salary": "00-00",
     "grade": null,
     "remote": null
-  },
-  {
-    "job_id": "843857400",
-    "title": "Data Scientist",
-    "organization": "U.S. Army Military Surface Deployment and Distribution Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Please limit your resume to 5 pages. If more than 5 pages are submitted, only the first 5 pages will be reviewed to determine your eligibility/qualifications. About the Position: The incumbent will serve as a Data Scientist and technical expert responsible for the application of operations research and advanced data analysis techniques and perform a wide range of complex analytical, mathematical and statistical research that inform operational requirements.",
-    "url": "https://www.usajobs.gov/job/843857400",
-    "posted_at": "2025-08-21T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843856900",
-    "title": "Data Scientist",
-    "organization": "U.S. Army Military Surface Deployment and Distribution Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for STEM Positions to recruit and appoint qualified candidates to positions in the competitive service. About the Position: The incumbent will serve as a Data Scientist and technical expert responsible for the application of operations research and advanced data analysis techniques and perform a wide range of complex analytical, mathematical and statistical research that inform operational requirements.",
-    "url": "https://www.usajobs.gov/job/843856900",
-    "posted_at": "2025-08-21T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
   }
 ]
