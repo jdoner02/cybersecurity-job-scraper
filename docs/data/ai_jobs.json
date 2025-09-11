@@ -1,15 +1,15 @@
 [
   {
-    "job_id": "845117500",
-    "title": "General Engineer, AST, Gas and Fluid Systems (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
+    "job_id": "845607600",
+    "title": "Director White Sands Complex Station",
+    "organization": "Headquarters, NASA",
     "locations": [
-      "Kennedy Space Center, Florida"
+      "Las Cruces, New Mexico"
     ],
-    "description": "As an AST, Gas and Fluids Engineer in the Propellants and Life Support division you will be responsible for planning, acquisition and control, including operational readiness and engineering support of fluids supply equipment, and facilities for cryogens, high pressure gases, hypergolic propellants, and life support. Your duties will also include monitoring and providing technical guidance to contractors engaged in this work.",
-    "url": "https://www.usajobs.gov/job/845117500",
-    "posted_at": "2025-09-08T00:00:00",
-    "salary": "11-13",
+    "description": "Serves as Director of Goddard Space Flight Center's White Sands Complex (WSC), located near Las Cruces, New Mexico, NASA's primary ground terminal for space communications, providing critical services for human spaceflight, science missions, and international partnerships. The Director of the WSC Station exercises full authority for station operations, contractor oversight, civil servant workforce leadership, infrastructure stewardship, mission assurance, and inter-agency coordination.",
+    "url": "https://www.usajobs.gov/job/845607600",
+    "posted_at": "2025-09-11T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -70,20 +70,6 @@
     "remote": null
   },
   {
-    "job_id": "844413400",
-    "title": "Chief Data and Information Officer",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Patrick AFB, Florida"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. This position is the Chief Data and Information Officer within Air Force Technical Applications Center (AFTAC), leading the development, enhancement, and sustainment of the Center's Information Technology (IT) architecture for enabling its national level mission.",
-    "url": "https://www.usajobs.gov/job/844413400",
-    "posted_at": "2025-08-28T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "844423700",
     "title": "DATA SCIENTIST",
     "organization": "Air Force Elements, U.S. Transportation Command",
@@ -94,20 +80,6 @@
     "url": "https://www.usajobs.gov/job/844423700",
     "posted_at": "2025-08-27T13:55:50.700000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844406000",
-    "title": "IT SPECIALIST (POLICY AND PLANNING/PLCYPLN)",
-    "organization": "Organization of the Joint Chiefs of Staff",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is being filled under DoD Modified Direct-Hire Auth (Certain DoD Personnel), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Organization of the Joint Chiefs of Staff. The incumbent serves as an Information Technology (IT)Specialist (Policy and Planning) and provides strategy, architecture, and guidance for Joint Staff (JS) Artificial Intelligence (AI) initiatives within the Department of Defense (DoD) AI domain.",
-    "url": "https://www.usajobs.gov/job/844406000",
-    "posted_at": "2025-08-27T08:28:04.190000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
