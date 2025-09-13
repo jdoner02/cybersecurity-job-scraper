@@ -1,5 +1,135 @@
 [
   {
+    "job_id": "845862100",
+    "title": "IT CYBERSECURITY SPECIALIST",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Huntsville, Alabama",
+      "Phoenix, Arizona",
+      "Cypress, California",
+      "Fremont, California",
+      "Pasadena, California",
+      "San Diego, California",
+      "Suisun City, California",
+      "Colorado Springs, Colorado",
+      "Denver, Colorado",
+      "Melbourne, Florida",
+      "Oviedo, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Augusta, Georgia",
+      "Downers Grove, Illinois",
+      "Fairview Heights, Illinois",
+      "Andover, Massachusetts",
+      "Hanover, Maryland",
+      "Livonia, Michigan",
+      "Dayton, Ohio",
+      "Charleston, South Carolina",
+      "Farmers Branch, Texas",
+      "Irving, Texas",
+      "San Antonio, Texas",
+      "Alexandria, Virginia",
+      "Herndon, Virginia",
+      "Quantico, Virginia",
+      "Virginia Beach, Virginia",
+      "Tacoma, Washington"
+    ],
+    "description": "Excel as a Technology Reviewer on DCSA's Cyber Operational Readiness Assessment (CORA) Team. Conduct advanced security assessments using STIGs, provide expert analysis, and strengthen national cyber defense. Build specialized expertise, shape solutions to complex risks, and advance your career as part of the Gatekeepers of America's Security.",
+    "url": "https://www.usajobs.gov/job/845862100",
+    "posted_at": "2025-09-12T14:27:25.123000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845867600",
+    "title": "Director of Data and Future Technology Division",
+    "organization": "United States Space Force Forces",
+    "locations": [
+      "Dayton, Ohio"
+    ],
+    "description": "To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
+    "url": "https://www.usajobs.gov/job/845867600",
+    "posted_at": "2025-09-12T14:23:14.900000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845859900",
+    "title": "PUBLIC NOTICE for IT Cybersecurity Specialist (Direct Hire)",
+    "organization": "Transportation Security Administration",
+    "locations": [
+      "Colorado Springs, Colorado"
+    ],
+    "description": "Securing Travel, Protecting People - At the Transportation Security Administration, you will serve in a high-stakes environment to safeguard the American way of life. In cities across the country, you would secure airports, seaports, railroads, highways, and/or public transit systems, thus protecting America's transportation infrastructure and ensuring freedom of movement for people and commerce.",
+    "url": "https://www.usajobs.gov/job/845859900",
+    "posted_at": "2025-09-12T13:52:37.297000",
+    "salary": "I-J",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845833200",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Norfolk, Virginia"
+    ],
+    "description": "This position is located in the Department of Homeland Security (DHS), United States Coast Guard (USCG), Shore Infrastructure Logistics Center (SILC), Business Operations Division located in Norfolk, VA.",
+    "url": "https://www.usajobs.gov/job/845833200",
+    "posted_at": "2025-09-12T11:58:24.733000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845779400",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. Position is located in IT DIR OFFICE, ACCOUNTING SERVICES, ENTERPRISE SYSTEMS, EFD SYSTEMS SUSTAINMENT BR, ZTCFD. This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
+    "url": "https://www.usajobs.gov/job/845779400",
+    "posted_at": "2025-09-12T09:30:23.243000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845789800",
+    "title": "Chief Product and Technology Officer ",
+    "organization": "Department of Transportation - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Chief Information Officer (CIO) leads the Office of the Chief Information Officer (OCIO) organization and serves as the principal advisor to the Secretary of Transportation and DOT Operating Administrations on matters involving information technology (IT), information assurance - cybersecurity, privacy, and records management; portfolio management; IT infrastructure and operations; IT innovation and emerging technologies; enterprise date management; applications and digital solutions.",
+    "url": "https://www.usajobs.gov/job/845789800",
+    "posted_at": "2025-09-12T09:13:52.390000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845780800",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. Position is located in IT DIR OFFICE; INFO AND TECH ENTERPRISE SERVICES, CLOUD PROJECT MGMT OFC, ZTAJ. This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
+    "url": "https://www.usajobs.gov/job/845780800",
+    "posted_at": "2025-09-12T08:14:22.640000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845723600",
     "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
     "organization": "Commander, Navy Installations",
@@ -42,16 +172,16 @@
     "remote": null
   },
   {
-    "job_id": "845617300",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
+    "job_id": "845668400",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
     "locations": [
-      "Fort Meade, Maryland"
+      "Sheppard AFB, Texas"
     ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA J6(GSVC)/ENDPOINT & CUSTOMER SVC DIRECTORATE.",
-    "url": "https://www.usajobs.gov/job/845617300",
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
+    "url": "https://www.usajobs.gov/job/845668400",
     "posted_at": "2025-09-12T00:00:00",
-    "salary": "12-12",
+    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -126,20 +256,6 @@
     "remote": null
   },
   {
-    "job_id": "845720600",
-    "title": "Deputy Assistant Administrator Information Systems Division",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "Serves as the Deputy Assistant Administrator (DAA) and Deputy Chief Information Officer for the Information Systems Division (TC) with full technical responsibility for leading the management, administration and execution of the development, implementation and operation of program policies and procedures pertaining to the Drug Enforcement Administration's (DEA) Information Technology Program (IT). The IT Program supports all domestic and foreign DEA offices located around the world.",
-    "url": "https://www.usajobs.gov/job/845720600",
-    "posted_at": "2025-09-11T14:55:56.920000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845689400",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -166,6 +282,20 @@
     "url": "https://www.usajobs.gov/job/845686900",
     "posted_at": "2025-09-11T12:47:36.743000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845260400",
+    "title": "IT SPECIALIST/ ADVANCED PROGRAMS CISSM",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "China Lake, California"
+    ],
+    "description": "You will serve as an IT Specialist/ Advanced Programs CISSM in the Corporate Business & Analysis Group, Digital, Information Technologym Analysis & Cyber Department of NAVAIRWARCENWPNDIV CHINA LAKE.",
+    "url": "https://www.usajobs.gov/job/845260400",
+    "posted_at": "2025-09-11T12:41:12.043000",
+    "salary": "5-6",
     "grade": null,
     "remote": null
   },
@@ -252,6 +382,20 @@
     "url": "https://www.usajobs.gov/job/845629500",
     "posted_at": "2025-09-11T08:26:09.473000",
     "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845720600",
+    "title": "Deputy Assistant Administrator, Information Systems Division",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "Serves as the Deputy Assistant Administrator (DAA) and Deputy Chief Information Officer for the Information Systems Division (TC) with full technical responsibility for leading the management, administration and execution of the development, implementation and operation of program policies and procedures pertaining to the Drug Enforcement Administration's (DEA) Information Technology Program (IT). The IT Program supports all domestic and foreign DEA offices located around the world.",
+    "url": "https://www.usajobs.gov/job/845720600",
+    "posted_at": "2025-09-11T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -357,6 +501,20 @@
     "remote": null
   },
   {
+    "job_id": "845512500",
+    "title": "IT CYBER SPEC (APPSW), GS-2210-12  Direct Hire",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Elizabeth City, North Carolina"
+    ],
+    "description": "This position is located in the Department of Homeland Security (DHS), U.S. Coast Guard, Aviation Logistics Center (ALC), Information Systems Division, Applications Branch, Elizabeth City, NC",
+    "url": "https://www.usajobs.gov/job/845512500",
+    "posted_at": "2025-09-10T10:34:59.307000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845484400",
     "title": "IT Cybersecurity Specialist (PLCYPLN)",
     "organization": "Defense Logistics Agency",
@@ -406,6 +564,20 @@
     "remote": null
   },
   {
+    "job_id": "845427000",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "U.S. Pacific Fleet",
+    "locations": [
+      "Dam Neck Naval Facility, Virginia Beach, Virginia"
+    ],
+    "description": "You will serve as an INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) in the COMMUNICATIONS DIRECTORATE (N6) of NAVAL OCEAN PROCESS FACILITY DAM NECK. This is a RE-ADVERTISEMENT of Announcement Number: ST-12779693-25-JLK. Applicants that have previously applied NEED to re-apply to this announcement.",
+    "url": "https://www.usajobs.gov/job/845427000",
+    "posted_at": "2025-09-10T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845401100",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Mobility Command",
@@ -414,6 +586,34 @@
     ],
     "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and more.",
     "url": "https://www.usajobs.gov/job/845401100",
+    "posted_at": "2025-09-10T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845401100",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Travis AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and more.",
+    "url": "https://www.usajobs.gov/job/845401100",
+    "posted_at": "2025-09-10T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845378200",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Travis AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and more.",
+    "url": "https://www.usajobs.gov/job/845378200",
     "posted_at": "2025-09-10T00:00:00",
     "salary": "6-6",
     "grade": null,
@@ -459,6 +659,34 @@
     "url": "https://www.usajobs.gov/job/844760900",
     "posted_at": "2025-09-09T10:46:59.877000",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844760900",
+    "title": "Information Technology Specialist (Security)",
+    "organization": "Administrative Office of the U.S. Courts",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located within the Department of Technology Services (DTS), Information Technology Security Office (ITSO). The candidates will be responsible for leading threat detection and incident coordination efforts within ITSO's 24/7 Security Operations Center and are empowered to task and direct all incident response activities in support of defensive cyber operations internal defense measures.",
+    "url": "https://www.usajobs.gov/job/844760900",
+    "posted_at": "2025-09-09T10:46:59.877000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845374900",
+    "title": "Information Technology Security Specialist",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
+    "url": "https://www.usajobs.gov/job/845374900",
+    "posted_at": "2025-09-09T10:22:31.523000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -554,20 +782,6 @@
     "remote": null
   },
   {
-    "job_id": "845295400",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA - OC/JOINT STAFF SUPPORT CENTER.",
-    "url": "https://www.usajobs.gov/job/845295400",
-    "posted_at": "2025-09-09T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845286100",
     "title": "IT Specialist (INFOSEC/CUSTSPT)",
     "organization": "Federal Election Commission",
@@ -592,6 +806,20 @@
     "url": "https://www.usajobs.gov/job/845263100",
     "posted_at": "2025-09-09T00:00:00",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845251300",
+    "title": "IT SPECIALIST (SECURITY)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serves as the conduit, technical focal point for the AF Intelligence Community Delegated Authorizing Official Software, 625 ACOMS Special Mission Flight. Duties involve ensuring the confidentiality, integrity, availability of network, systems, data through the evaluation, mitigation. HQ 25AF, 625 th Air Comm Sqn, Special Missions Flight, JBSA-Lackland AFB, TX",
+    "url": "https://www.usajobs.gov/job/845251300",
+    "posted_at": "2025-09-09T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -778,34 +1006,6 @@
     "remote": null
   },
   {
-    "job_id": "845036300",
-    "title": "IT Cybersecurity Specialist (INFOSEC) - Insider Risk Data Analyst",
-    "organization": "Homeland Security Staff",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is in the National Security Division (NSD) in the Office of Homeland Security (OHS), United States Department of Agriculture (USDA). As an Insider Risk Data Analyst, the incumbent will leverage User Activity Monitoring (UAM) tools and other data analytics to identify and analyze potential insider risks to the Department.",
-    "url": "https://www.usajobs.gov/job/845036300",
-    "posted_at": "2025-09-08T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "845033900",
-    "title": "IT Cybersecurity Specialist (INFOSEC) - Insider Risk Data Analyst",
-    "organization": "Homeland Security Staff",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is in the National Security Division (NSD) in the Office of Homeland Security (OHS), United States Department of Agriculture (USDA). As an Insider Risk Data Analyst, the incumbent will leverage User Activity Monitoring (UAM) tools and other data analytics to identify and analyze potential insider risks to the Department.",
-    "url": "https://www.usajobs.gov/job/845033900",
-    "posted_at": "2025-09-08T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845179800",
     "title": "General Attorney - Cybersecurity and Information Technology Law",
     "organization": "Patent and Trademark Office",
@@ -816,48 +1016,6 @@
     "url": "https://www.usajobs.gov/job/845179800",
     "posted_at": "2025-09-05T14:40:37.510000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844909400",
-    "title": "Supervisory IT Cybersecurity Specialist",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "As a GS-15 Supervisory IT Cybersecurity Specialist serving as the Cybersecurity Director, you will serve as the Principal advisor to the CIO for Cybersecurity matters and lead the DeCA Cybersecurity Directorate which provides oversight, testing and evaluation, and accreditation services to the Agency. You will be responsible for the development and maintenance of DeCA-wide cybersecurity plans, programs, policies, and procedures, subject to the approval of the DeCA Director and/or CIO.",
-    "url": "https://www.usajobs.gov/job/844909400",
-    "posted_at": "2025-09-05T13:16:52.690000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "845111300",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Hot Springs, South Dakota"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
-    "url": "https://www.usajobs.gov/job/845111300",
-    "posted_at": "2025-09-05T09:02:53.270000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "845110600",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Hot Springs, South Dakota"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
-    "url": "https://www.usajobs.gov/job/845110600",
-    "posted_at": "2025-09-05T08:58:56.610000",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -990,20 +1148,6 @@
     "remote": null
   },
   {
-    "job_id": "844869800",
-    "title": "Stokes Educational Scholarship Program - STEM (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "The National Security Agency (NSA) is currently accepting applications from across the country for the Stokes Educational Scholarship Program. This tuition assistance program is looking for high school seniors who are interested in pursuing degrees in Computer Science, Mathematics, Cybersecurity, and Computer or Electrical Engineering. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1248544",
-    "url": "https://www.usajobs.gov/job/844869800",
-    "posted_at": "2025-09-03T10:00:00.783000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "844866400",
     "title": "NSA Summer 2026 Internship Program",
     "organization": "National Security Agency/Central Security Service",
@@ -1017,62 +1161,6 @@
     "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working directly in NSA spaces.",
     "url": "https://www.usajobs.gov/job/844866400",
     "posted_at": "2025-09-03T09:46:10.470000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844585600",
-    "title": "IT Cybersecurity Specialist (APPSW)",
-    "organization": "U.S. Army Intelligence and Security Command",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "About the Position: This position is in the Defense Civilian Intelligence Personnel System (DCIPS). Employees occupying DCIPS positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the 780th Military Intelligence Brigade, Operations Support Element (OSE) located in Fort Meade, Maryland.",
-    "url": "https://www.usajobs.gov/job/844585600",
-    "posted_at": "2025-09-03T06:15:25.943000",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844453700",
-    "title": "Supervisory IT Cybersecurity Specialist (APPSW)",
-    "organization": "U.S. Army Intelligence and Security Command",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "About the Position: This position is in the Defense Civilian Intelligence Personnel System (DCIPS). Employees occupying DCIPS positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. The position is with the 780th Military Intelligence Brigade, Operations Support Element (OSE), located at Fort George G. Meade, Maryland.",
-    "url": "https://www.usajobs.gov/job/844453700",
-    "posted_at": "2025-09-03T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844835200",
-    "title": "NSA Summer 2026 STEM Internship Programs - Maryland",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844835200",
-    "posted_at": "2025-09-02T17:07:27.593000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844835200",
-    "title": "NSA Summer 2026 STEM Internship Programs - Maryland",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844835200",
-    "posted_at": "2025-09-02T17:07:27.593000",
     "salary": "4-9",
     "grade": null,
     "remote": null
@@ -1108,55 +1196,6 @@
     "remote": null
   },
   {
-    "job_id": "844811200",
-    "title": "IT Specialist (APPLICATIONS SOFTWARE)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/844811200",
-    "posted_at": "2025-09-02T14:51:36.123000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844806000",
-    "title": "NSA Summer 2026 Corporate Operations Internship Programs - Maryland",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844806000",
-    "posted_at": "2025-09-02T14:30:12.363000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844806000",
-    "title": "NSA Summer 2026 Corporate Operations Internship Programs - Maryland",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844806000",
-    "posted_at": "2025-09-02T14:30:12.363000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "844756600",
     "title": "SUPERVISORY IT PROJECT MANAGER (INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -1181,6 +1220,34 @@
     "url": "https://www.usajobs.gov/job/844748700",
     "posted_at": "2025-09-02T08:39:43.627000",
     "salary": "3-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844748700",
+    "title": "Cooperative Education Program",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA's Cooperative Education (Co-op) Program offers students exciting, impactful professional work opportunities (with pay and benefits!) to grow their knowledge of the Intelligence Community and federal government while advancing NSA's two primary missions: 1) Collecting, analyzing, and producing foreign signals intelligence; and 2) Providing cybersecurity solutions and guidance to protect critical national infrastructure.",
+    "url": "https://www.usajobs.gov/job/844748700",
+    "posted_at": "2025-09-02T08:39:43.627000",
+    "salary": "3-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844835200",
+    "title": "NSA Summer 2026 STEM Internship Programs - Maryland",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
+    "url": "https://www.usajobs.gov/job/844835200",
+    "posted_at": "2025-09-02T00:00:00",
+    "salary": "4-9",
     "grade": null,
     "remote": null
   },
@@ -1239,6 +1306,20 @@
     "url": "https://www.usajobs.gov/job/844806200",
     "posted_at": "2025-09-02T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "844806000",
+    "title": "NSA Summer 2026 Corporate Operations Internship Programs - Maryland",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
+    "url": "https://www.usajobs.gov/job/844806000",
+    "posted_at": "2025-09-02T00:00:00",
+    "salary": "4-9",
     "grade": null,
     "remote": null
   },
@@ -1309,34 +1390,6 @@
     "url": "https://www.usajobs.gov/job/844713100",
     "posted_at": "2025-08-29T14:33:24.757000",
     "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844612300",
-    "title": "SUPERVISORY TECHNICIAN",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "You will serve as a SUPERVISORY TECHNICIAN in the CYBERSECURITY & SOFTWARE ENGINEERING DIVISION, DIGITAL ENGINEERING DEPARTMENT of NAVAL SURFACE WARFARE CENTER.",
-    "url": "https://www.usajobs.gov/job/844612300",
-    "posted_at": "2025-08-29T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844612300",
-    "title": "SUPERVISORY TECHNICIAN",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "You will serve as a SUPERVISORY TECHNICIAN in the CYBERSECURITY & SOFTWARE ENGINEERING DIVISION, DIGITAL ENGINEERING DEPARTMENT of NAVAL SURFACE WARFARE CENTER.",
-    "url": "https://www.usajobs.gov/job/844612300",
-    "posted_at": "2025-08-29T00:00:00",
-    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -1442,20 +1495,6 @@
     "remote": null
   },
   {
-    "job_id": "843536000",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)-Direct Hire Authority",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Eglin AFB, Florida"
-    ],
-    "description": "Veteran's preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to serve as the Information System Security Manager which is responsible for the Cybersecurity posture of the Eglin classified and unclassified base network enclaves.",
-    "url": "https://www.usajobs.gov/job/843536000",
-    "posted_at": "2025-08-18T06:49:13.650000",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "843472000",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -1466,41 +1505,6 @@
     "url": "https://www.usajobs.gov/job/843472000",
     "posted_at": "2025-08-15T09:27:02.703000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843285900",
-    "title": "Information Technology Specialist (INFOSEC) (Direct Hire)",
-    "organization": "Internal Revenue Service",
-    "locations": [
-      "Fresno, California",
-      "Washington, District of Columbia",
-      "Jacksonville, Florida",
-      "Chamblee, Georgia",
-      "Chamblee, Georgia",
-      "Fairview Heights, Illinois",
-      "Covington, Kentucky",
-      "Lanham, Maryland",
-      "Detroit, Michigan",
-      "Kansas City, Missouri",
-      "Saint Louis, Missouri",
-      "Charlotte, North Carolina",
-      "Holtsville, New York",
-      "Philadelphia, Pennsylvania",
-      "Guaynabo, Puerto Rico",
-      "San Juan, Puerto Rico",
-      "Memphis, Tennessee",
-      "Austin, Texas",
-      "Austin, Texas",
-      "Farmers Branch, Texas",
-      "Ogden, Utah",
-      "Kearneysville, West Virginia"
-    ],
-    "description": "Positions under this announcement are being filled using a Direct Hire Authority (DHA). Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. WHERE CAN I FIND OUT MORE ABOUT OTHER IRS CAREERS? Visit us on the web at www.jobs.irs.gov",
-    "url": "https://www.usajobs.gov/job/843285900",
-    "posted_at": "2025-08-13T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   }
