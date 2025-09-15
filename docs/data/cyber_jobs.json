@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "845874000",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Bureau of Naval Personnel",
+    "locations": [
+      "Annapolis, Maryland"
+    ],
+    "description": "You will serve as an IT SPECIALIST (INFOSEC) at the U.S. NAVAL ACADEMY.",
+    "url": "https://www.usajobs.gov/job/845874000",
+    "posted_at": "2025-09-15T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845779800",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA Operations Division.",
+    "url": "https://www.usajobs.gov/job/845779800",
+    "posted_at": "2025-09-15T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845775100",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA RISK MANAGEMENT DIRECTORATE - CLOUD ASSESSMENT DIVISION.",
+    "url": "https://www.usajobs.gov/job/845775100",
+    "posted_at": "2025-09-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845722600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Orlando Naval Warfare Center, Florida"
+    ],
+    "description": "You will serve as an IT Cybersecurity Specialist (INFOSEC) in the Cyber Department of NAWCTSD ORLANDO.",
+    "url": "https://www.usajobs.gov/job/845722600",
+    "posted_at": "2025-09-15T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845862100",
     "title": "IT CYBERSECURITY SPECIALIST",
     "organization": "Defense Counterintelligence and Security Agency",
@@ -186,6 +242,20 @@
     "remote": null
   },
   {
+    "job_id": "845682300",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN/SYSANALYSIS)",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Ramstein, Germany"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. To serve as supervisor for the planning, directing, organizing, and exercising control over nonsupervisory command, control, communications, and computers (C4) positions within the Global Command and Control System (GCCS) theater operations branch, monitor for GCCS plans, policies, procedures, and requirements and implementation for USAFE.",
+    "url": "https://www.usajobs.gov/job/845682300",
+    "posted_at": "2025-09-12T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845668400",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -252,6 +322,20 @@
     "url": "https://www.usajobs.gov/job/845583100",
     "posted_at": "2025-09-12T00:00:00",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845734200",
+    "title": "SENIOR OFFICER-ASSOCIATE DIRECTOR",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Division of Examinations (Exams) is seeking to fill the position of Associate Director in the Technology Controls Program. This position is located in Washington, DC and is open to current SEC employees in the Division of Examinations.",
+    "url": "https://www.usajobs.gov/job/845734200",
+    "posted_at": "2025-09-11T15:33:26.050000",
+    "salary": "1-1",
     "grade": null,
     "remote": null
   },
@@ -595,6 +679,20 @@
     "url": "https://www.usajobs.gov/job/845427000",
     "posted_at": "2025-09-10T00:00:00",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845401100",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Travis AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and more.",
+    "url": "https://www.usajobs.gov/job/845401100",
+    "posted_at": "2025-09-10T00:00:00",
+    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -1144,72 +1242,6 @@
     "remote": null
   },
   {
-    "job_id": "844866400",
-    "title": "NSA Summer 2026 Internship Program",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Denver, Colorado",
-      "Fort Gordon, Georgia",
-      "Kunia, Hawaii",
-      "San Antonio, Texas",
-      "Draper, Utah"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working directly in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844866400",
-    "posted_at": "2025-09-03T09:46:10.470000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844866400",
-    "title": "NSA Summer 2026 Internship Program",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Denver, Colorado",
-      "Fort Gordon, Georgia",
-      "Kunia, Hawaii",
-      "San Antonio, Texas",
-      "Draper, Utah"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working directly in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844866400",
-    "posted_at": "2025-09-03T09:46:10.470000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844833000",
-    "title": "NSA 2026 Summer Language Program - Maryland and Hawaii",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Honolulu, Hawaii",
-      "Fort Meade, Maryland"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844833000",
-    "posted_at": "2025-09-02T16:54:19.407000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844817800",
-    "title": "NSA 2026 Intelligence Analysis Summer Internship Program - Maryland and Hawaii",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Honolulu, Hawaii",
-      "Fort Meade, Maryland"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844817800",
-    "posted_at": "2025-09-02T15:25:39.347000",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "844756600",
     "title": "SUPERVISORY IT PROJECT MANAGER (INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -1350,34 +1382,6 @@
     "remote": null
   },
   {
-    "job_id": "844423700",
-    "title": "DATA SCIENTIST",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Direct-Hire Auth (Cyber), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/844423700",
-    "posted_at": "2025-08-27T13:55:50.700000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844423700",
-    "title": "DATA SCIENTIST",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Direct-Hire Auth (Cyber), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/844423700",
-    "posted_at": "2025-08-27T13:55:50.700000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "844414300",
     "title": "HR SPEC (MILITARY) (Title 5)",
     "organization": "Air National Guard Units",
@@ -1490,20 +1494,6 @@
     "url": "https://www.usajobs.gov/job/843536000",
     "posted_at": "2025-08-18T06:49:13.650000",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "843472000",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "McGuire AFB, New Jersey"
-    ],
-    "description": "This job opportunity is for a IT CYBERSECURITY SPECIALIST (INFOSEC), position descriptionPDD2792000 , within the NJ 204th INTEL SQ, National Guard. This vacancy announcement is a Title 32, Excepted Service position.",
-    "url": "https://www.usajobs.gov/job/843472000",
-    "posted_at": "2025-08-15T09:27:02.703000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   }

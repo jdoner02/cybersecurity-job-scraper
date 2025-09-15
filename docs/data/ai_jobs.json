@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "845792200",
+    "title": "Supervisory Data Scientist",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management (HRM), Planning, Program Analysis and Evaluation Directorate, People Analytics Division located in Washington, DC.",
+    "url": "https://www.usajobs.gov/job/845792200",
+    "posted_at": "2025-09-15T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845870800",
     "title": "Procurement Analyst-Direct Hire Authority",
     "organization": "Air Force Materiel Command",
@@ -96,20 +110,6 @@
     "url": "https://www.usajobs.gov/job/844543000",
     "posted_at": "2025-08-28T09:30:38.827000",
     "salary": "05-05",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844423700",
-    "title": "DATA SCIENTIST",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Direct-Hire Auth (Cyber), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/844423700",
-    "posted_at": "2025-08-27T13:55:50.700000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
