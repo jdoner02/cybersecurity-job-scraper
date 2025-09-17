@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "846087500",
+    "title": "Research Scientist/Computer Systems Researcher - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Are you looking to apply your computer science and other technical expertise to develop technologies and tools and be a part of cutting edge innovations? NSA is in search of Research Scientists and Senior Research Scientists to solve complex problems, test innovative approaches and research new solutions to make the U.S. and its allies safer and more secure. Help protect national security interests as part of the world's most advanced team of computer science professionals.",
+    "url": "https://www.usajobs.gov/job/846087500",
+    "posted_at": "2025-09-16T11:29:18.720000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "845943500",
     "title": "Intelligence Research Specialist  (Cyber Threat Analyst)",
     "organization": "Treasury, Financial Crimes Enforcement Network",
@@ -77,52 +91,6 @@
     "remote": null
   },
   {
-    "job_id": "845961700",
-    "title": "IT Specialist (SYS ANALYSIS) (Product Manager), GS-2210-15 (Direct Hire - NTE 4 Years)",
-    "organization": "Federal Student Aid",
-    "locations": [
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas",
-      "Seattle, Washington"
-    ],
-    "description": "The position is located in the Department of Education, Federal Student Aid. As a Product Manager, you will assist in transforming how millions of students and families access financial aid and play a vital role in implementing the One Big Beautiful Bill Act (OBBBA).",
-    "url": "https://www.usajobs.gov/job/845961700",
-    "posted_at": "2025-09-15T11:45:55.460000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "845960200",
-    "title": "IT Specialist (SYS ANALYSIS) (Product Manager), GS-2210-15 (Direct Hire)",
-    "organization": "Federal Student Aid",
-    "locations": [
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas",
-      "Seattle, Washington"
-    ],
-    "description": "The position is located in the Department of Education, Federal Student Aid. As a Product Manager, you will assist in transforming how millions of students and families access financial aid and play a vital role in implementing the One Big Beautiful Bill Act (OBBBA).",
-    "url": "https://www.usajobs.gov/job/845960200",
-    "posted_at": "2025-09-15T11:40:02.193000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845924900",
     "title": "IT Specialist (APPSW)",
     "organization": "Defense Logistics Agency",
@@ -140,6 +108,29 @@
     "url": "https://www.usajobs.gov/job/845924900",
     "posted_at": "2025-09-15T08:20:37.317000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "845961700",
+    "title": "IT Specialist (SYS ANALYSIS) (Product Manager), GS-2210-15 (Direct Hire - NTE 13 Months)",
+    "organization": "Federal Student Aid",
+    "locations": [
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Dallas, Texas",
+      "Seattle, Washington"
+    ],
+    "description": "The position is located in the Department of Education, Federal Student Aid. As a Product Manager, you will assist in transforming how millions of students and families access financial aid and play a vital role in implementing the One Big Beautiful Bill Act (OBBBA).",
+    "url": "https://www.usajobs.gov/job/845961700",
+    "posted_at": "2025-09-15T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
