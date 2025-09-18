@@ -42,27 +42,6 @@
     "remote": null
   },
   {
-    "job_id": "846013900",
-    "title": "Lead IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/846013900",
-    "posted_at": "2025-09-15T15:23:57.913000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846011900",
     "title": "ELECTRICAL ENGINEER",
     "organization": "Export-Import Bank of the United States",
@@ -107,6 +86,27 @@
     "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
     "url": "https://www.usajobs.gov/job/845924900",
     "posted_at": "2025-09-15T08:20:37.317000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846013900",
+    "title": "Lead IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
+    "url": "https://www.usajobs.gov/job/846013900",
+    "posted_at": "2025-09-15T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -201,7 +201,7 @@
     ],
     "description": "Are you a client-focused cybersecurity and information technology law attorney? Are you excited to work on cutting-edge legal issues in a collaborative office while advancing USPTO's intellectual property mission? If so, then apply to join our team - we're excited to meet you!",
     "url": "https://www.usajobs.gov/job/845179800",
-    "posted_at": "2025-09-05T14:40:37.510000",
+    "posted_at": "2025-09-05T00:00:00",
     "salary": "15-15",
     "grade": null,
     "remote": null
