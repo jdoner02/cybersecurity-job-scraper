@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "846386800",
+    "title": "Information Technology Analyst (Audit) - Technology Operations Directorate",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "Do you want to make an impact? The United States Postal Service Office of Inspector General (USPS OIG) is seeking a highly qualified applicant to fill our Information Technology Analyst (Audit) position within the Office of Audit's Technology Operations Directorate. This opportunity is located in: San Antonio, Texas Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/846386800",
+    "posted_at": "2025-09-18T15:16:43.117000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846344600",
+    "title": "Software Engineer - Entry to Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
+    "url": "https://www.usajobs.gov/job/846344600",
+    "posted_at": "2025-09-18T12:47:30.613000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "846087500",
     "title": "Research Scientist/Computer Systems Researcher - Mid to Expert Level (Maryland)",
     "organization": "National Security Agency/Central Security Service",
@@ -86,27 +114,6 @@
     "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
     "url": "https://www.usajobs.gov/job/845924900",
     "posted_at": "2025-09-15T08:20:37.317000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846013900",
-    "title": "Lead IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/846013900",
-    "posted_at": "2025-09-15T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -231,20 +238,6 @@
     "url": "https://www.usajobs.gov/job/844835200",
     "posted_at": "2025-09-02T00:00:00",
     "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844543000",
-    "title": "BRANCH HEAD, HR, POLICY & OPERATIONS NF5",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
-    "url": "https://www.usajobs.gov/job/844543000",
-    "posted_at": "2025-08-28T09:30:38.827000",
-    "salary": "05-05",
     "grade": null,
     "remote": null
   },
