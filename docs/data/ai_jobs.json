@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "846497500",
+    "title": "Medical Records Technician (Clinical Documentation Improvement Specialist) CDIS-Outpatient",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "The Medical Records Technicians (RTs)-(Clinical Documentation Integrity Specialists) are skilled in classifying medical data from patient health records in the hospital setting, and/or physician-based settings, such as physician offices, group practices, multi-specialty clinics, and specialty centers. These Clinical Documentation Integrity Specialists (CDIS) analyze and abstract patients' health records and assign alpha-numeric codes for each diagnosis and procedure.",
+    "url": "https://www.usajobs.gov/job/846497500",
+    "posted_at": "2025-09-19T14:14:34.537000",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "846386800",
     "title": "Information Technology Analyst (Audit) - Technology Operations Directorate",
     "organization": "Office of the Inspector General, USPS",
@@ -142,20 +156,6 @@
     "remote": null
   },
   {
-    "job_id": "845792200",
-    "title": "Supervisory Data Scientist",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management (HRM), Planning, Program Analysis and Evaluation Directorate, People Analytics Division located in Washington, DC.",
-    "url": "https://www.usajobs.gov/job/845792200",
-    "posted_at": "2025-09-15T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845870800",
     "title": "Procurement Analyst-Direct Hire Authority",
     "organization": "Air Force Materiel Command",
@@ -166,22 +166,6 @@
     "url": "https://www.usajobs.gov/job/845870800",
     "posted_at": "2025-09-12T14:35:00.973000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "845686900",
-    "title": "IT Cybersecurity Specialist",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 New Cumberland, PA: $142,488- $185,234",
-    "url": "https://www.usajobs.gov/job/845686900",
-    "posted_at": "2025-09-11T12:47:36.743000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
