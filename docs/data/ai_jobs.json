@@ -224,19 +224,5 @@
     "salary": "4-9",
     "grade": null,
     "remote": null
-  },
-  {
-    "job_id": "843960800",
-    "title": "Deputy Assistant Director/Deputy Chief Information Technology Officer (DCIO)",
-    "organization": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "ATF is a law enforcement agency in the U.S. Department of Justice that protects our communities from violent criminals/criminal organizations, illegal use/trafficking of firearms, illegal use/storage of explosives, acts of arson/bombings, acts of terrorism, and illegal diversion of alcohol/tobacco products. We partner with communities, industries, law enforcement, and public safety agencies to safeguard the public through information sharing, training, research, & technology. Visit www.atf.gov",
-    "url": "https://www.usajobs.gov/job/843960800",
-    "posted_at": "2025-08-21T10:47:29.777000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
   }
 ]
