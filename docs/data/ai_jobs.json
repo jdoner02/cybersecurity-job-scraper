@@ -1,15 +1,15 @@
 [
   {
-    "job_id": "846497500",
-    "title": "Medical Records Technician (Clinical Documentation Improvement Specialist) CDIS-Outpatient",
-    "organization": "Veterans Health Administration",
+    "job_id": "846090300",
+    "title": "Supervisory Data Scientist",
+    "organization": "Customs and Border Protection",
     "locations": [
-      "Anywhere in the U.S. (remote job), United States"
+      "Washington, District of Columbia"
     ],
-    "description": "The Medical Records Technicians (RTs)-(Clinical Documentation Integrity Specialists) are skilled in classifying medical data from patient health records in the hospital setting, and/or physician-based settings, such as physician offices, group practices, multi-specialty clinics, and specialty centers. These Clinical Documentation Integrity Specialists (CDIS) analyze and abstract patients' health records and assign alpha-numeric codes for each diagnosis and procedure.",
-    "url": "https://www.usajobs.gov/job/846497500",
-    "posted_at": "2025-09-19T14:14:34.537000",
-    "salary": "9-9",
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management (HRM), Planning, Program Analysis, and Evaluation Directorate, People Analytics Division located in Washington, DC.",
+    "url": "https://www.usajobs.gov/job/846090300",
+    "posted_at": "2025-09-22T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -38,20 +38,6 @@
     "url": "https://www.usajobs.gov/job/846344600",
     "posted_at": "2025-09-18T12:47:30.613000",
     "salary": "7-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846087500",
-    "title": "Research Scientist/Computer Systems Researcher - Mid to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Are you looking to apply your computer science and other technical expertise to develop technologies and tools and be a part of cutting edge innovations? NSA is in search of Research Scientists and Senior Research Scientists to solve complex problems, test innovative approaches and research new solutions to make the U.S. and its allies safer and more secure. Help protect national security interests as part of the world's most advanced team of computer science professionals.",
-    "url": "https://www.usajobs.gov/job/846087500",
-    "posted_at": "2025-09-16T11:29:18.720000",
-    "salary": "11-15",
     "grade": null,
     "remote": null
   },
@@ -108,27 +94,6 @@
     "url": "https://www.usajobs.gov/job/846010900",
     "posted_at": "2025-09-15T15:12:11.620000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "845924900",
-    "title": "IT Specialist (APPSW)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/845924900",
-    "posted_at": "2025-09-15T08:20:37.317000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -208,20 +173,6 @@
     "url": "https://www.usajobs.gov/job/844932500",
     "posted_at": "2025-09-03T14:58:22.380000",
     "salary": "28-28",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844835200",
-    "title": "NSA Summer 2026 STEM Internship Programs - Maryland",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Join students from across the country and lend your knowledge to national security in one of NSA's over 30 summer internship programs. These 12 week paid programs run from mid-May to mid-August and are open to undergraduate freshman up to Ph.D. students depending on internship requirements. These internships are open to a wide variety of majors and give students the opportunity to work directly with mission-critical problems and experience the excitement of working in NSA spaces.",
-    "url": "https://www.usajobs.gov/job/844835200",
-    "posted_at": "2025-09-02T00:00:00",
-    "salary": "4-9",
     "grade": null,
     "remote": null
   }
