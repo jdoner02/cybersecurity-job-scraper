@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "846577400",
+    "title": "Foreign Affairs Specialist",
+    "organization": "National Nuclear Security Administration",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Counterterrorism and Counterproliferation, Office of Nuclear Threat Science (NA-82). which is responsible for overseeing and coordinating nuclear device design-related assessment activities to ensure the full range of nuclear weapons physics knowledge, engineering, analysis, information, and technologies informs U.S. and international nuclear policies. A successful candidate in this position will serve as a Foreign Affairs Specialist.",
+    "url": "https://www.usajobs.gov/job/846577400",
+    "posted_at": "2025-09-22T14:07:38.630000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "846090300",
     "title": "Supervisory Data Scientist",
     "organization": "Customs and Border Protection",
@@ -24,20 +38,6 @@
     "url": "https://www.usajobs.gov/job/846386800",
     "posted_at": "2025-09-18T15:16:43.117000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846344600",
-    "title": "Software Engineer - Entry to Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
-    "url": "https://www.usajobs.gov/job/846344600",
-    "posted_at": "2025-09-18T12:47:30.613000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
@@ -129,7 +129,7 @@
     ],
     "description": "Veterans' preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to exercise supervisory and managerial authorities, inclusive of directing activities over the Air Force Test Center (AFTC) Small Business Office at Edwards Air Force Base and for activities at key operating locations at Arnold AFB and Eglin AFB.",
     "url": "https://www.usajobs.gov/job/845870800",
-    "posted_at": "2025-09-12T14:35:00.973000",
+    "posted_at": "2025-09-12T00:00:00",
     "salary": "4-4",
     "grade": null,
     "remote": null
