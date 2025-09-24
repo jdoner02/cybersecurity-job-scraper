@@ -1,39 +1,70 @@
 [
   {
-    "job_id": "846597600",
-    "title": "IT SPECIALIST (INFORMATION SECURITY) (INFOSEC)",
-    "organization": "Technology Transformation Service",
+    "job_id": "846630800",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
     "locations": [
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Diego, California",
-      "San Francisco, California",
-      "Colorado Springs, Colorado",
-      "Lakewood, Colorado",
-      "Orlando, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "Boston, Massachusetts",
-      "Detroit, Michigan",
-      "Kansas City, Missouri",
-      "Charlotte, North Carolina",
-      "Raleigh, North Carolina",
-      "New York, New York",
-      "Portland, Oregon",
-      "Philadelphia, Pennsylvania",
-      "Columbia, South Carolina",
-      "Fort Worth, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas",
-      "Norfolk, Virginia",
-      "Spokane, Washington",
-      "Tacoma, Washington"
+      "Point Loma Complex, San Diego, California"
     ],
-    "description": "As an IT Specialist (INFOSEC)-Agency Official Title: Fraud Investigator, you will serve as a fraud investigator and perform analyses pursuant to investigations of identity fraud this includes identity fraud detection, mitigation, prevention controls, and investigative functions. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/846597600",
-    "posted_at": "2025-09-22T19:59:03.683000",
+    "description": "You will serve as a MANAGER in the CYBERSECURITY ENGINEERING DIVISION of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/846630800",
+    "posted_at": "2025-09-24T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846630600",
+    "title": "MANAGER",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Point Loma Complex, San Diego, California"
+    ],
+    "description": "You will serve as a MANAGER in the CYBERSECURITY ENGINEERING DIVISION of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/846630600",
+    "posted_at": "2025-09-24T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846604600",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Commander, Navy Installations",
+    "locations": [
+      "Capodichino, Italy"
+    ],
+    "description": "You will serve as a IT Specialist (INFOSEC) in the Information Technology Department of COMMANDER NAVY REGION EUROPE .",
+    "url": "https://www.usajobs.gov/job/846604600",
+    "posted_at": "2025-09-24T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846636700",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN) (Indefinite- May become Permanent)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Des Moines, Iowa"
+    ],
+    "description": "IOWA AIR NATIONAL GUARD - TITLE 32 EXCEPTED SERVICE POSITION This position is open to current military members of the 132d Wing, Des Moines, Iowa Air National Guard LOCATION: 132d Wing, Des Moines, Iowa",
+    "url": "https://www.usajobs.gov/job/846636700",
+    "posted_at": "2025-09-23T16:01:56.837000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846612400",
+    "title": "SUPERVISORY IT PROGRAM MANAGER (PLCYPLN)",
+    "organization": "Commander, Navy Installations",
+    "locations": [
+      "Naval Air Station Key West, Florida"
+    ],
+    "description": "You will serve as a SUPERVISORY IT PROGRAM MANAGER (PLCYPLN) in the INFO MGMT/INFO TECH/COMMAND & CONTROL DEPARTMENT (N6) of NAS KEY WEST. This vacancy may be authorized for PCS, 10% Recruitment, or Relocation Incentive, with 4 - Yearly Installments, and a 4 - Year Service Agreement for Eligible Candidates.",
+    "url": "https://www.usajobs.gov/job/846612400",
+    "posted_at": "2025-09-23T10:19:53.027000",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -240,6 +271,45 @@
     "url": "https://www.usajobs.gov/job/846598400",
     "posted_at": "2025-09-22T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846597600",
+    "title": "IT SPECIALIST (INFORMATION SECURITY) (INFOSEC)",
+    "organization": "Technology Transformation Service",
+    "locations": [
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Diego, California",
+      "San Francisco, California",
+      "Colorado Springs, Colorado",
+      "Lakewood, Colorado",
+      "Orlando, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "Boston, Massachusetts",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "Charlotte, North Carolina",
+      "Raleigh, North Carolina",
+      "New York, New York",
+      "Portland, Oregon",
+      "Philadelphia, Pennsylvania",
+      "Columbia, South Carolina",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "San Antonio, Texas",
+      "Norfolk, Virginia",
+      "Spokane, Washington",
+      "Tacoma, Washington"
+    ],
+    "description": "As an IT Specialist (INFOSEC)-Agency Official Title: Fraud Investigator, you will serve as a fraud investigator and perform analyses pursuant to investigations of identity fraud this includes identity fraud detection, mitigation, prevention controls, and investigative functions. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
+    "url": "https://www.usajobs.gov/job/846597600",
+    "posted_at": "2025-09-22T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -498,20 +568,6 @@
     "remote": null
   },
   {
-    "job_id": "846226800",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/INFOSEC)",
-    "organization": "Naval Facilities Engineering Systems Command",
-    "locations": [
-      "Naval Air Station Jacksonville, Florida"
-    ],
-    "description": "You will serve as an IT SPECIALIST (PLCYPLN/INFOSEC) in the Command Information Office (CIO) of NAV FACILITIES ENGINEERING COMMAND SE.",
-    "url": "https://www.usajobs.gov/job/846226800",
-    "posted_at": "2025-09-18T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846227000",
     "title": "Biomedical Equipment Support Specialist (BESS)",
     "organization": "Veterans Health Administration",
@@ -600,20 +656,6 @@
     "url": "https://www.usajobs.gov/job/846042900",
     "posted_at": "2025-09-17T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846002300",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA Risk Management Directorate RE2.",
-    "url": "https://www.usajobs.gov/job/846002300",
-    "posted_at": "2025-09-17T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -769,20 +811,6 @@
     "remote": null
   },
   {
-    "job_id": "845689400",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Leeds, Massachusetts"
-    ],
-    "description": "Biomedical Equipment Support Specialist (BESS) is within a Healthcare Technology Management (HTM) Clinical Engineering department at the VA Central Western Massachusetts Healthcare System, Leeds Campus. The BESS Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems. This position is full time at 40 hours per week.",
-    "url": "https://www.usajobs.gov/job/845689400",
-    "posted_at": "2025-09-11T12:57:57.547000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845650400",
     "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
     "organization": "Defense Finance and Accounting Service",
@@ -841,23 +869,6 @@
     "remote": null
   },
   {
-    "job_id": "845389800",
-    "title": "IT Specialist (SYSADMIN/OS)",
-    "organization": "Western Area Power Administration",
-    "locations": [
-      "Phoenix, Arizona",
-      "Folsom, California",
-      "Loveland, Colorado",
-      "Watertown, South Dakota"
-    ],
-    "description": "This position is part of the Western Area Power Administration. As an IT Specialist (SYSADMIN/OS), you will serve as a system administrator that performs a full range of IT services and support. **This is not a remote position. The selectee will be required to be physically present at one of the duty location(s) identified.**",
-    "url": "https://www.usajobs.gov/job/845389800",
-    "posted_at": "2025-09-10T12:06:52.977000",
-    "salary": "11-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845154100",
     "title": "IT Information Assurance Program Manager and Technical Advisor - DIRECT HIRE AUTHORITY",
     "organization": "Air Force Materiel Command",
@@ -869,20 +880,6 @@
     "url": "https://www.usajobs.gov/job/845154100",
     "posted_at": "2025-09-10T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844760900",
-    "title": "Information Technology Specialist (Security)",
-    "organization": "Administrative Office of the U.S. Courts",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located within the Department of Technology Services (DTS), Information Technology Security Office (ITSO). The candidates will be responsible for leading threat detection and incident coordination efforts within ITSO's 24/7 Security Operations Center and are empowered to task and direct all incident response activities in support of defensive cyber operations internal defense measures.",
-    "url": "https://www.usajobs.gov/job/844760900",
-    "posted_at": "2025-09-09T10:46:59.877000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
