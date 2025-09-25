@@ -42,20 +42,6 @@
     "remote": null
   },
   {
-    "job_id": "846636700",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN) (Indefinite- May become Permanent)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Des Moines, Iowa"
-    ],
-    "description": "IOWA AIR NATIONAL GUARD - TITLE 32 EXCEPTED SERVICE POSITION This position is open to current military members of the 132d Wing, Des Moines, Iowa Air National Guard LOCATION: 132d Wing, Des Moines, Iowa",
-    "url": "https://www.usajobs.gov/job/846636700",
-    "posted_at": "2025-09-23T16:01:56.837000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846612400",
     "title": "SUPERVISORY IT PROGRAM MANAGER (PLCYPLN)",
     "organization": "Commander, Navy Installations",
@@ -66,6 +52,20 @@
     "url": "https://www.usajobs.gov/job/846612400",
     "posted_at": "2025-09-23T10:19:53.027000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846636700",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN) (Indefinite- May become Permanent)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Des Moines, Iowa"
+    ],
+    "description": "IOWA AIR NATIONAL GUARD - TITLE 32 EXCEPTED SERVICE POSITION This position is open to current military members of the 132d Wing, Des Moines, Iowa Air National Guard LOCATION: 132d Wing, Des Moines, Iowa",
+    "url": "https://www.usajobs.gov/job/846636700",
+    "posted_at": "2025-09-23T00:00:00",
+    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -271,45 +271,6 @@
     "url": "https://www.usajobs.gov/job/846598400",
     "posted_at": "2025-09-22T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846597600",
-    "title": "IT SPECIALIST (INFORMATION SECURITY) (INFOSEC)",
-    "organization": "Technology Transformation Service",
-    "locations": [
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Diego, California",
-      "San Francisco, California",
-      "Colorado Springs, Colorado",
-      "Lakewood, Colorado",
-      "Orlando, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "Boston, Massachusetts",
-      "Detroit, Michigan",
-      "Kansas City, Missouri",
-      "Charlotte, North Carolina",
-      "Raleigh, North Carolina",
-      "New York, New York",
-      "Portland, Oregon",
-      "Philadelphia, Pennsylvania",
-      "Columbia, South Carolina",
-      "Fort Worth, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas",
-      "Norfolk, Virginia",
-      "Spokane, Washington",
-      "Tacoma, Washington"
-    ],
-    "description": "As an IT Specialist (INFOSEC)-Agency Official Title: Fraud Investigator, you will serve as a fraud investigator and perform analyses pursuant to investigations of identity fraud this includes identity fraud detection, mitigation, prevention controls, and investigative functions. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/846597600",
-    "posted_at": "2025-09-22T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -554,20 +515,6 @@
     "remote": null
   },
   {
-    "job_id": "846249900",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Air Force Office of Special Investigations",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. To serve as an Information System Security Manager (ISSM) with responsibility for the entire Air Force Office of Special Investigations (AFOSI) Organization",
-    "url": "https://www.usajobs.gov/job/846249900",
-    "posted_at": "2025-09-18T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846227000",
     "title": "Biomedical Equipment Support Specialist (BESS)",
     "organization": "Veterans Health Administration",
@@ -628,20 +575,6 @@
     "url": "https://www.usajobs.gov/job/846131000",
     "posted_at": "2025-09-17T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846088700",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Sheppard AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and more.",
-    "url": "https://www.usajobs.gov/job/846088700",
-    "posted_at": "2025-09-17T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -811,22 +744,6 @@
     "remote": null
   },
   {
-    "job_id": "845650400",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Employees in the competitive service, PPP DoD Military Spouse Preference, current DoD VRA employees, Veterans Employment Opportunities Act, Military Spouse, Interagency Career Transition Assistance Plan (ICTAP), PPP applicants. Position location: I&T Directorate, Corporate Systems, ZTEAC Applicants on the Cleveland list may be placed at Bratenahl. This announcement may be used to fill similar positions in the I&T Directorate.",
-    "url": "https://www.usajobs.gov/job/845650400",
-    "posted_at": "2025-09-11T10:18:59.063000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845720600",
     "title": "Deputy Assistant Administrator, Information Systems Division",
     "organization": "Drug Enforcement Administration",
@@ -855,20 +772,6 @@
     "remote": null
   },
   {
-    "job_id": "845606800",
-    "title": "Associate CIO for Cybersecurity",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position serves as the Associate Chief Information Officer for Cybersecurity and is responsible for providing executive leadership for Treasury cybersecurity. The ACIO, Cybersecurity directs the development, publication, and oversight of Departmental information security policies, standards, and guidance, as well as coordination, integration, and enforcement of all aspects of Treasury's cybersecurity program.",
-    "url": "https://www.usajobs.gov/job/845606800",
-    "posted_at": "2025-09-10T17:32:40.710000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "845154100",
     "title": "IT Information Assurance Program Manager and Technical Advisor - DIRECT HIRE AUTHORITY",
     "organization": "Air Force Materiel Command",
@@ -880,20 +783,6 @@
     "url": "https://www.usajobs.gov/job/845154100",
     "posted_at": "2025-09-10T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "845374900",
-    "title": "Information Technology Security Specialist",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
-    "url": "https://www.usajobs.gov/job/845374900",
-    "posted_at": "2025-09-09T10:22:31.523000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -922,20 +811,6 @@
     "url": "https://www.usajobs.gov/job/845179800",
     "posted_at": "2025-09-05T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844918800",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
-    "organization": "Commander, Navy Installations",
-    "locations": [
-      "Pearl Harbor, Hawaii"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/844918800",
-    "posted_at": "2025-09-05T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1018,20 +893,6 @@
     "url": "https://www.usajobs.gov/job/844723600",
     "posted_at": "2025-08-29T16:14:05.630000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844414300",
-    "title": "HR SPEC (MILITARY) (Title 5)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Fort Smith, Arkansas"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION This National Guard position is for a HR SPEC (MILITARY) (Title 5), Position Description Number T5741200 and is part of the AR ANG 188 FRS SQ, National Guard.",
-    "url": "https://www.usajobs.gov/job/844414300",
-    "posted_at": "2025-08-27T09:07:39.607000",
-    "salary": "9-9",
     "grade": null,
     "remote": null
   }
