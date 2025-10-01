@@ -1,5 +1,53 @@
 [
   {
+    "job_id": "847051000",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Vancouver, Washington"
+    ],
+    "description": "This position is located at VISN 20 Northwest Network in Vancouver, Washington, in Veteran's Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/847051000",
+    "posted_at": "2025-09-30T13:09:10.290000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847006700",
+    "title": "INVESTIGATIVE ANALYST (POLYGRAPH EXAMINER/QUALITY REVIEWER)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas",
+      "Arlington, Virginia"
+    ],
+    "description": "TOUGH WORK. VITAL MISSION. Challenge yourself! You have the power to help combat drug trafficking. Be a part of DEA! It's tough work, but a vital mission. Whatever your background or expertise, your work at DEA will be tremendously rewarding because it will have a daily impact on national security and the quality of life of all Americans.",
+    "url": "https://www.usajobs.gov/job/847006700",
+    "posted_at": "2025-09-30T10:19:31.030000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "846704700",
     "title": "Policy Advisor",
     "organization": "Treasury, Departmental Offices",
@@ -51,20 +99,6 @@
     "description": "The USPTO drives U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
     "url": "https://www.usajobs.gov/job/846937800",
     "posted_at": "2025-09-29T15:50:45.317000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846933900",
-    "title": "Patent Examiner (Physics)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The USPTO works toward its mission of driving U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846933900",
-    "posted_at": "2025-09-29T15:49:32.070000",
     "salary": "7-11",
     "grade": null,
     "remote": null
@@ -190,6 +224,20 @@
     "url": "https://www.usajobs.gov/job/846796800",
     "posted_at": "2025-09-29T13:53:46.137000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846933900",
+    "title": "Patent Examiner (Physics)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The USPTO works toward its mission of driving U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
+    "url": "https://www.usajobs.gov/job/846933900",
+    "posted_at": "2025-09-29T00:00:00",
+    "salary": "7-11",
     "grade": null,
     "remote": null
   },
