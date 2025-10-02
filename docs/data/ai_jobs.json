@@ -1,5 +1,52 @@
 [
   {
+    "job_id": "847065600",
+    "title": "Special Agent",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "As a Special Agent will allow you to perform critical protective and investigative assignments. This position is covered by Law Enforcement Availability Pay (LEAP) which is an additional compensation of 25% of the basic pay. Permanent Change of Station (PSC) will be paid by the agency. Selectees are guaranteed placement at their first Office of Choice. May require 11 weeks of expedited training. For more information on the Secret Service, click here.",
+    "url": "https://www.usajobs.gov/job/847065600",
+    "posted_at": "2025-10-01T15:35:37.310000",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847159000",
+    "title": "INTERDISCIPLINARY ENGINEER/COMPUTER SCIENTIST",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Patuxent River, Maryland"
+    ],
+    "description": "You will serve as a Distinguished Scientist or Distinguished Engineer (D S/E) in the Software Engineering Department, Science and Technology Office of NAVAIRWARCENAC DIV. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
+    "url": "https://www.usajobs.gov/job/847159000",
+    "posted_at": "2025-10-01T10:28:01.953000",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847051000",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
