@@ -1,5 +1,169 @@
 [
   {
+    "job_id": "847376100",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "U.S. Army Corps of Engineers",
+    "locations": [
+      "Sault Ste. Marie, Michigan"
+    ],
+    "description": "About the Position: This position serves as a Cybersecurity Specialist and will assist in the development and implementation of Policy and Procedures that ensure information systems reliability and accessibility.",
+    "url": "https://www.usajobs.gov/job/847376100",
+    "posted_at": "2025-10-03T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847375800",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "U.S. Army Corps of Engineers",
+    "locations": [
+      "Sault Ste. Marie, Michigan"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain DoD Personnel to recruit and appoint qualified candidates to positions in the competitive service. About the Position: ???????This position serves as a Cybersecurity Specialist and will assist in the development and implementation of Policy and Procedures that ensure information systems reliability and accessibility.",
+    "url": "https://www.usajobs.gov/job/847375800",
+    "posted_at": "2025-10-03T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847333700",
+    "title": "LEAD IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible DoD VRA employees in the local commuting area, eligible Priority Placement Program DoD Military Spouse Preference applicants, and eligible PPP applicants. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
+    "url": "https://www.usajobs.gov/job/847333700",
+    "posted_at": "2025-10-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847314600",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
+    "url": "https://www.usajobs.gov/job/847314600",
+    "posted_at": "2025-10-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847222300",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Limestone, Maine",
+      "Rome, New York",
+      "Cleveland, Ohio",
+      "Whitehall, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DFAS employees in the competitive service, current DFAS VRA employees, PPP DoD Military Spouse Preference applicants. Location: I&T Dir, Assessment/Analysis Div, ZTFBB Applicants on the Cleveland list may be placed at Bratenahl. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
+    "url": "https://www.usajobs.gov/job/847222300",
+    "posted_at": "2025-10-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846927000",
+    "title": "ACTIVITY PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Maxwell AFB, Alabama"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the activity leadership for all administrative support programs. Also serves as liaison with Division Chiefs on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/846927000",
+    "posted_at": "2025-10-03T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847365400",
+    "title": "Biomedical Equipment Support Specialist (Imaging)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Durham, North Carolina"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within the Healthcare Technology Management (HTM) Department at the Durham VA Health Care System. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
+    "url": "https://www.usajobs.gov/job/847365400",
+    "posted_at": "2025-10-02T15:38:39.553000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847313300",
+    "title": "Biomedical Equipment Support Specialist (Imaging)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Ann Arbor, Michigan"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
+    "url": "https://www.usajobs.gov/job/847313300",
+    "posted_at": "2025-10-02T12:11:05.437000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847312000",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
+    "url": "https://www.usajobs.gov/job/847312000",
+    "posted_at": "2025-10-02T12:03:26.190000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847274400",
+    "title": "Electronics Engineer (Industrial Controls)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "New Cumberland Defense Logistics Center, Pennsylvania"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/847274400",
+    "posted_at": "2025-10-02T09:13:36.607000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847262300",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Springfield, Ohio"
+    ],
+    "description": "This National Guard position is for a IT CYBERSECURITY SPECIALIST (SYSADMIN), Position Description Number D2793000 and is part of the OH 178 Wing, Ohio Air National Guard. The purpose of the position is to provide information technology system support to the assigned unit. The incumbent provides systems administration support on classified workstations and servers using multiple operating systems.",
+    "url": "https://www.usajobs.gov/job/847262300",
+    "posted_at": "2025-10-02T08:00:18.377000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847205900",
     "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
     "organization": "Defense Finance and Accounting Service",
@@ -156,18 +320,17 @@
     "remote": null
   },
   {
-    "job_id": "847062900",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
+    "job_id": "846193100",
+    "title": "Cybersecurity Specialist",
+    "organization": "Federal Bureau of Investigation",
     "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
+      "Huntsville, Alabama",
+      "Clarksburg, West Virginia"
     ],
-    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. Position is located in IT DIR OFFICE; INFO AND TECH ENTERPRISE SERVICES, CLOUD PROJECT MGMT OFC, ZTAJ. This job announcement may be used to fill similar positions on other teams in the IT Directorate.",
-    "url": "https://www.usajobs.gov/job/847062900",
+    "description": "As an FBI IT Professional, your job is to ensure our law enforcement systems, as well as the entire cyberspace within which we work, are protected. This means applying your knowledge of computer technology, cybersecurity, and more to safeguard information across the FBI, as well as our domestic and international law enforcement partners.",
+    "url": "https://www.usajobs.gov/job/846193100",
     "posted_at": "2025-10-01T00:00:00",
-    "salary": "13-13",
+    "salary": "11-14",
     "grade": null,
     "remote": null
   },
@@ -499,20 +662,6 @@
     "remote": null
   },
   {
-    "job_id": "846799900",
-    "title": "Cybersecurity Engineering Development Program (CSEDP) Software Engineer - Entry Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "The Cybersecurity Engineering Development Program (CSEDP) is a U.S. Government program designed to develop participants in the evolving area of cybersecurity, while developing leadership and communication skills, to meet existing and emerging cryptographic mission demands. It is an entry level development program targeting tomorrow's cybersecurity software engineers with in-depth training and hands-on experience with the entire cryptographic development lifecycle.",
-    "url": "https://www.usajobs.gov/job/846799900",
-    "posted_at": "2025-09-29T08:54:05.133000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846793100",
     "title": "Audit Director - Field Operations Review Team",
     "organization": "Office of the Inspector General, USPS",
@@ -758,20 +907,6 @@
     "url": "https://www.usajobs.gov/job/846636700",
     "posted_at": "2025-09-23T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844748700",
-    "title": "Cooperative Education Program",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA's Cooperative Education (Co-op) Program offers students exciting, impactful professional work opportunities (with pay and benefits!) to grow their knowledge of the Intelligence Community and federal government while advancing NSA's two primary missions: 1) Collecting, analyzing, and producing foreign signals intelligence; and 2) Providing cybersecurity solutions and guidance to protect critical national infrastructure.",
-    "url": "https://www.usajobs.gov/job/844748700",
-    "posted_at": "2025-09-02T08:39:43.627000",
-    "salary": "3-7",
     "grade": null,
     "remote": null
   }
