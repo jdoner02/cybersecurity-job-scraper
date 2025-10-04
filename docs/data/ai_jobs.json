@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "847423300",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Detroit, Michigan"
+    ],
+    "description": "The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. The Program Analyst (Health Informatics) located at the John D. Dingell VA Medical Center in Detroit, MI, The primary purpose of the position is to improve the quality, efficiency and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VA.",
+    "url": "https://www.usajobs.gov/job/847423300",
+    "posted_at": "2025-10-03T10:49:36.157000",
+    "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847424700",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Detroit, Michigan"
+    ],
+    "description": "The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. The Program Analyst (Health Informatics) located at the John D. Dingell VA Medical Center in Detroit, MI, The primary purpose of the position is to improve the quality, efficiency and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VA.",
+    "url": "https://www.usajobs.gov/job/847424700",
+    "posted_at": "2025-10-03T10:48:25.003000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847370000",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -10,6 +38,20 @@
     "url": "https://www.usajobs.gov/job/847370000",
     "posted_at": "2025-10-02T15:59:33.287000",
     "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847159000",
+    "title": "INTERDISCIPLINARY ENGINEER/COMPUTER SCIENTIST",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Patuxent River, Maryland"
+    ],
+    "description": "You will serve as a Distinguished Scientist or Distinguished Engineer (D S/E) in the Software Engineering Department, Science and Technology Office of NAVAIRWARCENAC DIV. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
+    "url": "https://www.usajobs.gov/job/847159000",
+    "posted_at": "2025-10-01T10:28:01.953000",
+    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -39,24 +81,10 @@
       "Portland, Oregon",
       "Austin, Texas"
     ],
-    "description": "As a Special Agent will allow you to perform critical protective and investigative assignments. This position is covered by Law Enforcement Availability Pay (LEAP) which is an additional compensation of 25% of the basic pay. Permanent Change of Station (PSC) will be paid by the agency. Selectees are guaranteed placement at their first Office of Choice. May require 11 weeks of expedited training. For more information on the Secret Service, click here.",
+    "description": "As a Special Agent will allow you to perform critical protective and investigative assignments. This position is covered by Law Enforcement Availability Pay (LEAP) which is an additional compensation of 25% of the basic pay. Permanent Change of Station (PSC) will be paid by the agency. Selectees are guaranteed placement at their first Office of Choice. May require expedited training. For more information on the Secret Service, click here.",
     "url": "https://www.usajobs.gov/job/847065600",
-    "posted_at": "2025-10-01T15:35:37.310000",
+    "posted_at": "2025-10-01T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847159000",
-    "title": "INTERDISCIPLINARY ENGINEER/COMPUTER SCIENTIST",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Patuxent River, Maryland"
-    ],
-    "description": "You will serve as a Distinguished Scientist or Distinguished Engineer (D S/E) in the Software Engineering Department, Science and Technology Office of NAVAIRWARCENAC DIV. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
-    "url": "https://www.usajobs.gov/job/847159000",
-    "posted_at": "2025-10-01T10:28:01.953000",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -268,27 +296,6 @@
     "remote": null
   },
   {
-    "job_id": "846796800",
-    "title": "Data Scientist (AI/RISK)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $146,481- $190,424 Columbus, OH: $152,850 - $195,200 Dayton, OH: $151,936- $195,200 Fort Belvoir, VA: $167,603 - $195,200 New Cumberland, PA: $167,603 - $195,200 Ogden, UT: $ 146,481- $190,424 Philadelphia, PA: $161,409- $195,200 Richmond, VA: $153,013- $195,200",
-    "url": "https://www.usajobs.gov/job/846796800",
-    "posted_at": "2025-09-29T13:53:46.137000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846933900",
     "title": "Patent Examiner (Physics)",
     "organization": "Patent and Trademark Office",
@@ -365,20 +372,6 @@
     "url": "https://www.usajobs.gov/job/846764000",
     "posted_at": "2025-09-29T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "844932500",
-    "title": "Developer/AI Expert",
-    "organization": "U.S. Courts",
-    "locations": [
-      "Atlanta, Georgia"
-    ],
-    "description": "The Developer/AI Expert reports to the Lead Programmer/Systems Administrator and is proficient in Python or C# programming languages, specializing in the integration of artificial intelligence technologies into software development workflows. The incumbent combines strong foundational programming skills with advanced knowledge of machine learning frameworks, natural language processing, computer vision, and AI model deployment strategies.",
-    "url": "https://www.usajobs.gov/job/844932500",
-    "posted_at": "2025-09-03T14:58:22.380000",
-    "salary": "28-28",
     "grade": null,
     "remote": null
   }
