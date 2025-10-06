@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "847488400",
+    "title": "PROGRAM MANAGER",
+    "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
+    "locations": [
+      "Washington Navy Yard, District of Columbia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/847488400",
+    "posted_at": "2025-10-06T00:00:00",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847415900",
+    "title": "Full Stack Engineer",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Baltimore, Maryland"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS). As a Full Stack Engineer, GS 2210 13, you will provide high-level technical expertise in support of new or existing applications software in one or multiple specialties.",
+    "url": "https://www.usajobs.gov/job/847415900",
+    "posted_at": "2025-10-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847376100",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "U.S. Army Corps of Engineers",
