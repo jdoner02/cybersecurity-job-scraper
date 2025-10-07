@@ -1,5 +1,62 @@
 [
   {
+    "job_id": "847565000",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Military Sealift Command",
+    "locations": [
+      "Naval Base, Norfolk, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/847565000",
+    "posted_at": "2025-10-07T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847518400",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Orlando Naval Warfare Center, Florida",
+      "Cherry Point, North Carolina"
+    ],
+    "description": "You will serve as an IT Specialist (INFOSEC) in the Cyber Department of NAWCTSD ORLANDO.",
+    "url": "https://www.usajobs.gov/job/847518400",
+    "posted_at": "2025-10-07T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847510200",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Employees in the competitive service, PPP DoD Military Spouse Preference, current DoD VRA employees, Veterans Employment Opportunities Act, Military Spouse, Interagency Career Transition Assistance Plan (ICTAP), PPP applicants. Position located in: Info & Tech Dir, Corporate Systems, Disbursing Systems Administration, ZTEDC. This announcement may be used to fill other positions within the Info & Tech Directorate.",
+    "url": "https://www.usajobs.gov/job/847510200",
+    "posted_at": "2025-10-06T08:03:47.140000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847507200",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (PLCYPLN)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA JSO/J1 Manpower and Personnel Directorate.",
+    "url": "https://www.usajobs.gov/job/847507200",
+    "posted_at": "2025-10-06T07:10:58.677000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847488400",
     "title": "PROGRAM MANAGER",
     "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
@@ -264,20 +321,6 @@
     "remote": null
   },
   {
-    "job_id": "847182700",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Fort Belvoir, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/847182700",
-    "posted_at": "2025-10-01T12:08:04.217000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847149100",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -344,6 +387,20 @@
     "url": "https://www.usajobs.gov/job/847144100",
     "posted_at": "2025-10-01T09:06:58.203000",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847182700",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
+    "url": "https://www.usajobs.gov/job/847182700",
+    "posted_at": "2025-10-01T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -455,16 +512,34 @@
     "remote": null
   },
   {
-    "job_id": "846986700",
-    "title": "Information Technology Specialist (INFOSEC)",
-    "organization": "Defense Counterintelligence and Security Agency",
+    "job_id": "847119500",
+    "title": "Auditor - Contracts & Supply Management Directorate",
+    "organization": "Office of the Inspector General, USPS",
     "locations": [
-      "Pasadena, California"
+      "Carol Stream, Illinois",
+      "Bethesda, Maryland",
+      "Arlington, Virginia"
     ],
-    "description": "DCSA's Industrial Security Office is looking for Information Systems Security Professionals (ISSP) with responsibility for oversight of complex information assurance and cyber related activities at cleared contractor sites across the country. The ISSP employs technical knowledge and interpersonal skills to ensure information systems security managers understand and implement the technical controls and processes required to protect classified information. Be a part of America's Gatekeeper Team!",
-    "url": "https://www.usajobs.gov/job/846986700",
-    "posted_at": "2025-09-30T08:35:54.550000",
-    "salary": "13-13",
+    "description": "Do you want to make an impact? The United States Postal Service Office of Inspector General (USPS OIG) is seeking a qualified applicant to fill our Auditor position within Office of Audit's Contracts & Supply Management Directorate, located in: Arlington, VA Bethesda, MD Carol Stream, IL Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/847119500",
+    "posted_at": "2025-09-30T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847119200",
+    "title": "Auditor - Contracts & Supply Management Directorate",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Carol Stream, Illinois",
+      "Bethesda, Maryland",
+      "Arlington, Virginia"
+    ],
+    "description": "Do you want to make an impact? The United States Postal Service Office of Inspector General (USPS OIG) is seeking a qualified applicant to fill our Auditor position within Office of Audit's Contracts & Supply Management Directorate, located in: Arlington, VA Bethesda, MD Carol Stream, IL Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/847119200",
+    "posted_at": "2025-09-30T00:00:00",
+    "salary": "7-9",
     "grade": null,
     "remote": null
   },
@@ -483,48 +558,6 @@
     "remote": null
   },
   {
-    "job_id": "846946900",
-    "title": "IT SPECIALIST (PLCYPLN/ENTARCH)",
-    "organization": "Air Force Office of Special Investigations",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "Click on \"Expand Additional Information\" below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: to perform lifecycle management of AFOSI enterprise-wide cybersecurity projects to include design, test, analysis, sustainment, and other activities.",
-    "url": "https://www.usajobs.gov/job/846946900",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846926000",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Air Force Office of Special Investigations",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "To serve as an Information System Security Manager (ISSM) with responsibility for the entire Air Force Office of Special Investigations (AFOSI) Organization",
-    "url": "https://www.usajobs.gov/job/846926000",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846893900",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Headquarters, Air Force Reserve Command",
-    "locations": [
-      "Dobbins AFB, Georgia"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/846893900",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846881000",
     "title": "Information Technology Specialist",
     "organization": "Customs and Border Protection",
@@ -535,50 +568,6 @@
     "url": "https://www.usajobs.gov/job/846881000",
     "posted_at": "2025-09-30T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846879000",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Sheppard AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs, and more.",
-    "url": "https://www.usajobs.gov/job/846879000",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846805900",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN/SYSANALYSIS)",
-    "organization": "U.S. Air Forces, Europe",
-    "locations": [
-      "Ramstein, Germany"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. To serve as supervisor for the planning, directing, organizing, and exercising control over nonsupervisory command, control, communications, and computers (C4) positions within the Global Command and Control System (GCCS) theater operations branch, monitor for GCCS plans, policies, procedures, and requirements and implementation for USAFE.",
-    "url": "https://www.usajobs.gov/job/846805900",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846943900",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $105,383 - $137,000 Columbus, OH: $109,966- $142,957 New Cumberland, PA $120,579-156,755",
-    "url": "https://www.usajobs.gov/job/846943900",
-    "posted_at": "2025-09-29T15:42:59.743000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -746,20 +735,6 @@
     "remote": null
   },
   {
-    "job_id": "846717500",
-    "title": "IT SPECIALIST (PLCYPLN)",
-    "organization": "Naval Facilities Engineering Systems Command",
-    "locations": [
-      "Mayport, Florida"
-    ],
-    "description": "You will serve as an IT SPECIALIST (PLCYPLN) in the Command Information Office of NAV FACILITIES ENGINEERING COMMAND SE.",
-    "url": "https://www.usajobs.gov/job/846717500",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "846710300",
     "title": "ENGINEER/SCIENTIST",
     "organization": "Naval Sea Systems Command",
@@ -796,20 +771,6 @@
     ],
     "description": "You will serve as an Information Systems Security Manager (ISSM) in the Network and Cyber Security Branch of NAVAL SURFACE WARFARE CTR CORONA DIV. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
     "url": "https://www.usajobs.gov/job/846681600",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846673200",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Orlando Naval Warfare Center, Florida"
-    ],
-    "description": "You will serve as an IT Cybersecurity Specialist (INFOSEC) in the Cyber Department of NAWCTSD ORLANDO.",
-    "url": "https://www.usajobs.gov/job/846673200",
     "posted_at": "2025-09-29T00:00:00",
     "salary": "5-5",
     "grade": null,
