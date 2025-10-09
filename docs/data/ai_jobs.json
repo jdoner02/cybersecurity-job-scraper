@@ -1,5 +1,59 @@
 [
   {
+    "job_id": "847795200",
+    "title": "Computer Engineer (Artificial Intelligence Engineer)",
+    "organization": "Treasury, Departmental Offices",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This is a term position. This position is located at Departmental Offices,Management CFO - Information Systems and Chief Information Officer. The incumbent is a senior computer engineer with specialized experience in the application of artificial intelligence (AI), computer engineering, data engineering, and emerging digital technologies to the Treasury's enterprise systems.",
+    "url": "https://www.usajobs.gov/job/847795200",
+    "posted_at": "2025-10-09T00:00:00",
+    "salary": "12-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847733700",
+    "title": "Data Scientist (Artificial Intelligence/Machine Learning)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
+    "url": "https://www.usajobs.gov/job/847733700",
+    "posted_at": "2025-10-08T09:48:23.370000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847423300",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -24,20 +78,6 @@
     "url": "https://www.usajobs.gov/job/847424700",
     "posted_at": "2025-10-03T10:48:25.003000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847370000",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/847370000",
-    "posted_at": "2025-10-02T15:59:33.287000",
-    "salary": "5-12",
     "grade": null,
     "remote": null
   },
@@ -85,20 +125,6 @@
     "url": "https://www.usajobs.gov/job/847065600",
     "posted_at": "2025-10-01T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847051000",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Vancouver, Washington"
-    ],
-    "description": "This position is located at VISN 20 Northwest Network in Vancouver, Washington, in Veteran's Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/847051000",
-    "posted_at": "2025-09-30T13:09:10.290000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -273,39 +299,6 @@
     "url": "https://www.usajobs.gov/job/846933900",
     "posted_at": "2025-09-29T00:00:00",
     "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846838800",
-    "title": "Computer Engineer (Artificial Intelligence Engineer)",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This is a term position. This position is located at Departmental Offices,Management CFO - Information Systems and Chief Information Officer. The incumbent is a senior computer engineer with specialized experience in the application of artificial intelligence (AI), computer engineering, data engineering, and emerging digital technologies to the Treasury's enterprise systems.",
-    "url": "https://www.usajobs.gov/job/846838800",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "12-15",
     "grade": null,
     "remote": null
   },

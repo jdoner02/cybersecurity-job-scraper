@@ -1,5 +1,122 @@
 [
   {
+    "job_id": "847795200",
+    "title": "Computer Engineer (Artificial Intelligence Engineer)",
+    "organization": "Treasury, Departmental Offices",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This is a term position. This position is located at Departmental Offices,Management CFO - Information Systems and Chief Information Officer. The incumbent is a senior computer engineer with specialized experience in the application of artificial intelligence (AI), computer engineering, data engineering, and emerging digital technologies to the Treasury's enterprise systems.",
+    "url": "https://www.usajobs.gov/job/847795200",
+    "posted_at": "2025-10-09T00:00:00",
+    "salary": "12-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847793400",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Butler, Pennsylvania"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at the Butler VA HealthCare System. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/847793400",
+    "posted_at": "2025-10-09T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847821300",
+    "title": "Biomedical Equipment Support Specialist - Info Systems",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bay Pines, Florida"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specializing in information systems within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System. The BESS maintains medical servers and networks, medical equipment, diagnostic software, virtual platforms, and clinical applications software. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
+    "url": "https://www.usajobs.gov/job/847821300",
+    "posted_at": "2025-10-08T18:09:38.937000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847746700",
+    "title": "Biomedical Equipment Support Specialist - Imaging",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bay Pines, Florida"
+    ],
+    "description": "This position serves as a Biomedical Equipment Support Specialist (BESS) specializing in imaging equipment within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System, Bay Pines, FL. Works in support of the medical equipment management program and maintains imaging equipment and clinical systems. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
+    "url": "https://www.usajobs.gov/job/847746700",
+    "posted_at": "2025-10-08T11:02:02.317000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847736300",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Clarksburg, West Virginia"
+    ],
+    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
+    "url": "https://www.usajobs.gov/job/847736300",
+    "posted_at": "2025-10-08T10:37:46.310000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847738100",
+    "title": "Supervisory Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Clarksburg, West Virginia"
+    ],
+    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
+    "url": "https://www.usajobs.gov/job/847738100",
+    "posted_at": "2025-10-08T10:33:30.277000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847736800",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Clarksburg, West Virginia"
+    ],
+    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
+    "url": "https://www.usajobs.gov/job/847736800",
+    "posted_at": "2025-10-08T10:07:07.810000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847513200",
     "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
     "organization": "Defense Finance and Accounting Service",
@@ -28,6 +145,20 @@
     "url": "https://www.usajobs.gov/job/847507000",
     "posted_at": "2025-10-08T00:00:00",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "846829000",
+    "title": "Information Technology Specialist (Network Services)",
+    "organization": "Administrative Office of the U.S. Courts",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "This position is in the Administrative Office of the U.S. Courts, Department of Technology Services, Enterprise Operations Center (EOC). The EOC's Infrastructure Operations Division (IOD) is responsible for the management and maintenance of IT services, systems, and national data, voice, and video applications and infrastructure.",
+    "url": "https://www.usajobs.gov/job/846829000",
+    "posted_at": "2025-10-08T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -102,6 +233,20 @@
     "url": "https://www.usajobs.gov/job/847604000",
     "posted_at": "2025-10-07T07:52:51.137000",
     "salary": "29-29",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847738900",
+    "title": "Supervisory  Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Clarksburg, West Virginia"
+    ],
+    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
+    "url": "https://www.usajobs.gov/job/847738900",
+    "posted_at": "2025-10-07T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -399,34 +544,6 @@
     "remote": null
   },
   {
-    "job_id": "847149100",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Hot Springs, South Dakota"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/847149100",
-    "posted_at": "2025-10-01T11:03:32.050000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847146800",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Hot Springs, South Dakota"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/847146800",
-    "posted_at": "2025-10-01T11:02:10.003000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847057600",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -590,38 +707,6 @@
     "remote": null
   },
   {
-    "job_id": "847119500",
-    "title": "Auditor - Contracts & Supply Management Directorate",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Carol Stream, Illinois",
-      "Bethesda, Maryland",
-      "Arlington, Virginia"
-    ],
-    "description": "Do you want to make an impact? The United States Postal Service Office of Inspector General (USPS OIG) is seeking a qualified applicant to fill our Auditor position within Office of Audit's Contracts & Supply Management Directorate, located in: Arlington, VA Bethesda, MD Carol Stream, IL Bring your skills and voice to our team!",
-    "url": "https://www.usajobs.gov/job/847119500",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "11-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847119200",
-    "title": "Auditor - Contracts & Supply Management Directorate",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Carol Stream, Illinois",
-      "Bethesda, Maryland",
-      "Arlington, Virginia"
-    ],
-    "description": "Do you want to make an impact? The United States Postal Service Office of Inspector General (USPS OIG) is seeking a qualified applicant to fill our Auditor position within Office of Audit's Contracts & Supply Management Directorate, located in: Arlington, VA Bethesda, MD Carol Stream, IL Bring your skills and voice to our team!",
-    "url": "https://www.usajobs.gov/job/847119200",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847048300",
     "title": "Supervisory Biomedical Engineer",
     "organization": "Veterans Health Administration",
@@ -646,20 +731,6 @@
     "url": "https://www.usajobs.gov/job/846881000",
     "posted_at": "2025-09-30T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846827100",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Sheppard AFB, Texas"
-    ],
-    "description": "About the position: This position is Non-appropriated Fund (NAF) and will be assigned to the RESOURCE MANAGEMENT OFFICE.",
-    "url": "https://www.usajobs.gov/job/846827100",
-    "posted_at": "2025-09-29T10:04:27.483000",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -721,53 +792,6 @@
     ],
     "description": "Serves as a Lead Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS leads HTM staff by distributing and prioritizing workloads.",
     "url": "https://www.usajobs.gov/job/846839900",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846838800",
-    "title": "Computer Engineer (Artificial Intelligence Engineer)",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This is a term position. This position is located at Departmental Offices,Management CFO - Information Systems and Chief Information Officer. The incumbent is a senior computer engineer with specialized experience in the application of artificial intelligence (AI), computer engineering, data engineering, and emerging digital technologies to the Treasury's enterprise systems.",
-    "url": "https://www.usajobs.gov/job/846838800",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846767100",
-    "title": "IT SPECIALIST (SYSADMIN/NETWORK)",
-    "organization": "Naval Facilities Engineering Systems Command",
-    "locations": [
-      "Guantanamo Bay, Cuba"
-    ],
-    "description": "You will serve as an IT SPECIALIST (SYSADMIN/NETWORK) in the Command Information Office (CIO) of NAV FACILITIES ENGINEERING COMMAND SE.",
-    "url": "https://www.usajobs.gov/job/846767100",
     "posted_at": "2025-09-29T00:00:00",
     "salary": "12-12",
     "grade": null,
@@ -849,20 +873,6 @@
     ],
     "description": "You will serve as an Information Systems Security Manager (ISSM) in the Network and Cyber Security Branch of NAVAL SURFACE WARFARE CTR CORONA DIV. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
     "url": "https://www.usajobs.gov/job/846681600",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846653300",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Crane, Indiana"
-    ],
-    "description": "You will serve as a Cyberspace Workforce Program Manager (CWF-PM) in the Cyber Security Branch, Information Technology Division, Corporate Operations Department of NAVAL SURFACE WARFARE CENTER. This position is part of the Warfare Centers Personnel Demonstration Project. The NT-5 pay band encompasses positions equivalent to GS-13 and GS-14.",
-    "url": "https://www.usajobs.gov/job/846653300",
     "posted_at": "2025-09-29T00:00:00",
     "salary": "5-5",
     "grade": null,
