@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "847950600",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC/NETWORK)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Columbus, Ohio"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA INFRASTRUCTURE SPECIAL SERVICES DIVISION.",
+    "url": "https://www.usajobs.gov/job/847950600",
+    "posted_at": "2025-10-14T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847870100",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: United States Citizens The duty station of these positions will be assigned at the time of a job offer, and pay will be set in accordance with the duty station. Any on-site requirements will be determined by the duty station assigned upon selection. This position is located in IT DIR OFFICE, ACCOUNTING SYSTEMS, MOCAS SYSTEM, ZTCE",
+    "url": "https://www.usajobs.gov/job/847870100",
+    "posted_at": "2025-10-14T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847989800",
     "title": "Special Agent - Cybersecurity/Technology Background",
     "organization": "Federal Bureau of Investigation",
@@ -475,20 +505,6 @@
     "remote": null
   },
   {
-    "job_id": "847565000",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Military Sealift Command",
-    "locations": [
-      "Naval Base, Norfolk, Virginia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/847565000",
-    "posted_at": "2025-10-07T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847518400",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "Naval Air Systems Command",
@@ -842,41 +858,6 @@
     "url": "https://www.usajobs.gov/job/847048300",
     "posted_at": "2025-09-30T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846793000",
-    "title": "Audit Director - Field Operations Review Team",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Denver, Colorado",
-      "Carol Stream, Illinois",
-      "Woburn, Massachusetts",
-      "Bethesda, Maryland",
-      "Saint Charles, Missouri",
-      "Raleigh, North Carolina",
-      "Dallas, Texas",
-      "Arlington, Virginia"
-    ],
-    "description": "Ready to lead with purpose? Join the U.S. Postal Service Office of Inspector General (USPS OIG) as an Audit Director in our Field Operations Review Team (FORT) Atlantic and Western/Pacific Directorate. We're looking for a strategic thinker and experienced, collaborative leader to help drive impactful audits that make a difference. Bring your skills and voice to our team! Important Note: Duty location will be assigned based on space availability at the time of selection.",
-    "url": "https://www.usajobs.gov/job/846793000",
-    "posted_at": "2025-09-29T08:25:23.213000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846962700",
-    "title": "ENGINEER/SCIENTIST/IT SPECIALIST (INFOSEC)",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "San Diego, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/846962700",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },
