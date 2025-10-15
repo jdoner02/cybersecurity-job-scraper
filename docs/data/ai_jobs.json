@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "848060100",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Anchorage, Alaska"
+    ],
+    "description": "The primary purpose of this position is to improve quality, efficiency and effectiveness of health care by integrating clinical and information process necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/848060100",
+    "posted_at": "2025-10-14T11:52:44.300000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "847917600",
     "title": "Marketing and Advertising Specialist (Web Master & Social Media)",
     "organization": "Pacific Air Forces",
@@ -57,27 +71,6 @@
     "url": "https://www.usajobs.gov/job/847795200",
     "posted_at": "2025-10-09T00:00:00",
     "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847733700",
-    "title": "Data Scientist (Artificial Intelligence/Machine Learning)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/847733700",
-    "posted_at": "2025-10-08T09:48:23.370000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
