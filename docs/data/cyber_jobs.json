@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "848134500",
+    "title": "IT CYBERSECURITY SPECIALIST (PROJMGT/CUSTSPT)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6(GSVC)/JOINT SERVICE PROVIDER (JP632).",
+    "url": "https://www.usajobs.gov/job/848134500",
+    "posted_at": "2025-10-16T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848079200",
+    "title": "Information Technology Specialist (Security)",
+    "organization": "Administrative Office of the U.S. Courts",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is in the Administrative Office of the U.S. Courts, Department of Technology Services, Information Technology Security Office (ITSO). ITSO manages the Judiciary's IT Security program, overseeing the security operations of Judiciary IT cyber security, digital forensics, malware analysis, and forensic investigations in support of cyber and law enforcement operations.",
+    "url": "https://www.usajobs.gov/job/848079200",
+    "posted_at": "2025-10-16T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848136200",
+    "title": "IT SPECIALIST (NETWORK)",
+    "organization": "Army National Guard Units",
+    "locations": [
+      "Columbia, South Carolina"
+    ],
+    "description": "This is a National Guard Title 32 Excepted position for a IT SPECIALIST (NETWORK), Position Description Number D0262000, and is part of the SC DOIM, South Carolina Army National Guard.",
+    "url": "https://www.usajobs.gov/job/848136200",
+    "posted_at": "2025-10-15T10:22:59.487000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848020500",
     "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -483,20 +525,6 @@
     "remote": null
   },
   {
-    "job_id": "846829000",
-    "title": "Information Technology Specialist (Network Services)",
-    "organization": "Administrative Office of the U.S. Courts",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "This position is in the Administrative Office of the U.S. Courts, Department of Technology Services, Enterprise Operations Center (EOC). The EOC's Infrastructure Operations Division (IOD) is responsible for the management and maintenance of IT services, systems, and national data, voice, and video applications and infrastructure.",
-    "url": "https://www.usajobs.gov/job/846829000",
-    "posted_at": "2025-10-08T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847665700",
     "title": "HR SPEC (MILITARY) (Title 32)",
     "organization": "Air National Guard Units",
@@ -701,20 +729,6 @@
     "url": "https://www.usajobs.gov/job/847222300",
     "posted_at": "2025-10-03T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847365400",
-    "title": "Biomedical Equipment Support Specialist (Imaging)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Durham, North Carolina"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within the Healthcare Technology Management (HTM) Department at the Durham VA Health Care System. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/847365400",
-    "posted_at": "2025-10-02T15:38:39.553000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
