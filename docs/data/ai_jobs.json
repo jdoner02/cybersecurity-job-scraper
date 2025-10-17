@@ -1,15 +1,43 @@
 [
   {
-    "job_id": "848060100",
+    "job_id": "848308800",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
     "locations": [
       "Anchorage, Alaska"
     ],
     "description": "The primary purpose of this position is to improve quality, efficiency and effectiveness of health care by integrating clinical and information process necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/848060100",
-    "posted_at": "2025-10-14T00:00:00",
+    "url": "https://www.usajobs.gov/job/848308800",
+    "posted_at": "2025-10-16T18:25:51.307000",
     "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848275500",
+    "title": "Computer Science Development Programs - Entry Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA's development programs help employees enhance their skills and improve their understanding of a specific discipline. The programs are generally three years long and feature rotational tours throughout the Agency. Designed for entry to mid-level employees, development program participants are afforded the opportunity to receive tailored training, often with a cohort, and multiple assignments across Agency Directorates to develop skills and experience to ground their career at the NSA.",
+    "url": "https://www.usajobs.gov/job/848275500",
+    "posted_at": "2025-10-16T14:34:56.273000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848213300",
+    "title": "Health Science Officer",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is within the Health Systems Research Broad Portfolio (HSR), Office of Research and Development (ORD), at VA Central Office in Washington, DC. The Broad Portfolio is one of four scientific components of the Office of R&D within the Veterans Health Administration (VHA), Department of Veterans Affairs (VA). Health Services Research and Development Service manages a research program that spans the continuum of health care research and supports the integration of research and practice.",
+    "url": "https://www.usajobs.gov/job/848213300",
+    "posted_at": "2025-10-16T07:10:59.500000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -85,39 +113,6 @@
     "url": "https://www.usajobs.gov/job/847159000",
     "posted_at": "2025-10-01T10:28:01.953000",
     "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847065600",
-    "title": "Special Agent",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "As a Special Agent will allow you to perform critical protective and investigative assignments. This position is covered by Law Enforcement Availability Pay (LEAP) which is an additional compensation of 25% of the basic pay. Permanent Change of Station (PCS) will be paid by the agency. Selectees are guaranteed placement at their first Office of Choice. May require expedited training. For more information on the Secret Service, click here.",
-    "url": "https://www.usajobs.gov/job/847065600",
-    "posted_at": "2025-10-01T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },

@@ -1,5 +1,103 @@
 [
   {
+    "job_id": "848248900",
+    "title": "Registered Nurse- Informaticist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Loma Linda, California"
+    ],
+    "description": "The Informaticist Registered Nurse (RN) is responsible and accountable for all elements of the nursing process, influences outcomes by collaborating with members of the interdisciplinary team, and executes position responsibilities that demonstrates leadership, learning from experience, and systematically evaluates current practice.",
+    "url": "https://www.usajobs.gov/job/848248900",
+    "posted_at": "2025-10-17T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848306800",
+    "title": "Supervisory Biomedical Engineer (Clinical)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Fresno, California"
+    ],
+    "description": "The Supervisory Biomedical Engineer has complete program responsibility, providing engineering review, and guidance for the Biomedical Engineering program. This program encompasses professional engineering consulting with the medical staff in all areas involving medical instrumentation: in-house services for calibration, repair and safety of all medical instrumentation and assurance of meeting guidelines.",
+    "url": "https://www.usajobs.gov/job/848306800",
+    "posted_at": "2025-10-16T18:03:06.463000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848298300",
+    "title": "IT SPECIALIST (CUSTSPT)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Eastover, South Carolina"
+    ],
+    "description": "This is a National Guard Title 32 Excepted position for a IT SPEC (CUSTSPT), Position Description Number D2182P01, and is part of the 169 CS, South Carolina Air National Guard.",
+    "url": "https://www.usajobs.gov/job/848298300",
+    "posted_at": "2025-10-16T16:31:30.547000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848275500",
+    "title": "Computer Science Development Programs - Entry Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA's development programs help employees enhance their skills and improve their understanding of a specific discipline. The programs are generally three years long and feature rotational tours throughout the Agency. Designed for entry to mid-level employees, development program participants are afforded the opportunity to receive tailored training, often with a cohort, and multiple assignments across Agency Directorates to develop skills and experience to ground their career at the NSA.",
+    "url": "https://www.usajobs.gov/job/848275500",
+    "posted_at": "2025-10-16T14:34:56.273000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848240500",
+    "title": "IT SPECIALIST (CUSTSPT/NETWORK)",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Port Hueneme, California"
+    ],
+    "description": "You will serve as an IT SPECIALIST (CUSTOMER SUPPORT/NETWORK) in the INFORMATION TECHNOLOGY DIVISION, CORPORATE OPERATIONS DEPARTMENT of NAVAL SURFACE WARFARE CENTER.",
+    "url": "https://www.usajobs.gov/job/848240500",
+    "posted_at": "2025-10-16T10:54:14.127000",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848226300",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Fargo, North Dakota"
+    ],
+    "description": "Works within a Healthcare Technology Management (HTM) department under Facilities Management at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/848226300",
+    "posted_at": "2025-10-16T09:32:40.430000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848226100",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Fargo, North Dakota"
+    ],
+    "description": "Works within a Healthcare Technology Management (HTM) department under Facilities Management at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems. NOTE: The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
+    "url": "https://www.usajobs.gov/job/848226100",
+    "posted_at": "2025-10-16T09:31:55.303000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848134500",
     "title": "IT CYBERSECURITY SPECIALIST (PROJMGT/CUSTSPT)",
     "organization": "Defense Information Systems Agency",
@@ -8,8 +106,22 @@
     ],
     "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6(GSVC)/JOINT SERVICE PROVIDER (JP632).",
     "url": "https://www.usajobs.gov/job/848134500",
-    "posted_at": "2025-10-16T00:00:00",
+    "posted_at": "2025-10-16T08:25:18.717000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848211900",
+    "title": "TRAINING SPECIALIST",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Linthicum, Maryland"
+    ],
+    "description": "If you are a motivated professional interested in protecting America's trusted workforce and trusted workspaces, then we want to hear from you. As a seasoned security professional, you possess a unique combination of skills and experience that make you an ideal candidate for this role. Your ability to coordinate and administrate effectively, combined with your expertise in security, make you an asset to our organization.",
+    "url": "https://www.usajobs.gov/job/848211900",
+    "posted_at": "2025-10-16T06:24:34.880000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -348,34 +460,6 @@
     "remote": null
   },
   {
-    "job_id": "847841200",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Harlingen, Texas"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/847841200",
-    "posted_at": "2025-10-09T09:15:24.983000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847841700",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Harlingen, Texas"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/847841700",
-    "posted_at": "2025-10-09T09:14:27.393000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847795200",
     "title": "Computer Engineer (Artificial Intelligence Engineer)",
     "organization": "Treasury, Departmental Offices",
@@ -423,34 +507,6 @@
     "remote": null
   },
   {
-    "job_id": "847821300",
-    "title": "Biomedical Equipment Support Specialist - Info Systems",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Bay Pines, Florida"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specializing in information systems within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System. The BESS maintains medical servers and networks, medical equipment, diagnostic software, virtual platforms, and clinical applications software. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
-    "url": "https://www.usajobs.gov/job/847821300",
-    "posted_at": "2025-10-08T18:09:38.937000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847746700",
-    "title": "Biomedical Equipment Support Specialist - Imaging",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Bay Pines, Florida"
-    ],
-    "description": "This position serves as a Biomedical Equipment Support Specialist (BESS) specializing in imaging equipment within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System, Bay Pines, FL. Works in support of the medical equipment management program and maintains imaging equipment and clinical systems. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
-    "url": "https://www.usajobs.gov/job/847746700",
-    "posted_at": "2025-10-08T11:02:02.317000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847736300",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -489,6 +545,34 @@
     "url": "https://www.usajobs.gov/job/847736800",
     "posted_at": "2025-10-08T10:07:07.810000",
     "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847821300",
+    "title": "Biomedical Equipment Support Specialist - Info Systems",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bay Pines, Florida"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specializing in information systems within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System. The BESS maintains medical servers and networks, medical equipment, diagnostic software, virtual platforms, and clinical applications software. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
+    "url": "https://www.usajobs.gov/job/847821300",
+    "posted_at": "2025-10-08T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "847746700",
+    "title": "Biomedical Equipment Support Specialist - Imaging",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bay Pines, Florida"
+    ],
+    "description": "This position serves as a Biomedical Equipment Support Specialist (BESS) specializing in imaging equipment within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System, Bay Pines, FL. Works in support of the medical equipment management program and maintains imaging equipment and clinical systems. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
+    "url": "https://www.usajobs.gov/job/847746700",
+    "posted_at": "2025-10-08T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -733,22 +817,6 @@
     "remote": null
   },
   {
-    "job_id": "847312000",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/847312000",
-    "posted_at": "2025-10-02T12:03:26.190000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847274400",
     "title": "Electronics Engineer (Industrial Controls)",
     "organization": "Defense Logistics Agency",
@@ -773,22 +841,6 @@
     "url": "https://www.usajobs.gov/job/847262300",
     "posted_at": "2025-10-02T08:00:18.377000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847205900",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: This announcement is open to all U.S. Citizens This position is located in IT DIR OFFICE, ACCOUNTING SERVICES, MOCAS SYSTEM, MOCAS PROGRAMMING BRANCH, ZTCEB",
-    "url": "https://www.usajobs.gov/job/847205900",
-    "posted_at": "2025-10-02T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
