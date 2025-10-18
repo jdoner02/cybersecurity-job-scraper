@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "848333500",
+    "title": "POS Specialist NF4",
+    "organization": "U.S. Marine Corps",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
+    "url": "https://www.usajobs.gov/job/848333500",
+    "posted_at": "2025-10-17T10:14:21.683000",
+    "salary": "04-04",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848332000",
+    "title": "IT PROJECT MANAGER",
+    "organization": "Washington Headquarters Services",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is located in the Facilities Services Directorate (FSD), Integrated Technology Division (ITD), and Information Technology Management Branch (ITMB). The ITD mission is to deliver Information Technology (IT) services, business applications, commercial cloud support, geospatial data, facilities records, data analytics, cybersecurity, and training to advance the effectiveness of front-facing FSD functions supporting WHS and Mission Partners of the Department Of Defense (DoD).",
+    "url": "https://www.usajobs.gov/job/848332000",
+    "posted_at": "2025-10-17T10:03:01.450000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848248900",
     "title": "Registered Nurse- Informaticist",
     "organization": "Veterans Health Administration",
@@ -358,48 +386,6 @@
     "remote": null
   },
   {
-    "job_id": "847967700",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Des Moines, Iowa"
-    ],
-    "description": "Biomedical Equipment Support Specialist Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/847967700",
-    "posted_at": "2025-10-10T11:57:25.637000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847967500",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Des Moines, Iowa"
-    ],
-    "description": "Biomedical Equipment Support Specialist Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/847967500",
-    "posted_at": "2025-10-10T11:55:25.010000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847957000",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Fort Belvoir, Virginia"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/847957000",
-    "posted_at": "2025-10-10T10:34:18.503000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847944800",
     "title": "Biomedical Equipment Support Specialist (Information Systems)",
     "organization": "Veterans Health Administration",
@@ -549,34 +535,6 @@
     "remote": null
   },
   {
-    "job_id": "847821300",
-    "title": "Biomedical Equipment Support Specialist - Info Systems",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Bay Pines, Florida"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specializing in information systems within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System. The BESS maintains medical servers and networks, medical equipment, diagnostic software, virtual platforms, and clinical applications software. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
-    "url": "https://www.usajobs.gov/job/847821300",
-    "posted_at": "2025-10-08T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847746700",
-    "title": "Biomedical Equipment Support Specialist - Imaging",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Bay Pines, Florida"
-    ],
-    "description": "This position serves as a Biomedical Equipment Support Specialist (BESS) specializing in imaging equipment within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System, Bay Pines, FL. Works in support of the medical equipment management program and maintains imaging equipment and clinical systems. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
-    "url": "https://www.usajobs.gov/job/847746700",
-    "posted_at": "2025-10-08T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847513200",
     "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
     "organization": "Defense Finance and Accounting Service",
@@ -683,34 +641,6 @@
     "remote": null
   },
   {
-    "job_id": "847738900",
-    "title": "Supervisory  Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Clarksburg, West Virginia"
-    ],
-    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
-    "url": "https://www.usajobs.gov/job/847738900",
-    "posted_at": "2025-10-07T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847510200",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Employees in the competitive service, PPP DoD Military Spouse Preference, current DoD VRA employees, Veterans Employment Opportunities Act, Military Spouse, Interagency Career Transition Assistance Plan (ICTAP), PPP applicants. Position located in: Info & Tech Dir, Corporate Systems, Disbursing Systems Administration, ZTEDC. This announcement may be used to fill other positions within the Info & Tech Directorate.",
-    "url": "https://www.usajobs.gov/job/847510200",
-    "posted_at": "2025-10-06T08:03:47.140000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847488400",
     "title": "PROGRAM MANAGER",
     "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
@@ -721,112 +651,6 @@
     "url": "https://www.usajobs.gov/job/847488400",
     "posted_at": "2025-10-06T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847415900",
-    "title": "Full Stack Engineer",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Baltimore, Maryland"
-    ],
-    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS). As a Full Stack Engineer, GS 2210 13, you will provide high-level technical expertise in support of new or existing applications software in one or multiple specialties.",
-    "url": "https://www.usajobs.gov/job/847415900",
-    "posted_at": "2025-10-06T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847376100",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "U.S. Army Corps of Engineers",
-    "locations": [
-      "Sault Ste. Marie, Michigan"
-    ],
-    "description": "About the Position: This position serves as a Cybersecurity Specialist and will assist in the development and implementation of Policy and Procedures that ensure information systems reliability and accessibility.",
-    "url": "https://www.usajobs.gov/job/847376100",
-    "posted_at": "2025-10-03T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847375800",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "U.S. Army Corps of Engineers",
-    "locations": [
-      "Sault Ste. Marie, Michigan"
-    ],
-    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain DoD Personnel to recruit and appoint qualified candidates to positions in the competitive service. About the Position: ???????This position serves as a Cybersecurity Specialist and will assist in the development and implementation of Policy and Procedures that ensure information systems reliability and accessibility.",
-    "url": "https://www.usajobs.gov/job/847375800",
-    "posted_at": "2025-10-03T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847333700",
-    "title": "LEAD IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible DoD VRA employees in the local commuting area, eligible Priority Placement Program DoD Military Spouse Preference applicants, and eligible PPP applicants. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/847333700",
-    "posted_at": "2025-10-03T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847314600",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/847314600",
-    "posted_at": "2025-10-03T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847222300",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Limestone, Maine",
-      "Rome, New York",
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DFAS employees in the competitive service, current DFAS VRA employees, PPP DoD Military Spouse Preference applicants. Location: I&T Dir, Assessment/Analysis Div, ZTFBB Applicants on the Cleveland list may be placed at Bratenahl. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/847222300",
-    "posted_at": "2025-10-03T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847274400",
-    "title": "Electronics Engineer (Industrial Controls)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "New Cumberland Defense Logistics Center, Pennsylvania"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/847274400",
-    "posted_at": "2025-10-02T09:13:36.607000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
