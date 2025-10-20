@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "848368100",
+    "title": "Supervisory IT Specialist (Policy Planning)",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Ashburn, Virginia"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Information and Technology, Cyber Security Directorate located in Ashburn, VA.",
+    "url": "https://www.usajobs.gov/job/848368100",
+    "posted_at": "2025-10-20T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848153000",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Open to United States Citizens Position Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, MOCAS SYSTEM, MOCAS PROGRAMMING BRANCH, ZTCEB Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
+    "url": "https://www.usajobs.gov/job/848153000",
+    "posted_at": "2025-10-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848333500",
     "title": "POS Specialist NF4",
     "organization": "U.S. Marine Corps",
@@ -66,20 +96,6 @@
     "url": "https://www.usajobs.gov/job/848298300",
     "posted_at": "2025-10-16T16:31:30.547000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848275500",
-    "title": "Computer Science Development Programs - Entry Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA's development programs help employees enhance their skills and improve their understanding of a specific discipline. The programs are generally three years long and feature rotational tours throughout the Agency. Designed for entry to mid-level employees, development program participants are afforded the opportunity to receive tailored training, often with a cohort, and multiple assignments across Agency Directorates to develop skills and experience to ground their career at the NSA.",
-    "url": "https://www.usajobs.gov/job/848275500",
-    "posted_at": "2025-10-16T14:34:56.273000",
-    "salary": "7-9",
     "grade": null,
     "remote": null
   },
