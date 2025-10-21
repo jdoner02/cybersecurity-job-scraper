@@ -1,5 +1,63 @@
 [
   {
+    "job_id": "848311300",
+    "title": "Information Technology Specialist (Security)",
+    "organization": "Administrative Office of the U.S. Courts",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "This position is located within the Department of Technology Services (DTS), Information Technology Security Office (ITSO). The incumbent is a recognized IT security expert with a strong defensive cyber background and \"hands-on\" experience in incident response. The incumbent will perform multiple and varying assignments under the direction of the Chief, Incident Response Branch - Security Operations Division.",
+    "url": "https://www.usajobs.gov/job/848311300",
+    "posted_at": "2025-10-21T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848474900",
+    "title": "System Vulnerability Analyst - Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "System Vulnerability Analysts analyze vulnerabilities and develop mitigations to strengthen defenses. Produce formal/informal reports, briefings, and guidance to defend against attacks against network infrastructure devices or systems. NSA analysts' competencies run the gamut of data transport possibilities. Work with traditional wired networks, wireless transport, including Wi-Fi and cellular, collaborative platforms such as video teleconferencing & the hardware/software that support it all.",
+    "url": "https://www.usajobs.gov/job/848474900",
+    "posted_at": "2025-10-20T14:01:19.987000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848471000",
+    "title": "Network System Engineer - Entry to Expert Level MD GA TX",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Gordon, Georgia",
+      "Fort Meade, Maryland",
+      "San Antonio, Texas"
+    ],
+    "description": "The National Security Agency is seeking results driven individuals that strive for excellence, enjoy the challenges of a fast paced environment and the desire to make a difference. We are looking for talented networking professionals to design, develop, deploy, sustain and monitor state-of-the-art network solutions (WAN, CAN, LAN, DCN and Satellite communications networks) that are deployed across NSA worldwide.",
+    "url": "https://www.usajobs.gov/job/848471000",
+    "posted_at": "2025-10-20T13:42:18.467000",
+    "salary": "7-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848422400",
+    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DFAS employees in the competitive service, current DFAS VRA employees, PPP DoD Military Spouse Preference applicants. Position is located in: Information & Technology Dir, Corporate Systems, Cash Accountability Systems Testing, ZTEBJ This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
+    "url": "https://www.usajobs.gov/job/848422400",
+    "posted_at": "2025-10-20T08:05:07.057000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848368100",
     "title": "Supervisory IT Specialist (Policy Planning)",
     "organization": "Customs and Border Protection",
@@ -481,62 +539,6 @@
     "remote": null
   },
   {
-    "job_id": "847793400",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Butler, Pennsylvania"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at the Butler VA HealthCare System. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/847793400",
-    "posted_at": "2025-10-09T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847736300",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Clarksburg, West Virginia"
-    ],
-    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
-    "url": "https://www.usajobs.gov/job/847736300",
-    "posted_at": "2025-10-08T10:37:46.310000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847738100",
-    "title": "Supervisory Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Clarksburg, West Virginia"
-    ],
-    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
-    "url": "https://www.usajobs.gov/job/847738100",
-    "posted_at": "2025-10-08T10:33:30.277000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847736800",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Clarksburg, West Virginia"
-    ],
-    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
-    "url": "https://www.usajobs.gov/job/847736800",
-    "posted_at": "2025-10-08T10:07:07.810000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847513200",
     "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
     "organization": "Defense Finance and Accounting Service",
@@ -583,20 +585,6 @@
     "remote": null
   },
   {
-    "job_id": "847612400",
-    "title": "IT SPECIALIST (ENTARCH/INFOSEC)",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/847612400",
-    "posted_at": "2025-10-07T09:01:23.133000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847605900",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -629,20 +617,6 @@
     "remote": null
   },
   {
-    "job_id": "847488400",
-    "title": "PROGRAM MANAGER",
-    "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
-    "locations": [
-      "Washington Navy Yard, District of Columbia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/847488400",
-    "posted_at": "2025-10-06T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847262300",
     "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN)",
     "organization": "Air National Guard Units",
@@ -653,34 +627,6 @@
     "url": "https://www.usajobs.gov/job/847262300",
     "posted_at": "2025-10-02T08:00:18.377000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847057600",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Marion, Indiana"
-    ],
-    "description": "Applies engineering, mechanical concepts, and methodology to manage and support the diagnostic, therapeutic devices, monitoring, and other equipment utilized in the practice of medicine, and to improve health service delivery systems. The initial cut-off date for referral of eligible applications will be October 12, 2025. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/847057600",
-    "posted_at": "2025-10-01T10:32:07.117000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847058500",
-    "title": "Biomedical Equipment Support Specialist (Info Sys)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Fort Wayne, Indiana"
-    ],
-    "description": "Specialized in information systems within a Healthcare Technology Management (HTM) department. Works in support of the medical equipment management program, maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software. The initial cut-off date for referral of eligible applications will be October 12, 2025. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/847058500",
-    "posted_at": "2025-10-01T10:29:42.153000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
