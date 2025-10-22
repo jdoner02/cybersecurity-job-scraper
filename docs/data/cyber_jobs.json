@@ -1,14 +1,61 @@
 [
   {
-    "job_id": "848311300",
-    "title": "Information Technology Specialist (Security)",
-    "organization": "Administrative Office of the U.S. Courts",
+    "job_id": "848494600",
+    "title": "Health Science Specialist",
+    "organization": "Veterans Health Administration",
     "locations": [
-      "Anywhere in the U.S. (remote job), United States"
+      "Madison, Wisconsin"
     ],
-    "description": "This position is located within the Department of Technology Services (DTS), Information Technology Security Office (ITSO). The incumbent is a recognized IT security expert with a strong defensive cyber background and \"hands-on\" experience in incident response. The incumbent will perform multiple and varying assignments under the direction of the Chief, Incident Response Branch - Security Operations Division.",
-    "url": "https://www.usajobs.gov/job/848311300",
-    "posted_at": "2025-10-21T00:00:00",
+    "description": "The VA Research Program strives to promote Veteran-centered care to improve patient experiences and outcomes across VA healthcare and community settings, and to advance value driven care by providing Veterans the highest quality care at the lowest financial burden. The position is vital within the Office of Research and Development (ORD) and the facilities where research programs are conducted. Health Science Specialists provide the link between veterans and highly innovative projects.",
+    "url": "https://www.usajobs.gov/job/848494600",
+    "posted_at": "2025-10-22T00:00:00",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848580200",
+    "title": "IT Specialist - Principal Software Engineer",
+    "organization": "Technology Transformation Service",
+    "locations": [
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Lakewood, Colorado",
+      "Washington, District of Columbia",
+      "Orlando, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "Boston, Massachusetts",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "Charlotte, North Carolina",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Columbia, South Carolina",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "Tacoma, Washington"
+    ],
+    "description": "As an IT Specialist - Principal Software Engineer, you will serve as an expert software engineer and applications developer, providing technical leadership to cross-functional teams, architecting and deploying secure, scalable applications that advance services for the American people. The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.",
+    "url": "https://www.usajobs.gov/job/848580200",
+    "posted_at": "2025-10-21T14:56:08.173000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848559300",
+    "title": "Chief Information Officer",
+    "organization": "Federal Communications Commission",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is in the Office of the Chief Information Officer, Office of the Managing Director, Federal Communications Commission. The OCIO, led by the CIO, is responsible for the overall management of the FCC\u2019s IT systems, including information management, development, operations, and maintenance across all FCC locations; evaluating emerging technologies; ensuring compliance with IT/security protocols; and implementing solutions to meet evolving mission, policy, and legal requirements.",
+    "url": "https://www.usajobs.gov/job/848559300",
+    "posted_at": "2025-10-21T12:59:29.847000",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -126,20 +173,6 @@
     "url": "https://www.usajobs.gov/job/848248900",
     "posted_at": "2025-10-17T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848306800",
-    "title": "Supervisory Biomedical Engineer (Clinical)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Fresno, California"
-    ],
-    "description": "The Supervisory Biomedical Engineer has complete program responsibility, providing engineering review, and guidance for the Biomedical Engineering program. This program encompasses professional engineering consulting with the medical staff in all areas involving medical instrumentation: in-house services for calibration, repair and safety of all medical instrumentation and assurance of meeting guidelines.",
-    "url": "https://www.usajobs.gov/job/848306800",
-    "posted_at": "2025-10-16T18:03:06.463000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -581,21 +614,6 @@
     "url": "https://www.usajobs.gov/job/847665700",
     "posted_at": "2025-10-07T13:36:26.493000",
     "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847605900",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Employees in the competitive service, PPP DoD Military Spouse Preference, current DoD VRA employees, VEOA, Military Spouse, ICTAP, PPP applicants. Applicants on the Cleveland list may be placed at Bratenahl. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/847605900",
-    "posted_at": "2025-10-07T08:05:35.717000",
-    "salary": "7-11",
     "grade": null,
     "remote": null
   },
