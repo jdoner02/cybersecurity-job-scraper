@@ -1,5 +1,64 @@
 [
   {
+    "job_id": "848517800",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the SUPERVISION/MANAGEMENT Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6(GSVC)/JOINT STAFF SUPPORT CENTER.",
+    "url": "https://www.usajobs.gov/job/848517800",
+    "posted_at": "2025-10-23T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848681100",
+    "title": "Associate Administrator for Acquistion",
+    "organization": "Treasury, Departmental Offices",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Associate Administrator for Acquisition/Chief Procurement Officer (CPO) leads Treasury's enterprise-wide procurement operations within the Treasury Common Services Center. The incumbent provides strategic leadership and executive direction for a multibillion-dollar acquisition portfolio, counsels senior executives, resolves complex procurement challenges, and drives modernization, vendor engagement, and workforce excellence aligned with Treasury's mission.",
+    "url": "https://www.usajobs.gov/job/848681100",
+    "posted_at": "2025-10-22T15:23:20.733000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848655400",
+    "title": "Testing and Evaluation Specialist - Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations; join our team of experts!",
+    "url": "https://www.usajobs.gov/job/848655400",
+    "posted_at": "2025-10-22T12:59:26.583000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848611500",
+    "title": "Supervisory IT Specialist (INFOSEC)",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Fort Meade, Maryland",
+      "Boyers, Pennsylvania",
+      "Farmers Branch, Texas",
+      "Quantico, Virginia"
+    ],
+    "description": "The incumbent will be a Supervisory IT Specialist for cyber security and serve as the lead program level ISSM for the National Background Investigation Services (NBIS) overseeing a team comprised of program level ISSMs, ISSO, and ISSE. The incumbent will be responsible for the planning, implementation and execution of a cyber security management strategy to ensure the security posture of the NBIS portfolio of systems and products and liaison to OCIO cyber security management and leadership.",
+    "url": "https://www.usajobs.gov/job/848611500",
+    "posted_at": "2025-10-22T08:04:53.750000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848494600",
     "title": "Health Science Specialist",
     "organization": "Veterans Health Administration",
@@ -14,7 +73,21 @@
     "remote": null
   },
   {
-    "job_id": "848580200",
+    "job_id": "848559300",
+    "title": "Chief Information Officer",
+    "organization": "Federal Communications Commission",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is in the Office of the Chief Information Officer, Office of the Managing Director, Federal Communications Commission. The OCIO, led by the CIO, is responsible for the overall management of the FCC\u2019s IT systems, including information management, development, operations, and maintenance across all FCC locations; evaluating emerging technologies; ensuring compliance with IT/security protocols; and implementing solutions to meet evolving mission, policy, and legal requirements.",
+    "url": "https://www.usajobs.gov/job/848559300",
+    "posted_at": "2025-10-21T12:59:29.847000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848619000",
     "title": "IT Specialist - Principal Software Engineer",
     "organization": "Technology Transformation Service",
     "locations": [
@@ -40,23 +113,9 @@
       "Tacoma, Washington"
     ],
     "description": "As an IT Specialist - Principal Software Engineer, you will serve as an expert software engineer and applications developer, providing technical leadership to cross-functional teams, architecting and deploying secure, scalable applications that advance services for the American people. The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.",
-    "url": "https://www.usajobs.gov/job/848580200",
-    "posted_at": "2025-10-21T14:56:08.173000",
+    "url": "https://www.usajobs.gov/job/848619000",
+    "posted_at": "2025-10-21T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848559300",
-    "title": "Chief Information Officer",
-    "organization": "Federal Communications Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is in the Office of the Chief Information Officer, Office of the Managing Director, Federal Communications Commission. The OCIO, led by the CIO, is responsible for the overall management of the FCC\u2019s IT systems, including information management, development, operations, and maintenance across all FCC locations; evaluating emerging technologies; ensuring compliance with IT/security protocols; and implementing solutions to meet evolving mission, policy, and legal requirements.",
-    "url": "https://www.usajobs.gov/job/848559300",
-    "posted_at": "2025-10-21T12:59:29.847000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -75,22 +134,6 @@
     "remote": null
   },
   {
-    "job_id": "848471000",
-    "title": "Network System Engineer - Entry to Expert Level MD GA TX",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Gordon, Georgia",
-      "Fort Meade, Maryland",
-      "San Antonio, Texas"
-    ],
-    "description": "The National Security Agency is seeking results driven individuals that strive for excellence, enjoy the challenges of a fast paced environment and the desire to make a difference. We are looking for talented networking professionals to design, develop, deploy, sustain and monitor state-of-the-art network solutions (WAN, CAN, LAN, DCN and Satellite communications networks) that are deployed across NSA worldwide.",
-    "url": "https://www.usajobs.gov/job/848471000",
-    "posted_at": "2025-10-20T13:42:18.467000",
-    "salary": "7-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848422400",
     "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW)",
     "organization": "Defense Finance and Accounting Service",
@@ -101,6 +144,22 @@
     "url": "https://www.usajobs.gov/job/848422400",
     "posted_at": "2025-10-20T08:05:07.057000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848471000",
+    "title": "Network System Engineer - Entry to Expert Level MD GA TX",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Gordon, Georgia",
+      "Fort Meade, Maryland",
+      "San Antonio, Texas"
+    ],
+    "description": "The National Security Agency is seeking results driven individuals that strive for excellence, enjoy the challenges of a fast paced environment and the desire to make a difference. We are looking for talented networking professionals to design, develop, deploy, sustain and monitor state-of-the-art network solutions (WAN, CAN, LAN, DCN and Satellite communications networks) that are deployed across NSA worldwide.",
+    "url": "https://www.usajobs.gov/job/848471000",
+    "posted_at": "2025-10-20T00:00:00",
+    "salary": "7-15",
     "grade": null,
     "remote": null
   },
@@ -145,34 +204,6 @@
     "url": "https://www.usajobs.gov/job/848333500",
     "posted_at": "2025-10-17T10:14:21.683000",
     "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848332000",
-    "title": "IT PROJECT MANAGER",
-    "organization": "Washington Headquarters Services",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is located in the Facilities Services Directorate (FSD), Integrated Technology Division (ITD), and Information Technology Management Branch (ITMB). The ITD mission is to deliver Information Technology (IT) services, business applications, commercial cloud support, geospatial data, facilities records, data analytics, cybersecurity, and training to advance the effectiveness of front-facing FSD functions supporting WHS and Mission Partners of the Department Of Defense (DoD).",
-    "url": "https://www.usajobs.gov/job/848332000",
-    "posted_at": "2025-10-17T10:03:01.450000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848248900",
-    "title": "Registered Nurse- Informaticist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Loma Linda, California"
-    ],
-    "description": "The Informaticist Registered Nurse (RN) is responsible and accountable for all elements of the nursing process, influences outcomes by collaborating with members of the interdisciplinary team, and executes position responsibilities that demonstrates leadership, learning from experience, and systematically evaluates current practice.",
-    "url": "https://www.usajobs.gov/job/848248900",
-    "posted_at": "2025-10-17T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -233,20 +264,6 @@
     "remote": null
   },
   {
-    "job_id": "848134500",
-    "title": "IT CYBERSECURITY SPECIALIST (PROJMGT/CUSTSPT)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6(GSVC)/JOINT SERVICE PROVIDER (JP632).",
-    "url": "https://www.usajobs.gov/job/848134500",
-    "posted_at": "2025-10-16T08:25:18.717000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848211900",
     "title": "TRAINING SPECIALIST",
     "organization": "Defense Counterintelligence and Security Agency",
@@ -285,20 +302,6 @@
     "url": "https://www.usajobs.gov/job/848136200",
     "posted_at": "2025-10-15T10:22:59.487000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848020500",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA IO.",
-    "url": "https://www.usajobs.gov/job/848020500",
-    "posted_at": "2025-10-15T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -572,38 +575,6 @@
     "remote": null
   },
   {
-    "job_id": "847513200",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD competitive service Employees, PPP DoD Military Spouse Preference, current DoD VRA employees, VEOA, Military Spouse, ICTAP, certain PPP applicants. Applicants on the Cleveland list may be placed at Bratenahl. **This Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections for instructions.",
-    "url": "https://www.usajobs.gov/job/847513200",
-    "posted_at": "2025-10-08T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847507000",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DFAS employees in the competitive service, current DFAS VRA employees, PPP DoD Military Spouse Preference applicants. Location: I&T Dir, Assessment/Analysis Div, ZTFAB Applicants on the Cleveland list may be placed at Bratenahl. **This Announcement uses an additional online assessment tool. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/847507000",
-    "posted_at": "2025-10-08T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847665700",
     "title": "HR SPEC (MILITARY) (Title 32)",
     "organization": "Air National Guard Units",
@@ -645,20 +616,6 @@
     "url": "https://www.usajobs.gov/job/847262300",
     "posted_at": "2025-10-02T08:00:18.377000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847048300",
-    "title": "Supervisory Biomedical Engineer",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "West Haven, Connecticut"
-    ],
-    "description": "The Supervisory, Biomedical Engineer (Clinical) the supervises technical staff, including lower-level engineers, HTM technicians, and other HTM staff. Serves as a consultant to the Chief, Healthcare Technology Management and is administratively under the Chief, Healthcare Technology Management at VA Connecticut Health Care System, West Haven CT The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.\"",
-    "url": "https://www.usajobs.gov/job/847048300",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   }
