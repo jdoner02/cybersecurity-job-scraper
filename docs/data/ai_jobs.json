@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "848581000",
+    "title": "ISS (Educational Technologist)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Yokota Air Base, Japan"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, Pacific East Office, Yokota, Japan. This position is not covered by a bargaining unit. Federal employees in Yokota, Japan are currently entitled to receive a 20% Post Allowance (COLA) in addition to the base salary.",
+    "url": "https://www.usajobs.gov/job/848581000",
+    "posted_at": "2025-10-24T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848493900",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -38,20 +52,6 @@
     "url": "https://www.usajobs.gov/job/848213300",
     "posted_at": "2025-10-16T07:10:59.500000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847917600",
-    "title": "Marketing and Advertising Specialist (Web Master & Social Media)",
-    "organization": "Pacific Air Forces",
-    "locations": [
-      "Elmendorf AFB, Alaska"
-    ],
-    "description": "About the position: This position is Non-Appropriated Fund (NAF) and will be assigned to the 773 FSS Marketing Department on JBER, AK. As a Regular Full-Time employee, you have a regular and continuous work schedule of at least 35 hours to a maximum of 40 hours per week. You are eligible for the following benefits and compensation: Health and Life Insurance, Awards, Leave, Retirement, 401K, Overtime Pay, Workers' Compensation, Shift Differential, Sunday Premium Pay, and Holiday Pay.",
-    "url": "https://www.usajobs.gov/job/847917600",
-    "posted_at": "2025-10-09T16:14:58.040000",
-    "salary": "3-3",
     "grade": null,
     "remote": null
   },

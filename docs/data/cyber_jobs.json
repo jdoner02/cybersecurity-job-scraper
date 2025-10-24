@@ -1,14 +1,63 @@
 [
   {
-    "job_id": "848517800",
-    "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
+    "job_id": "848726100",
+    "title": "Information Technology Specialist (macOS)",
+    "organization": "Customs and Border Protection",
     "locations": [
-      "Pentagon, Arlington, Virginia"
+      "Ashburn, Virginia"
     ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the SUPERVISION/MANAGEMENT Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6(GSVC)/JOINT STAFF SUPPORT CENTER.",
-    "url": "https://www.usajobs.gov/job/848517800",
-    "posted_at": "2025-10-23T00:00:00",
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Information and Technology, Field Support Directorate, located in Ashburn, VA. This announcement will be open for 5 business days.",
+    "url": "https://www.usajobs.gov/job/848726100",
+    "posted_at": "2025-10-24T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848704500",
+    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "Who may apply: All US Citizens We may use this announcement to fill other positions in the I&T Dir. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/848704500",
+    "posted_at": "2025-10-24T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848786600",
+    "title": "IT SPECIALIST (CUSTSPT) (TITLE 32)",
+    "organization": "Army National Guard Units",
+    "locations": [
+      "Nashville, Tennessee"
+    ],
+    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a IT SPECIALIST (CUSTSPT) (TITLE 32), Position Description Number NGD2526P01 and is part of the TN ARMY National Guard. This vacancy is covered by Association of Civilian Technicians (ACT), Chapter 103 (Volunteer Chapter). This announcement is Internal to the Agency, On Board Only.",
+    "url": "https://www.usajobs.gov/job/848786600",
+    "posted_at": "2025-10-23T16:37:35.003000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848713000",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $105,383 - $137,000 Columbus, OH: $109,966- $142,957 Dayton, OH: $109,308- $142,103 Fort Belvoir, VA: $120,579- $156,755 New Cumberland, PA: $120,579- $156,755 Ogden, UT: $105,383 - $137,000 Philadelphia, PA: $116,123- $150,962 Richmond, VA: $110,083- $143,109",
+    "url": "https://www.usajobs.gov/job/848713000",
+    "posted_at": "2025-10-23T08:53:27.713000",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -148,22 +197,6 @@
     "remote": null
   },
   {
-    "job_id": "848471000",
-    "title": "Network System Engineer - Entry to Expert Level MD GA TX",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Gordon, Georgia",
-      "Fort Meade, Maryland",
-      "San Antonio, Texas"
-    ],
-    "description": "The National Security Agency is seeking results driven individuals that strive for excellence, enjoy the challenges of a fast paced environment and the desire to make a difference. We are looking for talented networking professionals to design, develop, deploy, sustain and monitor state-of-the-art network solutions (WAN, CAN, LAN, DCN and Satellite communications networks) that are deployed across NSA worldwide.",
-    "url": "https://www.usajobs.gov/job/848471000",
-    "posted_at": "2025-10-20T00:00:00",
-    "salary": "7-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848368100",
     "title": "Supervisory IT Specialist (Policy Planning)",
     "organization": "Customs and Border Protection",
@@ -202,7 +235,7 @@
     ],
     "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
     "url": "https://www.usajobs.gov/job/848333500",
-    "posted_at": "2025-10-17T10:14:21.683000",
+    "posted_at": "2025-10-17T00:00:00",
     "salary": "04-04",
     "grade": null,
     "remote": null
@@ -218,20 +251,6 @@
     "url": "https://www.usajobs.gov/job/848298300",
     "posted_at": "2025-10-16T16:31:30.547000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848240500",
-    "title": "IT SPECIALIST (CUSTSPT/NETWORK)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "You will serve as an IT SPECIALIST (CUSTOMER SUPPORT/NETWORK) in the INFORMATION TECHNOLOGY DIVISION, CORPORATE OPERATIONS DEPARTMENT of NAVAL SURFACE WARFARE CENTER.",
-    "url": "https://www.usajobs.gov/job/848240500",
-    "posted_at": "2025-10-16T10:54:14.127000",
-    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -300,7 +319,7 @@
     ],
     "description": "This is a National Guard Title 32 Excepted position for a IT SPECIALIST (NETWORK), Position Description Number D0262000, and is part of the SC DOIM, South Carolina Army National Guard.",
     "url": "https://www.usajobs.gov/job/848136200",
-    "posted_at": "2025-10-15T10:22:59.487000",
+    "posted_at": "2025-10-15T00:00:00",
     "salary": "11-11",
     "grade": null,
     "remote": null
@@ -510,20 +529,6 @@
     "url": "https://www.usajobs.gov/job/847603500",
     "posted_at": "2025-10-10T00:00:00",
     "salary": "9-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847870500",
-    "title": "Supervisory Information System Security Manager (ISSM)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
-    "url": "https://www.usajobs.gov/job/847870500",
-    "posted_at": "2025-10-09T12:09:33.063000",
-    "salary": "04-04",
     "grade": null,
     "remote": null
   },
