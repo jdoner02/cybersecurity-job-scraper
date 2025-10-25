@@ -1,5 +1,75 @@
 [
   {
+    "job_id": "848865500",
+    "title": "Chief Information Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
+    "url": "https://www.usajobs.gov/job/848865500",
+    "posted_at": "2025-10-24T17:25:27.390000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848878400",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the SUPERVISION/MANAGEMENT Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6(GSVC)/JOINT STAFF SUPPORT CENTER.",
+    "url": "https://www.usajobs.gov/job/848878400",
+    "posted_at": "2025-10-24T16:31:25.020000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848844400",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) NF-04",
+    "organization": "United States Army Installation Management Command",
+    "locations": [
+      "Fort Sam Houston, Texas"
+    ],
+    "description": "This position is located at Installation Management Command Headquarters G9 NAF Hospitality Division.",
+    "url": "https://www.usajobs.gov/job/848844400",
+    "posted_at": "2025-10-24T12:43:29.087000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848835500",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This position is located in Cybersecurity Operations and Response Division (CORD). The Cybersecurity Operations and Response Division (CORD) plays a pivotal role in safeguarding the organization against cyber threats. We ensure the resilience and security of USPTO digital assets.",
+    "url": "https://www.usajobs.gov/job/848835500",
+    "posted_at": "2025-10-24T11:46:04.743000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848835000",
+    "title": "Supvy IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This position is located in Cybersecurity Operations and Response Division (CORD). The CORD plays a pivotal role in safeguarding the organization against cyber threats. We ensure the resilience and security of USPTO digital assets. The incumbent serves as the Division Director, CORD.",
+    "url": "https://www.usajobs.gov/job/848835000",
+    "posted_at": "2025-10-24T11:41:08.560000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848726100",
     "title": "Information Technology Specialist (macOS)",
     "organization": "Customs and Border Protection",
@@ -108,20 +178,6 @@
     "remote": null
   },
   {
-    "job_id": "848494600",
-    "title": "Health Science Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Madison, Wisconsin"
-    ],
-    "description": "The VA Research Program strives to promote Veteran-centered care to improve patient experiences and outcomes across VA healthcare and community settings, and to advance value driven care by providing Veterans the highest quality care at the lowest financial burden. The position is vital within the Office of Research and Development (ORD) and the facilities where research programs are conducted. Health Science Specialists provide the link between veterans and highly innovative projects.",
-    "url": "https://www.usajobs.gov/job/848494600",
-    "posted_at": "2025-10-22T00:00:00",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848559300",
     "title": "Chief Information Officer",
     "organization": "Federal Communications Commission",
@@ -197,20 +253,6 @@
     "remote": null
   },
   {
-    "job_id": "848368100",
-    "title": "Supervisory IT Specialist (Policy Planning)",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Ashburn, Virginia"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Information and Technology, Cyber Security Directorate located in Ashburn, VA.",
-    "url": "https://www.usajobs.gov/job/848368100",
-    "posted_at": "2025-10-20T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848153000",
     "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -227,20 +269,6 @@
     "remote": null
   },
   {
-    "job_id": "848333500",
-    "title": "POS Specialist NF4",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
-    "url": "https://www.usajobs.gov/job/848333500",
-    "posted_at": "2025-10-17T00:00:00",
-    "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848298300",
     "title": "IT SPECIALIST (CUSTSPT)",
     "organization": "Air National Guard Units",
@@ -251,34 +279,6 @@
     "url": "https://www.usajobs.gov/job/848298300",
     "posted_at": "2025-10-16T16:31:30.547000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848226300",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Fargo, North Dakota"
-    ],
-    "description": "Works within a Healthcare Technology Management (HTM) department under Facilities Management at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/848226300",
-    "posted_at": "2025-10-16T09:32:40.430000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848226100",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Fargo, North Dakota"
-    ],
-    "description": "Works within a Healthcare Technology Management (HTM) department under Facilities Management at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems. NOTE: The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/848226100",
-    "posted_at": "2025-10-16T09:31:55.303000",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -359,34 +359,6 @@
     "url": "https://www.usajobs.gov/job/848088700",
     "posted_at": "2025-10-14T15:07:23.443000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848085900",
-    "title": "Biomedical Equipment Support Specialist (Information Systems)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Lebanon, Pennsylvania"
-    ],
-    "description": "This position is eligible for the Education Debt Reduction Program (EDRP), a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval, award amount (up to $200,000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.",
-    "url": "https://www.usajobs.gov/job/848085900",
-    "posted_at": "2025-10-14T14:55:22.883000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847950600",
-    "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC/NETWORK)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Columbus, Ohio"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA INFRASTRUCTURE SPECIAL SERVICES DIVISION.",
-    "url": "https://www.usajobs.gov/job/847950600",
-    "posted_at": "2025-10-14T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -497,52 +469,6 @@
     "url": "https://www.usajobs.gov/job/847978000",
     "posted_at": "2025-10-10T13:12:38.430000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847944800",
-    "title": "Biomedical Equipment Support Specialist (Information Systems)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Tulsa, Oklahoma"
-    ],
-    "description": "Join us in shaping the future at the brand-new James Mountain Inhofe VA Medical Center! The Eastern Oklahoma VA Health Care System is recruiting for one Biomedical Equipment Support Specialist within the Clinical Engineering Service at the Tulsa, OK location.",
-    "url": "https://www.usajobs.gov/job/847944800",
-    "posted_at": "2025-10-10T08:52:20.653000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847603500",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Limestone, Maine",
-      "Rome, New York",
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Who may apply: This announcement is open to all U.S. Citizens Applicants on the Cleveland list may be placed at Bratenahl. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, HOW TO APPLY and WHAT TO EXPECT NEXT sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/847603500",
-    "posted_at": "2025-10-10T00:00:00",
-    "salary": "9-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847850700",
-    "title": "IT SPECIALIST (SYSADMIN/CUSTSPT)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Eastover, South Carolina"
-    ],
-    "description": "This is a National Guard Title 32 Excepted position for a IT SPECIALIST (SYSADMIN/CUSTSPT), Position Description Number D2526000, and is part of the SC DOL, South Carolina Army National Guard.",
-    "url": "https://www.usajobs.gov/job/847850700",
-    "posted_at": "2025-10-09T10:21:27.933000",
-    "salary": "9-9",
     "grade": null,
     "remote": null
   },

@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "848865500",
+    "title": "Chief Information Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
+    "url": "https://www.usajobs.gov/job/848865500",
+    "posted_at": "2025-10-24T17:25:27.390000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848882700",
+    "title": "Chief Artificial Intelligence Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a Chief Artificial Intelligence Officer (CAIO) to advance the shared understanding of how to best implement the opportunities presented by Artificial Intelligence (AI) and Machine Learning (ML). The CAIO is the principal advisor to the Chief Information Officer (CIO) and the Deputy CIO on operationalizing AI and ML with a focus on business value delivery to the agency.",
+    "url": "https://www.usajobs.gov/job/848882700",
+    "posted_at": "2025-10-24T17:19:16.633000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848581000",
     "title": "ISS (Educational Technologist)",
     "organization": "Department of Defense Education Activity",
