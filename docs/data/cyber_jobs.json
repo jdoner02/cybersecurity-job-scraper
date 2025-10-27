@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "848817600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD competitive service Employees, PPP DoD Military Spouse Preference, current DoD VRA employees, VEOA, Military Spouse, ICTAP, certain PPP applicants. Applicants on the Cleveland list may be placed at Bratenahl. We may use this announcements to fill other positions in the I&T Dir. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/848817600",
+    "posted_at": "2025-10-27T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848703600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA-ENDPOINT AND CUSTOMER SERVICE DIRECTORATE (FE45).",
+    "url": "https://www.usajobs.gov/job/848703600",
+    "posted_at": "2025-10-27T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848865500",
     "title": "Chief Information Officer",
     "organization": "Patent and Trademark Office",
@@ -221,20 +250,6 @@
     "url": "https://www.usajobs.gov/job/848619000",
     "posted_at": "2025-10-21T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848474900",
-    "title": "System Vulnerability Analyst - Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "System Vulnerability Analysts analyze vulnerabilities and develop mitigations to strengthen defenses. Produce formal/informal reports, briefings, and guidance to defend against attacks against network infrastructure devices or systems. NSA analysts' competencies run the gamut of data transport possibilities. Work with traditional wired networks, wireless transport, including Wi-Fi and cellular, collaborative platforms such as video teleconferencing & the hardware/software that support it all.",
-    "url": "https://www.usajobs.gov/job/848474900",
-    "posted_at": "2025-10-20T14:01:19.987000",
-    "salary": "11-12",
     "grade": null,
     "remote": null
   },
