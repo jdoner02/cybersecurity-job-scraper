@@ -1,5 +1,26 @@
 [
   {
+    "job_id": "848983400",
+    "title": "Management and Program Analyst",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
+    "url": "https://www.usajobs.gov/job/848983400",
+    "posted_at": "2025-10-28T08:56:12.387000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848972100",
     "title": "Chief Artificial Intelligence Officer",
     "organization": "Patent and Trademark Office",
@@ -14,20 +35,6 @@
     "remote": null
   },
   {
-    "job_id": "848865500",
-    "title": "Chief Information Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
-    "url": "https://www.usajobs.gov/job/848865500",
-    "posted_at": "2025-10-24T17:25:27.390000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848882700",
     "title": "Chief Artificial Intelligence Officer",
     "organization": "Patent and Trademark Office",
@@ -36,6 +43,20 @@
     ],
     "description": "The United States Patent and Trademark Office (USPTO) is seeking a Chief Artificial Intelligence Officer (CAIO) to advance the shared understanding of how to best implement the opportunities presented by Artificial Intelligence (AI) and Machine Learning (ML). The CAIO is the principal advisor to the Chief Information Officer (CIO) and the Deputy CIO on operationalizing AI and ML with a focus on business value delivery to the agency.",
     "url": "https://www.usajobs.gov/job/848882700",
+    "posted_at": "2025-10-24T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848865500",
+    "title": "Chief Information Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
+    "url": "https://www.usajobs.gov/job/848865500",
     "posted_at": "2025-10-24T00:00:00",
     "salary": "00-00",
     "grade": null,

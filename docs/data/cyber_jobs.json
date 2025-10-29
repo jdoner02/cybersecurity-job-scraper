@@ -1,5 +1,90 @@
 [
   {
+    "job_id": "849006000",
+    "title": "Supervisory Information Technology Specialist (PLCYPLN/INFOSEC)",
+    "organization": "Federal Law Enforcement Training Centers",
+    "locations": [
+      "Glynco, Georgia"
+    ],
+    "description": "\"The Federal Law Enforcement Training Centers (FLETC), through strategic partnerships, prepares the federal law enforcement community to safeguard America's people, property, and institutions.\" We are a unique inter-agency organization preparing the next generation of law enforcement officers to meet our Nation's most pressing security challenges.\" Click here to learn more. A relocation or recruitment incentive may be authorized. See additional info section.",
+    "url": "https://www.usajobs.gov/job/849006000",
+    "posted_at": "2025-10-29T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848932200",
+    "title": "IT SPECIALIST (SYSADMIN)",
+    "organization": "Defense Health Agency",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "About the Position: This position has two vacancies to fill in San Antonio, Texas. This is a Direct Hire Solicitation",
+    "url": "https://www.usajobs.gov/job/848932200",
+    "posted_at": "2025-10-29T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849044500",
+    "title": "Computer Network Defense Analyst - Entry to Experienced Level (MD)(TX)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland",
+      "San Antonio, Texas"
+    ],
+    "description": "Our adversaries and cyber criminals continue to push limits in cyberspace, creating more national security threats than we have ever seen. In order to ensure the United States maintains its strategic edge in cyberspace, NSA is looking for Computer Network Defense Analysts who are highly skilled, want to stay on the leading edge of technology and are impassioned about ensuring the security of our nation.",
+    "url": "https://www.usajobs.gov/job/849044500",
+    "posted_at": "2025-10-28T15:46:00.353000",
+    "salary": "7-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849042200",
+    "title": "Cryptologic Cyber Planner - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Are you a Cyber Professional with the drive and expertise to be on the forefront of the cyber fight; tackling NSA's complex mission to defend against cyber threats of today and tomorrow? NSA, the nation's leading cyber agency, has exciting and challenging positions in Cyber Security Engineering and Cyber and TEMPEST vulnerability analysis/mitigation. Are you ready to help secure our Nation's critical Infrastructure? If so, NSA is the place for you!",
+    "url": "https://www.usajobs.gov/job/849042200",
+    "posted_at": "2025-10-28T15:27:35.663000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849039000",
+    "title": "Industrial Control System Specialist - Entry to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in need of skilled/experienced Industrial Control System (ICS) Specialists/Engineers to ensure the proper operation and cybersecurity of NSA's and Department of Defense (DoD) ICS, from concept to operation.",
+    "url": "https://www.usajobs.gov/job/849039000",
+    "posted_at": "2025-10-28T15:10:16.347000",
+    "salary": "7-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848977400",
+    "title": "IT Specialist (PLCYPLN)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the Fort Meade, MD.",
+    "url": "https://www.usajobs.gov/job/848977400",
+    "posted_at": "2025-10-28T08:05:30.620000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848910500",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC/PLCYPLN)",
     "organization": "Naval Sea Systems Command",
@@ -23,20 +108,6 @@
     "description": "You will serve as Assistant Commander for Supply Chain Performance and Integration, Naval Supply Systems Command (NAVSUP) lead expert in supply chain policy and performance. The incumbent is the authoritative expert and advisor to COMNAVSUP for performance management, technology employment and systems integration across the Navy's supply chain.",
     "url": "https://www.usajobs.gov/job/848901000",
     "posted_at": "2025-10-28T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848965100",
-    "title": "Chief Technology Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to advance the shared understanding of how to best implement the opportunities presented by Emerging Technology. The role will lead the agency's efforts to identify, assess and apply emerging technologies to the USPTO's changing business needs and strategic direction.",
-    "url": "https://www.usajobs.gov/job/848965100",
-    "posted_at": "2025-10-27T17:18:38.350000",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -84,6 +155,20 @@
     "remote": null
   },
   {
+    "job_id": "848965100",
+    "title": "Chief Technology Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to advance the shared understanding of how to best implement the opportunities presented by Emerging Technology. The role will lead the agency's efforts to identify, assess and apply emerging technologies to the USPTO's changing business needs and strategic direction.",
+    "url": "https://www.usajobs.gov/job/848965100",
+    "posted_at": "2025-10-27T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848817600",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -113,20 +198,6 @@
     "remote": null
   },
   {
-    "job_id": "848865500",
-    "title": "Chief Information Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
-    "url": "https://www.usajobs.gov/job/848865500",
-    "posted_at": "2025-10-24T17:25:27.390000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848878400",
     "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -151,6 +222,20 @@
     "url": "https://www.usajobs.gov/job/848844400",
     "posted_at": "2025-10-24T12:43:29.087000",
     "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848865500",
+    "title": "Chief Information Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
+    "url": "https://www.usajobs.gov/job/848865500",
+    "posted_at": "2025-10-24T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -385,22 +470,6 @@
     "url": "https://www.usajobs.gov/job/848136200",
     "posted_at": "2025-10-15T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847870100",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: United States Citizens The duty station of these positions will be assigned at the time of a job offer, and pay will be set in accordance with the duty station. Any on-site requirements will be determined by the duty station assigned upon selection. This position is located in IT DIR OFFICE, ACCOUNTING SYSTEMS, MOCAS SYSTEM, ZTCE",
-    "url": "https://www.usajobs.gov/job/847870100",
-    "posted_at": "2025-10-14T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
