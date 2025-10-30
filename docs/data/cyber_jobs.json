@@ -1,5 +1,103 @@
 [
   {
+    "job_id": "849116000",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Point Loma Complex, San Diego, California"
+    ],
+    "description": "You will serve as a SUPERVISOR in the COMMAND AND CONTROL SYSTEMS of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/849116000",
+    "posted_at": "2025-10-30T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849115800",
+    "title": "SUPERVISOR",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Point Loma Complex, San Diego, California"
+    ],
+    "description": "You will serve as a SUPERVISOR in the COMMAND AND CONTROL SYSTEMS of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/849115800",
+    "posted_at": "2025-10-30T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849114500",
+    "title": "SUPERVISOR",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Point Loma Complex, San Diego, California"
+    ],
+    "description": "You will serve as a SUPERVISOR in the COMMAND AND CONTROL SYSTEMS of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/849114500",
+    "posted_at": "2025-10-30T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849064000",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "You will serve as a INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN) in the Windows Systems Branch (N623), Information Technology (IT) Operations Services Division (N62), Information Technology Department (N6), Naval Oceanographic Office of Stennis Space Center, Mississippi of NAVOCEANO BAY ST LOUIS.",
+    "url": "https://www.usajobs.gov/job/849064000",
+    "posted_at": "2025-10-30T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849091100",
+    "title": "Data Scientist Development Program (DSDP) - Entry to Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Newly hired Data Scientists may be enrolled in the three-year Data Science Development Program (DSDP), in which they will both broaden and specialize their data science skills by taking courses and touring with a variety of mission offices (each for several months). You will have the opportunity to collaborate with NSA's experts in data science, related technical domains, and specialized subject areas while tackling NSA's highest priority mission challenges.",
+    "url": "https://www.usajobs.gov/job/849091100",
+    "posted_at": "2025-10-29T10:48:45.420000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849086000",
+    "title": "Biomedical Equipment Support Specialist (Intensive Care)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "The Biomedical Equipment Support Specialist (Intensive Care) Serves as a Biomedical Equipment Support Specialist (BESS) specialized in intensive care, high-risk, or surgical equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains life-support, high-risk surgical, or intensive care medical equipment and clinical systems.",
+    "url": "https://www.usajobs.gov/job/849086000",
+    "posted_at": "2025-10-29T10:14:26.093000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849069400",
+    "title": "Security Architect, CG-2210-14",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization (CIOO), Office of the Chief Information Security Officer (OCISO) at the Federal Deposit Insurance Corporation and provides support developing, analyzing, and implementing IT Security architecture and security engineering initiatives. Additional selections may be made from this vacancy announcement to fill similar vacancies that occur subsequent to this announcement.",
+    "url": "https://www.usajobs.gov/job/849069400",
+    "posted_at": "2025-10-29T08:21:01.187000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849006000",
     "title": "Supervisory Information Technology Specialist (PLCYPLN/INFOSEC)",
     "organization": "Federal Law Enforcement Training Centers",
@@ -10,20 +108,6 @@
     "url": "https://www.usajobs.gov/job/849006000",
     "posted_at": "2025-10-29T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848932200",
-    "title": "IT SPECIALIST (SYSADMIN)",
-    "organization": "Defense Health Agency",
-    "locations": [
-      "San Antonio, Texas"
-    ],
-    "description": "About the Position: This position has two vacancies to fill in San Antonio, Texas. This is a Direct Hire Solicitation",
-    "url": "https://www.usajobs.gov/job/848932200",
-    "posted_at": "2025-10-29T00:00:00",
-    "salary": "11-12",
     "grade": null,
     "remote": null
   },
@@ -57,20 +141,6 @@
     "remote": null
   },
   {
-    "job_id": "849039000",
-    "title": "Industrial Control System Specialist - Entry to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA is in need of skilled/experienced Industrial Control System (ICS) Specialists/Engineers to ensure the proper operation and cybersecurity of NSA's and Department of Defense (DoD) ICS, from concept to operation.",
-    "url": "https://www.usajobs.gov/job/849039000",
-    "posted_at": "2025-10-28T15:10:16.347000",
-    "salary": "7-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848977400",
     "title": "IT Specialist (PLCYPLN)",
     "organization": "Joint Activities",
@@ -81,6 +151,20 @@
     "url": "https://www.usajobs.gov/job/848977400",
     "posted_at": "2025-10-28T08:05:30.620000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849039000",
+    "title": "Industrial Control System Specialist - Entry to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in need of skilled/experienced Industrial Control System (ICS) Specialists/Engineers to ensure the proper operation and cybersecurity of NSA's and Department of Defense (DoD) ICS, from concept to operation.",
+    "url": "https://www.usajobs.gov/job/849039000",
+    "posted_at": "2025-10-28T00:00:00",
+    "salary": "7-14",
     "grade": null,
     "remote": null
   },

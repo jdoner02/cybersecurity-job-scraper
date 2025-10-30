@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "849122800",
+    "title": "DATA SCIENTIST",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Open to United States Citizens",
+    "url": "https://www.usajobs.gov/job/849122800",
+    "posted_at": "2025-10-30T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849091100",
+    "title": "Data Scientist Development Program (DSDP) - Entry to Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Newly hired Data Scientists may be enrolled in the three-year Data Science Development Program (DSDP), in which they will both broaden and specialize their data science skills by taking courses and touring with a variety of mission offices (each for several months). You will have the opportunity to collaborate with NSA's experts in data science, related technical domains, and specialized subject areas while tackling NSA's highest priority mission challenges.",
+    "url": "https://www.usajobs.gov/job/849091100",
+    "posted_at": "2025-10-29T10:48:45.420000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "848983400",
     "title": "Management and Program Analyst",
     "organization": "Defense Logistics Agency",
@@ -148,184 +178,6 @@
     "url": "https://www.usajobs.gov/job/846704700",
     "posted_at": "2025-09-30T00:00:00",
     "salary": "9-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846934400",
-    "title": "Patent Examiner (Chemical Engineering)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The USPTO drives U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846934400",
-    "posted_at": "2025-09-29T15:52:54.470000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846934100",
-    "title": "Patent Examiner (Electrical Engineering)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office's (USPTO) patent examiners evaluate next-generation technologies, products, tools, and systems that change how billions of people connect, explore, and interact with one another. The patents we issue and the trademarks we register have the potential to change the world! We're looking for engineers who bring unique perspectives and fresh ideas and energy from all areas of science, technology, engineering, mathematics, and medicine.",
-    "url": "https://www.usajobs.gov/job/846934100",
-    "posted_at": "2025-09-29T15:52:21.157000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846937800",
-    "title": "Patent Examiner (Biomedical Engineering)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria County, Virginia"
-    ],
-    "description": "The USPTO drives U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846937800",
-    "posted_at": "2025-09-29T15:50:45.317000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846938200",
-    "title": "Patent Examiner (Computer Engineering)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The USPTO drives U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846938200",
-    "posted_at": "2025-09-29T15:45:10.390000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846935100",
-    "title": "Patent Examiner (Chemistry)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The USPTO drives U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846935100",
-    "posted_at": "2025-09-29T15:18:14.860000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846933300",
-    "title": "Patent Examiner (Mechanical Engineering)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria County, Virginia"
-    ],
-    "description": "The USPTO drives U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846933300",
-    "posted_at": "2025-09-29T15:13:40.073000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846931800",
-    "title": "Patent Examiner (Computer Science)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The USPTO drives U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846931800",
-    "posted_at": "2025-09-29T15:08:09.753000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846933900",
-    "title": "Patent Examiner (Physics)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The USPTO works toward its mission of driving U.S innovation for the benefit of all Americans and providing intellectual property protection for innovators and entrepreneurs worldwide. We are looking for talented individuals to examine ideas that benefit society and bring innovation to market. You'll shape the future of patent examination, advance key processes, and support innovation in cutting-edge ways.",
-    "url": "https://www.usajobs.gov/job/846933900",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846764700",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/846764700",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846764000",
-    "title": "Air Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations. This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section.",
-    "url": "https://www.usajobs.gov/job/846764000",
-    "posted_at": "2025-09-29T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   }
