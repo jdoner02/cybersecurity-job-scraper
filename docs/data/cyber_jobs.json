@@ -1,5 +1,63 @@
 [
   {
+    "job_id": "849233500",
+    "title": "SUPERVISORY TECHNICIAN",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Port Hueneme, California"
+    ],
+    "description": "The President has ordered a government-wide hiring freeze subject to certain limited exceptions. This position is subject to the hiring freeze. Although we are moving forward with the consideration of candidates, we will not make a selection for this vacancy announcement unless and until the position is no longer subject to the hiring freeze. You will serve as a Branch Manager in the Digital Engineering Department of NAVAL SURFACE WARFARE CENTER.",
+    "url": "https://www.usajobs.gov/job/849233500",
+    "posted_at": "2025-10-31T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849187300",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. Position is located in IT DIR OFFICE, ACCOUNTING SERVICES, ENTERPRISE SYSTEMS, EFD SYSTEMS SUSTAINMENT BR, ZTCFD. This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
+    "url": "https://www.usajobs.gov/job/849187300",
+    "posted_at": "2025-10-31T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849176300",
+    "title": "GENERAL ENGINEER",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This position is located in the Office of the Under Secretary of Defense for Research and Engineering (OUSD (R&E)). The USD(R&E) serves as the Chief Technology Officer and is responsible for research, development, and prototyping activities within the Department of Defense (DoD).",
+    "url": "https://www.usajobs.gov/job/849176300",
+    "posted_at": "2025-10-30T11:32:05.747000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849148900",
+    "title": "Biomedical Equipment Support Specialist - Information Systems (EHRM)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Madison, Wisconsin"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
+    "url": "https://www.usajobs.gov/job/849148900",
+    "posted_at": "2025-10-30T09:21:03.730000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849116000",
     "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
     "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
@@ -56,20 +114,6 @@
     "remote": null
   },
   {
-    "job_id": "849091100",
-    "title": "Data Scientist Development Program (DSDP) - Entry to Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Newly hired Data Scientists may be enrolled in the three-year Data Science Development Program (DSDP), in which they will both broaden and specialize their data science skills by taking courses and touring with a variety of mission offices (each for several months). You will have the opportunity to collaborate with NSA's experts in data science, related technical domains, and specialized subject areas while tackling NSA's highest priority mission challenges.",
-    "url": "https://www.usajobs.gov/job/849091100",
-    "posted_at": "2025-10-29T10:48:45.420000",
-    "salary": "7-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849086000",
     "title": "Biomedical Equipment Support Specialist (Intensive Care)",
     "organization": "Veterans Health Administration",
@@ -90,9 +134,9 @@
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "This position is located in the Chief Information Officer Organization (CIOO), Office of the Chief Information Security Officer (OCISO) at the Federal Deposit Insurance Corporation and provides support developing, analyzing, and implementing IT Security architecture and security engineering initiatives. Additional selections may be made from this vacancy announcement to fill similar vacancies that occur subsequent to this announcement.",
+    "description": "This position is located in the Chief Information Officer Organization (CIOO), Office of the Chief Information Security Officer (OCISO) at the Federal Deposit Insurance Corporation and provides support developing, analyzing, and implementing IT Security architecture and security engineering initiatives. Note: Salary range has been corrected on 10/30/2025 to reflect the pay of $255,00 per annum.",
     "url": "https://www.usajobs.gov/job/849069400",
-    "posted_at": "2025-10-29T08:21:01.187000",
+    "posted_at": "2025-10-29T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -151,34 +195,6 @@
     "url": "https://www.usajobs.gov/job/848977400",
     "posted_at": "2025-10-28T08:05:30.620000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849039000",
-    "title": "Industrial Control System Specialist - Entry to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA is in need of skilled/experienced Industrial Control System (ICS) Specialists/Engineers to ensure the proper operation and cybersecurity of NSA's and Department of Defense (DoD) ICS, from concept to operation.",
-    "url": "https://www.usajobs.gov/job/849039000",
-    "posted_at": "2025-10-28T00:00:00",
-    "salary": "7-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848910500",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC/PLCYPLN)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Washington Navy Yard, District of Columbia"
-    ],
-    "description": "You will serve as an IT CYBERSECURITY SPECIALIST in the Cyber/C4 (Command, Control, Communication, Computers and Intelligence Systems) division of PEO UNDERSEA WARFARE SYSTEMS.",
-    "url": "https://www.usajobs.gov/job/848910500",
-    "posted_at": "2025-10-28T00:00:00",
-    "salary": "3-3",
     "grade": null,
     "remote": null
   },
@@ -352,20 +368,6 @@
     "remote": null
   },
   {
-    "job_id": "848726100",
-    "title": "Information Technology Specialist (macOS)",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Ashburn, Virginia"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Information and Technology, Field Support Directorate, located in Ashburn, VA. This announcement will be open for 5 business days.",
-    "url": "https://www.usajobs.gov/job/848726100",
-    "posted_at": "2025-10-24T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848704500",
     "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -494,7 +496,7 @@
     ],
     "description": "Who may apply: Current, permanent DFAS employees in the competitive service, current DFAS VRA employees, PPP DoD Military Spouse Preference applicants. Position is located in: Information & Technology Dir, Corporate Systems, Cash Accountability Systems Testing, ZTEBJ This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
     "url": "https://www.usajobs.gov/job/848422400",
-    "posted_at": "2025-10-20T08:05:07.057000",
+    "posted_at": "2025-10-20T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -526,20 +528,6 @@
     "url": "https://www.usajobs.gov/job/848298300",
     "posted_at": "2025-10-16T16:31:30.547000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848079200",
-    "title": "Information Technology Specialist (Security)",
-    "organization": "Administrative Office of the U.S. Courts",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is in the Administrative Office of the U.S. Courts, Department of Technology Services, Information Technology Security Office (ITSO). ITSO manages the Judiciary's IT Security program, overseeing the security operations of Judiciary IT cyber security, digital forensics, malware analysis, and forensic investigations in support of cyber and law enforcement operations.",
-    "url": "https://www.usajobs.gov/job/848079200",
-    "posted_at": "2025-10-16T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -620,34 +608,6 @@
     "url": "https://www.usajobs.gov/job/847981900",
     "posted_at": "2025-10-10T13:51:23.107000",
     "salary": "10-10",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847978300",
-    "title": "Biomedical Equipment Support Specialist (Information Systems)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
-    "url": "https://www.usajobs.gov/job/847978300",
-    "posted_at": "2025-10-10T13:14:57.803000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847978000",
-    "title": "Biomedical Equipment Support Specialist (Information Systems)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
-    "url": "https://www.usajobs.gov/job/847978000",
-    "posted_at": "2025-10-10T13:12:38.430000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },

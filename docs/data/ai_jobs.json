@@ -10,22 +10,8 @@
     ],
     "description": "Open to United States Citizens",
     "url": "https://www.usajobs.gov/job/849122800",
-    "posted_at": "2025-10-30T00:00:00",
+    "posted_at": "2025-10-30T09:02:08.560000",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849091100",
-    "title": "Data Scientist Development Program (DSDP) - Entry to Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Newly hired Data Scientists may be enrolled in the three-year Data Science Development Program (DSDP), in which they will both broaden and specialize their data science skills by taking courses and touring with a variety of mission offices (each for several months). You will have the opportunity to collaborate with NSA's experts in data science, related technical domains, and specialized subject areas while tackling NSA's highest priority mission challenges.",
-    "url": "https://www.usajobs.gov/job/849091100",
-    "posted_at": "2025-10-29T10:48:45.420000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
@@ -115,22 +101,8 @@
     ],
     "description": "This position is located at VISN 20 Northwest Network in Vancouver, Washington, in Veteran's Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
     "url": "https://www.usajobs.gov/job/848493900",
-    "posted_at": "2025-10-20T17:20:10.003000",
+    "posted_at": "2025-10-20T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848308800",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Anchorage, Alaska"
-    ],
-    "description": "The primary purpose of this position is to improve quality, efficiency and effectiveness of health care by integrating clinical and information process necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/848308800",
-    "posted_at": "2025-10-16T18:25:51.307000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
@@ -164,20 +136,6 @@
     "url": "https://www.usajobs.gov/job/847795200",
     "posted_at": "2025-10-09T00:00:00",
     "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "846704700",
-    "title": "Policy Advisor",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located at Departmental Offices,Terrorism and Financial Intelligence - Terrorist Financing and Financial Crimes. As a Policy Advisor, you will have policy responsibility for all aspects of Treasury's anti-money laundering (AML) and countering the financing of terrorism (CFT) programs, sanctions efforts, and other critical national security issues such as anti-kleptocracy, counter-proliferation financing and counter-insurgency financing initiatives.",
-    "url": "https://www.usajobs.gov/job/846704700",
-    "posted_at": "2025-09-30T00:00:00",
-    "salary": "9-13",
     "grade": null,
     "remote": null
   }
