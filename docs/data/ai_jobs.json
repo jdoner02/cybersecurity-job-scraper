@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "849259300",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/849259300",
+    "posted_at": "2025-11-01T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849122800",
     "title": "DATA SCIENTIST",
     "organization": "Defense Finance and Accounting Service",
