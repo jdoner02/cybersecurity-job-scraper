@@ -575,19 +575,5 @@
     "salary": "29-29",
     "grade": null,
     "remote": null
-  },
-  {
-    "job_id": "847262300",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Springfield, Ohio"
-    ],
-    "description": "This National Guard position is for a IT CYBERSECURITY SPECIALIST (SYSADMIN), Position Description Number D2793000 and is part of the OH 178 Wing, Ohio Air National Guard. The purpose of the position is to provide information technology system support to the assigned unit. The incumbent provides systems administration support on classified workstations and servers using multiple operating systems.",
-    "url": "https://www.usajobs.gov/job/847262300",
-    "posted_at": "2025-10-02T08:00:18.377000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
   }
 ]
