@@ -1,5 +1,75 @@
 [
   {
+    "job_id": "849328700",
+    "title": "PROGRAM ANALYST",
+    "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
+    "locations": [
+      "Washington Navy Yard, District of Columbia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/849328700",
+    "posted_at": "2025-11-03T00:00:00",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849313100",
+    "title": "SUPERVISORY IT SPECIALIST (PLCY/PLN)",
+    "organization": "Commander, Navy Installations",
+    "locations": [
+      "Broadway Complex, San Diego, California"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/849313100",
+    "posted_at": "2025-11-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849212300",
+    "title": "Information Technology Specialist (Customer Support)",
+    "organization": "U.S. Military Entrance Processing Command",
+    "locations": [
+      "Butte, Montana"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service. This position will be filled on a permanent basis.",
+    "url": "https://www.usajobs.gov/job/849212300",
+    "posted_at": "2025-11-03T00:00:00",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849193300",
+    "title": "DAM NECK ACTIVITY INFORMATION SYSTEMS SECURITY OFFICER (ISSO)",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Dam Neck Naval Facility, Virginia Beach, Virginia"
+    ],
+    "description": "You will serve as a DAM NECK ACTIVITY INFORMATION SYSTEMS SECURITY OFFICER (ISSO) in the Information Technology, Corporate Operations Division of NAVSURFWARCENACT DAM NECK VA. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
+    "url": "https://www.usajobs.gov/job/849193300",
+    "posted_at": "2025-11-03T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849156400",
+    "title": "IT Specialist (Cybersecurity), CG-2210-14",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Office of the Chief Information Security Officer, Cyber Risk Management Section of the Federal Deposit Insurance Corporation (FDIC). The incumbent leads, implements, and manages cyber risk management programs, projects, and other efforts focused on Continuous Authorizations, DevSecOps and Application Security.",
+    "url": "https://www.usajobs.gov/job/849156400",
+    "posted_at": "2025-11-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849233500",
     "title": "SUPERVISORY TECHNICIAN",
     "organization": "Naval Sea Systems Command",
@@ -156,20 +226,6 @@
     "remote": null
   },
   {
-    "job_id": "849042200",
-    "title": "Cryptologic Cyber Planner - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Are you a Cyber Professional with the drive and expertise to be on the forefront of the cyber fight; tackling NSA's complex mission to defend against cyber threats of today and tomorrow? NSA, the nation's leading cyber agency, has exciting and challenging positions in Cyber Security Engineering and Cyber and TEMPEST vulnerability analysis/mitigation. Are you ready to help secure our Nation's critical Infrastructure? If so, NSA is the place for you!",
-    "url": "https://www.usajobs.gov/job/849042200",
-    "posted_at": "2025-10-28T15:27:35.663000",
-    "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848977400",
     "title": "IT Specialist (PLCYPLN)",
     "organization": "Joint Activities",
@@ -249,20 +305,6 @@
     ],
     "description": "Who may apply: Current, permanent DoD competitive service Employees, PPP DoD Military Spouse Preference, current DoD VRA employees, VEOA, Military Spouse, ICTAP, certain PPP applicants. Applicants on the Cleveland list may be placed at Bratenahl. We may use this announcements to fill other positions in the I&T Dir. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
     "url": "https://www.usajobs.gov/job/848817600",
-    "posted_at": "2025-10-27T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848703600",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA-ENDPOINT AND CUSTOMER SERVICE DIRECTORATE (FE45).",
-    "url": "https://www.usajobs.gov/job/848703600",
     "posted_at": "2025-10-27T00:00:00",
     "salary": "12-12",
     "grade": null,
