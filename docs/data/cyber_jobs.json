@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "849416400",
+    "title": "Informational Technology/Operational Technology (IT/OT) Cybersecurity Assessor",
+    "organization": "Bonneville Power Administration",
+    "locations": [
+      "Portland, Oregon"
+    ],
+    "description": "This position is located with the Bonneville Power Admin, in the Cyber Assessment, Verification, Remediation & Reporting (JBC) group of the Cyber Security Office (JB), Information Technology (J). A successful candidate in this position will serve as a senior Information Assurance Officer on the Cyber Security Assessment & (CVA) Team, supporting the security of agency cyber-IT/OT resources & networks & ensuring compliance with applicable federal laws, regulations, & agency directives & policies.",
+    "url": "https://www.usajobs.gov/job/849416400",
+    "posted_at": "2025-11-04T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849376300",
+    "title": "DIRECTOR FOR MARINE ENGINEERING",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Washington Navy Yard, District of Columbia"
+    ],
+    "description": "You will serve as the Director for Marine Engineering Group in the Naval Systems Engineering and Logistics Directorate of the NAVAL SEA SYSTEMS COMMAND (NAVSEA).",
+    "url": "https://www.usajobs.gov/job/849376300",
+    "posted_at": "2025-11-04T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849378500",
+    "title": "Interdisciplinary Engineer",
+    "organization": "Defense Microelectronics Activity",
+    "locations": [
+      "McClellan, California"
+    ],
+    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: AcqDemo This position is part of the Defense Microelectronics Activity, DMEA. The incumbent will be responsible for providing engineering/scientific support for the design, development, production, testing, and/or evaluation of microelectronics efforts in support of the Warfighter.",
+    "url": "https://www.usajobs.gov/job/849378500",
+    "posted_at": "2025-11-03T13:02:52.607000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849328700",
     "title": "PROGRAM ANALYST",
     "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
@@ -100,20 +142,6 @@
     "remote": null
   },
   {
-    "job_id": "849176300",
-    "title": "GENERAL ENGINEER",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This position is located in the Office of the Under Secretary of Defense for Research and Engineering (OUSD (R&E)). The USD(R&E) serves as the Chief Technology Officer and is responsible for research, development, and prototyping activities within the Department of Defense (DoD).",
-    "url": "https://www.usajobs.gov/job/849176300",
-    "posted_at": "2025-10-30T11:32:05.747000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849148900",
     "title": "Biomedical Equipment Support Specialist - Information Systems (EHRM)",
     "organization": "Veterans Health Administration",
@@ -123,62 +151,6 @@
     "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
     "url": "https://www.usajobs.gov/job/849148900",
     "posted_at": "2025-10-30T09:21:03.730000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849116000",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "Point Loma Complex, San Diego, California"
-    ],
-    "description": "You will serve as a SUPERVISOR in the COMMAND AND CONTROL SYSTEMS of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
-    "url": "https://www.usajobs.gov/job/849116000",
-    "posted_at": "2025-10-30T00:00:00",
-    "salary": "4-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849115800",
-    "title": "SUPERVISOR",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "Point Loma Complex, San Diego, California"
-    ],
-    "description": "You will serve as a SUPERVISOR in the COMMAND AND CONTROL SYSTEMS of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
-    "url": "https://www.usajobs.gov/job/849115800",
-    "posted_at": "2025-10-30T00:00:00",
-    "salary": "4-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849114500",
-    "title": "SUPERVISOR",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "Point Loma Complex, San Diego, California"
-    ],
-    "description": "You will serve as a SUPERVISOR in the COMMAND AND CONTROL SYSTEMS of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
-    "url": "https://www.usajobs.gov/job/849114500",
-    "posted_at": "2025-10-30T00:00:00",
-    "salary": "4-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849064000",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "You will serve as a INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN) in the Windows Systems Branch (N623), Information Technology (IT) Operations Services Division (N62), Information Technology Department (N6), Naval Oceanographic Office of Stennis Space Center, Mississippi of NAVOCEANO BAY ST LOUIS.",
-    "url": "https://www.usajobs.gov/job/849064000",
-    "posted_at": "2025-10-30T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -226,20 +198,6 @@
     "remote": null
   },
   {
-    "job_id": "848977400",
-    "title": "IT Specialist (PLCYPLN)",
-    "organization": "Joint Activities",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the Fort Meade, MD.",
-    "url": "https://www.usajobs.gov/job/848977400",
-    "posted_at": "2025-10-28T08:05:30.620000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848901000",
     "title": "ASSISTANT COMMANDER FOR SUPPLY CHAIN PERFORMANCE AND INTEGRATION",
     "organization": "Naval Supply Systems Command",
@@ -250,20 +208,6 @@
     "url": "https://www.usajobs.gov/job/848901000",
     "posted_at": "2025-10-28T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848935800",
-    "title": "Biomedical Equipment Support Specialist - Information Systems (EHRM)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Madison, Wisconsin"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
-    "url": "https://www.usajobs.gov/job/848935800",
-    "posted_at": "2025-10-27T13:45:55.130000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -292,6 +236,20 @@
     "url": "https://www.usajobs.gov/job/848965100",
     "posted_at": "2025-10-27T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "848935800",
+    "title": "Biomedical Equipment Support Specialist - Information Systems (EHRM)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Madison, Wisconsin"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
+    "url": "https://www.usajobs.gov/job/848935800",
+    "posted_at": "2025-10-27T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -381,23 +339,6 @@
     "remote": null
   },
   {
-    "job_id": "848611500",
-    "title": "Supervisory IT Specialist (INFOSEC)",
-    "organization": "Defense Counterintelligence and Security Agency",
-    "locations": [
-      "Fort Meade, Maryland",
-      "Boyers, Pennsylvania",
-      "Farmers Branch, Texas",
-      "Quantico, Virginia"
-    ],
-    "description": "The incumbent will be a Supervisory IT Specialist for cyber security and serve as the lead program level ISSM for the National Background Investigation Services (NBIS) overseeing a team comprised of program level ISSMs, ISSO, and ISSE. The incumbent will be responsible for the planning, implementation and execution of a cyber security management strategy to ensure the security posture of the NBIS portfolio of systems and products and liaison to OCIO cyber security management and leadership.",
-    "url": "https://www.usajobs.gov/job/848611500",
-    "posted_at": "2025-10-22T08:04:53.750000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848559300",
     "title": "Chief Information Officer",
     "organization": "Federal Communications Commission",
@@ -437,24 +378,10 @@
       "Houston, Texas",
       "Tacoma, Washington"
     ],
-    "description": "Announcement amended to revise the close date to November 3, 2025 As an IT Specialist - Principal Software Engineer, you will serve as an expert software engineer and applications developer, providing technical leadership to cross-functional teams, architecting and deploying secure, scalable applications that advance services for the American people. The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.",
+    "description": "Announcement amended to revise the close date to November 7, 2025 As an IT Specialist - Principal Software Engineer, you will serve as an expert software engineer and applications developer, providing technical leadership to cross-functional teams, architecting and deploying secure, scalable applications that advance services for the American people. The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.",
     "url": "https://www.usajobs.gov/job/848619000",
     "posted_at": "2025-10-21T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848422400",
-    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DFAS employees in the competitive service, current DFAS VRA employees, PPP DoD Military Spouse Preference applicants. Position is located in: Information & Technology Dir, Corporate Systems, Cash Accountability Systems Testing, ZTEBJ This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
-    "url": "https://www.usajobs.gov/job/848422400",
-    "posted_at": "2025-10-20T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },

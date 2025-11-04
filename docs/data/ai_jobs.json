@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "849395600",
+    "title": "Financial Management Analyst",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "The Under Secretary of Defense (Comptroller/Chief Financial Officer (USD(C)/FCO) is responsible for carrying out the functions assigned by Section 135 of Title 10, United States Code, and assuring the utmost economy and efficiency in the operations of the Department of Defense (DoD). This position serves as senior analyst in support of Enterprise Financial Transformation (EFT) efforts to streamline and standardize financial operations and consolidate Financial Management (FM) systems.",
+    "url": "https://www.usajobs.gov/job/849395600",
+    "posted_at": "2025-11-03T15:03:09.217000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849259300",
     "title": "Marine Interdiction Agent",
     "organization": "Customs and Border Protection",
@@ -49,27 +63,6 @@
     "remote": null
   },
   {
-    "job_id": "848983400",
-    "title": "Management and Program Analyst",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/848983400",
-    "posted_at": "2025-10-28T08:56:12.387000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848972100",
     "title": "Chief Artificial Intelligence Officer",
     "organization": "Patent and Trademark Office",
@@ -106,20 +99,6 @@
     ],
     "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
     "url": "https://www.usajobs.gov/job/848865500",
-    "posted_at": "2025-10-24T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848581000",
-    "title": "ISS (Educational Technologist)",
-    "organization": "Department of Defense Education Activity",
-    "locations": [
-      "Yokota Air Base, Japan"
-    ],
-    "description": "About the Position: This position is located at the Department of Defense Education Activity, Pacific East Office, Yokota, Japan. This position is not covered by a bargaining unit. Federal employees in Yokota, Japan are currently entitled to receive a 20% Post Allowance (COLA) in addition to the base salary.",
-    "url": "https://www.usajobs.gov/job/848581000",
     "posted_at": "2025-10-24T00:00:00",
     "salary": "00-00",
     "grade": null,
