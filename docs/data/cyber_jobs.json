@@ -1,5 +1,75 @@
 [
   {
+    "job_id": "849423000",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Baltimore, Maryland"
+    ],
+    "description": "Serves as a full performance Biomedical Equipment Support Specialist (BESS) within the Clinical Engineering Service at the VA Maryland Health Care System. The BESS works in support of the medical equipment management program. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on medical devices and clinical systems under frequent supervision.",
+    "url": "https://www.usajobs.gov/job/849423000",
+    "posted_at": "2025-11-05T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849422900",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Baltimore, Maryland"
+    ],
+    "description": "Serves as an entry-level, developmental position for a Biomedical Equipment Support Specialist (BESS) within the Clinical Engineering Service at the VA Maryland Health Care System. The BESS works in support of the medical equipment management program. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on medical devices and clinical systems under frequent supervision.",
+    "url": "https://www.usajobs.gov/job/849422900",
+    "posted_at": "2025-11-05T00:00:00",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849462800",
+    "title": "Engineer/Developer - Software Hardware Research-Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
+    "url": "https://www.usajobs.gov/job/849462800",
+    "posted_at": "2025-11-04T11:45:19.937000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849456800",
+    "title": "Engineer Developer - Software Hardware Research - Entry Level -Maryland",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions?",
+    "url": "https://www.usajobs.gov/job/849456800",
+    "posted_at": "2025-11-04T11:12:36.283000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849441300",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Westfield, Massachusetts"
+    ],
+    "description": "THIS IS A NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION. This National Guard position is for a IT CYBERSECURITY SPECIALIST (INFOSEC), Position Description Number PDT5894000 and is part of the MA ANG 104th FW, National Guard. This is a Non-Bargaining Unit position. The unit point of contact and contact phone for this position is: Maj Jason Grimaldi at jason.grimaldi@us.af.mil.",
+    "url": "https://www.usajobs.gov/job/849441300",
+    "posted_at": "2025-11-04T09:49:01.390000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849416400",
     "title": "Informational Technology/Operational Technology (IT/OT) Cybersecurity Assessor",
     "organization": "Bonneville Power Administration",
@@ -150,7 +220,7 @@
     ],
     "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
     "url": "https://www.usajobs.gov/job/849148900",
-    "posted_at": "2025-10-30T09:21:03.730000",
+    "posted_at": "2025-10-30T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -176,7 +246,7 @@
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "This position is located in the Chief Information Officer Organization (CIOO), Office of the Chief Information Security Officer (OCISO) at the Federal Deposit Insurance Corporation and provides support developing, analyzing, and implementing IT Security architecture and security engineering initiatives. Note: Salary range has been corrected on 10/30/2025 to reflect the pay of $255,00 per annum.",
+    "description": "This position is located in the Chief Information Officer Organization (CIOO), Office of the Chief Information Security Officer (OCISO) at the Federal Deposit Insurance Corporation and provides support developing, analyzing, and implementing IT Security architecture and security engineering initiatives. Note: Salary range has been corrected on 10/30/2025 to reflect the pay cap of $255,00 per annum.",
     "url": "https://www.usajobs.gov/job/849069400",
     "posted_at": "2025-10-29T00:00:00",
     "salary": "14-14",
@@ -339,20 +409,6 @@
     "remote": null
   },
   {
-    "job_id": "848559300",
-    "title": "Chief Information Officer",
-    "organization": "Federal Communications Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is in the Office of the Chief Information Officer, Office of the Managing Director, Federal Communications Commission. The OCIO, led by the CIO, is responsible for the overall management of the FCC\u2019s IT systems, including information management, development, operations, and maintenance across all FCC locations; evaluating emerging technologies; ensuring compliance with IT/security protocols; and implementing solutions to meet evolving mission, policy, and legal requirements.",
-    "url": "https://www.usajobs.gov/job/848559300",
-    "posted_at": "2025-10-21T12:59:29.847000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848619000",
     "title": "IT Specialist - Principal Software Engineer",
     "organization": "Technology Transformation Service",
@@ -386,18 +442,16 @@
     "remote": null
   },
   {
-    "job_id": "848153000",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
+    "job_id": "848559300",
+    "title": "Chief Information Officer",
+    "organization": "Federal Communications Commission",
     "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
+      "Washington, District of Columbia"
     ],
-    "description": "Open to United States Citizens Position Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, MOCAS SYSTEM, MOCAS PROGRAMMING BRANCH, ZTCEB Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
-    "url": "https://www.usajobs.gov/job/848153000",
-    "posted_at": "2025-10-20T00:00:00",
-    "salary": "12-12",
+    "description": "This position is in the Office of the Chief Information Officer, Office of the Managing Director, Federal Communications Commission. The OCIO, led by the CIO, is responsible for the overall management of the FCC\u2019s IT systems, including information management, development, operations, and maintenance across all FCC locations; evaluating emerging technologies; ensuring compliance with IT/security protocols; and implementing solutions to meet evolving mission, policy, and legal requirements.",
+    "url": "https://www.usajobs.gov/job/848559300",
+    "posted_at": "2025-10-21T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
