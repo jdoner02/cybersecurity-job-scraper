@@ -1,5 +1,126 @@
 [
   {
+    "job_id": "849612100",
+    "title": "Supervisory Interdisciplinary",
+    "organization": "U.S. Army Corps of Engineers",
+    "locations": [
+      "Fort Shafter, Hawaii"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Serve as Branch Chief, in the Engineering and Construction Division, overseeing and is responsible for planning, directing, and reviewing the technical aspects of the engineering and construction programs of the Honolulu District.",
+    "url": "https://www.usajobs.gov/job/849612100",
+    "posted_at": "2025-11-06T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849609000",
+    "title": "SUPERVISORY TECHNICIAN",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Port Hueneme, California"
+    ],
+    "description": "You will serve as a Supervisory Technician in the Availability Planning Division, Modernization and Installation Department of NAVAL SURFACE WARFARE CENTER. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
+    "url": "https://www.usajobs.gov/job/849609000",
+    "posted_at": "2025-11-06T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849501600",
+    "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/849501600",
+    "posted_at": "2025-11-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849562300",
+    "title": "Manager, Administrative Management Section, CM-0301-00",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salay reflects a pay cap for this position of $275,000.",
+    "url": "https://www.usajobs.gov/job/849562300",
+    "posted_at": "2025-11-05T12:23:54.123000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849550900",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Roseburg, Oregon"
+    ],
+    "description": "This position is located under the FMS engineering service of the Roseburg VA Healthcare System. The Biomedical Equipment Support Specialist (BESS) (Biomedical Information Systems) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of networks, networked medical equipment and associated systems.",
+    "url": "https://www.usajobs.gov/job/849550900",
+    "posted_at": "2025-11-05T11:13:24.813000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849537000",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
+    "url": "https://www.usajobs.gov/job/849537000",
+    "posted_at": "2025-11-05T09:30:02.570000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849525900",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Marion, Indiana"
+    ],
+    "description": "Applies engineering, mechanical concepts, and methodology to manage and support the diagnostic, therapeutic devices, monitoring, and other equipment utilized in the practice of medicine, and to improve health service delivery systems. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
+    "url": "https://www.usajobs.gov/job/849525900",
+    "posted_at": "2025-11-05T07:55:49.047000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849523700",
+    "title": "IT Specialist (APPSW)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $88,621 - $115,213 Columbus, OH: $92,475 - $120,222 Dayton, OH: $91,922- $119,504 Fort Belvoir, VA: $101,401- $131,826 New Cumberland, PA: $101,401- $131,826 Ogden, UT: $88,621 - $115,213 Philadelphia, PA: $97,653- $126,955 Richmond, VA: $92,573- $120,350",
+    "url": "https://www.usajobs.gov/job/849523700",
+    "posted_at": "2025-11-05T07:37:15.410000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849423000",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -174,7 +295,7 @@
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "This position is located in the Chief Information Officer Organization, Office of the Chief Information Security Officer, Cyber Risk Management Section of the Federal Deposit Insurance Corporation (FDIC). The incumbent leads, implements, and manages cyber risk management programs, projects, and other efforts focused on Continuous Authorizations, DevSecOps and Application Security.",
+    "description": "*This announcement has been amended to extend the closing date to November 14, 2025. * This position is located in the Chief Information Officer Organization, Office of the Chief Information Security Officer, Cyber Risk Management Section of the Federal Deposit Insurance Corporation (FDIC). The incumbent leads, implements, and manages cyber risk management programs, projects, and other efforts focused on Continuous Authorizations, DevSecOps and Application Security.",
     "url": "https://www.usajobs.gov/job/849156400",
     "posted_at": "2025-11-03T00:00:00",
     "salary": "14-14",
@@ -221,20 +342,6 @@
     "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
     "url": "https://www.usajobs.gov/job/849148900",
     "posted_at": "2025-10-30T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849086000",
-    "title": "Biomedical Equipment Support Specialist (Intensive Care)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Chicago, Illinois"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (Intensive Care) Serves as a Biomedical Equipment Support Specialist (BESS) specialized in intensive care, high-risk, or surgical equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains life-support, high-risk surgical, or intensive care medical equipment and clinical systems.",
-    "url": "https://www.usajobs.gov/job/849086000",
-    "posted_at": "2025-10-29T10:14:26.093000",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -396,14 +503,14 @@
   },
   {
     "job_id": "848681100",
-    "title": "Associate Administrator for Acquistion",
+    "title": "Associate Administrator for Acquisition",
     "organization": "Treasury, Departmental Offices",
     "locations": [
       "Washington, District of Columbia"
     ],
     "description": "The Associate Administrator for Acquisition/Chief Procurement Officer (CPO) leads Treasury's enterprise-wide procurement operations within the Treasury Common Services Center. The incumbent provides strategic leadership and executive direction for a multibillion-dollar acquisition portfolio, counsels senior executives, resolves complex procurement challenges, and drives modernization, vendor engagement, and workforce excellence aligned with Treasury's mission.",
     "url": "https://www.usajobs.gov/job/848681100",
-    "posted_at": "2025-10-22T15:23:20.733000",
+    "posted_at": "2025-10-22T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
