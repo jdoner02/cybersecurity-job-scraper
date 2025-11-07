@@ -1,5 +1,138 @@
 [
   {
+    "job_id": "849711100",
+    "title": "ELECTRONICS ENGINEER",
+    "organization": "U.S. Pacific Fleet",
+    "locations": [
+      "Kauai Island, Hawaii"
+    ],
+    "description": "You will serve as an ELECTRONICS ENGINEER in the Instrumentation Systems Division, Range Systems Department of PACIFIC MISSILE RANGE FACILITY. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption",
+    "url": "https://www.usajobs.gov/job/849711100",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849660500",
+    "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Montgomery, Alabama",
+      "Tinker AFB, Oklahoma",
+      "Mechanicsburg, Pennsylvania",
+      "Ogden, Utah"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA Host & Compute, Control Operations Branch, Configuration Management Section.",
+    "url": "https://www.usajobs.gov/job/849660500",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849552200",
+    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Dahlgren, Virginia"
+    ],
+    "description": "You will serve as the Cybersecurity Compliance Branch Head in the ACIO/Information Technology Division, Corporate Operations Department of NAVSURFWARCENDLD. This position is part of the Warfare Centers Personnel Demonstration Project. The NT-6 pay band encompasses positions equivalent to GS-14 and GS-15.",
+    "url": "https://www.usajobs.gov/job/849552200",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849504400",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
+    "url": "https://www.usajobs.gov/job/849504400",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849479200",
+    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Open to United States Citizens Position Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, ARMY SYSTEMS, DEBT & FMS SYSTEMS SUSTAINMENT BR, ZTCAC Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
+    "url": "https://www.usajobs.gov/job/849479200",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849709300",
+    "title": "IT Specialist (NETWORK)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/849709300",
+    "posted_at": "2025-11-06T17:21:33.460000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849700300",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/849700300",
+    "posted_at": "2025-11-06T16:08:32.813000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849641300",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "Who may apply: All US Citizens We may use this announcement to fill other positions in the Information & Technology Directorate. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/849641300",
+    "posted_at": "2025-11-06T10:46:52.320000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849628600",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Grand Island, Nebraska"
+    ],
+    "description": "NOTE: The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. Serves as a Biomedical Equipment Support Specialist (BESS) in the Healthcare Technology Management (HTM) department at the Nebraska-Western Iowa VA Healthcare System (NWI VAHCS) - Grand Island. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/849628600",
+    "posted_at": "2025-11-06T09:23:43.327000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849612100",
     "title": "Supervisory Interdisciplinary",
     "organization": "U.S. Army Corps of Engineers",
@@ -117,6 +250,20 @@
     "url": "https://www.usajobs.gov/job/849523700",
     "posted_at": "2025-11-05T07:37:15.410000",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849619800",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Omaha, Nebraska"
+    ],
+    "description": "NOTE: The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. Serves as a Biomedical Equipment Support Specialist (BESS) in the Healthcare Technology Management (HTM) department at the Nebraska-Western Iowa VA Healthcare System (NWI VAHCS). Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/849619800",
+    "posted_at": "2025-11-05T00:00:00",
+    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -488,20 +635,6 @@
     "remote": null
   },
   {
-    "job_id": "848786600",
-    "title": "IT SPECIALIST (CUSTSPT) (TITLE 32)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Nashville, Tennessee"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a IT SPECIALIST (CUSTSPT) (TITLE 32), Position Description Number NGD2526P01 and is part of the TN ARMY National Guard. This vacancy is covered by Association of Civilian Technicians (ACT), Chapter 103 (Volunteer Chapter). This announcement is Internal to the Agency, On Board Only.",
-    "url": "https://www.usajobs.gov/job/848786600",
-    "posted_at": "2025-10-23T16:37:35.003000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848681100",
     "title": "Associate Administrator for Acquisition",
     "organization": "Treasury, Departmental Offices",
@@ -672,37 +805,6 @@
     "url": "https://www.usajobs.gov/job/847795200",
     "posted_at": "2025-10-09T00:00:00",
     "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847665700",
-    "title": "HR SPEC (MILITARY) (Title 32)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Fort Smith, Arkansas"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a HR SPEC (MILITARY) (Title 32), Position Description Number D2402000 and is part of the AR ANG 188 WGH WG, National Guard. NATIONAL GUARD MEMBERSHIP IS REQURED- If you are not currently a member of any military service (Brach/Status), please provide a letter stating intent to join.",
-    "url": "https://www.usajobs.gov/job/847665700",
-    "posted_at": "2025-10-07T13:36:26.493000",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847604000",
-    "title": "Information Technology Manager",
-    "organization": "U.S. Courts",
-    "locations": [
-      "Clarksburg, West Virginia",
-      "Elkins, West Virginia",
-      "Martinsburg, West Virginia",
-      "Wheeling, West Virginia"
-    ],
-    "description": "The Information Technology Manager is responsible for the day-to-day operations and managing, developing and mentoring the IT staff in all aspects of the Information Technology department including operation, coordination, integration, and security of all Judiciary and local applications. The IT Manager must possess excellent leadership, analytical, and interpersonal skills and must be able to deal with all staff and levels of court personnel.",
-    "url": "https://www.usajobs.gov/job/847604000",
-    "posted_at": "2025-10-07T07:52:51.137000",
-    "salary": "29-29",
     "grade": null,
     "remote": null
   }

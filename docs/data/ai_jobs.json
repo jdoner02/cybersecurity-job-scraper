@@ -1,5 +1,62 @@
 [
   {
+    "job_id": "849677400",
+    "title": "MATHEMATICS & STATISTICS STUDENT TRAINEE (COMPUTER SCIENCE)",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "Interested in a career in national security? DCSA is offering a paid internship: the DCSA Student Experience (DSE) '26 Cohort. Open to undergraduate and graduate students with a 3.0+ GPA, students must maintain full-time status through October 2027. The program runs 1 OR 15 June - 21 August 2026, requiring a minimum of 10 weeks of participation. This position is selecting students for Acquisition & Technology - Enterprise Data & Analytics.",
+    "url": "https://www.usajobs.gov/job/849677400",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "5-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849677000",
+    "title": "MATH & STATISTICS STUDENT TRAINEE (COMPUTER & DATA SCIENCE)",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Fort Meade, Maryland",
+      "Arlington, Virginia"
+    ],
+    "description": "Interested in a career in national security? DCSA is offering a paid internship: the DCSA Student Experience (DSE) '26 Cohort. Open to undergraduate and graduate students with a 3.0+ GPA, students must maintain full-time status through October 2027. The program runs 1 OR 15 June - 21 August 2026, requiring a minimum of 10 weeks of participation. Positions may be in one of the following offices: Personnel Vetting or Human Capital Management Office.",
+    "url": "https://www.usajobs.gov/job/849677000",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "5-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849676900",
+    "title": "Mathematics & Statistics Student Trainee (Computer Science & Data Science)",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Interested in a career in national security? DCSA is offering a paid internship: the DCSA Student Experience (DSE) '26 Cohort. Open to undergraduate and graduate students with a 3.0+ GPA, students must maintain full-time status through October 2027. The program runs 1 OR 15 June - 21 August 2026, requiring a minimum of 10 weeks of participation. This announcement is selecting a student for Acquisition and Technology.",
+    "url": "https://www.usajobs.gov/job/849676900",
+    "posted_at": "2025-11-07T00:00:00",
+    "salary": "5-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849641800",
+    "title": "Interdisciplinary (General Engineer/Operations Research Analyst)",
+    "organization": "Missile Defense Agency",
+    "locations": [
+      "Redstone Arsenal, Alabama"
+    ],
+    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: AcqDemo",
+    "url": "https://www.usajobs.gov/job/849641800",
+    "posted_at": "2025-11-06T10:49:07.913000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849513500",
     "title": "INTERDISCIPLINARY ENGINEER/COMPUTER SCIENTIST",
     "organization": "Naval Air Systems Command",
@@ -99,20 +156,6 @@
     "url": "https://www.usajobs.gov/job/848865500",
     "posted_at": "2025-10-24T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848493900",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Vancouver, Washington"
-    ],
-    "description": "This position is located at VISN 20 Northwest Network in Vancouver, Washington, in Veteran's Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/848493900",
-    "posted_at": "2025-10-20T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
