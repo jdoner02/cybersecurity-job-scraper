@@ -1,5 +1,42 @@
 [
   {
+    "job_id": "849772600",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Whitehall, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: New Cumberland, PA: $120,579- $156,755 Columbus, OH: $109,966- $142,957 Richmond, VA: $110,083- $143,109",
+    "url": "https://www.usajobs.gov/job/849772600",
+    "posted_at": "2025-11-07T14:07:49.017000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849737700",
+    "title": "IT Specialist (APPSW)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $88,621 - $115,213 Columbus, OH: $92,475 - $120,222 Dayton, OH: $91,922- $119,504 Fort Belvoir, VA: $101,401- $131,826 New Cumberland, PA: $101,401- $131,826 Ogden, UT: $88,621 - $115,213 Philadelphia, PA: $97,653- $126,955 Richmond, VA: $92,573- $120,350",
+    "url": "https://www.usajobs.gov/job/849737700",
+    "posted_at": "2025-11-07T10:27:57.250000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849711100",
     "title": "ELECTRONICS ENGINEER",
     "organization": "U.S. Pacific Fleet",
@@ -310,20 +347,6 @@
     "remote": null
   },
   {
-    "job_id": "849456800",
-    "title": "Engineer Developer - Software Hardware Research - Entry Level -Maryland",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions?",
-    "url": "https://www.usajobs.gov/job/849456800",
-    "posted_at": "2025-11-04T11:12:36.283000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849441300",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -390,20 +413,6 @@
     "url": "https://www.usajobs.gov/job/849328700",
     "posted_at": "2025-11-03T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849313100",
-    "title": "SUPERVISORY IT SPECIALIST (PLCY/PLN)",
-    "organization": "Commander, Navy Installations",
-    "locations": [
-      "Broadway Complex, San Diego, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/849313100",
-    "posted_at": "2025-11-03T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -564,20 +573,6 @@
     "remote": null
   },
   {
-    "job_id": "848935800",
-    "title": "Biomedical Equipment Support Specialist - Information Systems (EHRM)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Madison, Wisconsin"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
-    "url": "https://www.usajobs.gov/job/848935800",
-    "posted_at": "2025-10-27T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848817600",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -589,48 +584,6 @@
     "url": "https://www.usajobs.gov/job/848817600",
     "posted_at": "2025-10-27T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848844400",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) NF-04",
-    "organization": "United States Army Installation Management Command",
-    "locations": [
-      "Fort Sam Houston, Texas"
-    ],
-    "description": "This position is located at Installation Management Command Headquarters G9 NAF Hospitality Division.",
-    "url": "https://www.usajobs.gov/job/848844400",
-    "posted_at": "2025-10-24T12:43:29.087000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848865500",
-    "title": "Chief Information Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent & Trademark Office (USPTO) is headquartered in Alexandria, VA. The mission of the USPTO is to promote innovation and competitiveness by providing quality and timely examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide.",
-    "url": "https://www.usajobs.gov/job/848865500",
-    "posted_at": "2025-10-24T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848704500",
-    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana"
-    ],
-    "description": "Who may apply: All US Citizens We may use this announcement to fill other positions in the I&T Dir. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/848704500",
-    "posted_at": "2025-10-24T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -649,39 +602,6 @@
     "remote": null
   },
   {
-    "job_id": "848619000",
-    "title": "IT Specialist - Principal Software Engineer",
-    "organization": "Technology Transformation Service",
-    "locations": [
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Lakewood, Colorado",
-      "Washington, District of Columbia",
-      "Orlando, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "Boston, Massachusetts",
-      "Detroit, Michigan",
-      "Kansas City, Missouri",
-      "Charlotte, North Carolina",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Columbia, South Carolina",
-      "Fort Worth, Texas",
-      "Houston, Texas",
-      "Tacoma, Washington"
-    ],
-    "description": "Announcement amended to revise the close date to November 7, 2025 As an IT Specialist - Principal Software Engineer, you will serve as an expert software engineer and applications developer, providing technical leadership to cross-functional teams, architecting and deploying secure, scalable applications that advance services for the American people. The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.",
-    "url": "https://www.usajobs.gov/job/848619000",
-    "posted_at": "2025-10-21T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "848559300",
     "title": "Chief Information Officer",
     "organization": "Federal Communications Commission",
@@ -692,20 +612,6 @@
     "url": "https://www.usajobs.gov/job/848559300",
     "posted_at": "2025-10-21T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848136200",
-    "title": "IT SPECIALIST (NETWORK)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Columbia, South Carolina"
-    ],
-    "description": "This is a National Guard Title 32 Excepted position for a IT SPECIALIST (NETWORK), Position Description Number D0262000, and is part of the SC DOIM, South Carolina Army National Guard.",
-    "url": "https://www.usajobs.gov/job/848136200",
-    "posted_at": "2025-10-15T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
