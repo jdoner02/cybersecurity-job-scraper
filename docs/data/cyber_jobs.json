@@ -680,38 +680,5 @@
     "salary": "10-10",
     "grade": null,
     "remote": null
-  },
-  {
-    "job_id": "847795200",
-    "title": "Computer Engineer (Artificial Intelligence Engineer)",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This is a term position. This position is located at Departmental Offices,Management CFO - Information Systems and Chief Information Officer. The incumbent is a senior computer engineer with specialized experience in the application of artificial intelligence (AI), computer engineering, data engineering, and emerging digital technologies to the Treasury's enterprise systems.",
-    "url": "https://www.usajobs.gov/job/847795200",
-    "posted_at": "2025-10-09T00:00:00",
-    "salary": "12-15",
-    "grade": null,
-    "remote": null
   }
 ]
