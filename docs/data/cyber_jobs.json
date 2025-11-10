@@ -1,5 +1,48 @@
 [
   {
+    "job_id": "849748700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Defense Cyber Excepted Service Employees, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. Position is located in IT DIR OFFICE, ENTERPRISE SERVICES, IT SECURITY SERVICES, CYBER SECURITY SERVICE PROVIDER, ZTAGC. This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
+    "url": "https://www.usajobs.gov/job/849748700",
+    "posted_at": "2025-11-10T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849716400",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "San Diego, California"
+    ],
+    "description": "You will serve as an Information Systems Security Officer (ISSO) and alternate Cyber Workforce (CWF) Program Manager in the Information Systems Management/ Cybersecurity Department of Naval Computer and Telecommunications Station San Diego (NAVCOMTELSTA SAN DIEGO).",
+    "url": "https://www.usajobs.gov/job/849716400",
+    "posted_at": "2025-11-10T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849534200",
+    "title": "IT CYBERSECURITY SPECIALIST (DATAMGT/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/849534200",
+    "posted_at": "2025-11-10T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849772600",
     "title": "IT Specialist (INFOSEC)",
     "organization": "Defense Logistics Agency",
@@ -612,72 +655,6 @@
     "url": "https://www.usajobs.gov/job/848559300",
     "posted_at": "2025-10-21T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847989800",
-    "title": "Special Agent - Cybersecurity/Technology Background",
-    "organization": "Federal Bureau of Investigation",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "FBI Special Agents apply their professional experience and unique skill sets to their work every day. Because technology permeates every aspect of what we do, our Special Agents come from all IT backgrounds: network information, cybersecurity, computer science, digital forensics and other technical specialties. We need professionals experienced in network security, computer science and software engineering to prevent cybercrimes, data theft, ransomware and other attacks to our national security.",
-    "url": "https://www.usajobs.gov/job/847989800",
-    "posted_at": "2025-10-10T14:36:29.963000",
-    "salary": "10-10",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "847981900",
-    "title": "Special Agent -  Accounting/Finance Background",
-    "organization": "Federal Bureau of Investigation",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "FBI Special Agents apply their professional expertise and unique skill sets to their work every day. Many come from professional backgrounds, such as finance and accounting, which helps ensure accountability, identify criminal activity, uncover hidden assets and connect the dots to trace transactions to their source. Your diversified financial skills can significantly contribute to all areas of crime solving, from counterintelligence and cybersecurity to organized crime and terrorism.",
-    "url": "https://www.usajobs.gov/job/847981900",
-    "posted_at": "2025-10-10T13:51:23.107000",
-    "salary": "10-10",
     "grade": null,
     "remote": null
   }
