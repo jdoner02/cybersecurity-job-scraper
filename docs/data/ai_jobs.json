@@ -85,20 +85,6 @@
     "remote": null
   },
   {
-    "job_id": "849395600",
-    "title": "Financial Management Analyst",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "The Under Secretary of Defense (Comptroller/Chief Financial Officer (USD(C)/FCO) is responsible for carrying out the functions assigned by Section 135 of Title 10, United States Code, and assuring the utmost economy and efficiency in the operations of the Department of Defense (DoD). This position serves as senior analyst in support of Enterprise Financial Transformation (EFT) efforts to streamline and standardize financial operations and consolidate Financial Management (FM) systems.",
-    "url": "https://www.usajobs.gov/job/849395600",
-    "posted_at": "2025-11-03T00:00:00",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849259300",
     "title": "Marine Interdiction Agent",
     "organization": "Customs and Border Protection",
@@ -128,20 +114,6 @@
     "url": "https://www.usajobs.gov/job/849259300",
     "posted_at": "2025-11-01T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848972100",
-    "title": "Chief Artificial Intelligence Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a Chief Artificial Intelligence Officer (CAIO) to advance the shared understanding of how to best implement the opportunities presented by Artificial Intelligence (AI) and Machine Learning (ML). The CAIO is the principal advisor to the Chief Information Officer (CIO) and the Deputy CIO on operationalizing AI and ML with a focus on business value delivery to the agency.",
-    "url": "https://www.usajobs.gov/job/848972100",
-    "posted_at": "2025-10-27T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   }

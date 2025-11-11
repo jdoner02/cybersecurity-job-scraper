@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "849812500",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Cleveland, Ohio",
+      "Whitehall, Ohio"
+    ],
+    "description": "Who may apply: Current, permanent DoD Federal Employees in the competitive service, PPP DoD Military Spouse Preference, current DoD VRA employees, VEOA, Military Spouse, ICTAP, PPP applicants. Applicants on the Cleveland list may be placed at Bratenahl. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
+    "url": "https://www.usajobs.gov/job/849812500",
+    "posted_at": "2025-11-10T07:50:16.467000",
+    "salary": "7-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849809900",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Kittery, Maine"
+    ],
+    "description": "You will serve as an Information Technology Specialist (INFOSEC) in the Cyber Security Division for the IT Services Department of PORTSMOUTH NAVAL SHIPYARD.",
+    "url": "https://www.usajobs.gov/job/849809900",
+    "posted_at": "2025-11-10T06:14:43.877000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849748700",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -227,20 +256,6 @@
     "remote": null
   },
   {
-    "job_id": "849609000",
-    "title": "SUPERVISORY TECHNICIAN",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "You will serve as a Supervisory Technician in the Availability Planning Division, Modernization and Installation Department of NAVAL SURFACE WARFARE CENTER. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
-    "url": "https://www.usajobs.gov/job/849609000",
-    "posted_at": "2025-11-06T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849501600",
     "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -376,20 +391,6 @@
     "remote": null
   },
   {
-    "job_id": "849462800",
-    "title": "Engineer/Developer - Software Hardware Research-Mid to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
-    "url": "https://www.usajobs.gov/job/849462800",
-    "posted_at": "2025-11-04T11:45:19.937000",
-    "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849441300",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -446,20 +447,6 @@
     "remote": null
   },
   {
-    "job_id": "849328700",
-    "title": "PROGRAM ANALYST",
-    "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
-    "locations": [
-      "Washington Navy Yard, District of Columbia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/849328700",
-    "posted_at": "2025-11-03T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849212300",
     "title": "Information Technology Specialist (Customer Support)",
     "organization": "U.S. Military Entrance Processing Command",
@@ -470,20 +457,6 @@
     "url": "https://www.usajobs.gov/job/849212300",
     "posted_at": "2025-11-03T00:00:00",
     "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849193300",
-    "title": "DAM NECK ACTIVITY INFORMATION SYSTEMS SECURITY OFFICER (ISSO)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Dam Neck Naval Facility, Virginia Beach, Virginia"
-    ],
-    "description": "You will serve as a DAM NECK ACTIVITY INFORMATION SYSTEMS SECURITY OFFICER (ISSO) in the Information Technology, Corporate Operations Division of NAVSURFWARCENACT DAM NECK VA. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
-    "url": "https://www.usajobs.gov/job/849193300",
-    "posted_at": "2025-11-03T00:00:00",
-    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -570,63 +543,6 @@
     "url": "https://www.usajobs.gov/job/849006000",
     "posted_at": "2025-10-29T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848901000",
-    "title": "ASSISTANT COMMANDER FOR SUPPLY CHAIN PERFORMANCE AND INTEGRATION",
-    "organization": "Naval Supply Systems Command",
-    "locations": [
-      "Naval Support Activity, Mechanicsburg, Pennsylvania"
-    ],
-    "description": "You will serve as Assistant Commander for Supply Chain Performance and Integration, Naval Supply Systems Command (NAVSUP) lead expert in supply chain policy and performance. The incumbent is the authoritative expert and advisor to COMNAVSUP for performance management, technology employment and systems integration across the Navy's supply chain.",
-    "url": "https://www.usajobs.gov/job/848901000",
-    "posted_at": "2025-10-28T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848968900",
-    "title": "Chief Technology Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to advance the shared understanding of how to best implement the opportunities presented by Emerging Technology. The role will lead the agency's efforts to identify, assess and apply emerging technologies to the USPTO's changing business needs and strategic direction.",
-    "url": "https://www.usajobs.gov/job/848968900",
-    "posted_at": "2025-10-27T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848965100",
-    "title": "Chief Technology Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to advance the shared understanding of how to best implement the opportunities presented by Emerging Technology. The role will lead the agency's efforts to identify, assess and apply emerging technologies to the USPTO's changing business needs and strategic direction.",
-    "url": "https://www.usajobs.gov/job/848965100",
-    "posted_at": "2025-10-27T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848817600",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD competitive service Employees, PPP DoD Military Spouse Preference, current DoD VRA employees, VEOA, Military Spouse, ICTAP, certain PPP applicants. Applicants on the Cleveland list may be placed at Bratenahl. We may use this announcements to fill other positions in the I&T Dir. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/848817600",
-    "posted_at": "2025-10-27T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
