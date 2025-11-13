@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "849914100",
+    "title": "Chief Information Officer",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "You will serve as the Chief Information Officer (CIO), Pentagon, Washington, DC. This position leads and supports 77,000 IT/cyber operations and support personnel across the globe with a portfolio valued at $14.6B, provides guidance and oversight, and is responsible to the Secretary of the Air Force for overall formulation and execution of policies and enterprise integration of resources related to IT enterprise operations, cybersecurity, and workforce development.",
+    "url": "https://www.usajobs.gov/job/849914100",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849713100",
     "title": "SCIENIST",
     "organization": "Naval Sea Systems Command",
@@ -65,7 +79,7 @@
     ],
     "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: AcqDemo",
     "url": "https://www.usajobs.gov/job/849641800",
-    "posted_at": "2025-11-06T10:49:07.913000",
+    "posted_at": "2025-11-06T00:00:00",
     "salary": "4-4",
     "grade": null,
     "remote": null

@@ -1,5 +1,92 @@
 [
   {
+    "job_id": "849935100",
+    "title": "Supervisory IT Specialist (INFOSEC)",
+    "organization": "Treasury, Departmental Offices",
+    "locations": [
+      "Hartford, Connecticut"
+    ],
+    "description": "This position is located at Departmental Offices,Treasury Common Services Center, Office of the Deputy Administrator for Technology Services. As a Supervisory IT Specialist (INFOSEC), you will be .providing leadership across the Department for the development, planning, and management of Treasury's security policies, procedures, and standards for all Treasury information systems.",
+    "url": "https://www.usajobs.gov/job/849935100",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849914100",
+    "title": "Chief Information Officer",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "You will serve as the Chief Information Officer (CIO), Pentagon, Washington, DC. This position leads and supports 77,000 IT/cyber operations and support personnel across the globe with a portfolio valued at $14.6B, provides guidance and oversight, and is responsible to the Secretary of the Air Force for overall formulation and execution of policies and enterprise integration of resources related to IT enterprise operations, cybersecurity, and workforce development.",
+    "url": "https://www.usajobs.gov/job/849914100",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849752100",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This announcement is open to all U.S. Citizens",
+    "url": "https://www.usajobs.gov/job/849752100",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849727800",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
+    "organization": "Commander, Navy Installations",
+    "locations": [
+      "Kingsville, Texas"
+    ],
+    "description": "You will serve as a SUPERVISORY IT PROGRAM SPECIALIST (PLCYPLN) in the INFORMATION TECHNOLOGY DEPARTMENT of NAS KINGSVILLE TX.",
+    "url": "https://www.usajobs.gov/job/849727800",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849964300",
+    "title": "Capabilities Development Specialist - Mid to Experienced Level (TX & CO)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Buckley AFB, Colorado",
+      "San Antonio, Texas"
+    ],
+    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions?",
+    "url": "https://www.usajobs.gov/job/849964300",
+    "posted_at": "2025-11-12T16:27:52.510000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849921900",
+    "title": "Chief Privacy Officer",
+    "organization": "Federal Retirement Thrift Investment Board",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The FRTIB is looking for a highly qualified and motivated individual to serve as an Chief Privacy Officer. This Job Opportunity Announcement (JOA) may be used to fill other Chief Privacy Officer, GS-0905-15 positions within the FRTIB in the same geographical location with the same qualifications and specialized experience.",
+    "url": "https://www.usajobs.gov/job/849921900",
+    "posted_at": "2025-11-12T12:19:31.860000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849812500",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -256,34 +343,6 @@
     "remote": null
   },
   {
-    "job_id": "849562300",
-    "title": "Manager, Administrative Management Section, CM-0301-00",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salay reflects a pay cap for this position of $275,000.",
-    "url": "https://www.usajobs.gov/job/849562300",
-    "posted_at": "2025-11-05T12:23:54.123000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849550900",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Roseburg, Oregon"
-    ],
-    "description": "This position is located under the FMS engineering service of the Roseburg VA Healthcare System. The Biomedical Equipment Support Specialist (BESS) (Biomedical Information Systems) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of networks, networked medical equipment and associated systems.",
-    "url": "https://www.usajobs.gov/job/849550900",
-    "posted_at": "2025-11-05T11:13:24.813000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849537000",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -294,20 +353,6 @@
     "url": "https://www.usajobs.gov/job/849537000",
     "posted_at": "2025-11-05T09:30:02.570000",
     "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849525900",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Marion, Indiana"
-    ],
-    "description": "Applies engineering, mechanical concepts, and methodology to manage and support the diagnostic, therapeutic devices, monitoring, and other equipment utilized in the practice of medicine, and to improve health service delivery systems. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.",
-    "url": "https://www.usajobs.gov/job/849525900",
-    "posted_at": "2025-11-05T07:55:49.047000",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -499,20 +544,6 @@
     "url": "https://www.usajobs.gov/job/849148900",
     "posted_at": "2025-10-30T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849069400",
-    "title": "Security Architect, CG-2210-14",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Chief Information Officer Organization (CIOO), Office of the Chief Information Security Officer (OCISO) at the Federal Deposit Insurance Corporation and provides support developing, analyzing, and implementing IT Security architecture and security engineering initiatives. Note: Salary range has been corrected on 10/30/2025 to reflect the pay cap of $255,00 per annum.",
-    "url": "https://www.usajobs.gov/job/849069400",
-    "posted_at": "2025-10-29T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
