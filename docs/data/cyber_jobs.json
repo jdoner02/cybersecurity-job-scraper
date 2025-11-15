@@ -1,5 +1,91 @@
 [
   {
+    "job_id": "850178500",
+    "title": "Director of Information Technology",
+    "organization": "House of Representatives",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The House Office of the Legislative Counsel provides legislative drafting services to the committees and Members of the United States House of Representatives on a nonpartisan, impartial, and confidential basis. Our goal is to work with committees and Members to understand their policy preferences in order to implement those preferences through clear, concise, and legally effective legislative language.",
+    "url": "https://www.usajobs.gov/job/850178500",
+    "posted_at": "2025-11-14T18:00:59.030000",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850168800",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Grand Junction, Colorado"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems",
+    "url": "https://www.usajobs.gov/job/850168800",
+    "posted_at": "2025-11-14T16:14:45.607000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850168300",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Grand Junction, Colorado"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems",
+    "url": "https://www.usajobs.gov/job/850168300",
+    "posted_at": "2025-11-14T16:13:51.753000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850164400",
+    "title": "Biomedical Equipment Support Specialist - Information Systems",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Grand Junction, Colorado"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at the facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
+    "url": "https://www.usajobs.gov/job/850164400",
+    "posted_at": "2025-11-14T15:56:07.803000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850164500",
+    "title": "Biomedical Equipment Support Specialist - Information Systems",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Grand Junction, Colorado"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at the facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
+    "url": "https://www.usajobs.gov/job/850164500",
+    "posted_at": "2025-11-14T15:55:12.547000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850095200",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Whitehall, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Columbus, OH: $109,966- $142,957 New Cumberland, PA: $120,579- $156,755 Richmond, VA: $110,083- $143,109",
+    "url": "https://www.usajobs.gov/job/850095200",
+    "posted_at": "2025-11-14T09:41:21.920000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849952700",
     "title": "Intelligence Research Specialist",
     "organization": "DHS Headquarters",
@@ -123,7 +209,7 @@
     ],
     "description": "The FRTIB is looking for a highly qualified and motivated individual to serve as an Chief Privacy Officer. This Job Opportunity Announcement (JOA) may be used to fill other Chief Privacy Officer, GS-0905-15 positions within the FRTIB in the same geographical location with the same qualifications and specialized experience.",
     "url": "https://www.usajobs.gov/job/849921900",
-    "posted_at": "2025-11-12T12:19:31.860000",
+    "posted_at": "2025-11-12T00:00:00",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -201,27 +287,6 @@
     "remote": null
   },
   {
-    "job_id": "849737700",
-    "title": "IT Specialist (APPSW)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $88,621 - $115,213 Columbus, OH: $92,475 - $120,222 Dayton, OH: $91,922- $119,504 Fort Belvoir, VA: $101,401- $131,826 New Cumberland, PA: $101,401- $131,826 Ogden, UT: $88,621 - $115,213 Philadelphia, PA: $97,653- $126,955 Richmond, VA: $92,573- $120,350",
-    "url": "https://www.usajobs.gov/job/849737700",
-    "posted_at": "2025-11-07T10:27:57.250000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849711100",
     "title": "ELECTRONICS ENGINEER",
     "organization": "U.S. Pacific Fleet",
@@ -230,23 +295,6 @@
     ],
     "description": "You will serve as an ELECTRONICS ENGINEER in the Instrumentation Systems Division, Range Systems Department of PACIFIC MISSILE RANGE FACILITY. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption",
     "url": "https://www.usajobs.gov/job/849711100",
-    "posted_at": "2025-11-07T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849660500",
-    "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Montgomery, Alabama",
-      "Tinker AFB, Oklahoma",
-      "Mechanicsburg, Pennsylvania",
-      "Ogden, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA Host & Compute, Control Operations Branch, Configuration Management Section.",
-    "url": "https://www.usajobs.gov/job/849660500",
     "posted_at": "2025-11-07T00:00:00",
     "salary": "12-12",
     "grade": null,
@@ -294,34 +342,6 @@
     "description": "Open to United States Citizens Position Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, ARMY SYSTEMS, DEBT & FMS SYSTEMS SUSTAINMENT BR, ZTCAC Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
     "url": "https://www.usajobs.gov/job/849479200",
     "posted_at": "2025-11-07T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849709300",
-    "title": "IT Specialist (NETWORK)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/849709300",
-    "posted_at": "2025-11-06T17:21:33.460000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849700300",
-    "title": "IT Cybersecurity Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/849700300",
-    "posted_at": "2025-11-06T16:08:32.813000",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -394,41 +414,6 @@
     "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
     "url": "https://www.usajobs.gov/job/849537000",
     "posted_at": "2025-11-05T09:30:02.570000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849523700",
-    "title": "IT Specialist (APPSW)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $88,621 - $115,213 Columbus, OH: $92,475 - $120,222 Dayton, OH: $91,922- $119,504 Fort Belvoir, VA: $101,401- $131,826 New Cumberland, PA: $101,401- $131,826 Ogden, UT: $88,621 - $115,213 Philadelphia, PA: $97,653- $126,955 Richmond, VA: $92,573- $120,350",
-    "url": "https://www.usajobs.gov/job/849523700",
-    "posted_at": "2025-11-05T07:37:15.410000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849619800",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Omaha, Nebraska"
-    ],
-    "description": "NOTE: The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. Serves as a Biomedical Equipment Support Specialist (BESS) in the Healthcare Technology Management (HTM) department at the Nebraska-Western Iowa VA Healthcare System (NWI VAHCS). Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/849619800",
-    "posted_at": "2025-11-05T00:00:00",
     "salary": "5-11",
     "grade": null,
     "remote": null
@@ -528,64 +513,6 @@
     "url": "https://www.usajobs.gov/job/849212300",
     "posted_at": "2025-11-03T00:00:00",
     "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849156400",
-    "title": "IT Specialist (Cybersecurity), CG-2210-14",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "*This announcement has been amended to extend the closing date to November 14, 2025. * This position is located in the Chief Information Officer Organization, Office of the Chief Information Security Officer, Cyber Risk Management Section of the Federal Deposit Insurance Corporation (FDIC). The incumbent leads, implements, and manages cyber risk management programs, projects, and other efforts focused on Continuous Authorizations, DevSecOps and Application Security.",
-    "url": "https://www.usajobs.gov/job/849156400",
-    "posted_at": "2025-11-03T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849233500",
-    "title": "SUPERVISORY TECHNICIAN",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "The President has ordered a government-wide hiring freeze subject to certain limited exceptions. This position is subject to the hiring freeze. Although we are moving forward with the consideration of candidates, we will not make a selection for this vacancy announcement unless and until the position is no longer subject to the hiring freeze. You will serve as a Branch Manager in the Digital Engineering Department of NAVAL SURFACE WARFARE CENTER.",
-    "url": "https://www.usajobs.gov/job/849233500",
-    "posted_at": "2025-10-31T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849187300",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. Position is located in IT DIR OFFICE, ACCOUNTING SERVICES, ENTERPRISE SYSTEMS, EFD SYSTEMS SUSTAINMENT BR, ZTCFD. This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
-    "url": "https://www.usajobs.gov/job/849187300",
-    "posted_at": "2025-10-31T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849148900",
-    "title": "Biomedical Equipment Support Specialist - Information Systems (EHRM)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Madison, Wisconsin"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
-    "url": "https://www.usajobs.gov/job/849148900",
-    "posted_at": "2025-10-30T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },

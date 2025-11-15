@@ -14,20 +14,6 @@
     "remote": null
   },
   {
-    "job_id": "850006200",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Chicago, Illinois"
-    ],
-    "description": "This position is located at VISN 12 VA Great Lakes, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/850006200",
-    "posted_at": "2025-11-13T16:10:44.210000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850012800",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -42,20 +28,6 @@
     "remote": null
   },
   {
-    "job_id": "850011000",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Tomah, Wisconsin"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the Tomah VA Medical Center, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/850011000",
-    "posted_at": "2025-11-13T11:46:15.347000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850006800",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -65,6 +37,34 @@
     "description": "This position is located at VISN 12 VA Great Lakes, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
     "url": "https://www.usajobs.gov/job/850006800",
     "posted_at": "2025-11-13T11:10:04.560000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850011000",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Tomah, Wisconsin"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the Tomah VA Medical Center, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/850011000",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850006200",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "This position is located at VISN 12 VA Great Lakes, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/850006200",
+    "posted_at": "2025-11-13T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null
