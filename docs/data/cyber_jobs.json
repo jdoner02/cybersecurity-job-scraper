@@ -1,5 +1,161 @@
 [
   {
+    "job_id": "850281600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
+    "url": "https://www.usajobs.gov/job/850281600",
+    "posted_at": "2025-11-18T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850268700",
+    "title": "MANAGEMENT AND PROGRAM ANALYSIS OFFICER",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Nellis AFB, Nevada"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information.",
+    "url": "https://www.usajobs.gov/job/850268700",
+    "posted_at": "2025-11-18T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850228000",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/850228000",
+    "posted_at": "2025-11-18T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850164600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Force Global Strike Command",
+    "locations": [
+      "Whiteman AFB, Missouri"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/850164600",
+    "posted_at": "2025-11-18T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850289200",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Anchorage, Alaska"
+    ],
+    "description": "NOTE: THE 2-PAGE RESUME REQUIREMENT DOES NOT APPLY TO THIS OCCUPATIONAL SERIES. FOR MORE INFORMATION, REFER TO REQUIRED DOCUMENTS BELOW Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/850289200",
+    "posted_at": "2025-11-17T18:05:03.587000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850289300",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Anchorage, Alaska"
+    ],
+    "description": "NOTE: THE 2-PAGE RESUME REQUIREMENT DOES NOT APPLY TO THIS OCCUPATIONAL SERIES. FOR MORE INFORMATION, REFER TO REQUIRED DOCUMENTS BELOW Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/850289300",
+    "posted_at": "2025-11-17T18:04:17.650000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850278200",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at VA Puget Sound Health Care System. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/850278200",
+    "posted_at": "2025-11-17T15:52:51.457000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850278700",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at VA Puget Sound Health Care System. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/850278700",
+    "posted_at": "2025-11-17T15:52:09.847000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850250800",
+    "title": "Research Scientist / Computer Systems Researcher - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
+    "url": "https://www.usajobs.gov/job/850250800",
+    "posted_at": "2025-11-17T13:42:40.933000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850222700",
+    "title": "INTELLIGENCE OPERATIONS SPECIALIST",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Andover, Massachusetts"
+    ],
+    "description": "DCSA is seeking a qualified professional to serve as a Cyber Counterintelligence Agent. In this role you will be responsible for providing counterintelligence (CI) functional services, oversight, and support to the cleared Defense Industrial Base (DIB). This is a great opportunity for those with a broad experience in and understanding of cybersecurity, cyber defense, CI collection, reporting, foreign intelligence entities (FIE) tradecraft, and operations.",
+    "url": "https://www.usajobs.gov/job/850222700",
+    "posted_at": "2025-11-17T11:18:01.340000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850220300",
+    "title": "Mechanical Engineer",
+    "organization": "U.S. Army Corps of Engineers",
+    "locations": [
+      "Camp Foster, Japan"
+    ],
+    "description": "About the Position: Performs mechanical engineering design and review work for both Host Nation and US funded projects in support of Army, Navy, Air Force, Marines and other official agencies. This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for DoD Government-wide Direct Hire Authority to recruit and appoint qualified candidates to positions in the competitive service.",
+    "url": "https://www.usajobs.gov/job/850220300",
+    "posted_at": "2025-11-17T10:53:39.557000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850159000",
     "title": "Program Manager (Construction)",
     "organization": "Western Area Power Administration",
@@ -156,6 +312,20 @@
     "remote": null
   },
   {
+    "job_id": "850249700",
+    "title": "Corporate Policy Officer / Communications Security",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Do you have expertise with policy within the federal government? Do you have knowledge and experience with the control and accountability of Communications Security (COMSEC) material and/or COMSEC policy? If so, NSA has a job for you! As a COMSEC Auditor for the NSA Central Office of Record, you will have the opportunity to travel the world to ensure that our Government and contractor's sites are in compliance with both national and NSA's standards related to protection of COMSEC material.",
+    "url": "https://www.usajobs.gov/job/850249700",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "849935100",
     "title": "Supervisory IT Specialist (INFOSEC)",
     "organization": "Treasury, Departmental Offices",
@@ -243,35 +413,6 @@
     "remote": null
   },
   {
-    "job_id": "849812500",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Employees in the competitive service, PPP DoD Military Spouse Preference, current DoD VRA employees, VEOA, Military Spouse, ICTAP, PPP applicants. Applicants on the Cleveland list may be placed at Bratenahl. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/849812500",
-    "posted_at": "2025-11-10T07:50:16.467000",
-    "salary": "7-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849809900",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Kittery, Maine"
-    ],
-    "description": "You will serve as an Information Technology Specialist (INFOSEC) in the Cyber Security Division for the IT Services Department of PORTSMOUTH NAVAL SHIPYARD.",
-    "url": "https://www.usajobs.gov/job/849809900",
-    "posted_at": "2025-11-10T06:14:43.877000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849748700",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -282,20 +423,6 @@
     "url": "https://www.usajobs.gov/job/849748700",
     "posted_at": "2025-11-10T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849716400",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "San Diego, California"
-    ],
-    "description": "You will serve as an Information Systems Security Officer (ISSO) and alternate Cyber Workforce (CWF) Program Manager in the Information Systems Management/ Cybersecurity Department of Naval Computer and Telecommunications Station San Diego (NAVCOMTELSTA SAN DIEGO).",
-    "url": "https://www.usajobs.gov/job/849716400",
-    "posted_at": "2025-11-10T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -311,20 +438,6 @@
     "url": "https://www.usajobs.gov/job/849534200",
     "posted_at": "2025-11-10T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849711100",
-    "title": "ELECTRONICS ENGINEER",
-    "organization": "U.S. Pacific Fleet",
-    "locations": [
-      "Kauai Island, Hawaii"
-    ],
-    "description": "You will serve as an ELECTRONICS ENGINEER in the Instrumentation Systems Division, Range Systems Department of PACIFIC MISSILE RANGE FACILITY. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption",
-    "url": "https://www.usajobs.gov/job/849711100",
-    "posted_at": "2025-11-07T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -389,34 +502,6 @@
     "remote": null
   },
   {
-    "job_id": "849628600",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Grand Island, Nebraska"
-    ],
-    "description": "NOTE: The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. Serves as a Biomedical Equipment Support Specialist (BESS) in the Healthcare Technology Management (HTM) department at the Nebraska-Western Iowa VA Healthcare System (NWI VAHCS) - Grand Island. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/849628600",
-    "posted_at": "2025-11-06T09:23:43.327000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849612100",
-    "title": "Supervisory Interdisciplinary",
-    "organization": "U.S. Army Corps of Engineers",
-    "locations": [
-      "Fort Shafter, Hawaii"
-    ],
-    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Serve as Branch Chief, in the Engineering and Construction Division, overseeing and is responsible for planning, directing, and reviewing the technical aspects of the engineering and construction programs of the Honolulu District.",
-    "url": "https://www.usajobs.gov/job/849612100",
-    "posted_at": "2025-11-06T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849501600",
     "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -429,48 +514,6 @@
     "url": "https://www.usajobs.gov/job/849501600",
     "posted_at": "2025-11-06T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849537000",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Huntsville, Alabama"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
-    "url": "https://www.usajobs.gov/job/849537000",
-    "posted_at": "2025-11-05T09:30:02.570000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849423000",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Baltimore, Maryland"
-    ],
-    "description": "Serves as a full performance Biomedical Equipment Support Specialist (BESS) within the Clinical Engineering Service at the VA Maryland Health Care System. The BESS works in support of the medical equipment management program. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on medical devices and clinical systems under frequent supervision.",
-    "url": "https://www.usajobs.gov/job/849423000",
-    "posted_at": "2025-11-05T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849422900",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Baltimore, Maryland"
-    ],
-    "description": "Serves as an entry-level, developmental position for a Biomedical Equipment Support Specialist (BESS) within the Clinical Engineering Service at the VA Maryland Health Care System. The BESS works in support of the medical equipment management program. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on medical devices and clinical systems under frequent supervision.",
-    "url": "https://www.usajobs.gov/job/849422900",
-    "posted_at": "2025-11-05T00:00:00",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -527,20 +570,6 @@
     "url": "https://www.usajobs.gov/job/849378500",
     "posted_at": "2025-11-03T13:02:52.607000",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849212300",
-    "title": "Information Technology Specialist (Customer Support)",
-    "organization": "U.S. Military Entrance Processing Command",
-    "locations": [
-      "Butte, Montana"
-    ],
-    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service. This position will be filled on a permanent basis.",
-    "url": "https://www.usajobs.gov/job/849212300",
-    "posted_at": "2025-11-03T00:00:00",
-    "salary": "9-9",
     "grade": null,
     "remote": null
   },

@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "850259900",
+    "title": "Attorney Advisor (Assistant General Counsel)",
+    "organization": "Library of Congress",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Office of The General Counsel, Copyright Office. Copyright is a form of legal protection provided by the laws of the United States (Title 17, U.S. Code) to authors of literary, dramatic, musical, artistic, and other works. The Assistant General Counsel position works in the Office of General Counsel of the Copyright Office. The incumbent serves as an expert on all legal and factual matters related to the administration of title 17 of the U.S. Code.",
+    "url": "https://www.usajobs.gov/job/850259900",
+    "posted_at": "2025-11-18T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850250800",
+    "title": "Research Scientist / Computer Systems Researcher - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
+    "url": "https://www.usajobs.gov/job/850250800",
+    "posted_at": "2025-11-17T13:42:40.933000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850195200",
+    "title": "COMPUTER SCIENTIST",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Dahlgren, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/850195200",
+    "posted_at": "2025-11-17T08:20:52.483000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850052900",
     "title": "Meteorologist, AST, Meteorological Studies",
     "organization": "Lyndon B. Johnson Space Center",
@@ -52,20 +94,6 @@
     "url": "https://www.usajobs.gov/job/850011000",
     "posted_at": "2025-11-13T00:00:00",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850006200",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Chicago, Illinois"
-    ],
-    "description": "This position is located at VISN 12 VA Great Lakes, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/850006200",
-    "posted_at": "2025-11-13T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
