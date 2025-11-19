@@ -8,7 +8,7 @@
     ],
     "description": "This position is located in the Office of The General Counsel, Copyright Office. Copyright is a form of legal protection provided by the laws of the United States (Title 17, U.S. Code) to authors of literary, dramatic, musical, artistic, and other works. The Assistant General Counsel position works in the Office of General Counsel of the Copyright Office. The incumbent serves as an expert on all legal and factual matters related to the administration of title 17 of the U.S. Code.",
     "url": "https://www.usajobs.gov/job/850259900",
-    "posted_at": "2025-11-18T00:00:00",
+    "posted_at": "2025-11-18T10:42:32.923000",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -70,20 +70,6 @@
     "remote": null
   },
   {
-    "job_id": "850006800",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Chicago, Illinois"
-    ],
-    "description": "This position is located at VISN 12 VA Great Lakes, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/850006800",
-    "posted_at": "2025-11-13T11:10:04.560000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850011000",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -94,6 +80,20 @@
     "url": "https://www.usajobs.gov/job/850011000",
     "posted_at": "2025-11-13T00:00:00",
     "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850006800",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "This position is located at VISN 12 VA Great Lakes, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/850006800",
+    "posted_at": "2025-11-13T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -165,20 +165,6 @@
     "url": "https://www.usajobs.gov/job/849676900",
     "posted_at": "2025-11-07T00:00:00",
     "salary": "5-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849641800",
-    "title": "Interdisciplinary (General Engineer/Operations Research Analyst)",
-    "organization": "Missile Defense Agency",
-    "locations": [
-      "Redstone Arsenal, Alabama"
-    ],
-    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: AcqDemo",
-    "url": "https://www.usajobs.gov/job/849641800",
-    "posted_at": "2025-11-06T00:00:00",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },

@@ -1,5 +1,142 @@
 [
   {
+    "job_id": "850388400",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Richmond, Virginia"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
+    "url": "https://www.usajobs.gov/job/850388400",
+    "posted_at": "2025-11-19T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850377600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Misawa AFB, Japan"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS)administrator, drug demand reduction program, health care program, and others.",
+    "url": "https://www.usajobs.gov/job/850377600",
+    "posted_at": "2025-11-19T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850376300",
+    "title": "IT SPECIALIST (OS)",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Fairchild AFB, Washington"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. To perform technical work on the Civil Engineer (CE) Control Systems (CS) and their associated network architecture with the purpose of properly installing, maintaining, and incorporating Cybersecurity measures at all levels.",
+    "url": "https://www.usajobs.gov/job/850376300",
+    "posted_at": "2025-11-19T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850366800",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)-DIRECT HIRE AUTHORITY",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Eglin AFB, Florida",
+      "Hanscom AFB, Massachusetts",
+      "Kirtland AFB, New Mexico",
+      "Tinker AFB, Oklahoma",
+      "Hill AFB, Utah"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as an Information Technology (IT) Cybersecurity Specialist supporting the Director and Program Managers by providing a secure environment and information assurance for protection of our sensitive information and assets.",
+    "url": "https://www.usajobs.gov/job/850366800",
+    "posted_at": "2025-11-19T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850340800",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment. Position is located in IT DIR OFFICE, ENTERPRISE SERVICES, IT SECURITY SERVICES, ZTAG. This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
+    "url": "https://www.usajobs.gov/job/850340800",
+    "posted_at": "2025-11-19T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849986200",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Cherry Point, North Carolina"
+    ],
+    "description": "You will serve as an IT SPECIALIST (INFOSEC) in the INFORMATION ASSURANCE DIVISION of FLTREADCEN EAST.",
+    "url": "https://www.usajobs.gov/job/849986200",
+    "posted_at": "2025-11-19T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "849985100",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Cherry Point, North Carolina"
+    ],
+    "description": "You will serve as an IT SPECIALIST (INFOSEC) in the INFORMATION ASSURANCE DIVISION of FLTREADCEN EAST.",
+    "url": "https://www.usajobs.gov/job/849985100",
+    "posted_at": "2025-11-19T00:00:00",
+    "salary": "5-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850321700",
+    "title": "Criminal Investigator (Cyber)",
+    "organization": "Air Force Office of Special Investigations",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "The U.S. Air Force Office of Special Investigations (AFOSI) is seeking talented individuals to serve as Special Agents, protecting the U.S. Air Force and Space Force as its dedicated federal law enforcement and counterintelligence agency. With a global presence, AFOSI investigates felony-level crimes, combats fraud, conducts counterintelligence operations, and provides personal protection, partnering with various agencies to safeguard our nation's people and assets.",
+    "url": "https://www.usajobs.gov/job/850321700",
+    "posted_at": "2025-11-18T15:59:37.597000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850281600",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -528,20 +665,6 @@
     "url": "https://www.usajobs.gov/job/849441300",
     "posted_at": "2025-11-04T09:49:01.390000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849416400",
-    "title": "Informational Technology/Operational Technology (IT/OT) Cybersecurity Assessor",
-    "organization": "Bonneville Power Administration",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "This position is located with the Bonneville Power Admin, in the Cyber Assessment, Verification, Remediation & Reporting (JBC) group of the Cyber Security Office (JB), Information Technology (J). A successful candidate in this position will serve as a senior Information Assurance Officer on the Cyber Security Assessment & (CVA) Team, supporting the security of agency cyber-IT/OT resources & networks & ensuring compliance with applicable federal laws, regulations, & agency directives & policies.",
-    "url": "https://www.usajobs.gov/job/849416400",
-    "posted_at": "2025-11-04T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
