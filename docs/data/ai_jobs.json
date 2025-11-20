@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "850457300",
+    "title": "Data Scientist (Supply Chain Risk Management)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/850457300",
+    "posted_at": "2025-11-19T11:24:05.423000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850423000",
+    "title": "MEDICAL ADMINISTRATIVE OFFICER",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Terre Haute, Indiana"
+    ],
+    "description": "THIS IS AN INDIANA NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION This position is part of the IN 181st Intelligence Wing, Indiana National Guard under Position Description Number D1718000. If you would like the complete list of duties, please contact the POC of this announcement.",
+    "url": "https://www.usajobs.gov/job/850423000",
+    "posted_at": "2025-11-19T08:29:33.607000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850259900",
     "title": "Attorney Advisor (Assistant General Counsel)",
     "organization": "Library of Congress",
@@ -84,20 +112,6 @@
     "remote": null
   },
   {
-    "job_id": "850006800",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Chicago, Illinois"
-    ],
-    "description": "This position is located at VISN 12 VA Great Lakes, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/850006800",
-    "posted_at": "2025-11-13T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849914100",
     "title": "Chief Information Officer",
     "organization": "Department of the Air Force - Agency Wide",
@@ -165,20 +179,6 @@
     "url": "https://www.usajobs.gov/job/849676900",
     "posted_at": "2025-11-07T00:00:00",
     "salary": "5-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849513500",
-    "title": "INTERDISCIPLINARY ENGINEER/COMPUTER SCIENTIST",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Patuxent River, Maryland"
-    ],
-    "description": "You will serve as a Distinguished Scientist or Distinguished Engineer (D S/E) in the Software Engineering Department, Science and Technology Office of NAVAIRWARCENAC DIV. The Secretary of Defense has ordered a department-wide hiring freeze subject to certain limited exceptions. This position is subject to the DoD hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
-    "url": "https://www.usajobs.gov/job/849513500",
-    "posted_at": "2025-11-05T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },

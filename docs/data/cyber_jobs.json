@@ -1,5 +1,161 @@
 [
   {
+    "job_id": "850507600",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Gunter AFB, Alabama",
+      "Maxwell AFB, Alabama",
+      "Eglin AFB, Florida",
+      "Robins AFB, Georgia",
+      "Hanscom AFB, Massachusetts",
+      "Wright-Patterson AFB, Ohio",
+      "Lackland AFB, Texas",
+      "Hill AFB, Utah",
+      "Arlington, Virginia"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to support the Director and Program Managers in fielding uncompromised capabilities to the Warfighter by providing a secure environment for protection of our sensitive information and assets. Empowers directors, security managers, and information users with effective processes and structure to assess and mitigate risk.",
+    "url": "https://www.usajobs.gov/job/850507600",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850503400",
+    "title": "ADMINISTRATIVE OFFICER",
+    "organization": "United States Space Force",
+    "locations": [
+      "Vandenberg AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary financial and computer support assistant for the detachment performing a vast number of computer duties and administrative task.",
+    "url": "https://www.usajobs.gov/job/850503400",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850472700",
+    "title": "INTELLIGENCE SPECIALIST",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "The primary purpose of this position is: To serve as the Director, Space Force Cryptologic Office (SFCO), responsible for interpreting and implementing policies, executing authorities, developing guidance, standards, and processes for the organization's mission.",
+    "url": "https://www.usajobs.gov/job/850472700",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850446500",
+    "title": "Biomedical Equipment Support Specialist (Imaging)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Wilmington, Delaware"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in imaging equipment within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains imaging equipment and clinical systems.",
+    "url": "https://www.usajobs.gov/job/850446500",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850442800",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
+    "url": "https://www.usajobs.gov/job/850442800",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850414100",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Montgomery, Alabama",
+      "Fort Meade, Maryland",
+      "Columbus, Ohio",
+      "Oklahoma City, Oklahoma",
+      "Tinker AFB, Oklahoma",
+      "Chambersburg, Pennsylvania",
+      "Mechanicsburg, Pennsylvania",
+      "San Antonio, Texas",
+      "Ogden, Utah"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA HC/HCC14.",
+    "url": "https://www.usajobs.gov/job/850414100",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850368700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA PEO Transport Section.",
+    "url": "https://www.usajobs.gov/job/850368700",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850460200",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Portland, Maine"
+    ],
+    "description": "The Biomedical Equipment Support Specialist position is in the Healthcare Technology Management (HTM) department at the VA Maine Healthcare System located at the Portland ME location. This position is full time at 40 hours per week. \"The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.\"",
+    "url": "https://www.usajobs.gov/job/850460200",
+    "posted_at": "2025-11-19T11:30:34.737000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850460000",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Portland, Maine"
+    ],
+    "description": "The Biomedical Equipment Support Specialist position is in the Healthcare Technology Management (HTM) department at the VA Maine Healthcare System located at the Portland ME location. This position is full time at 40 hours per week. \"The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.\"",
+    "url": "https://www.usajobs.gov/job/850460000",
+    "posted_at": "2025-11-19T11:29:33.853000",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850458300",
+    "title": "Public Notice for IT Cyber Security Specialist (Direct Hire)",
+    "organization": "Transportation Security Administration",
+    "locations": [
+      "Annapolis Junction, Maryland"
+    ],
+    "description": "The primary purpose of this IT Cybersecurity Specialist position is to serve as a key advisor responsible for developing, securing, managing, operating, and maintaining mission-critical IT systems for assigned organizations and/or geographical location(s) by making recommendation on software and hardware implementation approaches, develop, deliver, and supporting IT systems and services.",
+    "url": "https://www.usajobs.gov/job/850458300",
+    "posted_at": "2025-11-19T11:22:47.297000",
+    "salary": "I-J",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850388400",
     "title": "Biomedical Equipment Support Specialist (Information Systems)",
     "organization": "Veterans Health Administration",
@@ -8,22 +164,22 @@
     ],
     "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
     "url": "https://www.usajobs.gov/job/850388400",
-    "posted_at": "2025-11-19T00:00:00",
+    "posted_at": "2025-11-19T10:31:40.323000",
     "salary": "12-12",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "850377600",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Pacific Air Forces",
+    "job_id": "850353800",
+    "title": "SUPERVISORY INTELLIGENCE SPECIALIST",
+    "organization": "Department of the Air Force - Agency Wide",
     "locations": [
-      "Misawa AFB, Japan"
+      "San Antonio, Texas"
     ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS)administrator, drug demand reduction program, health care program, and others.",
-    "url": "https://www.usajobs.gov/job/850377600",
-    "posted_at": "2025-11-19T00:00:00",
-    "salary": "6-6",
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is tserve as a supervisor, planning, directing, organizing, and exercising control over nonsupervisory employees assigned to AFCO/CMM. Serves as HAF A2/6 and 16 Air Force (AFCYBER) Air Force Cryptologic Office (AFCO) ISR-Cyber Cryptologic Subject Matter Expert (SME) and Air Force Service Cryptologic Component Staff Branch Chief.",
+    "url": "https://www.usajobs.gov/job/850353800",
+    "posted_at": "2025-11-19T08:24:30.803000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -100,39 +256,6 @@
     "url": "https://www.usajobs.gov/job/849985100",
     "posted_at": "2025-11-19T00:00:00",
     "salary": "5-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850321700",
-    "title": "Criminal Investigator (Cyber)",
-    "organization": "Air Force Office of Special Investigations",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "The U.S. Air Force Office of Special Investigations (AFOSI) is seeking talented individuals to serve as Special Agents, protecting the U.S. Air Force and Space Force as its dedicated federal law enforcement and counterintelligence agency. With a global presence, AFOSI investigates felony-level crimes, combats fraud, conducts counterintelligence operations, and provides personal protection, partnering with various agencies to safeguard our nation's people and assets.",
-    "url": "https://www.usajobs.gov/job/850321700",
-    "posted_at": "2025-11-18T15:59:37.597000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -421,20 +544,6 @@
     "remote": null
   },
   {
-    "job_id": "849952700",
-    "title": "Intelligence Research Specialist",
-    "organization": "DHS Headquarters",
-    "locations": [
-      "Springfield, Virginia"
-    ],
-    "description": "This position is located in the Department of Homeland Security, Federal Protective Service, Springfield, Virginia.",
-    "url": "https://www.usajobs.gov/job/849952700",
-    "posted_at": "2025-11-14T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850057700",
     "title": "IT SPECIALIST (CUSTSPT)",
     "organization": "Air National Guard Units",
@@ -445,34 +554,6 @@
     "url": "https://www.usajobs.gov/job/850057700",
     "posted_at": "2025-11-13T15:50:18.567000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850249700",
-    "title": "Corporate Policy Officer / Communications Security",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Do you have expertise with policy within the federal government? Do you have knowledge and experience with the control and accountability of Communications Security (COMSEC) material and/or COMSEC policy? If so, NSA has a job for you! As a COMSEC Auditor for the NSA Central Office of Record, you will have the opportunity to travel the world to ensure that our Government and contractor's sites are in compliance with both national and NSA's standards related to protection of COMSEC material.",
-    "url": "https://www.usajobs.gov/job/850249700",
-    "posted_at": "2025-11-13T00:00:00",
-    "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849935100",
-    "title": "Supervisory IT Specialist (INFOSEC)",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Hartford, Connecticut"
-    ],
-    "description": "This position is located at Departmental Offices,Treasury Common Services Center, Office of the Deputy Administrator for Technology Services. As a Supervisory IT Specialist (INFOSEC), you will be .providing leadership across the Department for the development, planning, and management of Treasury's security policies, procedures, and standards for all Treasury information systems.",
-    "url": "https://www.usajobs.gov/job/849935100",
-    "posted_at": "2025-11-13T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -503,35 +584,6 @@
     "url": "https://www.usajobs.gov/job/849752100",
     "posted_at": "2025-11-13T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849727800",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Commander, Navy Installations",
-    "locations": [
-      "Kingsville, Texas"
-    ],
-    "description": "You will serve as a SUPERVISORY IT PROGRAM SPECIALIST (PLCYPLN) in the INFORMATION TECHNOLOGY DEPARTMENT of NAS KINGSVILLE TX.",
-    "url": "https://www.usajobs.gov/job/849727800",
-    "posted_at": "2025-11-13T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849964300",
-    "title": "Capabilities Development Specialist - Mid to Experienced Level (TX & CO)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Buckley AFB, Colorado",
-      "San Antonio, Texas"
-    ],
-    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions?",
-    "url": "https://www.usajobs.gov/job/849964300",
-    "posted_at": "2025-11-12T16:27:52.510000",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
@@ -706,20 +758,6 @@
     "description": "The Associate Administrator for Acquisition/Chief Procurement Officer (CPO) leads Treasury's enterprise-wide procurement operations within the Treasury Common Services Center. The incumbent provides strategic leadership and executive direction for a multibillion-dollar acquisition portfolio, counsels senior executives, resolves complex procurement challenges, and drives modernization, vendor engagement, and workforce excellence aligned with Treasury's mission.",
     "url": "https://www.usajobs.gov/job/848681100",
     "posted_at": "2025-10-22T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848559300",
-    "title": "Chief Information Officer",
-    "organization": "Federal Communications Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is in the Office of the Chief Information Officer, Office of the Managing Director, Federal Communications Commission. The OCIO, led by the CIO, is responsible for the overall management of the FCC\u2019s IT systems, including information management, development, operations, and maintenance across all FCC locations; evaluating emerging technologies; ensuring compliance with IT/security protocols; and implementing solutions to meet evolving mission, policy, and legal requirements.",
-    "url": "https://www.usajobs.gov/job/848559300",
-    "posted_at": "2025-10-21T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
