@@ -1,5 +1,254 @@
 [
   {
+    "job_id": "850635500",
+    "title": "Information Technology Specialist (Security)",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Washington, District of Columbia",
+      "Indianapolis, Indiana",
+      "Minneapolis, Minnesota"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, Planning, Program Analysis, and Evaluation Directorate (PPAE), Business Process Solutions Division. You must choose at least one of the following locations: Washington, District of Columbia Indianapolis, Indiana Minneapolis, Minnesota",
+    "url": "https://www.usajobs.gov/job/850635500",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850623700",
+    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the JMOC-T Director and reports directly to the 367 COS commander, a lieutenant colonel. The incumbent is also a second-level supervisor and is the lead of an organizational location (OL). **Salary ranges include local market supplements.**",
+    "url": "https://www.usajobs.gov/job/850623700",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850613300",
+    "title": "Management Analyst (Program Manager)",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "The Deputy Chief Information Officer, Cybersecurity serves as the DoW Senior Information Assurance Officer pursuant to Section 3544(a) (3) of the Federal Information Security Management Act (FISMA) of2002 (44 USC 3544), and provides expert policy, technical, program, and defense-wide oversight, coordination and integration support to the DoW CIO on all aspects and matters related to information assurance, identity protection and management, critical asset and infrastructure protection.",
+    "url": "https://www.usajobs.gov/job/850613300",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850593200",
+    "title": "IT CYBERSECURITY SPECIALIST (OS/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Mechanicsburg, Pennsylvania"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA Hosting and Compute Center/Mainframe LOB.",
+    "url": "https://www.usajobs.gov/job/850593200",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850590300",
+    "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Norfolk, Virginia"
+    ],
+    "description": "You will serve as a Supervisory Information Technology Specialist (PLCYPLN/INFOSEC) at COMMANDER US FLEET FORCES COMMAND.",
+    "url": "https://www.usajobs.gov/job/850590300",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850582100",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "Commander, Navy Installations",
+    "locations": [
+      "Redzikowo, Poland",
+      "Deveselu, Romania"
+    ],
+    "description": "You will serve as an INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) in the CNREURAFCENT of NAVAL SUPPORT FACILITY POLAND Redzikowo, Poland or Deveselu, Romania.",
+    "url": "https://www.usajobs.gov/job/850582100",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850577100",
+    "title": "Security Engineer",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Woodlawn, Maryland",
+      "Kansas City, Missouri",
+      "Seattle, Washington"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Enterprise Data and Analytics (OEDA), Data & Analytics Strategy Group (DASG). As an IT Specialist (Security), also known here as a Security Engineer, GS-2210-14, you will serve as a senior technical advisor leading efforts toward achieving the tactical and strategic objectives of the CMS Information Security Program.",
+    "url": "https://www.usajobs.gov/job/850577100",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850576800",
+    "title": "Security Engineer",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Woodlawn, Maryland",
+      "Kansas City, Missouri",
+      "Seattle, Washington"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Enterprise Data and Analytics (OEDA), Data & Analytics Strategy Group (DASG). As an IT Specialist (Security), referred here as an Security Engineer, GS-2210-14, you will serve as a senior technical advisor leading efforts toward achieving the tactical and strategic objectives of the CMS Information Security Program.",
+    "url": "https://www.usajobs.gov/job/850576800",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850491800",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Andersen Air Base, Guam"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/850491800",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850455300",
+    "title": "SUPERVISORY TECHNICIAN",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Port Hueneme, California"
+    ],
+    "description": "The President has ordered a government-wide hiring freeze subject to certain limited exceptions. This position is subject to the hiring freeze. Although we are moving forward with the consideration of candidates, we will not make a selection for this vacancy announcement unless and until the position is no longer subject to the hiring freeze. You will serve as a SUPERVISORY TECHNICIAN in the Combat System TEST & EVAL DEPT of NAVAL SURFACE WARFARE CENTER.",
+    "url": "https://www.usajobs.gov/job/850455300",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850355000",
+    "title": "COMPUTER SCIENTIST- DIRECT HIRE AUTHORITY",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Eglin AFB, Florida"
+    ],
+    "description": "Veterans' preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to serve as senior computer scientist in the evaluation and implementation of computer programs to support cross functional projects that improve overall mission effectiveness.",
+    "url": "https://www.usajobs.gov/job/850355000",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850311800",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Office of Naval Research",
+    "locations": [
+      "Port Hueneme, California"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/850311800",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850621400",
+    "title": "IT SPECIALIST (SYSANALYSIS/APPSW)",
+    "organization": "Air Force Elements, U.S. Transportation Command",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: AcqDemo This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
+    "url": "https://www.usajobs.gov/job/850621400",
+    "posted_at": "2025-11-20T14:12:40.420000",
+    "salary": "2-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850578700",
+    "title": "Computer Scientist/Computer Engineer-Direct Hire Authority",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Eglin AFB, Florida"
+    ],
+    "description": "Veteran's preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to function as the senior project scientist/engineer in performing advanced hardware/software analysis for equipment or devices by applying state of the art technologies.",
+    "url": "https://www.usajobs.gov/job/850578700",
+    "posted_at": "2025-11-20T11:02:14.190000",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850564800",
+    "title": "Supervisory IT Specialist (PLCYPLN)",
+    "organization": "Defense Commissary Agency",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "Serves as the Supervisory IT Specialist (PLCYPLN/DATASCIENTIST) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
+    "url": "https://www.usajobs.gov/job/850564800",
+    "posted_at": "2025-11-20T09:51:00.187000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850561200",
+    "title": "Biomedical Equipment Support Specialist - Imaging",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bay Pines, Florida"
+    ],
+    "description": "This position serves as a Biomedical Equipment Support Specialist (BESS) specializing in imaging equipment within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System, Bay Pines, FL. Works in support of the medical equipment management program and maintains imaging equipment and clinical systems. **A Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.**",
+    "url": "https://www.usajobs.gov/job/850561200",
+    "posted_at": "2025-11-20T09:36:18.677000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850537400",
+    "title": "IT Specialist (Applications Software)",
+    "organization": "Defense Health Agency",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "About the Position: This position is located in San Antonio, TX This is a Direct Hire Solicitation",
+    "url": "https://www.usajobs.gov/job/850537400",
+    "posted_at": "2025-11-20T06:20:28.933000",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850507600",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
     "organization": "Air Force Materiel Command",
@@ -32,20 +281,6 @@
     "url": "https://www.usajobs.gov/job/850503400",
     "posted_at": "2025-11-20T00:00:00",
     "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850472700",
-    "title": "INTELLIGENCE SPECIALIST",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "The primary purpose of this position is: To serve as the Director, Space Force Cryptologic Office (SFCO), responsible for interpreting and implementing policies, executing authorities, developing guidance, standards, and processes for the organization's mission.",
-    "url": "https://www.usajobs.gov/job/850472700",
-    "posted_at": "2025-11-20T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -410,7 +645,7 @@
     ],
     "description": "About the Position: Performs mechanical engineering design and review work for both Host Nation and US funded projects in support of Army, Navy, Air Force, Marines and other official agencies. This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for DoD Government-wide Direct Hire Authority to recruit and appoint qualified candidates to positions in the competitive service.",
     "url": "https://www.usajobs.gov/job/850220300",
-    "posted_at": "2025-11-17T10:53:39.557000",
+    "posted_at": "2025-11-17T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -631,20 +866,6 @@
     "remote": null
   },
   {
-    "job_id": "849552200",
-    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "You will serve as the Cybersecurity Compliance Branch Head in the ACIO/Information Technology Division, Corporate Operations Department of NAVSURFWARCENDLD. This position is part of the Warfare Centers Personnel Demonstration Project. The NT-6 pay band encompasses positions equivalent to GS-14 and GS-15.",
-    "url": "https://www.usajobs.gov/job/849552200",
-    "posted_at": "2025-11-07T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "849504400",
     "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -672,36 +893,6 @@
     "description": "Open to United States Citizens Position Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, ARMY SYSTEMS, DEBT & FMS SYSTEMS SUSTAINMENT BR, ZTCAC Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
     "url": "https://www.usajobs.gov/job/849479200",
     "posted_at": "2025-11-07T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849641300",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana"
-    ],
-    "description": "Who may apply: All US Citizens We may use this announcement to fill other positions in the Information & Technology Directorate. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/849641300",
-    "posted_at": "2025-11-06T10:46:52.320000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849501600",
-    "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/849501600",
-    "posted_at": "2025-11-06T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -745,20 +936,6 @@
     "url": "https://www.usajobs.gov/job/849378500",
     "posted_at": "2025-11-03T13:02:52.607000",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "848681100",
-    "title": "Associate Administrator for Acquisition",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Associate Administrator for Acquisition/Chief Procurement Officer (CPO) leads Treasury's enterprise-wide procurement operations within the Treasury Common Services Center. The incumbent provides strategic leadership and executive direction for a multibillion-dollar acquisition portfolio, counsels senior executives, resolves complex procurement challenges, and drives modernization, vendor engagement, and workforce excellence aligned with Treasury's mission.",
-    "url": "https://www.usajobs.gov/job/848681100",
-    "posted_at": "2025-10-22T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   }

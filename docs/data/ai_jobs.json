@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "850570300",
+    "title": "Management and Program Analyst",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position serves as a Management and Program Analyst, evaluator, and advisor to management and key internal/external agency stakeholders on Data Analytics. A primary purpose of this position is to assist and facilitate the efforts of the CDAO & DOW in business transformation and management innovation. Work will include executing continuous process improvement and/or organizational change.",
+    "url": "https://www.usajobs.gov/job/850570300",
+    "posted_at": "2025-11-21T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850601700",
+    "title": "Data Scientist (Supply Chain)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Philadelphia, Pennsylvania"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/850601700",
+    "posted_at": "2025-11-20T12:58:37.550000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850564800",
+    "title": "Supervisory IT Specialist (PLCYPLN)",
+    "organization": "Defense Commissary Agency",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "Serves as the Supervisory IT Specialist (PLCYPLN/DATASCIENTIST) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
+    "url": "https://www.usajobs.gov/job/850564800",
+    "posted_at": "2025-11-20T09:51:00.187000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850457300",
     "title": "Data Scientist (Supply Chain Risk Management)",
     "organization": "Defense Logistics Agency",
@@ -66,20 +108,6 @@
     "url": "https://www.usajobs.gov/job/850195200",
     "posted_at": "2025-11-17T08:20:52.483000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850052900",
-    "title": "Meteorologist, AST, Meteorological Studies",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "You will serve as a Meteorologist for the Spaceflight Meteorology Group, providing specialized weather forecasting and analysis for NASA launch and landing operations. You will manage meteorological data systems, develop advanced forecasting techniques, and applies NASA technologies to enhance mission safety. You will advise management on hazardous weather, directing mission planning, readiness briefings, and real-time meteorological decision support.",
-    "url": "https://www.usajobs.gov/job/850052900",
-    "posted_at": "2025-11-14T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
