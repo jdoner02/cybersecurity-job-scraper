@@ -22,7 +22,7 @@
     ],
     "description": "See below for important information regarding this job.",
     "url": "https://www.usajobs.gov/job/850601700",
-    "posted_at": "2025-11-20T12:58:37.550000",
+    "posted_at": "2025-11-20T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -36,7 +36,7 @@
     ],
     "description": "Serves as the Supervisory IT Specialist (PLCYPLN/DATASCIENTIST) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
     "url": "https://www.usajobs.gov/job/850564800",
-    "posted_at": "2025-11-20T09:51:00.187000",
+    "posted_at": "2025-11-20T00:00:00",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -108,34 +108,6 @@
     "url": "https://www.usajobs.gov/job/850195200",
     "posted_at": "2025-11-17T08:20:52.483000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850012800",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Tomah, Wisconsin"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the Tomah VA Medical Center, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/850012800",
-    "posted_at": "2025-11-13T11:46:51.890000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850011000",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Tomah, Wisconsin"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the Tomah VA Medical Center, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/850011000",
-    "posted_at": "2025-11-13T00:00:00",
-    "salary": "11-12",
     "grade": null,
     "remote": null
   },

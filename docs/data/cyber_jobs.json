@@ -1,5 +1,91 @@
 [
   {
+    "job_id": "850773500",
+    "title": "Information Technology Specialist (INFOSEC)",
+    "organization": "Defense Counterintelligence and Security Agency",
+    "locations": [
+      "Oviedo, Florida",
+      "Atlanta, Georgia"
+    ],
+    "description": "DCSA's Industrial Security Office is looking for Information Systems Security Professionals (ISSP) with responsibility for oversight of complex information assurance and cyber related activities at cleared contractor sites across the country. The ISSP employs technical knowledge and interpersonal skills to ensure information systems security managers understand and implement the technical controls and processes required to protect classified information. Be a part of America's Gatekeeper Team!",
+    "url": "https://www.usajobs.gov/job/850773500",
+    "posted_at": "2025-11-21T16:03:45.437000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850759900",
+    "title": "Program Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Boston, Massachusetts"
+    ],
+    "description": "The position is for the VA Boston Healthcare System, Office of Research and Development Service. The individual is primarily responsible for developing, assessing, implementing and tracking success of various programs within the organization to enable the Service to meet its strategic goals and requirements for compliance and assurance in research. The Program Specialist reports to the Administrative Officers for the organization and assists them in administering programs for the organization.",
+    "url": "https://www.usajobs.gov/job/850759900",
+    "posted_at": "2025-11-21T15:06:48.267000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850741100",
+    "title": "IT CyberSecurity Specialist (Infosec)",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Mountain View, California",
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is located in the Defense Innovation Unit (DIU). DIU is focused exclusively on accelerating the adoption of commercial technology to transform military capability and capacity, while growing the national security innovation base.",
+    "url": "https://www.usajobs.gov/job/850741100",
+    "posted_at": "2025-11-21T13:43:38.607000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850703100",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Marion, Indiana"
+    ],
+    "description": "Applies engineering, mechanical concepts, and methodology to manage and support medical equipment to improve health service delivery systems. The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. This is an OPEN CONTINUOUS ANNOUNCEMENT and will remain open until March 31, 2026 or until the position is filled. Eligible applicants will be referred on a rolling basis until all positions are filled.",
+    "url": "https://www.usajobs.gov/job/850703100",
+    "posted_at": "2025-11-21T10:36:35.363000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850697500",
+    "title": "Biomedical Equipment Support Specialist (Info Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Lexington, Kentucky"
+    ],
+    "description": "The Biomedical Equipment Support Specialist (BESS) (Information Systems) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of networks, networked medical equipment and associated systems.",
+    "url": "https://www.usajobs.gov/job/850697500",
+    "posted_at": "2025-11-21T10:15:13.820000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850311800",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Office of Naval Research",
+    "locations": [
+      "Port Hueneme, California"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/850311800",
+    "posted_at": "2025-11-21T09:00:40.727000",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850635500",
     "title": "Information Technology Specialist (Security)",
     "organization": "Customs and Border Protection",
@@ -165,20 +251,6 @@
     "remote": null
   },
   {
-    "job_id": "850311800",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Office of Naval Research",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/850311800",
-    "posted_at": "2025-11-21T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850621400",
     "title": "IT SPECIALIST (SYSANALYSIS/APPSW)",
     "organization": "Air Force Elements, U.S. Transportation Command",
@@ -207,20 +279,6 @@
     "remote": null
   },
   {
-    "job_id": "850564800",
-    "title": "Supervisory IT Specialist (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN/DATASCIENTIST) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/850564800",
-    "posted_at": "2025-11-20T09:51:00.187000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850561200",
     "title": "Biomedical Equipment Support Specialist - Imaging",
     "organization": "Veterans Health Administration",
@@ -245,6 +303,34 @@
     "url": "https://www.usajobs.gov/job/850537400",
     "posted_at": "2025-11-20T06:20:28.933000",
     "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850683400",
+    "title": "PROFESSOR",
+    "organization": "Defense Security Cooperation Agency",
+    "locations": [
+      "Fort McNair, District of Columbia"
+    ],
+    "description": "The Perry Center supports the community of security and defense professionals in the Americas to pursue collaborative approaches to mutual opportunities and challenges. Through academics, research, and outreach, including ministerial-level consulting, we advance sustainable institutional capacity, strengthen the rule of law and democracy, and promote greater understanding of U.S. policy throughout the Western Hemisphere.",
+    "url": "https://www.usajobs.gov/job/850683400",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850564800",
+    "title": "Supervisory IT Specialist (PLCYPLN)",
+    "organization": "Defense Commissary Agency",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "Serves as the Supervisory IT Specialist (PLCYPLN/DATASCIENTIST) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
+    "url": "https://www.usajobs.gov/job/850564800",
+    "posted_at": "2025-11-20T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -345,6 +431,20 @@
     "url": "https://www.usajobs.gov/job/850368700",
     "posted_at": "2025-11-20T00:00:00",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850460200",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Portland, Maine"
+    ],
+    "description": "The Biomedical Equipment Support Specialist position is in the Healthcare Technology Management (HTM) department at the VA Maine Healthcare System located at the Portland ME location. This position is full time at 40 hours per week. \"The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below.\"",
+    "url": "https://www.usajobs.gov/job/850460200",
+    "posted_at": "2025-11-19T11:30:34.737000",
+    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -679,20 +779,6 @@
     "remote": null
   },
   {
-    "job_id": "850109800",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Keesler AFB, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/850109800",
-    "posted_at": "2025-11-17T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850178500",
     "title": "Director of Information Technology",
     "organization": "House of Representatives",
@@ -861,38 +947,6 @@
     "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
     "url": "https://www.usajobs.gov/job/849534200",
     "posted_at": "2025-11-10T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849504400",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Who may apply: Current, permanent DoD Federal Civilian Employees in the competitive service, eligible Priority Placement Program DoD Military Spouse Preference applicants, eligible PPP applicants, and current DoD VRA employees. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, REQUIRED DOCUMENTS, HOW TO APPLY and NEXT STEPS sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/849504400",
-    "posted_at": "2025-11-07T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849479200",
-    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Open to United States Citizens Position Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, ARMY SYSTEMS, DEBT & FMS SYSTEMS SUSTAINMENT BR, ZTCAC Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
-    "url": "https://www.usajobs.gov/job/849479200",
-    "posted_at": "2025-11-07T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
