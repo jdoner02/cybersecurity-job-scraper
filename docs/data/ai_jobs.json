@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "850851100",
+    "title": "IT SPECIALIST (DATAMGT) (Direct Hire)",
+    "organization": "Transportation Security Administration",
+    "locations": [
+      "Springfield, Virginia"
+    ],
+    "description": "Securing Travel, Protecting People - At the Transportation Security Administration, you will serve in a high-stakes environment to safeguard the American way of life. In cities across the country, you would secure airports, seaports, railroads, highways, and/or public transit systems, thus protecting America's transportation infrastructure and ensuring freedom of movement for people and commerce.",
+    "url": "https://www.usajobs.gov/job/850851100",
+    "posted_at": "2025-11-24T12:53:24.217000",
+    "salary": "I-J",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850570300",
     "title": "Management and Program Analyst",
     "organization": "Office of the Secretary of Defense",
@@ -24,20 +38,6 @@
     "url": "https://www.usajobs.gov/job/850601700",
     "posted_at": "2025-11-20T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850564800",
-    "title": "Supervisory IT Specialist (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN/DATASCIENTIST) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/850564800",
-    "posted_at": "2025-11-20T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
