@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "850945300",
+    "title": "SUPERVISORY CONTRACT SPECIALIST",
+    "organization": "U.S. Army Corps of Engineers",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "About the Position: This position is located with the U.S. Army Research and Development Center (ERDC), Contracting Office. Preferred duty location at one of the following: Vicksburg, MS; Champaign, IL; Alexandria, VA; or Hanover, NH or location negotiable after selection and official duty station will be established in an approved U.S. Army Corps of Engineers office duty location.",
+    "url": "https://www.usajobs.gov/job/850945300",
+    "posted_at": "2025-11-26T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850851100",
     "title": "IT SPECIALIST (DATAMGT) (Direct Hire)",
     "organization": "Transportation Security Administration",
@@ -10,20 +43,6 @@
     "url": "https://www.usajobs.gov/job/850851100",
     "posted_at": "2025-11-24T12:53:24.217000",
     "salary": "I-J",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850570300",
-    "title": "Management and Program Analyst",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position serves as a Management and Program Analyst, evaluator, and advisor to management and key internal/external agency stakeholders on Data Analytics. A primary purpose of this position is to assist and facilitate the efforts of the CDAO & DOW in business transformation and management innovation. Work will include executing continuous process improvement and/or organizational change.",
-    "url": "https://www.usajobs.gov/job/850570300",
-    "posted_at": "2025-11-21T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -113,7 +132,7 @@
   },
   {
     "job_id": "849713100",
-    "title": "SCIENIST",
+    "title": "SCIENTIST",
     "organization": "Naval Sea Systems Command",
     "locations": [
       "Dahlgren, Virginia"
