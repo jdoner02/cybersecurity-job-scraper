@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "851052900",
+    "title": "IT PROGRAM MANAGER (DATAMGT)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA DKAAJH-JH9.",
+    "url": "https://www.usajobs.gov/job/851052900",
+    "posted_at": "2025-11-26T06:12:30.863000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "850945300",
     "title": "SUPERVISORY CONTRACT SPECIALIST",
     "organization": "U.S. Army Corps of Engineers",
@@ -29,20 +43,6 @@
     "url": "https://www.usajobs.gov/job/850945300",
     "posted_at": "2025-11-26T00:00:00",
     "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850851100",
-    "title": "IT SPECIALIST (DATAMGT) (Direct Hire)",
-    "organization": "Transportation Security Administration",
-    "locations": [
-      "Springfield, Virginia"
-    ],
-    "description": "Securing Travel, Protecting People - At the Transportation Security Administration, you will serve in a high-stakes environment to safeguard the American way of life. In cities across the country, you would secure airports, seaports, railroads, highways, and/or public transit systems, thus protecting America's transportation infrastructure and ensuring freedom of movement for people and commerce.",
-    "url": "https://www.usajobs.gov/job/850851100",
-    "posted_at": "2025-11-24T12:53:24.217000",
-    "salary": "I-J",
     "grade": null,
     "remote": null
   },
@@ -113,20 +113,6 @@
     "url": "https://www.usajobs.gov/job/850195200",
     "posted_at": "2025-11-17T08:20:52.483000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849914100",
-    "title": "Chief Information Officer",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "You will serve as the Chief Information Officer (CIO), Pentagon, Washington, DC. This position leads and supports 77,000 IT/cyber operations and support personnel across the globe with a portfolio valued at $14.6B, provides guidance and oversight, and is responsible to the Secretary of the Air Force for overall formulation and execution of policies and enterprise integration of resources related to IT enterprise operations, cybersecurity, and workforce development.",
-    "url": "https://www.usajobs.gov/job/849914100",
-    "posted_at": "2025-11-13T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
