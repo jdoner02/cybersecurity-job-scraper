@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "851155700",
+    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
+    "url": "https://www.usajobs.gov/job/851155700",
+    "posted_at": "2025-11-28T10:16:15.117000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851052900",
     "title": "IT PROGRAM MANAGER (DATAMGT)",
     "organization": "Defense Information Systems Agency",
