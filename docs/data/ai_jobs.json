@@ -61,34 +61,6 @@
     "remote": null
   },
   {
-    "job_id": "850601700",
-    "title": "Data Scientist (Supply Chain)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Philadelphia, Pennsylvania"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/850601700",
-    "posted_at": "2025-11-20T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850457300",
-    "title": "Data Scientist (Supply Chain Risk Management)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Fort Belvoir, Virginia"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/850457300",
-    "posted_at": "2025-11-19T11:24:05.423000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850423000",
     "title": "MEDICAL ADMINISTRATIVE OFFICER",
     "organization": "Air National Guard Units",
@@ -184,39 +156,6 @@
     "url": "https://www.usajobs.gov/job/849676900",
     "posted_at": "2025-11-07T00:00:00",
     "salary": "5-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849259300",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/849259300",
-    "posted_at": "2025-11-01T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   }
