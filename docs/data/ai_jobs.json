@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "851215400",
+    "title": "2026 Junior Fellows Program (Remote Internship)",
+    "organization": "Library of Congress",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "The Library of Congress Junior Fellows Program (JFP) is a paid, 10-week annual summer internship program that enables undergraduate, graduate students, and recent graduates to gain career experience by working with analog and digital collections and supporting the services of the world's largest library.",
+    "url": "https://www.usajobs.gov/job/851215400",
+    "posted_at": "2025-12-02T00:00:00",
+    "salary": "03-03",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851200900",
+    "title": "Systems Engineer - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a System Engineer, you will apply your expertise to develop and improve systems and tools that enable intelligence operations, upholding rigorous engineering and scientific standards. With opportunities spanning cybersecurity, engineering, computer science, and more, you will utilize your skills to drive innovation and make a meaningful impact in protecting the nation.",
+    "url": "https://www.usajobs.gov/job/851200900",
+    "posted_at": "2025-12-01T09:54:14.870000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851191600",
+    "title": "Chief Information Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "All applicants will be assessed for executive competency against the five mandatory Executive Core Qualifications (ECQs). If your two-page resume does not reflect demonstrated evidence of the ECQs and PTQs, you will not receive further consideration for the position. Applicants are strongly encouraged to review current information regarding ECQ. For more information regarding the SES and ECQs, please visit the Executive Core Qualifications page.",
+    "url": "https://www.usajobs.gov/job/851191600",
+    "posted_at": "2025-12-01T08:50:29.947000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851184600",
+    "title": "SUPV INTERDISCIPLINARY (DATA)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA JOINT FORCE HEADQUARTERS.",
+    "url": "https://www.usajobs.gov/job/851184600",
+    "posted_at": "2025-12-01T07:04:55.093000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851155700",
     "title": "Software Engineer - Mid to Experienced Level (Maryland)",
     "organization": "National Security Agency/Central Security Service",
