@@ -1,53 +1,99 @@
 [
   {
-    "job_id": "851273000",
-    "title": "IT Specialist (Plcypln)",
-    "organization": "Deputy Assistant Secretary for Information and Technology",
+    "job_id": "851378700",
+    "title": "TECHNICAL SPECIALIST",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
     "locations": [
-      "Little Rock, Arkansas",
-      "North Little Rock, Arkansas",
-      "Phoenix, Arizona",
-      "Long Beach, California",
-      "Los Angeles, California",
-      "Oakland, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Orlando, Florida",
-      "Saint Petersburg, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Hines, Illinois",
-      "North Chicago, Illinois",
-      "Bedford, Massachusetts",
-      "Boston, Massachusetts",
-      "Baltimore, Maryland",
-      "Detroit, Michigan",
-      "Minneapolis, Minnesota",
-      "Saint Louis, Missouri",
-      "Eatontown, New Jersey",
-      "Albany, New York",
-      "Cleveland, Ohio",
-      "Philadelphia, Pennsylvania",
-      "Pittsburgh, Pennsylvania",
-      "Nashville, Tennessee",
-      "Arlington, Texas",
-      "Austin, Texas",
-      "Dallas, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas",
-      "Salt Lake City, Utah",
-      "Seatac, Washington",
-      "Seattle, Washington",
-      "Martinsburg, West Virginia",
-      "Shepherdstown, West Virginia"
+      "San Diego, California"
     ],
-    "description": "Connectivity and Collaboration Services (CCS) engineers, installs, operates and maintains: core network transport, the corporate collaboration services, and voice, call center, and video that enables VA business partners and employees to deliver quality services to Veterans and their families. CCS \"Connects everyone to everything.\"",
-    "url": "https://www.usajobs.gov/job/851273000",
-    "posted_at": "2025-12-02T00:00:00",
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/851378700",
+    "posted_at": "2025-12-03T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851376000",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "Air Force Elements, U.S. Central Command",
+    "locations": [
+      "MacDill AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as an IT Specialist, Cyber Defense Analyst within the CCJ6 Directorate of United States Central Command as the subject matter expert in the Cyber Operations Section within the Cybersecurity Branch.",
+    "url": "https://www.usajobs.gov/job/851376000",
+    "posted_at": "2025-12-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851364800",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Keesler AFB, Mississippi"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
+    "url": "https://www.usajobs.gov/job/851364800",
+    "posted_at": "2025-12-03T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851314100",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Elmendorf AFB, Alaska"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, drug demand reduction program, health care program, fitness program, and others.",
+    "url": "https://www.usajobs.gov/job/851314100",
+    "posted_at": "2025-12-03T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851244000",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC/PROJMGR)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA - IO/Chief Information Officer.",
+    "url": "https://www.usajobs.gov/job/851244000",
+    "posted_at": "2025-12-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851231600",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA JSO/J1 MANPOWER & PERSONNEL DIRECTORATE.",
+    "url": "https://www.usajobs.gov/job/851231600",
+    "posted_at": "2025-12-03T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851380400",
+    "title": "Supervisory IT Specialist (Customer Support)",
+    "organization": "Commander, Navy Installations",
+    "locations": [
+      "Millington, Tennessee"
+    ],
+    "description": "This position is assigned to the Nonappropriated Fund (NAF), Chief Information Officer (N6), NAF Systems Division (N6Q); Commander, Navy Installation Command, Millington, TN. The incumbent is responsible for evaluating, planning, and delivering customer support services through the NAF enterprise service desk, including configuration, troubleshooting, issue elevation, customer assistance, user onboarding and/or training, in response to customer requirements in accordance with Navy policy.",
+    "url": "https://www.usajobs.gov/job/851380400",
+    "posted_at": "2025-12-02T15:46:42.507000",
+    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -266,20 +312,6 @@
     "remote": null
   },
   {
-    "job_id": "851042000",
-    "title": "Information Systems Security Manager (ISSM)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer, Chief Information Security Office will allow you to draw on your technological expertise to maintain and modernize the US Secret Service's Information Technology and Communications infrastructure, as well as enhance interoperability, information sharing, and collaboration capabilities. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/851042000",
-    "posted_at": "2025-11-26T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851027800",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Force Global Strike Command",
@@ -426,20 +458,6 @@
     "remote": null
   },
   {
-    "job_id": "850941400",
-    "title": "Supervisory Information Technology Specialist",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is for a Supervisory Information Technology Specialist in the Bureau of Industry and Security (BIS) within the Department of Commerce. In this position, you will serve as a Supervisory Information Technology Specialist coordinating, overseeing, and tracking all activities for BIS across the following areas: IT operations, technology solutions, and cybersecurity.",
-    "url": "https://www.usajobs.gov/job/850941400",
-    "posted_at": "2025-11-25T09:49:11.073000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850916200",
     "title": "Revenue & Customer Data Analytics Specialist - Sales, Marketing & International Directorate",
     "organization": "Office of the Inspector General, USPS",
@@ -452,62 +470,6 @@
     "url": "https://www.usajobs.gov/job/850916200",
     "posted_at": "2025-11-25T07:55:21.963000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851048400",
-    "title": "Senior Mission Management Specialist, SLD 45/RM",
-    "organization": "Space Systems Command",
-    "locations": [
-      "Cape Canaveral AFS, Florida"
-    ],
-    "description": "To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
-    "url": "https://www.usajobs.gov/job/851048400",
-    "posted_at": "2025-11-25T00:00:00",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851035900",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/NETWORK)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "You will serve as a INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/NETWORK) in the INFORMATION EDUCATION TECHNOLOGY of TRAINING AND EDUCATION COMMAND.",
-    "url": "https://www.usajobs.gov/job/851035900",
-    "posted_at": "2025-11-25T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850883600",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "U.S. Air Forces, Europe",
-    "locations": [
-      "Aviano, Italy"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/850883600",
-    "posted_at": "2025-11-25T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850472700",
-    "title": "INTELLIGENCE SPECIALIST",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "The primary purpose of this position is: To serve as the Director, Space Force Cryptologic Office (SFCO), responsible for interpreting and implementing policies, executing authorities, developing guidance, standards, and processes for the organization's mission.",
-    "url": "https://www.usajobs.gov/job/850472700",
-    "posted_at": "2025-11-25T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -910,20 +872,6 @@
     "remote": null
   },
   {
-    "job_id": "850353800",
-    "title": "SUPERVISORY INTELLIGENCE SPECIALIST",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "San Antonio, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is tserve as a supervisor, planning, directing, organizing, and exercising control over nonsupervisory employees assigned to AFCO/CMM. Serves as HAF A2/6 and 16 Air Force (AFCYBER) Air Force Cryptologic Office (AFCO) ISR-Cyber Cryptologic Subject Matter Expert (SME) and Air Force Service Cryptologic Component Staff Branch Chief.",
-    "url": "https://www.usajobs.gov/job/850353800",
-    "posted_at": "2025-11-19T08:24:30.803000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850366800",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)-DIRECT HIRE AUTHORITY",
     "organization": "Air Force Materiel Command",
@@ -953,50 +901,6 @@
     "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment. Position is located in IT DIR OFFICE, ENTERPRISE SERVICES, IT SECURITY SERVICES, ZTAG. This job announcement may be used to fill similar positions on other teams in the I&T Directorate.",
     "url": "https://www.usajobs.gov/job/850340800",
     "posted_at": "2025-11-19T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850228000",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/850228000",
-    "posted_at": "2025-11-18T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850220300",
-    "title": "Mechanical Engineer",
-    "organization": "U.S. Army Corps of Engineers",
-    "locations": [
-      "Camp Foster, Japan"
-    ],
-    "description": "About the Position: Performs mechanical engineering design and review work for both Host Nation and US funded projects in support of Army, Navy, Air Force, Marines and other official agencies. This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for DoD Government-wide Direct Hire Authority to recruit and appoint qualified candidates to positions in the competitive service.",
-    "url": "https://www.usajobs.gov/job/850220300",
-    "posted_at": "2025-11-17T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850159000",
-    "title": "Program Manager (Construction)",
-    "organization": "Western Area Power Administration",
-    "locations": [
-      "Phoenix, Arizona"
-    ],
-    "description": "As a Program Manager (Construction), in this position you will lead the planning, execution , and modernization of critical hydropower grid and transmission infrastructure across five states. ***This is not a remote position. You must report to Phoenix Arizona. THIS IS A TEMPORARY PROMOTION NOT-TO-EXCEED ONE YEAR",
-    "url": "https://www.usajobs.gov/job/850159000",
-    "posted_at": "2025-11-17T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
