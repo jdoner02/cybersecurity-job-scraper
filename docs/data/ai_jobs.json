@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "851528400",
+    "title": "IT Specialist (AI)",
+    "organization": "National Institute of Standards and Technology",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia"
+    ],
+    "description": "NIST works with industry and science to advance innovation and improve quality of life. We're looking for a IT Specialist (AI) to join our team! CAISI seeks a candidate to rigorously evaluate AI systems' functionality and trustworthiness in real-world settings, developing scientific methods and tools to assess performance, and identify failure modes. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
+    "url": "https://www.usajobs.gov/job/851528400",
+    "posted_at": "2025-12-04T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851485800",
+    "title": "MEDICAL ADMINISTRATIVE OFFICER",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Fort Wayne, Indiana"
+    ],
+    "description": "THIS IS AN INDIANA NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION This position is part of the IN 122nd Fighter Wing, Indiana National Guard under Position Description Number D1718000. If you would like the complete list of duties, please contact the POC of this announcement.",
+    "url": "https://www.usajobs.gov/job/851485800",
+    "posted_at": "2025-12-03T13:55:02.620000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851215400",
     "title": "2026 Junior Fellows Program (Remote Internship)",
     "organization": "Library of Congress",
@@ -113,6 +142,20 @@
     "url": "https://www.usajobs.gov/job/850945300",
     "posted_at": "2025-11-26T00:00:00",
     "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851419300",
+    "title": "Command Technical Advisor Control Communications and Computer C4 Systems",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Schriever AFB, Colorado"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the Technical Advisor (TA) for USSPACECOM Command, Control, Communications, Computers (C4) Systems and assist the J6 Director with overseeing the Command's Information Technology (IT) resources consistent with the Command's mission and program objectives, applicable laws, regulations, principles, standards and resources.",
+    "url": "https://www.usajobs.gov/job/851419300",
+    "posted_at": "2025-11-22T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
