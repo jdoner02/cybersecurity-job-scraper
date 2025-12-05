@@ -1,5 +1,115 @@
 [
   {
+    "job_id": "851665000",
+    "title": "IT Specialist - Principal Software Engineer",
+    "organization": "Technology Transformation Service",
+    "locations": [
+      "San Francisco, California",
+      "Lakewood, Colorado",
+      "Washington, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas",
+      "Tacoma, Washington"
+    ],
+    "description": "As an IT Specialist - Principal Software Engineer, you will serve as an expert software engineer and applications developer, providing technical leadership to cross-functional teams, architecting and deploying secure, scalable applications that advance services for the American people. The Technology Transformation Services (TTS) is responsible for providing scalable software products and services to federal agencies.",
+    "url": "https://www.usajobs.gov/job/851665000",
+    "posted_at": "2025-12-05T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851656200",
+    "title": "Information System Security Manager",
+    "organization": "Federal Retirement Thrift Investment Board",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This announcement may be used to fill similar positions at the Federal Retirement Thrift Investment Board (FRTIB) in the same location. The position is filled under the government-wide Direct Hire Authority for Cybersecurity roles, which allows agencies to hire without applying certain category rating and veterans' preference rules.",
+    "url": "https://www.usajobs.gov/job/851656200",
+    "posted_at": "2025-12-05T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851588000",
+    "title": "IT SPECIALIST (SYSANALYSIS)",
+    "organization": "Commander, Navy Installations",
+    "locations": [
+      "Souda Bay, Greece"
+    ],
+    "description": "You will serve as an IT SPECIALIST (SYSANALYSIS) in the IT Department of NAVSUPPACT SOUDA BAY, GREECE.",
+    "url": "https://www.usajobs.gov/job/851588000",
+    "posted_at": "2025-12-05T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851582200",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/SYSADMIN)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is: To serve as the Air Mobility Command JWICS network Information System Security Manager, provide management for the JWICS cybersecurity program, with responsibility for security planning, coordination, and security during installation, testing, modifying, upgrading, operation, troubleshooting, maintenance of network. Salary ranges include local market supplements.",
+    "url": "https://www.usajobs.gov/job/851582200",
+    "posted_at": "2025-12-05T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851344800",
+    "title": "ITSPEC (NETWORK) - TITLE 32",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Brunswick, Georgia"
+    ],
+    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This position is for an IT Specialist (Network Services), Position Description Number D1822000 located in the 224th JCSS at Brunswick, GA. This is a full-time, Temporary Indefinite, dual status position not to exceed 4 years which requires Georgia Air National Guard Membership. Area of Consideration: Open to current members of the Air National Guard, Air Force Reserve or Air Force Active Duty.",
+    "url": "https://www.usajobs.gov/job/851344800",
+    "posted_at": "2025-12-05T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851591000",
+    "title": "SUPV IT SPECIALIST (SYSADMIN)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland",
+      "Letterkenny Army Depot, Pennsylvania",
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA ITD32/Information Technology Directorate Testing Branch.",
+    "url": "https://www.usajobs.gov/job/851591000",
+    "posted_at": "2025-12-04T11:37:35.967000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851543300",
+    "title": "Forensic Computer Analyst",
+    "organization": "U.S. Postal Service",
+    "locations": [
+      "Richmond, California"
+    ],
+    "description": "Come join the U.S. Postal Service! Conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
+    "url": "https://www.usajobs.gov/job/851543300",
+    "posted_at": "2025-12-04T07:14:33.590000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851514800",
     "title": "IT SPECIALIST (INFOSEC/SYSADMIN)",
     "organization": "Department of the Air Force - Agency Wide",
@@ -84,25 +194,6 @@
     "remote": null
   },
   {
-    "job_id": "851513700",
-    "title": "Student Temporary Internship (Summer NTE 89 days) (Open to Everyone)",
-    "organization": "Nuclear Regulatory Commission",
-    "locations": [
-      "Atlanta, Georgia",
-      "Naperville, Illinois",
-      "Rockville, Maryland",
-      "King of Prussia, Pennsylvania",
-      "Chattanooga, Tennessee",
-      "Arlington, Texas"
-    ],
-    "description": "This is a Summer Internship Position. It is designed to provide students with paid work opportunities at the U.S. Nuclear Regulatory Commission (NRC) while they are still enrolled in school. These positions are located across various NRC offices. We encourage you to read the entire vacancy announcement before submitting your application. For more NRC student Opportunities, please visit: NRC Student Opportunities",
-    "url": "https://www.usajobs.gov/job/851513700",
-    "posted_at": "2025-12-03T15:50:32.867000",
-    "salary": "04-09",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851498100",
     "title": "Forensic Computer Analyst",
     "organization": "U.S. Postal Service",
@@ -141,6 +232,25 @@
     "url": "https://www.usajobs.gov/job/851408300",
     "posted_at": "2025-12-03T07:49:23.233000",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851513700",
+    "title": "Student Temporary Internship (Summer NTE 89 days) (Open to Everyone)",
+    "organization": "Nuclear Regulatory Commission",
+    "locations": [
+      "Atlanta, Georgia",
+      "Naperville, Illinois",
+      "Rockville, Maryland",
+      "King of Prussia, Pennsylvania",
+      "Chattanooga, Tennessee",
+      "Arlington, Texas"
+    ],
+    "description": "This is a Summer Internship Position. It is designed to provide students with paid work opportunities at the U.S. Nuclear Regulatory Commission (NRC) while they are still enrolled in school. These positions are located across various NRC offices. We encourage you to read the entire vacancy announcement before submitting your application. For more NRC student Opportunities, please visit: NRC Student Opportunities",
+    "url": "https://www.usajobs.gov/job/851513700",
+    "posted_at": "2025-12-03T00:00:00",
+    "salary": "04-09",
     "grade": null,
     "remote": null
   },
@@ -352,34 +462,6 @@
     "remote": null
   },
   {
-    "job_id": "851155700",
-    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
-    "url": "https://www.usajobs.gov/job/851155700",
-    "posted_at": "2025-11-28T10:16:15.117000",
-    "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851075500",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Pacific Air Forces",
-    "locations": [
-      "Misawa AFB, Japan"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS)administrator, drug demand reduction program, health care program, and others.",
-    "url": "https://www.usajobs.gov/job/851075500",
-    "posted_at": "2025-11-28T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851123300",
     "title": "IT Specialist (SYSANALYSIS)",
     "organization": "Defense Logistics Agency",
@@ -501,22 +583,6 @@
     "url": "https://www.usajobs.gov/job/850935300",
     "posted_at": "2025-11-25T09:51:50.130000",
     "salary": "J-J",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850916200",
-    "title": "Revenue & Customer Data Analytics Specialist - Sales, Marketing & International Directorate",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Carol Stream, Illinois",
-      "Bethesda, Maryland",
-      "Milwaukee, Wisconsin"
-    ],
-    "description": "Ready to lead with data? The U.S. Postal Service Office of Inspector General (USPS OIG) is hiring a Revenue & Customer Data Analytics Specialist to lead enterprise-wide projects that improve revenue assurance and compliance. Use your analytical skills to uncover insights, drive impactful audits, and shape smarter business decisions. Join a team that values innovation, collaboration, and results. Your expertise can help shape the future of postal oversight!",
-    "url": "https://www.usajobs.gov/job/850916200",
-    "posted_at": "2025-11-25T07:55:21.963000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -715,20 +781,6 @@
     "remote": null
   },
   {
-    "job_id": "850311800",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Office of Naval Research",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/850311800",
-    "posted_at": "2025-11-21T09:00:40.727000",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850623700",
     "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Department of the Air Force - Agency Wide",
@@ -767,20 +819,6 @@
     "url": "https://www.usajobs.gov/job/850355000",
     "posted_at": "2025-11-21T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850621400",
-    "title": "IT SPECIALIST (SYSANALYSIS/APPSW)",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: AcqDemo This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/850621400",
-    "posted_at": "2025-11-20T14:12:40.420000",
-    "salary": "2-3",
     "grade": null,
     "remote": null
   },
@@ -845,20 +883,6 @@
     "url": "https://www.usajobs.gov/job/850507600",
     "posted_at": "2025-11-20T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850503400",
-    "title": "ADMINISTRATIVE OFFICER",
-    "organization": "United States Space Force",
-    "locations": [
-      "Vandenberg AFB, California"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary financial and computer support assistant for the detachment performing a vast number of computer duties and administrative task.",
-    "url": "https://www.usajobs.gov/job/850503400",
-    "posted_at": "2025-11-20T00:00:00",
-    "salary": "9-9",
     "grade": null,
     "remote": null
   },
@@ -933,34 +957,6 @@
     "url": "https://www.usajobs.gov/job/850178500",
     "posted_at": "2025-11-14T18:00:59.030000",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850168800",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Grand Junction, Colorado"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems",
-    "url": "https://www.usajobs.gov/job/850168800",
-    "posted_at": "2025-11-14T16:14:45.607000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850168300",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Grand Junction, Colorado"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems",
-    "url": "https://www.usajobs.gov/job/850168300",
-    "posted_at": "2025-11-14T16:13:51.753000",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   },

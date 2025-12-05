@@ -7,9 +7,9 @@
       "San Francisco, California",
       "Washington, District of Columbia"
     ],
-    "description": "NIST works with industry and science to advance innovation and improve quality of life. We're looking for a IT Specialist (AI) to join our team! CAISI seeks a candidate to rigorously evaluate AI systems' functionality and trustworthiness in real-world settings, developing scientific methods and tools to assess performance, and identify failure modes. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
+    "description": "NIST works with industry and science to advance innovation and improve quality of life. We're looking for an IT Specialist (AI) to join our team! CAISI seeks a candidate to develop scientific methods and tools to rigorously evaluate AI systems in real-world settings. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
     "url": "https://www.usajobs.gov/job/851528400",
-    "posted_at": "2025-12-04T00:00:00",
+    "posted_at": "2025-12-04T12:28:09.763000",
     "salary": "4-5",
     "grade": null,
     "remote": null
@@ -81,20 +81,6 @@
     "url": "https://www.usajobs.gov/job/851184600",
     "posted_at": "2025-12-01T07:04:55.093000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851155700",
-    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
-    "url": "https://www.usajobs.gov/job/851155700",
-    "posted_at": "2025-11-28T10:16:15.117000",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
