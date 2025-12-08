@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "851690700",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
+    "url": "https://www.usajobs.gov/job/851690700",
+    "posted_at": "2025-12-08T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851564300",
+    "title": "Senior Systems Engineer/Architect",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This position is located in IT DIR OFFICE, ACCOUNTING SERVICES, MOCAS SYSTEM, MOCAS PROGRAMMING BRANCH, ZTCEB If selected, the job title of this position will be IT CYBERSECURITY SPECIALIST (APPSW) Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/851564300",
+    "posted_at": "2025-12-08T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851773000",
     "title": "Lead Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -260,25 +290,6 @@
     "url": "https://www.usajobs.gov/job/851408300",
     "posted_at": "2025-12-03T07:49:23.233000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851513700",
-    "title": "Student Temporary Internship (Summer NTE 89 days) (Open to Everyone)",
-    "organization": "Nuclear Regulatory Commission",
-    "locations": [
-      "Atlanta, Georgia",
-      "Naperville, Illinois",
-      "Rockville, Maryland",
-      "King of Prussia, Pennsylvania",
-      "Chattanooga, Tennessee",
-      "Arlington, Texas"
-    ],
-    "description": "This is a Summer Internship Position. It is designed to provide students with paid work opportunities at the U.S. Nuclear Regulatory Commission (NRC) while they are still enrolled in school. These positions are located across various NRC offices. We encourage you to read the entire vacancy announcement before submitting your application. For more NRC student Opportunities, please visit: NRC Student Opportunities",
-    "url": "https://www.usajobs.gov/job/851513700",
-    "posted_at": "2025-12-03T00:00:00",
-    "salary": "04-09",
     "grade": null,
     "remote": null
   },
@@ -838,20 +849,6 @@
     "url": "https://www.usajobs.gov/job/850366800",
     "posted_at": "2025-11-19T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850178500",
-    "title": "Director of Information Technology",
-    "organization": "House of Representatives",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The House Office of the Legislative Counsel provides legislative drafting services to the committees and Members of the United States House of Representatives on a nonpartisan, impartial, and confidential basis. Our goal is to work with committees and Members to understand their policy preferences in order to implement those preferences through clear, concise, and legally effective legislative language.",
-    "url": "https://www.usajobs.gov/job/850178500",
-    "posted_at": "2025-11-14T18:00:59.030000",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },

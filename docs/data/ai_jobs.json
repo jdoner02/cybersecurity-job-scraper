@@ -1,5 +1,52 @@
 [
   {
+    "job_id": "851777200",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/851777200",
+    "posted_at": "2025-12-08T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851684500",
+    "title": "DATA SCIENTIST",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Air and Marine Operations, Washington, D.C.",
+    "url": "https://www.usajobs.gov/job/851684500",
+    "posted_at": "2025-12-08T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851528400",
     "title": "IT Specialist (AI)",
     "organization": "National Institute of Standards and Technology",
@@ -156,49 +203,6 @@
     "url": "https://www.usajobs.gov/job/849713100",
     "posted_at": "2025-11-10T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849677400",
-    "title": "MATHEMATICS & STATISTICS STUDENT TRAINEE (COMPUTER SCIENCE)",
-    "organization": "Defense Counterintelligence and Security Agency",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "Interested in a career in national security? DCSA is offering a paid internship: the DCSA Student Experience (DSE) '26 Cohort. Open to undergraduate and graduate students with a 3.0+ GPA, students must maintain full-time status through October 2027. The program runs 1 OR 15 June - 21 August 2026, requiring a minimum of 10 weeks of participation. This position is selecting students for Acquisition & Technology - Enterprise Data & Analytics.",
-    "url": "https://www.usajobs.gov/job/849677400",
-    "posted_at": "2025-11-07T00:00:00",
-    "salary": "5-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849677000",
-    "title": "MATH & STATISTICS STUDENT TRAINEE (COMPUTER & DATA SCIENCE)",
-    "organization": "Defense Counterintelligence and Security Agency",
-    "locations": [
-      "Fort Meade, Maryland",
-      "Arlington, Virginia"
-    ],
-    "description": "Interested in a career in national security? DCSA is offering a paid internship: the DCSA Student Experience (DSE) '26 Cohort. Open to undergraduate and graduate students with a 3.0+ GPA, students must maintain full-time status through October 2027. The program runs 1 OR 15 June - 21 August 2026, requiring a minimum of 10 weeks of participation. Positions may be in one of the following offices: Personnel Vetting or Human Capital Management Office.",
-    "url": "https://www.usajobs.gov/job/849677000",
-    "posted_at": "2025-11-07T00:00:00",
-    "salary": "5-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849676900",
-    "title": "Mathematics & Statistics Student Trainee (Computer Science & Data Science)",
-    "organization": "Defense Counterintelligence and Security Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Interested in a career in national security? DCSA is offering a paid internship: the DCSA Student Experience (DSE) '26 Cohort. Open to undergraduate and graduate students with a 3.0+ GPA, students must maintain full-time status through October 2027. The program runs 1 OR 15 June - 21 August 2026, requiring a minimum of 10 weeks of participation. This announcement is selecting a student for Acquisition and Technology.",
-    "url": "https://www.usajobs.gov/job/849676900",
-    "posted_at": "2025-11-07T00:00:00",
-    "salary": "5-7",
     "grade": null,
     "remote": null
   }
