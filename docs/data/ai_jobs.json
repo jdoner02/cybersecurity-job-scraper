@@ -1,5 +1,79 @@
 [
   {
+    "job_id": "851869600",
+    "title": "Supervisory Financial Management Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Albany, Oregon",
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Office of Fossil Energy and Carbon Management - National Energy Technology Laboratory, Department of Energy. As a Supervisory Financial Management Specialist, you will be responsible for ensuring the financial integrity of the Laboratory's financial management and control processes.",
+    "url": "https://www.usajobs.gov/job/851869600",
+    "posted_at": "2025-12-09T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851827100",
+    "title": "Bayou Choctaw Site Engineer",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Baton Rouge, Louisiana"
+    ],
+    "description": "This position is part of the Office of the Project Manager, Strategic Petroleum Reserve, Department of Energy. As a Bayou Choctaw Site Engineer, you will provide professional engineering expertise and support to DOE programs, projects or initiatives whose mission or responsibilities include designing, evaluating, developing, testing, modifying, installing, inspecting, and/or maintaining products and systems.",
+    "url": "https://www.usajobs.gov/job/851827100",
+    "posted_at": "2025-12-09T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851813100",
+    "title": "SUPV IT SPECIALIST (DATAMGT/PLCYPLN)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA - JOINT FORCES HEADQUARTERS - DODIN.",
+    "url": "https://www.usajobs.gov/job/851813100",
+    "posted_at": "2025-12-09T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851759700",
+    "title": "Executive Assistant",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Albany, Oregon",
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Office of Fossil Energy and Carbon Management - National Energy Technology Laboratory, Department of Energy. As a Executive Assistant, you will provide advice and recommendations to the Laboratory Operations Center (LOC) on all matters relative to the coordination, integration, and synchronization of staff actions, events, and activities personally affecting and involving the LOC.",
+    "url": "https://www.usajobs.gov/job/851759700",
+    "posted_at": "2025-12-09T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851426900",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas, Quantico, Virginia. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/851426900",
+    "posted_at": "2025-12-09T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851777200",
     "title": "Marine Interdiction Agent",
     "organization": "Customs and Border Protection",
@@ -86,20 +160,6 @@
     "url": "https://www.usajobs.gov/job/851215400",
     "posted_at": "2025-12-02T07:26:49.077000",
     "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851200900",
-    "title": "Systems Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a System Engineer, you will apply your expertise to develop and improve systems and tools that enable intelligence operations, upholding rigorous engineering and scientific standards. With opportunities spanning cybersecurity, engineering, computer science, and more, you will utilize your skills to drive innovation and make a meaningful impact in protecting the nation.",
-    "url": "https://www.usajobs.gov/job/851200900",
-    "posted_at": "2025-12-01T09:54:14.870000",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
