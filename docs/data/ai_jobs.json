@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "851942200",
+    "title": "Computer Scientist",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "The incumbent will serve as a principal staff action officer for the technical development of the Information Enterprise Architecture (IEA) structure and integrated strategies that provide the guidance to inform an evolving Target State (capabilities) describing an IEA mapped to the current Visible State, capturing the Information Technology management authoritative sources to enable IT PfM processes (analysis & visualization).",
+    "url": "https://www.usajobs.gov/job/851942200",
+    "posted_at": "2025-12-10T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851930900",
+    "title": "Cloud Architect Specialist",
+    "organization": "Farm Credit Administration",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "Provides senior technical expertise in areas related to the architecture, design, implementation, security, and maintenance of both cloud and on-premise computing platforms. Responsible for developing and executing cloud financial operations. Executes strategies, proposes enhancements, and implements technical solutions to meet Agency business needs while ensuring cloud computing systems and services, including those for artificial intelligence, are optimized, secure, and available.",
+    "url": "https://www.usajobs.gov/job/851930900",
+    "posted_at": "2025-12-10T00:00:00",
+    "salary": "39-40",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851927200",
+    "title": "Cloud Architect Specialist",
+    "organization": "Farm Credit Administration",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "Provides senior technical expertise in areas related to the architecture, design, implementation, security, and maintenance of both cloud and on-premise computing platforms. Responsible for developing and executing cloud financial operations. Executes strategies, proposes enhancements, and implements technical solutions to meet Agency business needs while ensuring cloud computing systems and services, including those for artificial intelligence, are optimized, secure, and available.",
+    "url": "https://www.usajobs.gov/job/851927200",
+    "posted_at": "2025-12-10T00:00:00",
+    "salary": "39-40",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851908500",
+    "title": "Attorney Advisor (Trademark)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This is an entry-level position. This vacancy is developed for licensed applicants seeking an Attorney Advisor position. These positions are located in the Office of the Commissioner for Trademarks, Trademark Examining Groups.",
+    "url": "https://www.usajobs.gov/job/851908500",
+    "posted_at": "2025-12-09T08:47:31.043000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "851869600",
     "title": "Supervisory Financial Management Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -188,6 +244,20 @@
     "url": "https://www.usajobs.gov/job/851184600",
     "posted_at": "2025-12-01T07:04:55.093000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851200900",
+    "title": "Systems Engineer - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a System Engineer, you will apply your expertise to develop and improve systems and tools that enable intelligence operations, upholding rigorous engineering and scientific standards. With opportunities spanning cybersecurity, engineering, computer science, and more, you will utilize your skills to drive innovation and make a meaningful impact in protecting the nation.",
+    "url": "https://www.usajobs.gov/job/851200900",
+    "posted_at": "2025-12-01T00:00:00",
+    "salary": "11-14",
     "grade": null,
     "remote": null
   },
