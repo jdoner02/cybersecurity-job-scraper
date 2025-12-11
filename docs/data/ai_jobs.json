@@ -1,15 +1,15 @@
 [
   {
-    "job_id": "851942200",
-    "title": "Computer Scientist",
-    "organization": "Office of the Secretary of Defense",
+    "job_id": "851927200",
+    "title": "Cloud Architect Specialist",
+    "organization": "Farm Credit Administration",
     "locations": [
-      "Pentagon, Arlington, Virginia"
+      "McLean, Virginia"
     ],
-    "description": "The incumbent will serve as a principal staff action officer for the technical development of the Information Enterprise Architecture (IEA) structure and integrated strategies that provide the guidance to inform an evolving Target State (capabilities) describing an IEA mapped to the current Visible State, capturing the Information Technology management authoritative sources to enable IT PfM processes (analysis & visualization).",
-    "url": "https://www.usajobs.gov/job/851942200",
-    "posted_at": "2025-12-10T00:00:00",
-    "salary": "14-14",
+    "description": "Provides senior technical expertise in areas related to the architecture, design, implementation, security, and maintenance of both cloud and on-premise computing platforms. Responsible for developing and executing cloud financial operations. Executes strategies, proposes enhancements, and implements technical solutions to meet Agency business needs while ensuring cloud computing systems and services, including those for artificial intelligence, are optimized, secure, and available.",
+    "url": "https://www.usajobs.gov/job/851927200",
+    "posted_at": "2025-12-10T13:45:43.490000",
+    "salary": "39-40",
     "grade": null,
     "remote": null
   },
@@ -22,22 +22,22 @@
     ],
     "description": "Provides senior technical expertise in areas related to the architecture, design, implementation, security, and maintenance of both cloud and on-premise computing platforms. Responsible for developing and executing cloud financial operations. Executes strategies, proposes enhancements, and implements technical solutions to meet Agency business needs while ensuring cloud computing systems and services, including those for artificial intelligence, are optimized, secure, and available.",
     "url": "https://www.usajobs.gov/job/851930900",
-    "posted_at": "2025-12-10T00:00:00",
+    "posted_at": "2025-12-10T13:44:09.010000",
     "salary": "39-40",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "851927200",
-    "title": "Cloud Architect Specialist",
-    "organization": "Farm Credit Administration",
+    "job_id": "851942200",
+    "title": "Computer Scientist",
+    "organization": "Office of the Secretary of Defense",
     "locations": [
-      "McLean, Virginia"
+      "Pentagon, Arlington, Virginia"
     ],
-    "description": "Provides senior technical expertise in areas related to the architecture, design, implementation, security, and maintenance of both cloud and on-premise computing platforms. Responsible for developing and executing cloud financial operations. Executes strategies, proposes enhancements, and implements technical solutions to meet Agency business needs while ensuring cloud computing systems and services, including those for artificial intelligence, are optimized, secure, and available.",
-    "url": "https://www.usajobs.gov/job/851927200",
+    "description": "The incumbent will serve as a principal staff action officer for the technical development of the Information Enterprise Architecture (IEA) structure and integrated strategies that provide the guidance to inform an evolving Target State (capabilities) describing an IEA mapped to the current Visible State, capturing the Information Technology management authoritative sources to enable IT PfM processes (analysis & visualization).",
+    "url": "https://www.usajobs.gov/job/851942200",
     "posted_at": "2025-12-10T00:00:00",
-    "salary": "39-40",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -262,39 +262,6 @@
     "remote": null
   },
   {
-    "job_id": "850945300",
-    "title": "SUPERVISORY CONTRACT SPECIALIST",
-    "organization": "U.S. Army Corps of Engineers",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "About the Position: This position is located with the U.S. Army Research and Development Center (ERDC), Contracting Office. Preferred duty location at one of the following: Vicksburg, MS; Champaign, IL; Alexandria, VA; or Hanover, NH or location negotiable after selection and official duty station will be established in an approved U.S. Army Corps of Engineers office duty location.",
-    "url": "https://www.usajobs.gov/job/850945300",
-    "posted_at": "2025-11-26T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "850423000",
     "title": "MEDICAL ADMINISTRATIVE OFFICER",
     "organization": "Air National Guard Units",
@@ -318,20 +285,6 @@
     "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
     "url": "https://www.usajobs.gov/job/850195200",
     "posted_at": "2025-11-17T08:20:52.483000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "849713100",
-    "title": "SCIENTIST",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/849713100",
-    "posted_at": "2025-11-10T00:00:00",
     "salary": "4-4",
     "grade": null,
     "remote": null

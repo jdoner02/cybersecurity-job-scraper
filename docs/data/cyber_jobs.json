@@ -1,5 +1,89 @@
 [
   {
+    "job_id": "852121300",
+    "title": "Information Technology Cybersecurity Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Elberton, Georgia"
+    ],
+    "description": "As an Information Technology Cybersecurity Specialist, you will serve as a technical expert supporting Southeastern Power Administration (SEPA). ***This is NOT a remote position. You will have to physically report to the office in Elberton, GA.***",
+    "url": "https://www.usajobs.gov/job/852121300",
+    "posted_at": "2025-12-11T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852110800",
+    "title": "ADMINISTRATIVE PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Keesler AFB, Mississippi"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the group commander or senior air reserve technician (ART) for administrative support programs.",
+    "url": "https://www.usajobs.gov/job/852110800",
+    "posted_at": "2025-12-11T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852105200",
+    "title": "Information Technology Specialist (Applications Software)",
+    "organization": "Federal Law Enforcement Training Centers",
+    "locations": [
+      "Glynco, Georgia"
+    ],
+    "description": "\"The Federal Law Enforcement Training Centers (FLETC), through strategic partnerships, prepares the federal law enforcement community to safeguard America's people, property, and institutions.\" We are a unique inter-agency organization preparing the next generation of law enforcement officers to meet our Nation's most pressing security challenges.\" Click here to learn more. An incentive may be authorized.",
+    "url": "https://www.usajobs.gov/job/852105200",
+    "posted_at": "2025-12-11T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852061700",
+    "title": "IT CYBERSECURITY SPECIALIST (PROJMGT/CUSTSPT)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA DKADAP-IT314. .",
+    "url": "https://www.usajobs.gov/job/852061700",
+    "posted_at": "2025-12-11T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852109900",
+    "title": "Biomedical Equipment Support Specialist (Info Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Lexington, Kentucky"
+    ],
+    "description": "The Biomedical Equipment Support Specialist (BESS) (Information Systems) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of networks, networked medical equipment and associated systems.",
+    "url": "https://www.usajobs.gov/job/852109900",
+    "posted_at": "2025-12-10T14:34:27.720000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852082000",
+    "title": "Information System Security Manager (ISSM)",
+    "organization": "U.S. Marine Corps",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
+    "url": "https://www.usajobs.gov/job/852082000",
+    "posted_at": "2025-12-10T12:30:59.257000",
+    "salary": "04-04",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852010200",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
     "organization": "Pacific Air Forces",
@@ -40,29 +124,6 @@
     "url": "https://www.usajobs.gov/job/851775600",
     "posted_at": "2025-12-10T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851981700",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Montgomery, Alabama",
-      "Denver, Colorado",
-      "Fort Meade, Maryland",
-      "Columbus, Ohio",
-      "Tinker AFB, Oklahoma",
-      "Chambersburg, Pennsylvania",
-      "Mechanicsburg, Pennsylvania",
-      "San Antonio, Texas",
-      "Hill AFB, Utah",
-      "Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA HC/Implementation LOB.",
-    "url": "https://www.usajobs.gov/job/851981700",
-    "posted_at": "2025-12-09T14:44:08.010000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -109,16 +170,25 @@
     "remote": null
   },
   {
-    "job_id": "851903800",
-    "title": "System Vulnerability Analyst - Entry to Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
+    "job_id": "851981700",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
     "locations": [
-      "Fort Meade, Maryland"
+      "Montgomery, Alabama",
+      "Denver, Colorado",
+      "Fort Meade, Maryland",
+      "Columbus, Ohio",
+      "Tinker AFB, Oklahoma",
+      "Chambersburg, Pennsylvania",
+      "Mechanicsburg, Pennsylvania",
+      "San Antonio, Texas",
+      "Hill AFB, Utah",
+      "Arlington, Virginia"
     ],
-    "description": "System Vulnerability Analysts (Network Cyber Mitigations Engineers) analyze vulnerabilities and develop mitigations to strengthen defenses. They produce formal and informal reports, briefings, and guidance to defend against attacks against network infrastructure devices or systems. NSA analysts' competencies run the gamut of data transport possibilities.",
-    "url": "https://www.usajobs.gov/job/851903800",
-    "posted_at": "2025-12-09T08:20:27.073000",
-    "salary": "7-12",
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA Special Services Line of Business (SPECLOB).",
+    "url": "https://www.usajobs.gov/job/851981700",
+    "posted_at": "2025-12-09T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -133,20 +203,6 @@
     "url": "https://www.usajobs.gov/job/851875700",
     "posted_at": "2025-12-09T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851860000",
-    "title": "ADMINISTRATIVE PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Keesler AFB, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the group commander or senior air reserve technician (ART) for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/851860000",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -398,34 +454,6 @@
     "remote": null
   },
   {
-    "job_id": "851514800",
-    "title": "IT SPECIALIST (INFOSEC/SYSADMIN)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the Air Mobility Command (AMC) JWICS network Information System Security Officer (ISSO), provide management and oversight for the AMC JWICS cybersecurity program, with responsibility for security planning, coordination, testing, modifying, upgrading, operation, troubleshooting, & maintenance of network and server hardware and software systems.",
-    "url": "https://www.usajobs.gov/job/851514800",
-    "posted_at": "2025-12-04T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851465500",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/SYSADMIN)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the Air Mobility Command (AMC) Intelligence, Surveillance and Reconnaissance (ISR) Chief Information Security Officer (CISO).",
-    "url": "https://www.usajobs.gov/job/851465500",
-    "posted_at": "2025-12-04T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851444300",
     "title": "IT CYBERSECURITY SPECIALIST (DATAMGT/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -539,20 +567,6 @@
     "url": "https://www.usajobs.gov/job/851378700",
     "posted_at": "2025-12-03T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851244000",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC/PROJMGR)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA - IO/Chief Information Officer.",
-    "url": "https://www.usajobs.gov/job/851244000",
-    "posted_at": "2025-12-03T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -674,20 +688,6 @@
     "url": "https://www.usajobs.gov/job/851004400",
     "posted_at": "2025-11-26T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850750000",
-    "title": "Interdisciplinary",
-    "organization": "U.S. Army Corps of Engineers",
-    "locations": [
-      "Redstone Arsenal, Alabama"
-    ],
-    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for certain personnel of DoD to recruit and appoint qualified candidates to positions in the competitive service. About the Position: This is an interdisciplinary engineer position. Supervisory Architect GS-0808 Supervisory Civil Engineer GS-0810 Supervisory Mechanical Engineer GS-0830 Supervisory Electrical Engineer GS-0850 Supervisory Industrial Engineer GS-0896 Supervisory Landscape Architecture GS-0807",
-    "url": "https://www.usajobs.gov/job/850750000",
-    "posted_at": "2025-11-24T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
