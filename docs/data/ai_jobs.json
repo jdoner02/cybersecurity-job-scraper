@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "852351500",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Detroit, Michigan"
+    ],
+    "description": "The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. The Program Analyst (Health Informatics) located at the John D. Dingell VA Medical Center in Detroit, MI, The primary purpose of the position is to improve the quality, efficiency and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VA.",
+    "url": "https://www.usajobs.gov/job/852351500",
+    "posted_at": "2025-12-12T13:39:46.837000",
+    "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852341300",
+    "title": "Electrical Engineer",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is for a GS-0850-14, Electrical Engineer located in the Department of Homeland Security, U.S. Coast Guard, USCG MARINE SAFETY CENTER in WASHINGTON, District of Columbia.",
+    "url": "https://www.usajobs.gov/job/852341300",
+    "posted_at": "2025-12-12T12:48:57.777000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852341900",
+    "title": "Electrical Engineer",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is for a GS - 0850 - 14, Electrical Engineer located in the Department of Homeland Security, U.S. Coast Guard, USCG MARINE SAFETY CENTER in WASHINGTON, District of Columbia.",
+    "url": "https://www.usajobs.gov/job/852341900",
+    "posted_at": "2025-12-12T12:47:48.767000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852312000",
+    "title": "Cybersecurity Testing and Evaluation Specialist - Entry to Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Cybersecurity Testing Specialist, you will apply your cybersecurity expertise to perform formal assessments mimicking real-world attacks to identify methods for circumventing security features of applications, systems, and networks. This fact-based testing, leveraging cutting-edge methodologies, will give you the unique opportunity to identify flaws and vulnerabilities in system design and influence remediations.",
+    "url": "https://www.usajobs.gov/job/852312000",
+    "posted_at": "2025-12-12T10:26:32.637000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852153700",
     "title": "Budget Analyst",
     "organization": "Department of Energy - Agency Wide",
@@ -10,6 +66,34 @@
     "url": "https://www.usajobs.gov/job/852153700",
     "posted_at": "2025-12-11T07:49:03.377000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852261000",
+    "title": "Security Assistant",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Asheville, North Carolina"
+    ],
+    "description": "This position is located at the Charles George VA Medical Center - Western North Carolina Health Care System within Police Services. The primary purpose of the position is to monitor physical security equipment and systems.",
+    "url": "https://www.usajobs.gov/job/852261000",
+    "posted_at": "2025-12-11T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852226300",
+    "title": "Police Officer",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Asheville, North Carolina"
+    ],
+    "description": "This position will serve as a Police Officer at the Charles George VA Medical Center in Asheville, North Carolina. The Police Officer will perform a full range of police duties by following and executing rules, regulations, or procedures covering law and rules enforcement, physical and personal security operations, patrol duties, control desk duty, coordination with local courts, and/or crime prevention activities for the local jurisdiction",
+    "url": "https://www.usajobs.gov/job/852226300",
+    "posted_at": "2025-12-11T00:00:00",
+    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -177,20 +261,6 @@
     "remote": null
   },
   {
-    "job_id": "851684500",
-    "title": "DATA SCIENTIST",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Air and Marine Operations, Washington, D.C.",
-    "url": "https://www.usajobs.gov/job/851684500",
-    "posted_at": "2025-12-08T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851528400",
     "title": "IT Specialist (AI)",
     "organization": "National Institute of Standards and Technology",
@@ -258,20 +328,6 @@
     "url": "https://www.usajobs.gov/job/851184600",
     "posted_at": "2025-12-01T07:04:55.093000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851200900",
-    "title": "Systems Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a System Engineer, you will apply your expertise to develop and improve systems and tools that enable intelligence operations, upholding rigorous engineering and scientific standards. With opportunities spanning cybersecurity, engineering, computer science, and more, you will utilize your skills to drive innovation and make a meaningful impact in protecting the nation.",
-    "url": "https://www.usajobs.gov/job/851200900",
-    "posted_at": "2025-12-01T00:00:00",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
