@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "852281800",
+    "title": "Program Analyst (Artificial Intelligence)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Stuttgart, Germany"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Advancing Federal Government Use of Artificial Intelligence (AI) to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Serve as the Data and Artificial Intelligence (AI) Governance and Compliance Manager responsible for implementing the programs, initiatives, and measures that achieve enterprise-level strategic goals and objectives.",
+    "url": "https://www.usajobs.gov/job/852281800",
+    "posted_at": "2025-12-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852281700",
+    "title": "Program Analyst (Artificial Intelligence)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Stuttgart, Germany"
+    ],
+    "description": "About the Position: Serve as the Data and Artificial Intelligence (AI) Governance and Compliance Manager in the Headquarters, United States European Command, Office of the Chief of Staff, Data and AI Office (HQ USEUCOM, ODCS, DAO), responsible for implementing the programs, initiatives, and measures that achieve the Department of Defense (DoD), Joint Staff (JS), and USEUCOM enterprise-level strategic goals and objectives.",
+    "url": "https://www.usajobs.gov/job/852281700",
+    "posted_at": "2025-12-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852351500",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -38,20 +66,6 @@
     "url": "https://www.usajobs.gov/job/852341900",
     "posted_at": "2025-12-12T12:47:48.767000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852312000",
-    "title": "Cybersecurity Testing and Evaluation Specialist - Entry to Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Cybersecurity Testing Specialist, you will apply your cybersecurity expertise to perform formal assessments mimicking real-world attacks to identify methods for circumventing security features of applications, systems, and networks. This fact-based testing, leveraging cutting-edge methodologies, will give you the unique opportunity to identify flaws and vulnerabilities in system design and influence remediations.",
-    "url": "https://www.usajobs.gov/job/852312000",
-    "posted_at": "2025-12-12T10:26:32.637000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
@@ -300,20 +314,6 @@
     "url": "https://www.usajobs.gov/job/851215400",
     "posted_at": "2025-12-02T07:26:49.077000",
     "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851191600",
-    "title": "Chief Information Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "All applicants will be assessed for executive competency against the five mandatory Executive Core Qualifications (ECQs). If your two-page resume does not reflect demonstrated evidence of the ECQs and PTQs, you will not receive further consideration for the position. Applicants are strongly encouraged to review current information regarding ECQ. For more information regarding the SES and ECQs, please visit the Executive Core Qualifications page.",
-    "url": "https://www.usajobs.gov/job/851191600",
-    "posted_at": "2025-12-01T08:50:29.947000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
