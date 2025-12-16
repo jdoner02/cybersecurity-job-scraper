@@ -1,5 +1,98 @@
 [
   {
+    "job_id": "852486600",
+    "title": "Program Officer (Chief of Protective Services)",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Houston, Texas"
+    ],
+    "description": "As the Chief of Protective Services (CPS), you will be responsible for providing supervision, direction and oversight of the administration, planning, design, organization, services, operation, review, and analysis of security and law enforcement, and emergency management.",
+    "url": "https://www.usajobs.gov/job/852486600",
+    "posted_at": "2025-12-16T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852477400",
+    "title": "Security Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "You will serve as a Special Security Officer (SSO), the principal authority for the management and oversight of the agency's Sensitive Compartmented Information (SCI) security program. You will ensure the protection of national security information through the development, implementation, and enforcement of security policies and procedures in compliance with Intelligence Community and federal directives.",
+    "url": "https://www.usajobs.gov/job/852477400",
+    "posted_at": "2025-12-16T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852472300",
+    "title": "Data Scientist",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Washington, District of Columbia",
+      "Indianapolis, Indiana",
+      "Minneapolis, Minnesota"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, People Analytics Division, in the following locations: Indianapolis, IN Minneapolis, MN Washington, D.C. Salary: Salary listed reflects the rest of U.S. scale and, if applicable, will be adjusted to meet the locality pay or cost of living expenses of the duty location upon selection.",
+    "url": "https://www.usajobs.gov/job/852472300",
+    "posted_at": "2025-12-16T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852446200",
+    "title": "IT Specialist (Artificial Intelligence)",
+    "organization": "Treasury, Departmental Offices",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is with Departmental Offices. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
+    "url": "https://www.usajobs.gov/job/852446200",
+    "posted_at": "2025-12-15T11:43:18.960000",
+    "salary": "12-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852409200",
+    "title": "Assistant Commissioner, Office of Assisted Acquisition Services",
+    "organization": "Federal Acquisition Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The General Services Administration is actively seeking top-tier talent for our Senior Executive Service (SES) positions from within GSA, across the Federal government, and from the private sector. We have streamlined our recruitment process which will require you to submit an online resume (not-to-exceed 2 pages) to apply for this position.",
+    "url": "https://www.usajobs.gov/job/852409200",
+    "posted_at": "2025-12-15T08:18:57.153000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852281800",
     "title": "Program Analyst (Artificial Intelligence)",
     "organization": "Joint Activities",
@@ -70,20 +163,6 @@
     "remote": null
   },
   {
-    "job_id": "852153700",
-    "title": "Budget Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Germantown, Maryland"
-    ],
-    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy, Office of Resource Management. As a Budget Analyst, you will provide expertise in any aspect of DOE's budget process and analyze a variety of highly complex DOE budgetary operations and functions in the assigned organization or program areas including budget policy development and maintenance, budget process planning and development.",
-    "url": "https://www.usajobs.gov/job/852153700",
-    "posted_at": "2025-12-11T07:49:03.377000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852261000",
     "title": "Security Assistant",
     "organization": "Veterans Health Administration",
@@ -140,20 +219,6 @@
     "remote": null
   },
   {
-    "job_id": "851942200",
-    "title": "Computer Scientist",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "The incumbent will serve as a principal staff action officer for the technical development of the Information Enterprise Architecture (IEA) structure and integrated strategies that provide the guidance to inform an evolving Target State (capabilities) describing an IEA mapped to the current Visible State, capturing the Information Technology management authoritative sources to enable IT PfM processes (analysis & visualization).",
-    "url": "https://www.usajobs.gov/job/851942200",
-    "posted_at": "2025-12-10T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851908500",
     "title": "Attorney Advisor (Trademark)",
     "organization": "Patent and Trademark Office",
@@ -168,36 +233,6 @@
     "remote": null
   },
   {
-    "job_id": "851869600",
-    "title": "Supervisory Financial Management Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Albany, Oregon",
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the Office of Fossil Energy and Carbon Management - National Energy Technology Laboratory, Department of Energy. As a Supervisory Financial Management Specialist, you will be responsible for ensuring the financial integrity of the Laboratory's financial management and control processes.",
-    "url": "https://www.usajobs.gov/job/851869600",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851827100",
-    "title": "Bayou Choctaw Site Engineer",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Baton Rouge, Louisiana"
-    ],
-    "description": "This position is part of the Office of the Project Manager, Strategic Petroleum Reserve, Department of Energy. As a Bayou Choctaw Site Engineer, you will provide professional engineering expertise and support to DOE programs, projects or initiatives whose mission or responsibilities include designing, evaluating, developing, testing, modifying, installing, inspecting, and/or maintaining products and systems.",
-    "url": "https://www.usajobs.gov/job/851827100",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851813100",
     "title": "SUPV IT SPECIALIST (DATAMGT/PLCYPLN)",
     "organization": "Defense Information Systems Agency",
@@ -208,22 +243,6 @@
     "url": "https://www.usajobs.gov/job/851813100",
     "posted_at": "2025-12-09T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851759700",
-    "title": "Executive Assistant",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Albany, Oregon",
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the Office of Fossil Energy and Carbon Management - National Energy Technology Laboratory, Department of Energy. As a Executive Assistant, you will provide advice and recommendations to the Laboratory Operations Center (LOC) on all matters relative to the coordination, integration, and synchronization of staff actions, events, and activities personally affecting and involving the LOC.",
-    "url": "https://www.usajobs.gov/job/851759700",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -314,20 +333,6 @@
     "url": "https://www.usajobs.gov/job/851215400",
     "posted_at": "2025-12-02T07:26:49.077000",
     "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851184600",
-    "title": "SUPV INTERDISCIPLINARY (DATA)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA JOINT FORCE HEADQUARTERS.",
-    "url": "https://www.usajobs.gov/job/851184600",
-    "posted_at": "2025-12-01T07:04:55.093000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
