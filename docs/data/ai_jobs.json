@@ -1,5 +1,48 @@
 [
   {
+    "job_id": "852643100",
+    "title": "Chief Engineer, Exploration Ground Systems",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "The Chief Engineer (CE) for Exploration Ground Systems (EGS) Program provides engineering expertise, Engineering Technical Authority (ETA), and technical advice to Agency management regarding launch systems development and launch vehicle/spacecraft processing for Artemis launch systems and spacecraft, including Space Launch System (SLS), Orion, and launch systems/infrastructure unique to other Government users and commercial launch providers as they pertain to the exploration grounds systems.",
+    "url": "https://www.usajobs.gov/job/852643100",
+    "posted_at": "2025-12-17T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852489000",
+    "title": "Intelligence Research Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Redstone Arsenal, Alabama"
+    ],
+    "description": "You will serve as a Cyber Counterintelligence Special Agent/Analyst assigned to NASA's Counterintelligence & Counterterrorism (CI/CT) Division. You will identify, analyze, and disrupt foreign intelligence threats targeting network infrastructure, programs, systems, personnel, and operations. You will also provide Cyber CI support to research and technology at NASA, provide CI education and awareness, and conduct CI inquiries and investigations with U.S. Government agency partners.",
+    "url": "https://www.usajobs.gov/job/852489000",
+    "posted_at": "2025-12-17T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852572200",
+    "title": "STUDENT TRAINEE (COMPUTER SCIENCE)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio"
+    ],
+    "description": "This position is part of DFAS's Pathways Program, for current students/individuals accepted for enrollment in a qualifying educational program in an accredited institution, full or half-time basis. This is a PAID summer internship, running May - August. Applicants who indicate they meet the minimum qualifications will receive an email from assessments@USAHire.opm.gov to complete online assessments. Check your \"Spam\"/\"Junk\" folders. See below for more information!",
+    "url": "https://www.usajobs.gov/job/852572200",
+    "posted_at": "2025-12-16T12:03:16.313000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852486600",
     "title": "Program Officer (Chief of Protective Services)",
     "organization": "National Aeronautics and Space Administration - Agency Wide",
@@ -10,8 +53,22 @@
     ],
     "description": "As the Chief of Protective Services (CPS), you will be responsible for providing supervision, direction and oversight of the administration, planning, design, organization, services, operation, review, and analysis of security and law enforcement, and emergency management.",
     "url": "https://www.usajobs.gov/job/852486600",
-    "posted_at": "2025-12-16T00:00:00",
+    "posted_at": "2025-12-16T09:08:43.967000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852526900",
+    "title": "Law Clerk",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This is an entry-level position located in the Office of the Commissioner for Trademarks, Trademark Examining Groups. This vacancy is developed for applicants seeking an Attorney Advisor position who: currently have a Juris Doctor (JD) , and either have plans to sit for the bar or are awaiting results from the bar.",
+    "url": "https://www.usajobs.gov/job/852526900",
+    "posted_at": "2025-12-16T08:29:21.190000",
+    "salary": "9-9",
     "grade": null,
     "remote": null
   },
