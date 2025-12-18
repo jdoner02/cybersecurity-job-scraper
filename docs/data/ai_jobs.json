@@ -1,5 +1,57 @@
 [
   {
+    "job_id": "852700000",
+    "title": "Supervisory Criminal Investigator",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Supervisory Criminal Investigator, you will be planning, supervising, and leading all assigned programs, systems, and work processes to perform critical mission and support activities required of the group which ensure the timely delivery and support in criminal investigations and executive protection functions within the Office of Executive Protection.",
+    "url": "https://www.usajobs.gov/job/852700000",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852622000",
+    "title": "Supervisory Intelligence Operations Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "You will serve as a Deputy Director, Counterintelligence and Counterterrorism Division. You will supervise Special Agents serving at field offices, provide advice and assistance on operational and other matters, engage in National-level liaison with other counterintelligence and counterterrorism entities, ensure the Division policy document and operating instructions are up to date and accurate, and provide counterintelligence services to HQ NASA personnel.",
+    "url": "https://www.usajobs.gov/job/852622000",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852686500",
+    "title": "Chief Information Officer",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Chief Information Officer (CIO) is the principal advisor to NASA leadership and other senior officials on matters pertaining to NASA IT strategy and investments, cybersecurity, records management, data management, artificial intelligence (AI), privacy, and information technology systems, services, and management. Has oversight of more than $2 billion dollars in IT spending with direction and oversight of a blended workforce of over 1,500 civil servants and support service contractors.",
+    "url": "https://www.usajobs.gov/job/852686500",
+    "posted_at": "2025-12-17T11:11:59.267000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852643100",
     "title": "Chief Engineer, Exploration Ground Systems",
     "organization": "John F. Kennedy Space Center",
@@ -366,20 +418,6 @@
     "remote": null
   },
   {
-    "job_id": "851485800",
-    "title": "MEDICAL ADMINISTRATIVE OFFICER",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Fort Wayne, Indiana"
-    ],
-    "description": "THIS IS AN INDIANA NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION This position is part of the IN 122nd Fighter Wing, Indiana National Guard under Position Description Number D1718000. If you would like the complete list of duties, please contact the POC of this announcement.",
-    "url": "https://www.usajobs.gov/job/851485800",
-    "posted_at": "2025-12-03T13:55:02.620000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851215400",
     "title": "2026 Junior Fellows Program (Remote Internship)",
     "organization": "Library of Congress",
@@ -404,20 +442,6 @@
     "url": "https://www.usajobs.gov/job/850423000",
     "posted_at": "2025-11-19T08:29:33.607000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850195200",
-    "title": "COMPUTER SCIENTIST",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/850195200",
-    "posted_at": "2025-11-17T08:20:52.483000",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   }
