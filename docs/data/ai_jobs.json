@@ -1,5 +1,120 @@
 [
   {
+    "job_id": "852833800",
+    "title": "Security Specialist",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "As a Physical Security Specialist, you will be responsible for the policy, procedures, and daily operations of the badging office at Marshall Space Flight Center and Michoud Assembly Facility and will oversee contractor operations for the Center's protective services contract. You will work with a team of highly-skilled Physical Security Specialists and will interact daily with external partners and agencies.",
+    "url": "https://www.usajobs.gov/job/852833800",
+    "posted_at": "2025-12-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852813600",
+    "title": "IT Program Manager",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland",
+      "Albany, Oregon",
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Hydrocarbon and Geothermal Energy Office (HGEO) - National Energy Technology Laboratory (NETL), Department of Energy. As an IT Program Manager, you will serve as the Information Technology Director and principal advisor to NETL's Director on the application of information technology (IT) to support and improve NETL's business processes.",
+    "url": "https://www.usajobs.gov/job/852813600",
+    "posted_at": "2025-12-19T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852785200",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as an experienced, Senior-skill-level defensive cyberspace operations technical expert and Cyberspace Protection Team (CPT) Mission Element crew member supporting tasked Service, Combatant Command and National Agency partners.",
+    "url": "https://www.usajobs.gov/job/852785200",
+    "posted_at": "2025-12-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852880900",
+    "title": "GENERAL ENGINEER - Direct Hire Authority",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Eglin AFB, Florida"
+    ],
+    "description": "Veteran's preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to perform as the Senior Test Engineer within the Advanced Capabilities Flight of the 40th Flight Test Squadron.",
+    "url": "https://www.usajobs.gov/job/852880900",
+    "posted_at": "2025-12-18T17:03:29.837000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852877000",
+    "title": "Chief Data Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
+    "url": "https://www.usajobs.gov/job/852877000",
+    "posted_at": "2025-12-18T16:36:53.020000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852876800",
+    "title": "Chief Data Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
+    "url": "https://www.usajobs.gov/job/852876800",
+    "posted_at": "2025-12-18T16:36:22.660000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852864700",
+    "title": "SUPERVISORY GENERAL ENGINEER/DATA SCIENTIST/OPS RESEARCH ANALYST- DIRECT HIRE AUTHORITY",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Eglin AFB, Florida"
+    ],
+    "description": "Veteran's preference does not apply to DHA recruitment Click on \"Learn more about this agency\" button below for more information. In this position, you will supervise the Advanced Capabilities Flight at the 40th Flight Test Squadron.",
+    "url": "https://www.usajobs.gov/job/852864700",
+    "posted_at": "2025-12-18T15:25:12.387000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852794900",
+    "title": "Deputy Site Office Manager",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Berkeley, California"
+    ],
+    "description": "This position is part of the Office of Science - Berkeley Site Office, Department of Energy. As a Deputy Site Office Manager, you will be responsible for managing the Management and Operating contracts for the Lawrence Berkeley National Laboratory.",
+    "url": "https://www.usajobs.gov/job/852794900",
+    "posted_at": "2025-12-18T10:17:28.747000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852700000",
     "title": "Supervisory Criminal Investigator",
     "organization": "Department of Energy - Agency Wide",
@@ -334,7 +449,7 @@
     "locations": [
       "Alexandria, Virginia"
     ],
-    "description": "This is an entry-level position. This vacancy is developed for licensed applicants seeking an Attorney Advisor position. These positions are located in the Office of the Commissioner for Trademarks, Trademark Examining Groups.",
+    "description": "This is an entry-level position. This vacancy is developed for licensed applicants seeking an Attorney Advisor position. These positions are located in the Office of the Commissioner for Trademarks, Trademark Examining Groups. The closing date of this announcement has been extended to Tuesday, December 30 2025.",
     "url": "https://www.usajobs.gov/job/851908500",
     "posted_at": "2025-12-09T00:00:00",
     "salary": "11-11",
@@ -352,20 +467,6 @@
     "url": "https://www.usajobs.gov/job/851813100",
     "posted_at": "2025-12-09T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851426900",
-    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
-    "organization": "Department of Defense Education Activity",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas, Quantico, Virginia. Description of the Working Environment: Work is performed in an office setting.",
-    "url": "https://www.usajobs.gov/job/851426900",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "10-10",
     "grade": null,
     "remote": null
   },
