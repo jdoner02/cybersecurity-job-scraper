@@ -1,15 +1,53 @@
 [
   {
-    "job_id": "852833800",
-    "title": "Security Specialist",
-    "organization": "George C. Marshall Space Flight Center",
+    "job_id": "852983500",
+    "title": "IT Specialist (APPSW/DATAMGT)",
+    "organization": "Veterans Affairs, Inspector General",
     "locations": [
-      "Huntsville, Alabama"
+      "Phoenix, Arizona",
+      "San Diego, California",
+      "Aurora, Colorado",
+      "Washington, District of Columbia",
+      "Baltimore, Maryland",
+      "Kansas City, Missouri",
+      "Trenton, New Jersey",
+      "Portland, Oregon",
+      "Dallas, Texas",
+      "Seattle, Washington",
+      "Spokane, Washington"
     ],
-    "description": "As a Physical Security Specialist, you will be responsible for the policy, procedures, and daily operations of the badging office at Marshall Space Flight Center and Michoud Assembly Facility and will oversee contractor operations for the Center's protective services contract. You will work with a team of highly-skilled Physical Security Specialists and will interact daily with external partners and agencies.",
-    "url": "https://www.usajobs.gov/job/852833800",
-    "posted_at": "2025-12-19T00:00:00",
-    "salary": "13-13",
+    "description": "OIG is organized into seven operational units: the Immediate Office of the Inspector General, Office of the Counselor, Office of Audits and Evaluations, Office of Healthcare Inspections, Office of Investigations, Office of Management and Administration, and Office of Special Reviews. In addition to the Washington, DC, headquarters, OIG has offices located in more than 60 locations throughout the country.",
+    "url": "https://www.usajobs.gov/job/852983500",
+    "posted_at": "2025-12-19T15:36:43.540000",
+    "salary": "12-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852955600",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
+    "organization": "Defense Commissary Agency",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
+    "url": "https://www.usajobs.gov/job/852955600",
+    "posted_at": "2025-12-19T13:05:28.423000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852955300",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
+    "organization": "Defense Commissary Agency",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
+    "url": "https://www.usajobs.gov/job/852955300",
+    "posted_at": "2025-12-19T13:04:47.150000",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -25,8 +63,22 @@
     ],
     "description": "This position is part of the Hydrocarbon and Geothermal Energy Office (HGEO) - National Energy Technology Laboratory (NETL), Department of Energy. As an IT Program Manager, you will serve as the Information Technology Director and principal advisor to NETL's Director on the application of information technology (IT) to support and improve NETL's business processes.",
     "url": "https://www.usajobs.gov/job/852813600",
-    "posted_at": "2025-12-19T00:00:00",
+    "posted_at": "2025-12-19T07:54:54.720000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852833800",
+    "title": "Security Specialist",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "As a Physical Security Specialist, you will be responsible for the policy, procedures, and daily operations of the badging office at Marshall Space Flight Center and Michoud Assembly Facility and will oversee contractor operations for the Center's protective services contract. You will work with a team of highly-skilled Physical Security Specialists and will interact daily with external partners and agencies.",
+    "url": "https://www.usajobs.gov/job/852833800",
+    "posted_at": "2025-12-19T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -111,6 +163,30 @@
     "url": "https://www.usajobs.gov/job/852794900",
     "posted_at": "2025-12-18T10:17:28.747000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852983600",
+    "title": "IT Specialist (APPSW/DATAMGT)",
+    "organization": "Veterans Affairs, Inspector General",
+    "locations": [
+      "Phoenix, Arizona",
+      "San Diego, California",
+      "Aurora, Colorado",
+      "Washington, District of Columbia",
+      "Baltimore, Maryland",
+      "Kansas City, Missouri",
+      "Trenton, New Jersey",
+      "Portland, Oregon",
+      "Dallas, Texas",
+      "Seattle, Washington",
+      "Spokane, Washington"
+    ],
+    "description": "OIG is organized into seven operational units: the Immediate Office of the Inspector General, Office of the Counselor, Office of Audits and Evaluations, Office of Healthcare Inspections, Office of Investigations, and Office of Management and Administration. In addition to the Washington, DC, headquarters, OIG has offices located in more than 60 locations throughout the country.",
+    "url": "https://www.usajobs.gov/job/852983600",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "12-14",
     "grade": null,
     "remote": null
   },
@@ -270,39 +346,6 @@
     "remote": null
   },
   {
-    "job_id": "852446200",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is with Departmental Offices. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
-    "url": "https://www.usajobs.gov/job/852446200",
-    "posted_at": "2025-12-15T11:43:18.960000",
-    "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852409200",
     "title": "Assistant Commissioner, Office of Assisted Acquisition Services",
     "organization": "Federal Acquisition Service",
@@ -313,48 +356,6 @@
     "url": "https://www.usajobs.gov/job/852409200",
     "posted_at": "2025-12-15T08:18:57.153000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852281800",
-    "title": "Program Analyst (Artificial Intelligence)",
-    "organization": "Joint Activities",
-    "locations": [
-      "Stuttgart, Germany"
-    ],
-    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Advancing Federal Government Use of Artificial Intelligence (AI) to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Serve as the Data and Artificial Intelligence (AI) Governance and Compliance Manager responsible for implementing the programs, initiatives, and measures that achieve enterprise-level strategic goals and objectives.",
-    "url": "https://www.usajobs.gov/job/852281800",
-    "posted_at": "2025-12-15T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852281700",
-    "title": "Program Analyst (Artificial Intelligence)",
-    "organization": "Joint Activities",
-    "locations": [
-      "Stuttgart, Germany"
-    ],
-    "description": "About the Position: Serve as the Data and Artificial Intelligence (AI) Governance and Compliance Manager in the Headquarters, United States European Command, Office of the Chief of Staff, Data and AI Office (HQ USEUCOM, ODCS, DAO), responsible for implementing the programs, initiatives, and measures that achieve the Department of Defense (DoD), Joint Staff (JS), and USEUCOM enterprise-level strategic goals and objectives.",
-    "url": "https://www.usajobs.gov/job/852281700",
-    "posted_at": "2025-12-15T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852351500",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Detroit, Michigan"
-    ],
-    "description": "The 2-page Resume requirement does not apply to this occupational series. For more information, refer to Required Documents below. The Program Analyst (Health Informatics) located at the John D. Dingell VA Medical Center in Detroit, MI, The primary purpose of the position is to improve the quality, efficiency and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VA.",
-    "url": "https://www.usajobs.gov/job/852351500",
-    "posted_at": "2025-12-12T13:39:46.837000",
-    "salary": "5-12",
     "grade": null,
     "remote": null
   },
@@ -529,20 +530,6 @@
     "url": "https://www.usajobs.gov/job/851215400",
     "posted_at": "2025-12-02T07:26:49.077000",
     "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850423000",
-    "title": "MEDICAL ADMINISTRATIVE OFFICER",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Terre Haute, Indiana"
-    ],
-    "description": "THIS IS AN INDIANA NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION This position is part of the IN 181st Intelligence Wing, Indiana National Guard under Position Description Number D1718000. If you would like the complete list of duties, please contact the POC of this announcement.",
-    "url": "https://www.usajobs.gov/job/850423000",
-    "posted_at": "2025-11-19T08:29:33.607000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   }
