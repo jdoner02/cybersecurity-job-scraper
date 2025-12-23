@@ -111,34 +111,6 @@
     "remote": null
   },
   {
-    "job_id": "852877000",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852877000",
-    "posted_at": "2025-12-18T16:36:53.020000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852876800",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852876800",
-    "posted_at": "2025-12-18T16:36:22.660000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852864700",
     "title": "SUPERVISORY GENERAL ENGINEER/DATA SCIENTIST/OPS RESEARCH ANALYST- DIRECT HIRE AUTHORITY",
     "organization": "Air Force Materiel Command",
@@ -149,20 +121,6 @@
     "url": "https://www.usajobs.gov/job/852864700",
     "posted_at": "2025-12-18T15:25:12.387000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852794900",
-    "title": "Deputy Site Office Manager",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Berkeley, California"
-    ],
-    "description": "This position is part of the Office of Science - Berkeley Site Office, Department of Energy. As a Deputy Site Office Manager, you will be responsible for managing the Management and Operating contracts for the Lawrence Berkeley National Laboratory.",
-    "url": "https://www.usajobs.gov/job/852794900",
-    "posted_at": "2025-12-18T10:17:28.747000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -191,16 +149,30 @@
     "remote": null
   },
   {
-    "job_id": "852700000",
-    "title": "Supervisory Criminal Investigator",
-    "organization": "Department of Energy - Agency Wide",
+    "job_id": "852877000",
+    "title": "Chief Data Officer",
+    "organization": "Patent and Trademark Office",
     "locations": [
-      "Washington, District of Columbia"
+      "Alexandria, Virginia"
     ],
-    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Supervisory Criminal Investigator, you will be planning, supervising, and leading all assigned programs, systems, and work processes to perform critical mission and support activities required of the group which ensure the timely delivery and support in criminal investigations and executive protection functions within the Office of Executive Protection.",
-    "url": "https://www.usajobs.gov/job/852700000",
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
+    "url": "https://www.usajobs.gov/job/852877000",
     "posted_at": "2025-12-18T00:00:00",
-    "salary": "14-14",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852876800",
+    "title": "Chief Data Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
+    "url": "https://www.usajobs.gov/job/852876800",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -286,22 +258,6 @@
     "remote": null
   },
   {
-    "job_id": "852486600",
-    "title": "Program Officer (Chief of Protective Services)",
-    "organization": "National Aeronautics and Space Administration - Agency Wide",
-    "locations": [
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Houston, Texas"
-    ],
-    "description": "As the Chief of Protective Services (CPS), you will be responsible for providing supervision, direction and oversight of the administration, planning, design, organization, services, operation, review, and analysis of security and law enforcement, and emergency management.",
-    "url": "https://www.usajobs.gov/job/852486600",
-    "posted_at": "2025-12-16T09:08:43.967000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852526900",
     "title": "Law Clerk",
     "organization": "Patent and Trademark Office",
@@ -316,36 +272,6 @@
     "remote": null
   },
   {
-    "job_id": "852477400",
-    "title": "Security Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "You will serve as a Special Security Officer (SSO), the principal authority for the management and oversight of the agency's Sensitive Compartmented Information (SCI) security program. You will ensure the protection of national security information through the development, implementation, and enforcement of security policies and procedures in compliance with Intelligence Community and federal directives.",
-    "url": "https://www.usajobs.gov/job/852477400",
-    "posted_at": "2025-12-16T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852472300",
-    "title": "Data Scientist",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Washington, District of Columbia",
-      "Indianapolis, Indiana",
-      "Minneapolis, Minnesota"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, People Analytics Division, in the following locations: Indianapolis, IN Minneapolis, MN Washington, D.C. Salary: Salary listed reflects the rest of U.S. scale and, if applicable, will be adjusted to meet the locality pay or cost of living expenses of the duty location upon selection.",
-    "url": "https://www.usajobs.gov/job/852472300",
-    "posted_at": "2025-12-16T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852409200",
     "title": "Assistant Commissioner, Office of Assisted Acquisition Services",
     "organization": "Federal Acquisition Service",
@@ -356,34 +282,6 @@
     "url": "https://www.usajobs.gov/job/852409200",
     "posted_at": "2025-12-15T08:18:57.153000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852341300",
-    "title": "Electrical Engineer",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is for a GS-0850-14, Electrical Engineer located in the Department of Homeland Security, U.S. Coast Guard, USCG MARINE SAFETY CENTER in WASHINGTON, District of Columbia.",
-    "url": "https://www.usajobs.gov/job/852341300",
-    "posted_at": "2025-12-12T12:48:57.777000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852341900",
-    "title": "Electrical Engineer",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is for a GS - 0850 - 14, Electrical Engineer located in the Department of Homeland Security, U.S. Coast Guard, USCG MARINE SAFETY CENTER in WASHINGTON, District of Columbia.",
-    "url": "https://www.usajobs.gov/job/852341900",
-    "posted_at": "2025-12-12T12:47:48.767000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -454,20 +352,6 @@
     "url": "https://www.usajobs.gov/job/851908500",
     "posted_at": "2025-12-09T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851813100",
-    "title": "SUPV IT SPECIALIST (DATAMGT/PLCYPLN)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA - JOINT FORCES HEADQUARTERS - DODIN.",
-    "url": "https://www.usajobs.gov/job/851813100",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
