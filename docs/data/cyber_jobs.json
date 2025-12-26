@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "853186500",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Patrick AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to provide professional & technical expertise in performance of work requiring knowledge & application of information technology enterprise data storage systems encompassing cybersecurity analysis, the design & implementation of enterprise & mission data storage system architecture, & operation of systems. **Salary ranges include local market supplements**",
+    "url": "https://www.usajobs.gov/job/853186500",
+    "posted_at": "2025-12-26T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853138100",
     "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Threat Reduction Agency",
@@ -235,20 +249,6 @@
     "url": "https://www.usajobs.gov/job/853020600",
     "posted_at": "2025-12-22T09:48:55.963000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853147200",
-    "title": "IT SPECIALIST (INFOSEC) (STEM)",
-    "organization": "Defense Intelligence Agency",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "We are committed to: Teamwork: Partnering at all levels and across organizational boundaries for mission accomplishment. Integrity: Adherence to the highest legal and ethical principles in our responsibilities. Excellence: Unrivaled defense intelligence expertise. Service: Putting the welfare of the Nation and commitment to our mission before oneself.",
-    "url": "https://www.usajobs.gov/job/853147200",
-    "posted_at": "2025-12-22T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -609,34 +609,6 @@
     ],
     "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
     "url": "https://www.usajobs.gov/job/852877000",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852877000",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852877000",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852876800",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852876800",
     "posted_at": "2025-12-18T00:00:00",
     "salary": "00-00",
     "grade": null,
@@ -1276,6 +1248,21 @@
     "remote": null
   },
   {
+    "job_id": "852148600",
+    "title": "Attorney",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland",
+      "McLean, Virginia"
+    ],
+    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
+    "url": "https://www.usajobs.gov/job/852148600",
+    "posted_at": "2025-12-11T06:37:26.777000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852105200",
     "title": "Information Technology Specialist (Applications Software)",
     "organization": "Federal Law Enforcement Training Centers",
@@ -1356,20 +1343,6 @@
     "url": "https://www.usajobs.gov/job/851879100",
     "posted_at": "2025-12-09T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851728900",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Hot Springs, South Dakota"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
-    "url": "https://www.usajobs.gov/job/851728900",
-    "posted_at": "2025-12-05T00:00:00",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -1480,6 +1453,43 @@
     ],
     "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
     "url": "https://www.usajobs.gov/job/850867300",
+    "posted_at": "2025-12-01T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850867300",
+    "title": "Summer 2026 SEC Scholars Business Program- HQ (Volunteer)",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
+    "url": "https://www.usajobs.gov/job/850867300",
+    "posted_at": "2025-12-01T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850867100",
+    "title": "Summer 2026 SEC Scholars Business Program- RO (Volunteer)",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas"
+    ],
+    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
+    "url": "https://www.usajobs.gov/job/850867100",
     "posted_at": "2025-12-01T00:00:00",
     "salary": "00-00",
     "grade": null,
