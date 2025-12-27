@@ -70,6 +70,34 @@
     "remote": null
   },
   {
+    "job_id": "853081600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
+    "url": "https://www.usajobs.gov/job/853081600",
+    "posted_at": "2025-12-23T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853058300",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Force Global Strike Command",
+    "locations": [
+      "Barksdale AFB, Louisiana"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/853058300",
+    "posted_at": "2025-12-23T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853058300",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Force Global Strike Command",
@@ -249,6 +277,20 @@
     "url": "https://www.usajobs.gov/job/853020600",
     "posted_at": "2025-12-22T09:48:55.963000",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853147200",
+    "title": "IT SPECIALIST (INFOSEC) (STEM)",
+    "organization": "Defense Intelligence Agency",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "We are committed to: Teamwork: Partnering at all levels and across organizational boundaries for mission accomplishment. Integrity: Adherence to the highest legal and ethical principles in our responsibilities. Excellence: Unrivaled defense intelligence expertise. Service: Putting the welfare of the Nation and commitment to our mission before oneself.",
+    "url": "https://www.usajobs.gov/job/853147200",
+    "posted_at": "2025-12-22T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -458,20 +500,6 @@
     "remote": null
   },
   {
-    "job_id": "852812000",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Suffolk, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA JSP/JPH3.",
-    "url": "https://www.usajobs.gov/job/852812000",
-    "posted_at": "2025-12-19T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852801600",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "Naval Air Systems Command",
@@ -497,20 +525,6 @@
     "url": "https://www.usajobs.gov/job/852797700",
     "posted_at": "2025-12-19T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852795700",
-    "title": "IT SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Hill AFB, Utah"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as a IT SPECIALIST (NETWORK/INFOSEC), NH-2210-3, is responsible for planning, analysis, acquisition, design, development, implementation, quality assurance, configuration, installation, integrations, maintenance testing, operational integrity, and/or management of networked systems used for the transmission of information.",
-    "url": "https://www.usajobs.gov/job/852795700",
-    "posted_at": "2025-12-19T00:00:00",
-    "salary": "3-3",
     "grade": null,
     "remote": null
   },
@@ -609,6 +623,34 @@
     ],
     "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
     "url": "https://www.usajobs.gov/job/852877000",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852877000",
+    "title": "Chief Data Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
+    "url": "https://www.usajobs.gov/job/852877000",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852876800",
+    "title": "Chief Data Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
+    "url": "https://www.usajobs.gov/job/852876800",
     "posted_at": "2025-12-18T00:00:00",
     "salary": "00-00",
     "grade": null,
@@ -820,21 +862,6 @@
     "remote": null
   },
   {
-    "job_id": "852449100",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA Global Field Command, Operations Division (DG3).",
-    "url": "https://www.usajobs.gov/job/852449100",
-    "posted_at": "2025-12-16T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852211800",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (ENTERPRISE ARCHITECT)",
     "organization": "United States Fleet Forces Command",
@@ -913,6 +940,34 @@
     ],
     "description": "NOTE: THE 2-PAGE RESUME REQUIREMENT DOES NOT APPLY TO THIS OCCUPATIONAL SERIES. FOR MORE INFORMATION, REFER TO REQUIRED DOCUMENTS BELOW Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at VA Puget Sound Health Care System. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices, patient care equipment and clinical systems.",
     "url": "https://www.usajobs.gov/job/852436800",
+    "posted_at": "2025-12-15T00:00:00",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852436800",
+    "title": "Biomedical Equipment Support Specialist (Patient Care)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "description": "NOTE: THE 2-PAGE RESUME REQUIREMENT DOES NOT APPLY TO THIS OCCUPATIONAL SERIES. FOR MORE INFORMATION, REFER TO REQUIRED DOCUMENTS BELOW Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at VA Puget Sound Health Care System. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices, patient care equipment and clinical systems.",
+    "url": "https://www.usajobs.gov/job/852436800",
+    "posted_at": "2025-12-15T00:00:00",
+    "salary": "5-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852435900",
+    "title": "Biomedical Equipment Support Specialist (Patient Care)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "description": "NOTE: THE 2-PAGE RESUME REQUIREMENT DOES NOT APPLY TO THIS OCCUPATIONAL SERIES. FOR MORE INFORMATION, REFER TO REQUIRED DOCUMENTS BELOW Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at VA Puget Sound Health Care System. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices, patient care equipment and clinical systems.",
+    "url": "https://www.usajobs.gov/job/852435900",
     "posted_at": "2025-12-15T00:00:00",
     "salary": "5-11",
     "grade": null,
@@ -1086,21 +1141,6 @@
     "remote": null
   },
   {
-    "job_id": "852363800",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852363800",
-    "posted_at": "2025-12-12T14:42:19.343000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852302300",
     "title": "SENIOR OFFICER-DEPUTY DIRECTOR FOR OPERATIONS",
     "organization": "Securities and Exchange Commission",
@@ -1187,22 +1227,6 @@
     "remote": null
   },
   {
-    "job_id": "852152600",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/852152600",
-    "posted_at": "2025-12-12T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852149200",
     "title": "Attorney",
     "organization": "Office of the Director of National Intelligence",
@@ -1213,36 +1237,6 @@
     "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
     "url": "https://www.usajobs.gov/job/852149200",
     "posted_at": "2025-12-11T06:44:59.947000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852149200",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852149200",
-    "posted_at": "2025-12-11T06:44:59.947000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852148600",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852148600",
-    "posted_at": "2025-12-11T06:37:26.777000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -1361,16 +1355,16 @@
     "remote": null
   },
   {
-    "job_id": "851344800",
-    "title": "ITSPEC (NETWORK) - TITLE 32",
-    "organization": "Air National Guard Units",
+    "job_id": "851728900",
+    "title": "Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
     "locations": [
-      "Brunswick, Georgia"
+      "Hot Springs, South Dakota"
     ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This position is for an IT Specialist (Network Services), Position Description Number D1822000 located in the 224th JCSS at Brunswick, GA. This is a full-time, Temporary Indefinite, dual status position not to exceed 4 years which requires Georgia Air National Guard Membership. Area of Consideration: Open to current members of the Air National Guard, Air Force Reserve or Air Force Active Duty.",
-    "url": "https://www.usajobs.gov/job/851344800",
+    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
+    "url": "https://www.usajobs.gov/job/851728900",
     "posted_at": "2025-12-05T00:00:00",
-    "salary": "11-11",
+    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -1398,6 +1392,34 @@
     "description": "Come join the U.S. Postal Service! Conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
     "url": "https://www.usajobs.gov/job/851543300",
     "posted_at": "2025-12-04T07:14:33.590000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851543300",
+    "title": "Forensic Computer Analyst",
+    "organization": "U.S. Postal Service",
+    "locations": [
+      "Richmond, California"
+    ],
+    "description": "Come join the U.S. Postal Service! Conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
+    "url": "https://www.usajobs.gov/job/851543300",
+    "posted_at": "2025-12-04T07:14:33.590000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "851498100",
+    "title": "Forensic Computer Analyst",
+    "organization": "U.S. Postal Service",
+    "locations": [
+      "Seattle, Washington"
+    ],
+    "description": "Come join the U.S. Postal Service! Conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
+    "url": "https://www.usajobs.gov/job/851498100",
+    "posted_at": "2025-12-03T14:51:19.833000",
     "salary": "2-2",
     "grade": null,
     "remote": null
@@ -1453,43 +1475,6 @@
     ],
     "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
     "url": "https://www.usajobs.gov/job/850867300",
-    "posted_at": "2025-12-01T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850867300",
-    "title": "Summer 2026 SEC Scholars Business Program- HQ (Volunteer)",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
-    "url": "https://www.usajobs.gov/job/850867300",
-    "posted_at": "2025-12-01T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "850867100",
-    "title": "Summer 2026 SEC Scholars Business Program- RO (Volunteer)",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas"
-    ],
-    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
-    "url": "https://www.usajobs.gov/job/850867100",
     "posted_at": "2025-12-01T00:00:00",
     "salary": "00-00",
     "grade": null,
