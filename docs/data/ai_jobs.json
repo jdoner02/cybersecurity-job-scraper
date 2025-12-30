@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "853049600",
+    "title": "Lead Data Scientist (Joint Cyber Readiness)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at Fort Meade, MD.",
+    "url": "https://www.usajobs.gov/job/853049600",
+    "posted_at": "2025-12-30T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853288500",
+    "title": "Software Engineer - Entry to Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252381",
+    "url": "https://www.usajobs.gov/job/853288500",
+    "posted_at": "2025-12-29T17:48:09.927000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853219000",
+    "title": "INTERDISCIPLINARY General Engineer/Physical Scientist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Manufacturing and Energy Management Supply Chain, Department of Energy. As a INTERDISCIPLINARY General Engineer/Physical Scientist, you will provide broad expertise on critical minerals and materials supply chains including commercial processes such as extraction, processing, and manufacturing.",
+    "url": "https://www.usajobs.gov/job/853219000",
+    "posted_at": "2025-12-29T08:31:56.717000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853151700",
     "title": "Senior Technical Leader, Senior Vehicle Operations Manager",
     "organization": "John F. Kennedy Space Center",
@@ -56,23 +98,6 @@
     "remote": null
   },
   {
-    "job_id": "852813600",
-    "title": "IT Program Manager",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Germantown, Maryland",
-      "Albany, Oregon",
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the Hydrocarbon and Geothermal Energy Office (HGEO) - National Energy Technology Laboratory (NETL), Department of Energy. As an IT Program Manager, you will serve as the Information Technology Director and principal advisor to NETL's Director on the application of information technology (IT) to support and improve NETL's business processes.",
-    "url": "https://www.usajobs.gov/job/852813600",
-    "posted_at": "2025-12-19T07:54:54.720000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852833800",
     "title": "Security Specialist",
     "organization": "George C. Marshall Space Flight Center",
@@ -81,20 +106,6 @@
     ],
     "description": "As a Physical Security Specialist, you will be responsible for the policy, procedures, and daily operations of the badging office at Marshall Space Flight Center and Michoud Assembly Facility and will oversee contractor operations for the Center's protective services contract. You will work with a team of highly-skilled Physical Security Specialists and will interact daily with external partners and agencies.",
     "url": "https://www.usajobs.gov/job/852833800",
-    "posted_at": "2025-12-19T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852785200",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Lackland AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as an experienced, Senior-skill-level defensive cyberspace operations technical expert and Cyberspace Protection Team (CPT) Mission Element crew member supporting tasked Service, Combatant Command and National Agency partners.",
-    "url": "https://www.usajobs.gov/job/852785200",
     "posted_at": "2025-12-19T00:00:00",
     "salary": "13-13",
     "grade": null,
@@ -214,76 +225,6 @@
     "remote": null
   },
   {
-    "job_id": "852409200",
-    "title": "Assistant Commissioner, Office of Assisted Acquisition Services",
-    "organization": "Federal Acquisition Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The General Services Administration is actively seeking top-tier talent for our Senior Executive Service (SES) positions from within GSA, across the Federal government, and from the private sector. We have streamlined our recruitment process which will require you to submit an online resume (not-to-exceed 2 pages) to apply for this position.",
-    "url": "https://www.usajobs.gov/job/852409200",
-    "posted_at": "2025-12-15T08:18:57.153000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852261000",
-    "title": "Security Assistant",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Asheville, North Carolina"
-    ],
-    "description": "This position is located at the Charles George VA Medical Center - Western North Carolina Health Care System within Police Services. The primary purpose of the position is to monitor physical security equipment and systems.",
-    "url": "https://www.usajobs.gov/job/852261000",
-    "posted_at": "2025-12-11T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852226300",
-    "title": "Police Officer",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Asheville, North Carolina"
-    ],
-    "description": "This position will serve as a Police Officer at the Charles George VA Medical Center in Asheville, North Carolina. The Police Officer will perform a full range of police duties by following and executing rules, regulations, or procedures covering law and rules enforcement, physical and personal security operations, patrol duties, control desk duty, coordination with local courts, and/or crime prevention activities for the local jurisdiction",
-    "url": "https://www.usajobs.gov/job/852226300",
-    "posted_at": "2025-12-11T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851927200",
-    "title": "Cloud Architect Specialist",
-    "organization": "Farm Credit Administration",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "Provides senior technical expertise in areas related to the architecture, design, implementation, security, and maintenance of both cloud and on-premise computing platforms. Responsible for developing and executing cloud financial operations. Executes strategies, proposes enhancements, and implements technical solutions to meet Agency business needs while ensuring cloud computing systems and services, including those for artificial intelligence, are optimized, secure, and available.",
-    "url": "https://www.usajobs.gov/job/851927200",
-    "posted_at": "2025-12-10T13:45:43.490000",
-    "salary": "39-40",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851930900",
-    "title": "Cloud Architect Specialist",
-    "organization": "Farm Credit Administration",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "Provides senior technical expertise in areas related to the architecture, design, implementation, security, and maintenance of both cloud and on-premise computing platforms. Responsible for developing and executing cloud financial operations. Executes strategies, proposes enhancements, and implements technical solutions to meet Agency business needs while ensuring cloud computing systems and services, including those for artificial intelligence, are optimized, secure, and available.",
-    "url": "https://www.usajobs.gov/job/851930900",
-    "posted_at": "2025-12-10T13:44:09.010000",
-    "salary": "39-40",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851908500",
     "title": "Attorney Advisor (Trademark)",
     "organization": "Patent and Trademark Office",
@@ -327,21 +268,6 @@
     "url": "https://www.usajobs.gov/job/851777200",
     "posted_at": "2025-12-08T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851528400",
-    "title": "IT Specialist (AI)",
-    "organization": "National Institute of Standards and Technology",
-    "locations": [
-      "San Francisco, California",
-      "Washington, District of Columbia"
-    ],
-    "description": "NIST works with industry and science to advance innovation and improve quality of life. We're looking for an IT Specialist (AI) to join our team! CAISI seeks a candidate to develop scientific methods and tools to rigorously evaluate AI systems in real-world settings. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
-    "url": "https://www.usajobs.gov/job/851528400",
-    "posted_at": "2025-12-04T12:28:09.763000",
-    "salary": "4-5",
     "grade": null,
     "remote": null
   },
