@@ -1,5 +1,77 @@
 [
   {
+    "job_id": "853350700",
+    "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
+    "url": "https://www.usajobs.gov/job/853350700",
+    "posted_at": "2025-12-30T13:31:34.707000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853260700",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the Global Field Command, RN411 at Scott AFB, IL.",
+    "url": "https://www.usajobs.gov/job/853260700",
+    "posted_at": "2025-12-30T09:40:07.673000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853293700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Scott AFB, Illinois",
+      "Columbus, Ohio",
+      "Hill AFB, Utah"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA OC/DISA GLOBAL Field Command, Operations Division (DG3).",
+    "url": "https://www.usajobs.gov/job/853293700",
+    "posted_at": "2025-12-30T07:37:20.440000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853292100",
+    "title": "Supervisory Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Beckley, West Virginia"
+    ],
+    "description": "Serves as a supervisory Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at the VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS utilizes supervisory and personnel management authorities and responsibilities.",
+    "url": "https://www.usajobs.gov/job/853292100",
+    "posted_at": "2025-12-30T06:53:53.440000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853292000",
+    "title": "Supervisory Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Beckley, West Virginia"
+    ],
+    "description": "Serves as a supervisory Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at the VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS utilizes supervisory and personnel management authorities and responsibilities.",
+    "url": "https://www.usajobs.gov/job/853292000",
+    "posted_at": "2025-12-30T06:52:49.633000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853283800",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Mobility Command",
@@ -42,34 +114,6 @@
     "remote": null
   },
   {
-    "job_id": "853260700",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the Global Field Command, RN411 at Scott AFB, IL.",
-    "url": "https://www.usajobs.gov/job/853260700",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853245600",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Keesler AFB, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program, and others.",
-    "url": "https://www.usajobs.gov/job/853245600",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853245600",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -108,20 +152,6 @@
     "url": "https://www.usajobs.gov/job/853243900",
     "posted_at": "2025-12-30T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853243300",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Mobility Command",
-    "locations": [
-      "McChord AFB, Washington"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
-    "url": "https://www.usajobs.gov/job/853243300",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -259,6 +289,27 @@
     "remote": null
   },
   {
+    "job_id": "853261100",
+    "title": "IT Specialist (APPSW)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $88,621 - $115,213 Columbus, OH: $92,475 - $120,222 Dayton, OH: $91,922- $119,504 Fort Belvoir, VA: $101,401- $131,826 New Cumberland, PA: $101,401- $131,826 Ogden, UT: $88,621 - $115,213 Philadelphia, PA: $97,653- $126,955 Richmond, VA: $92,573- $120,350",
+    "url": "https://www.usajobs.gov/job/853261100",
+    "posted_at": "2025-12-29T13:55:53.067000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853260100",
     "title": "IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
     "organization": "U.S. Coast Guard",
@@ -268,20 +319,6 @@
     "description": "This vacancy is for a GS-2210-12, IT Cybersecurity Specialist (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, in Kearneysville, West Virginia.",
     "url": "https://www.usajobs.gov/job/853260100",
     "posted_at": "2025-12-29T13:48:40.433000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853240400",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA OC/DISA GLOBAL - INFRASTRUCTURE & SVCS DIV (ORG RN432)",
-    "url": "https://www.usajobs.gov/job/853240400",
-    "posted_at": "2025-12-29T11:37:42.023000",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -315,16 +352,16 @@
     "remote": null
   },
   {
-    "job_id": "853226000",
+    "job_id": "853240400",
     "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
+    "organization": "Defense Information Systems Agency",
     "locations": [
-      "Bratenahl, Ohio"
+      "Hill AFB, Utah"
     ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/853226000",
-    "posted_at": "2025-12-29T09:49:27.383000",
-    "salary": "13-13",
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA OC/DISA GLOBAL - INFRASTRUCTURE & SVCS DIV (ORG RN432)",
+    "url": "https://www.usajobs.gov/job/853240400",
+    "posted_at": "2025-12-29T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -498,20 +535,6 @@
     "remote": null
   },
   {
-    "job_id": "853047700",
-    "title": "IT SPECIALIST (ENTARCH)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Goodfellow AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the IT Systems Specialist responsible for planning, designing, and overseeing IT systems to align with the unique business requirements of customer organizations, encompassing system engineering, acquisitions oversight, risk management, and customer engagement.",
-    "url": "https://www.usajobs.gov/job/853047700",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853041200",
     "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -537,34 +560,6 @@
     "url": "https://www.usajobs.gov/job/853040700",
     "posted_at": "2025-12-23T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852858300",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "San Diego, California"
-    ],
-    "description": "You will serve as a IT SPECIALIST (INFOSEC) in the INFORMATION SYSTEMS MANAGEMENT/CYBERSECURITY DEPARTMENT of NAVCOMTELSTA SAN DIEGO. This position is a DoD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 U.S.C. 1599f.",
-    "url": "https://www.usajobs.gov/job/852858300",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852848100",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "U.S. Air Forces, Europe",
-    "locations": [
-      "Ramstein, Germany"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve in an advisory role to the USAFE-AFAFRICA/A6, Director of Communications on all matters relating to MAJCOM level Information Technology (IT) Cybersecurity policy and vulnerability management compliance.",
-    "url": "https://www.usajobs.gov/job/852848100",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -709,20 +704,6 @@
     "remote": null
   },
   {
-    "job_id": "853106600",
-    "title": "Assistant Inspector General for Information Technology Division (Chief Information Officer)",
-    "organization": "Office of the Inspector General",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Assistant Inspector General (AIG) for Information Technology Division (ITD) position is located in the Department of Justice (DOJ) Office of the Inspector General (OIG). The AIG ITD serves as the Chief Information Officer (CIO), reports to the Deputy Inspector General (DIG), and manages the day-to-day operations of the ITD. Efforts support the OIG workforce, and the OIG's programs and operations designed to promote economy, efficiency, and effectiveness and prevent fraud, waste, and abuse.",
-    "url": "https://www.usajobs.gov/job/853106600",
-    "posted_at": "2025-12-22T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852989100",
     "title": "Information Technology Specialist (APPSW)",
     "organization": "U.S. Coast Guard",
@@ -779,20 +760,6 @@
     "remote": null
   },
   {
-    "job_id": "852822500",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Mobility Command",
-    "locations": [
-      "Travis AFB, California"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and more.",
-    "url": "https://www.usajobs.gov/job/852822500",
-    "posted_at": "2025-12-19T11:24:29.673000",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852839400",
     "title": "INTELLIGENCE SPECIALIST - ALTERNATE HIRING AUTHORITY",
     "organization": "Air Force Materiel Command",
@@ -810,19 +777,17 @@
     "remote": null
   },
   {
-    "job_id": "852839400",
-    "title": "INTELLIGENCE SPECIALIST - ALTERNATE HIRING AUTHORITY",
-    "organization": "Air Force Materiel Command",
+    "job_id": "852801600",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Air Systems Command",
     "locations": [
-      "Robins AFB, Georgia",
-      "Wright-Patterson AFB, Ohio",
-      "Tinker AFB, Oklahoma",
-      "Hill AFB, Utah"
+      "China Lake, California",
+      "Point Mugu, California"
     ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position, INTELLIGENCE SPECIALIST, GG-0132-13 is to provide cyber intelligence support to software development programs across acquisition and sustainment life cycles.",
-    "url": "https://www.usajobs.gov/job/852839400",
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/852801600",
     "posted_at": "2025-12-19T00:00:00",
-    "salary": "13-13",
+    "salary": "3-5",
     "grade": null,
     "remote": null
   },
@@ -971,20 +936,6 @@
     "remote": null
   },
   {
-    "job_id": "852686500",
-    "title": "Chief Information Officer",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Chief Information Officer (CIO) is the principal advisor to NASA leadership and other senior officials on matters pertaining to NASA IT strategy and investments, cybersecurity, records management, data management, artificial intelligence (AI), privacy, and information technology systems, services, and management. Has oversight of more than $2 billion dollars in IT spending with direction and oversight of a blended workforce of over 1,500 civil servants and support service contractors.",
-    "url": "https://www.usajobs.gov/job/852686500",
-    "posted_at": "2025-12-17T11:11:59.267000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852648100",
     "title": "IT SPECIALIST (SYSADMIN)",
     "organization": "Naval Air Systems Command",
@@ -996,6 +947,20 @@
     "url": "https://www.usajobs.gov/job/852648100",
     "posted_at": "2025-12-17T07:10:17.637000",
     "salary": "3-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852606600",
+    "title": "IT SPECIALIST (INFOSEC/NETWORK)",
+    "organization": "Air Force District of Washington",
+    "locations": [
+      "Andrews AFB, Maryland"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. To serve as the Mystic Star Information Systems Security Manager and the 89th Communications Squadron Director of Cyberspace Operations Training.",
+    "url": "https://www.usajobs.gov/job/852606600",
+    "posted_at": "2025-12-17T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1054,20 +1019,6 @@
     "url": "https://www.usajobs.gov/job/852523000",
     "posted_at": "2025-12-16T07:55:18.540000",
     "salary": "25-28",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852211800",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (ENTERPRISE ARCHITECT)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Kunia, Hawaii"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer. ***Final salary is subject to change pending final pay approval.***",
-    "url": "https://www.usajobs.gov/job/852211800",
-    "posted_at": "2025-12-16T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1192,22 +1143,6 @@
     "remote": null
   },
   {
-    "job_id": "852206300",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment. This position is located in: IT, ENTERPRISE SERVICES, DISA LIAISON OFFICE, ZTAH",
-    "url": "https://www.usajobs.gov/job/852206300",
-    "posted_at": "2025-12-15T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852365900",
     "title": "Attorney",
     "organization": "Office of the Director of National Intelligence",
@@ -1218,6 +1153,21 @@
     "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
     "url": "https://www.usajobs.gov/job/852365900",
     "posted_at": "2025-12-12T14:43:20.070000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852363800",
+    "title": "Attorney",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland",
+      "McLean, Virginia"
+    ],
+    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
+    "url": "https://www.usajobs.gov/job/852363800",
+    "posted_at": "2025-12-12T14:42:19.343000",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -1252,6 +1202,20 @@
     "remote": null
   },
   {
+    "job_id": "852300000",
+    "title": "Courtroom Technology Specialist",
+    "organization": "U.S. Courts",
+    "locations": [
+      "Atlanta, Georgia"
+    ],
+    "description": "The United States District Court clerk's office, Atlanta Division, has an opening for a courtroom technology specialist to support and lead the design, implementation, and maintenance of courtroom audio-visual (AV) and IT technologies to ensure reliable, secure, and modern operations. This role requires a blend of strategic vision, technical expertise, and leadership to manage complex projects and ensure smooth, secure, and high-performing technology services in courtroom settings.",
+    "url": "https://www.usajobs.gov/job/852300000",
+    "posted_at": "2025-12-12T09:28:52.217000",
+    "salary": "27-27",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852149200",
     "title": "Attorney",
     "organization": "Office of the Director of National Intelligence",
@@ -1262,6 +1226,36 @@
     "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
     "url": "https://www.usajobs.gov/job/852149200",
     "posted_at": "2025-12-11T06:44:59.947000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852149200",
+    "title": "Attorney",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland",
+      "McLean, Virginia"
+    ],
+    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
+    "url": "https://www.usajobs.gov/job/852149200",
+    "posted_at": "2025-12-11T06:44:59.947000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852148600",
+    "title": "Attorney",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland",
+      "McLean, Virginia"
+    ],
+    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
+    "url": "https://www.usajobs.gov/job/852148600",
+    "posted_at": "2025-12-11T06:37:26.777000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -1408,16 +1402,16 @@
     "remote": null
   },
   {
-    "job_id": "851431000",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (NETWORK)",
-    "organization": "Bureau of Naval Personnel",
+    "job_id": "850867300",
+    "title": "Summer 2026 SEC Scholars Business Program- HQ (Volunteer)",
+    "organization": "Securities and Exchange Commission",
     "locations": [
-      "Annapolis, Maryland"
+      "Washington, District of Columbia"
     ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/851431000",
-    "posted_at": "2025-12-03T10:08:09.087000",
-    "salary": "11-12",
+    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
+    "url": "https://www.usajobs.gov/job/850867300",
+    "posted_at": "2025-12-01T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1430,6 +1424,29 @@
     ],
     "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
     "url": "https://www.usajobs.gov/job/850867300",
+    "posted_at": "2025-12-01T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "850867100",
+    "title": "Summer 2026 SEC Scholars Business Program- RO (Volunteer)",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas"
+    ],
+    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Summer 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
+    "url": "https://www.usajobs.gov/job/850867100",
     "posted_at": "2025-12-01T00:00:00",
     "salary": "00-00",
     "grade": null,
