@@ -1,5 +1,21 @@
 [
   {
+    "job_id": "853399000",
+    "title": "Health Physicist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia",
+      "Germantown, Maryland",
+      "Albuquerque, New Mexico"
+    ],
+    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy. As a Health Physicist, you will conduct investigations of possible violations of the Department's nuclear safety regulations, review of all aspects of the radiation protection program for the organization's missions and tasks, and lead teams of DOE and contractor technical experts in the conduct of, investigations, inspections, reviews, and associated technical analyses.",
+    "url": "https://www.usajobs.gov/job/853399000",
+    "posted_at": "2025-12-31T08:56:20.230000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853049600",
     "title": "Lead Data Scientist (Joint Cyber Readiness)",
     "organization": "Joint Activities",
@@ -24,20 +40,6 @@
     "url": "https://www.usajobs.gov/job/853288500",
     "posted_at": "2025-12-29T17:48:09.927000",
     "salary": "7-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853219000",
-    "title": "INTERDISCIPLINARY General Engineer/Physical Scientist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Manufacturing and Energy Management Supply Chain, Department of Energy. As a INTERDISCIPLINARY General Engineer/Physical Scientist, you will provide broad expertise on critical minerals and materials supply chains including commercial processes such as extraction, processing, and manufacturing.",
-    "url": "https://www.usajobs.gov/job/853219000",
-    "posted_at": "2025-12-29T08:31:56.717000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -163,20 +165,6 @@
     "description": "The Chief Information Officer (CIO) is the principal advisor to NASA leadership and other senior officials on matters pertaining to NASA IT strategy and investments, cybersecurity, records management, data management, artificial intelligence (AI), privacy, and information technology systems, services, and management. Has oversight of more than $2 billion dollars in IT spending with direction and oversight of a blended workforce of over 1,500 civil servants and support service contractors.",
     "url": "https://www.usajobs.gov/job/852686500",
     "posted_at": "2025-12-17T11:11:59.267000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852643100",
-    "title": "Chief Engineer, Exploration Ground Systems",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "The Chief Engineer (CE) for Exploration Ground Systems (EGS) Program provides engineering expertise, Engineering Technical Authority (ETA), and technical advice to Agency management regarding launch systems development and launch vehicle/spacecraft processing for Artemis launch systems and spacecraft, including Space Launch System (SLS), Orion, and launch systems/infrastructure unique to other Government users and commercial launch providers as they pertain to the exploration grounds systems.",
-    "url": "https://www.usajobs.gov/job/852643100",
-    "posted_at": "2025-12-17T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
