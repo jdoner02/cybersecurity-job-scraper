@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "853348100",
+    "title": "Information Technology Specialist (Security) (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "Serves as a Cybersecurity Watch Officer using data collected from a variety of cyber defense tools to analyze events that occur within their environments for the purposes of leading the mitigation of threats.",
+    "url": "https://www.usajobs.gov/job/853348100",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852701700",
+    "title": "Intelligence Operations Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Greenbelt, Maryland"
+    ],
+    "description": "You will serve as a Counterintelligence Special Agent in NASA's Defensive Counterintelligence Program, assigned to the Counterintelligence (CI)/Counterterrorism (CT) Office at Goddard Space Flight Center. You will be responsible for providing CI support to research and technology at NASA, providing CI education and awareness to NASA personnel, and conducting CI inquiries and investigations with U.S. Government agency partners.",
+    "url": "https://www.usajobs.gov/job/852701700",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852701600",
+    "title": "Intelligence Operations Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "You will serve as a Counterintelligence Special Agent in NASA's Defensive Counterintelligence Program, assigned to the Counterintelligence (CI)/Counterterrorism (CT) Office at Kennedy Space Center. You will be responsible for providing CI support to research and technology at NASA, providing CI education and awareness to NASA personnel, and conducting CI inquiries and investigations with U.S. Government agency partners.",
+    "url": "https://www.usajobs.gov/job/852701600",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853399000",
     "title": "Health Physicist",
     "organization": "Department of Energy - Agency Wide",
@@ -26,20 +68,6 @@
     "url": "https://www.usajobs.gov/job/853049600",
     "posted_at": "2025-12-30T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853288500",
-    "title": "Software Engineer - Entry to Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252381",
-    "url": "https://www.usajobs.gov/job/853288500",
-    "posted_at": "2025-12-29T17:48:09.927000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
@@ -214,20 +242,6 @@
     "url": "https://www.usajobs.gov/job/851777200",
     "posted_at": "2025-12-08T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851215400",
-    "title": "2026 Junior Fellows Program (Remote Internship)",
-    "organization": "Library of Congress",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "The Library of Congress Junior Fellows Program (JFP) is a paid, 10-week annual summer internship program that enables undergraduate, graduate students, and recent graduates to gain career experience by working with analog and digital collections and supporting the services of the world's largest library.",
-    "url": "https://www.usajobs.gov/job/851215400",
-    "posted_at": "2025-12-02T07:26:49.077000",
-    "salary": "03-03",
     "grade": null,
     "remote": null
   }

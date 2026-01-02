@@ -1,5 +1,75 @@
 [
   {
+    "job_id": "853440500",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Norfolk, Virginia"
+    ],
+    "description": "You will serve as an INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) in the COMMUNICATIONS and INFORMATION SYSTEMS DIVISION, C5I OPERATIONS BR of DIR, MARITIME OPERATIONS CTR, USFFC.",
+    "url": "https://www.usajobs.gov/job/853440500",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853367900",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Headquarters, Air Force Reserve Command",
+    "locations": [
+      "Eglin AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/853367900",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853367900",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Headquarters, Air Force Reserve Command",
+    "locations": [
+      "Eglin AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/853367900",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853365300",
+    "title": "Cyber Partner Integration Planner",
+    "organization": "DHS Headquarters",
+    "locations": [
+      "Springfield, Virginia"
+    ],
+    "description": "This position is located in the Department of Homeland Security (DHS), Federal Protective Service, Springfield, Virginia.",
+    "url": "https://www.usajobs.gov/job/853365300",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853348100",
+    "title": "Information Technology Specialist (Security) (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "Serves as a Cybersecurity Watch Officer using data collected from a variety of cyber defense tools to analyze events that occur within their environments for the purposes of leading the mitigation of threats.",
+    "url": "https://www.usajobs.gov/job/853348100",
+    "posted_at": "2026-01-02T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853455700",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "U.S. Marine Corps",
@@ -441,20 +511,6 @@
     "url": "https://www.usajobs.gov/job/853101200",
     "posted_at": "2025-12-30T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853288500",
-    "title": "Software Engineer - Entry to Mid Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252381",
-    "url": "https://www.usajobs.gov/job/853288500",
-    "posted_at": "2025-12-29T17:48:09.927000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
@@ -948,20 +1004,6 @@
     "remote": null
   },
   {
-    "job_id": "852828700",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Camp Dodge Military Reservation, Iowa"
-    ],
-    "description": "IOWA ARMY NATIONAL GUARD - TITLE 32 EXCEPTED SERVICE POSITION This position is open to current on-board G6 Title 5 and Title 32 employees of the Iowa Army National Guard. Military membership is required. LOCATION: G6, Johnston, IA",
-    "url": "https://www.usajobs.gov/job/852828700",
-    "posted_at": "2025-12-18T12:50:08.230000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852822300",
     "title": "IT Support Supervisor",
     "organization": "U.S. Courts",
@@ -986,22 +1028,6 @@
     "url": "https://www.usajobs.gov/job/852822300",
     "posted_at": "2025-12-18T12:21:40.953000",
     "salary": "29-30",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852792700",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/852792700",
-    "posted_at": "2025-12-18T10:07:39.060000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1324,36 +1350,6 @@
     "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
     "url": "https://www.usajobs.gov/job/852149200",
     "posted_at": "2025-12-11T06:44:59.947000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852149200",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852149200",
-    "posted_at": "2025-12-11T06:44:59.947000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852148600",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852148600",
-    "posted_at": "2025-12-11T06:37:26.777000",
     "salary": "14-14",
     "grade": null,
     "remote": null
