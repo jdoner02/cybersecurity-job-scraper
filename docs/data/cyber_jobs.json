@@ -1,5 +1,68 @@
 [
   {
+    "job_id": "853488900",
+    "title": "Management and Program Analyst",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $89,508 - $ 116,362 Columbus, OH: $93,400 - $121,422 Dayton, OH: $92,841- $120,696 Fort Belvoir, VA: $102,415- $133,142 New Cumberland, PA: $102,415- $133,142 Ogden, UT: $89,508 - $ 116,362 Philadelphia, PA: $98,630- $128,221 Richmond, VA: $93,499- $121,551",
+    "url": "https://www.usajobs.gov/job/853488900",
+    "posted_at": "2026-01-02T12:50:03.683000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853484100",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/853484100",
+    "posted_at": "2026-01-02T11:39:15.707000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853482300",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "U.S. Marine Corps",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/853482300",
+    "posted_at": "2026-01-02T11:22:32.013000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853479300",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "U.S. Marine Corps",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/853479300",
+    "posted_at": "2026-01-02T11:12:09.020000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853440500",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
     "organization": "United States Fleet Forces Command",
@@ -10,20 +73,6 @@
     "url": "https://www.usajobs.gov/job/853440500",
     "posted_at": "2026-01-02T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853367900",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Headquarters, Air Force Reserve Command",
-    "locations": [
-      "Eglin AFB, Florida"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/853367900",
-    "posted_at": "2026-01-02T00:00:00",
-    "salary": "7-7",
     "grade": null,
     "remote": null
   },
@@ -185,26 +234,6 @@
     "remote": null
   },
   {
-    "job_id": "853402700",
-    "title": "Intelligence Analyst - Experienced Level (MD/TX/GA/CO/HI/UT/AK)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Anchorage, Alaska",
-      "Aurora, Colorado",
-      "Fort Gordon, Georgia",
-      "Kunia, Hawaii",
-      "Fort Meade, Maryland",
-      "San Antonio, Texas",
-      "Draper, Utah"
-    ],
-    "description": "Join the agency's exciting Intelligence Analysis mission, using your skills in research, analysis, reporting, and telecommunications to help protect US government information systems and ensure senior leaders are provided with time-sensitive cryptologic support for integrated information and cyberspace operations across the DOD and US Government.",
-    "url": "https://www.usajobs.gov/job/853402700",
-    "posted_at": "2025-12-31T09:34:28.537000",
-    "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853350700",
     "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
     "organization": "National Security Agency/Central Security Service",
@@ -263,34 +292,6 @@
     "remote": null
   },
   {
-    "job_id": "853292100",
-    "title": "Supervisory Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Beckley, West Virginia"
-    ],
-    "description": "Serves as a supervisory Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at the VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS utilizes supervisory and personnel management authorities and responsibilities.",
-    "url": "https://www.usajobs.gov/job/853292100",
-    "posted_at": "2025-12-30T06:53:53.440000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853292000",
-    "title": "Supervisory Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Beckley, West Virginia"
-    ],
-    "description": "Serves as a supervisory Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at the VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS utilizes supervisory and personnel management authorities and responsibilities.",
-    "url": "https://www.usajobs.gov/job/853292000",
-    "posted_at": "2025-12-30T06:52:49.633000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853292000",
     "title": "Supervisory Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -319,20 +320,6 @@
     "remote": null
   },
   {
-    "job_id": "853283800",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Mobility Command",
-    "locations": [
-      "Travis AFB, California"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/853283800",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853279000",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -343,34 +330,6 @@
     "url": "https://www.usajobs.gov/job/853279000",
     "posted_at": "2025-12-30T00:00:00",
     "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853279000",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Holloman AFB, New Mexico"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/853279000",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853270200",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Keesler AFB, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/853270200",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "7-7",
     "grade": null,
     "remote": null
   },
@@ -417,34 +376,6 @@
     "remote": null
   },
   {
-    "job_id": "853245500",
-    "title": "IT SPECIALIST (SYSANALYSIS/SYSADMIN)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Goodfellow AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the senior information technology system developer with responsibility for designing, planning, and coordinating the installation, testing, modifying, upgrading, operation, troubleshooting, and maintenance of hardware and software systems architecture.",
-    "url": "https://www.usajobs.gov/job/853245500",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853243900",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Baltimore, Maryland"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a SUPERVISORY IT SPECIALIST (PLCYPLN), Position Description Number NGD1542P01 and is part of the MD JFHQ G6, National Guard.",
-    "url": "https://www.usajobs.gov/job/853243900",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853243900",
     "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
     "organization": "Army National Guard Units",
@@ -487,20 +418,6 @@
     "remote": null
   },
   {
-    "job_id": "853233700",
-    "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN)",
-    "organization": "Air Combat Command",
-    "locations": [
-      "Nellis AFB, Nevada"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve as a first level supervisor, providing planning, directing, organizing, and exercising control over nonsupervisory employees assigned to the 805th Combat Training Squadron",
-    "url": "https://www.usajobs.gov/job/853233700",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853101200",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "Defense Health Agency",
@@ -525,27 +442,6 @@
     "url": "https://www.usajobs.gov/job/853263900",
     "posted_at": "2025-12-29T14:20:52.263000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853261100",
-    "title": "IT Specialist (APPSW)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $88,621 - $115,213 Columbus, OH: $92,475 - $120,222 Dayton, OH: $91,922- $119,504 Fort Belvoir, VA: $101,401- $131,826 New Cumberland, PA: $101,401- $131,826 Ogden, UT: $88,621 - $115,213 Philadelphia, PA: $97,653- $126,955 Richmond, VA: $92,573- $120,350",
-    "url": "https://www.usajobs.gov/job/853261100",
-    "posted_at": "2025-12-29T13:55:53.067000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -648,34 +544,6 @@
     "remote": null
   },
   {
-    "job_id": "853102800",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Bureau of Naval Personnel",
-    "locations": [
-      "Annapolis, Maryland"
-    ],
-    "description": "You will serve as an IT SPECIALIST (INFOSEC) at the U.S. NAVAL ACADEMY.",
-    "url": "https://www.usajobs.gov/job/853102800",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853091100",
-    "title": "MANAGER",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Naval Business Center, Philadelphia, Pennsylvania"
-    ],
-    "description": "You will serve as the head of the Design Division for the Compatibility Test Facility (CTF) of NSWC PHILA DIV. The Secretary of War has ordered a hiring freeze subject to certain limited exceptions. This position is subject to the DoW hiring freeze. Offers of employment related to this vacancy announcement will not be executed until the position has an approved exemption.",
-    "url": "https://www.usajobs.gov/job/853091100",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853091100",
     "title": "MANAGER",
     "organization": "Naval Sea Systems Command",
@@ -701,20 +569,6 @@
     "url": "https://www.usajobs.gov/job/853025500",
     "posted_at": "2025-12-29T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853186500",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Patrick AFB, Florida"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to provide professional & technical expertise in performance of work requiring knowledge & application of information technology enterprise data storage systems encompassing cybersecurity analysis, the design & implementation of enterprise & mission data storage system architecture, & operation of systems. **Salary ranges include local market supplements**",
-    "url": "https://www.usajobs.gov/job/853186500",
-    "posted_at": "2025-12-26T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -747,91 +601,6 @@
     "remote": null
   },
   {
-    "job_id": "853081600",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Sheppard AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/853081600",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853081600",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Sheppard AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/853081600",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853058300",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Force Global Strike Command",
-    "locations": [
-      "Barksdale AFB, Louisiana"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/853058300",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853058300",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Force Global Strike Command",
-    "locations": [
-      "Barksdale AFB, Louisiana"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/853058300",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853047700",
-    "title": "IT SPECIALIST (ENTARCH)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Goodfellow AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the IT Systems Specialist responsible for planning, designing, and overseeing IT systems to align with the unique business requirements of customer organizations, encompassing system engineering, acquisitions oversight, risk management, and customer engagement.",
-    "url": "https://www.usajobs.gov/job/853047700",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853041200",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Tinker AFB, Oklahoma",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Entry level (9) and Full Performance (11 & 12) Work Level within the CES Occupational Structure. It is located in the DISA HC/HCA22.",
-    "url": "https://www.usajobs.gov/job/853041200",
-    "posted_at": "2025-12-23T00:00:00",
-    "salary": "9-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853040700",
     "title": "Risk Management Senior Leader",
     "organization": "Defense Information Systems Agency",
@@ -842,34 +611,6 @@
     "url": "https://www.usajobs.gov/job/853040700",
     "posted_at": "2025-12-23T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853020600",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA OC/DISA GLOBAL - OPERATIONS DIV (SCOTT AFB) (RN331).",
-    "url": "https://www.usajobs.gov/job/853020600",
-    "posted_at": "2025-12-22T09:48:55.963000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853147200",
-    "title": "IT SPECIALIST (INFOSEC) (STEM)",
-    "organization": "Defense Intelligence Agency",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "We are committed to: Teamwork: Partnering at all levels and across organizational boundaries for mission accomplishment. Integrity: Adherence to the highest legal and ethical principles in our responsibilities. Excellence: Unrivaled defense intelligence expertise. Service: Putting the welfare of the Nation and commitment to our mission before oneself.",
-    "url": "https://www.usajobs.gov/job/853147200",
-    "posted_at": "2025-12-22T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -911,34 +652,6 @@
     "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
     "url": "https://www.usajobs.gov/job/852955600",
     "posted_at": "2025-12-19T13:05:28.423000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852955600",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/852955600",
-    "posted_at": "2025-12-19T13:05:28.423000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852955300",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/852955300",
-    "posted_at": "2025-12-19T13:04:47.150000",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -990,20 +703,6 @@
     "remote": null
   },
   {
-    "job_id": "852884400",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Hickam AFB, Hawaii"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION. This National Guard position is for a IT CYBERSECURITY SPECIALIST (INFOSEC), Position Description Number T5894000 and is part of the HI 154 WG, National Guard. LOCATION: 154th Wing, Hawaii Air National Guard, Joint Base Pearl Harbor-Hickam, Hawaii",
-    "url": "https://www.usajobs.gov/job/852884400",
-    "posted_at": "2025-12-18T17:33:57",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852822300",
     "title": "IT Support Supervisor",
     "organization": "U.S. Courts",
@@ -1014,76 +713,6 @@
     "url": "https://www.usajobs.gov/job/852822300",
     "posted_at": "2025-12-18T12:21:40.953000",
     "salary": "29-30",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852822300",
-    "title": "IT Support Supervisor",
-    "organization": "U.S. Courts",
-    "locations": [
-      "Tampa, Florida"
-    ],
-    "description": "The IT Support Supervisor performs first-line supervisory work related to automated systems within the Court, including system and application introduction, operation, coordination, and integration. The incumbent is responsible for supervising systems training and for overseeing the effectiveness of all office automation equipment within the Court. The IT Support Supervisor directs staff and ensures compliance with the appropriate guidelines, policies, and internal controls.",
-    "url": "https://www.usajobs.gov/job/852822300",
-    "posted_at": "2025-12-18T12:21:40.953000",
-    "salary": "29-30",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852877000",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852877000",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852877000",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852877000",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852876800",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852876800",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852876800",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO) is seeking a technical expert to ensure data is managed as a valuable asset. The role will provide technical expertise in managing data as a strategic asset to enable evidence-building, data-driven activities, advanced analytics such as artificial intelligence (AI), drive business value, and ensure compliance with Federal laws and regulations at the USPTO.",
-    "url": "https://www.usajobs.gov/job/852876800",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1156,20 +785,6 @@
     "url": "https://www.usajobs.gov/job/852634000",
     "posted_at": "2025-12-16T16:50:15.557000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852523000",
-    "title": "Information Technology Support Specialist",
-    "organization": "U.S. Courts",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Information Technology Support Specialist provides technical support to judges, chambers staff, and court staff in the areas of installing, configuring, troubleshooting, and repairing IT hardware and software applications, O365 administration, server and network support, and telecommunication systems support for VoIP and cellular phones.The incumbent is also responsible for training judges and court personnel in the use of automated systems and provides support for courtroom technology.",
-    "url": "https://www.usajobs.gov/job/852523000",
-    "posted_at": "2025-12-16T07:55:18.540000",
-    "salary": "25-28",
     "grade": null,
     "remote": null
   },
@@ -1281,36 +896,6 @@
     "remote": null
   },
   {
-    "job_id": "852365900",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852365900",
-    "posted_at": "2025-12-12T14:43:20.070000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852363800",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852363800",
-    "posted_at": "2025-12-12T14:42:19.343000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852363800",
     "title": "Attorney",
     "organization": "Office of the Director of National Intelligence",
@@ -1383,34 +968,6 @@
     "remote": null
   },
   {
-    "job_id": "851879100",
-    "title": "Student Trainee (Information Technology & Cyber Security)",
-    "organization": "Government Accountability Office",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The U.S. Government Accountability Office (GAO) is an independent, nonpartisan agency that works for Congress. We accomplish our mission by providing objective and reliable information and analysis to the Congress, to federal agencies, and to the public, and recommending improvements, when appropriate, on a wide variety of issues to make government work better. This vacancy is for Summer internship positions. The anticipated start dates begin in May 2026.",
-    "url": "https://www.usajobs.gov/job/851879100",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851728900",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Hot Springs, South Dakota"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
-    "url": "https://www.usajobs.gov/job/851728900",
-    "posted_at": "2025-12-05T00:00:00",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "851728900",
     "title": "Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -1435,62 +992,6 @@
     "url": "https://www.usajobs.gov/job/851543300",
     "posted_at": "2025-12-04T07:14:33.590000",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851543300",
-    "title": "Forensic Computer Analyst",
-    "organization": "U.S. Postal Service",
-    "locations": [
-      "Richmond, California"
-    ],
-    "description": "Come join the U.S. Postal Service! Conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
-    "url": "https://www.usajobs.gov/job/851543300",
-    "posted_at": "2025-12-04T07:14:33.590000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851498100",
-    "title": "Forensic Computer Analyst",
-    "organization": "U.S. Postal Service",
-    "locations": [
-      "Seattle, Washington"
-    ],
-    "description": "Come join the U.S. Postal Service! Conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
-    "url": "https://www.usajobs.gov/job/851498100",
-    "posted_at": "2025-12-03T14:51:19.833000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851498100",
-    "title": "Forensic Computer Analyst",
-    "organization": "U.S. Postal Service",
-    "locations": [
-      "Seattle, Washington"
-    ],
-    "description": "Come join the U.S. Postal Service! Conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
-    "url": "https://www.usajobs.gov/job/851498100",
-    "posted_at": "2025-12-03T14:51:19.833000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851431000",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (NETWORK)",
-    "organization": "Bureau of Naval Personnel",
-    "locations": [
-      "Annapolis, Maryland"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/851431000",
-    "posted_at": "2025-12-03T10:08:09.087000",
-    "salary": "11-12",
     "grade": null,
     "remote": null
   }
