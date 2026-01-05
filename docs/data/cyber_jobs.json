@@ -1,5 +1,89 @@
 [
   {
+    "job_id": "853392000",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Gunter AFB, Alabama",
+      "Denver, Colorado",
+      "Fort Meade, Maryland",
+      "Columbus, Ohio",
+      "Tinker AFB, Oklahoma",
+      "Chambersburg, Pennsylvania",
+      "Mechanicsburg, Pennsylvania",
+      "San Antonio, Texas",
+      "Ogden, Utah",
+      "Arlington, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA - HC/Product Management Office. .",
+    "url": "https://www.usajobs.gov/job/853392000",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853337300",
+    "title": "IT SPECIALIST(INFOSEC)/ CYBER SECURITY SPECIALIST",
+    "organization": "Naval Facilities Engineering Systems Command",
+    "locations": [
+      "Washington Navy Yard, District of Columbia",
+      "Naval Base, Norfolk, Virginia"
+    ],
+    "description": "You will serve as a CYBER SECURITY SPECIALIST in the COMMAND INFORMATION OFFICE of NAVFAC OSF. PAY SCALE FOR LOCATIONS Washington Navy Yard, DC -$102,415-$133,142 Norfolk VA - $ 90,838-$118,092",
+    "url": "https://www.usajobs.gov/job/853337300",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852959600",
+    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information. Open to United States CitizensPosition Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, ARMY SYSTEMS, DEBT & FMS SYSTEMS SUSTAINMENT BR, ZTCAC Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
+    "url": "https://www.usajobs.gov/job/852959600",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852602500",
+    "title": "ADMINISTRATIVE SUPPORT SPECIALIST",
+    "organization": "Headquarters, Air Force Reserve Command",
+    "locations": [
+      "Robins AFB, Georgia"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the HQ AFRC/JA Director for all administrative and clerical duties in support programs to include but not limited to task management (ETMS), cybersecurity liaison (CL), Defense Travel System (DTS) administrator, Government Purchase Card (GPC) program, and civilian timecard program.",
+    "url": "https://www.usajobs.gov/job/852602500",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852271700",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/852271700",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "9-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853488900",
     "title": "Management and Program Analyst",
     "organization": "Defense Logistics Agency",
@@ -196,26 +280,6 @@
     "url": "https://www.usajobs.gov/job/847981900",
     "posted_at": "2025-12-31T12:29:45.857000",
     "salary": "10-10",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853402700",
-    "title": "Intelligence Analyst - Experienced Level (MD/TX/GA/CO/HI/UT/AK)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Anchorage, Alaska",
-      "Aurora, Colorado",
-      "Fort Gordon, Georgia",
-      "Kunia, Hawaii",
-      "Fort Meade, Maryland",
-      "San Antonio, Texas",
-      "Draper, Utah"
-    ],
-    "description": "Join the agency's exciting Intelligence Analysis mission, using your skills in research, analysis, reporting, and telecommunications to help protect US government information systems and ensure senior leaders are provided with time-sensitive cryptologic support for integrated information and cyberspace operations across the DOD and US Government.",
-    "url": "https://www.usajobs.gov/job/853402700",
-    "posted_at": "2025-12-31T09:34:28.537000",
-    "salary": "11-15",
     "grade": null,
     "remote": null
   },
@@ -601,20 +665,6 @@
     "remote": null
   },
   {
-    "job_id": "853147200",
-    "title": "IT SPECIALIST (INFOSEC) (STEM)",
-    "organization": "Defense Intelligence Agency",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "We are committed to: Teamwork: Partnering at all levels and across organizational boundaries for mission accomplishment. Integrity: Adherence to the highest legal and ethical principles in our responsibilities. Excellence: Unrivaled defense intelligence expertise. Service: Putting the welfare of the Nation and commitment to our mission before oneself.",
-    "url": "https://www.usajobs.gov/job/853147200",
-    "posted_at": "2025-12-22T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853106600",
     "title": "Assistant Inspector General for Information Technology Division (Chief Information Officer)",
     "organization": "Office of the Inspector General",
@@ -922,48 +972,6 @@
     "url": "https://www.usajobs.gov/job/852149200",
     "posted_at": "2025-12-11T06:44:59.947000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852082000",
-    "title": "Information System Security Manager (ISSM)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
-    "url": "https://www.usajobs.gov/job/852082000",
-    "posted_at": "2025-12-10T12:30:59.257000",
-    "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851879500",
-    "title": "Student Trainee (Information Technology & CyberSecurity)",
-    "organization": "Government Accountability Office",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The U.S. Government Accountability Office (GAO) is an independent, nonpartisan agency that works for Congress. We accomplish our mission by providing objective and reliable information and analysis to the Congress, to federal agencies, and to the public, and recommending improvements, when appropriate, on a wide variety of issues to make government work better. This vacancy is for graduate internship positions. The anticipated start dates begin in May 2026.",
-    "url": "https://www.usajobs.gov/job/851879500",
-    "posted_at": "2025-12-09T00:00:00",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "851728900",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Hot Springs, South Dakota"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment.",
-    "url": "https://www.usajobs.gov/job/851728900",
-    "posted_at": "2025-12-05T00:00:00",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   }
