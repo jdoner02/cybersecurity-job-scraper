@@ -1,5 +1,91 @@
 [
   {
+    "job_id": "853594600",
+    "title": "Security Specialist (Nuclear Security Compliance)",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia",
+      "Germantown, Maryland",
+      "Albuquerque, New Mexico"
+    ],
+    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy. As a Security Specialist (Nuclear Security Compliance), you will be responsible for leading teams of subject matter experts in evaluating the effectiveness of safeguards and security (S&S) programs across the Department of Energy and National Nuclear Security Administration complex.",
+    "url": "https://www.usajobs.gov/job/853594600",
+    "posted_at": "2026-01-06T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853565600",
+    "title": "2026 Summer Library of Congress Intern (Remote)",
+    "organization": "Library of Congress",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "The Library of Congress Internships (LOCI) program is a seasonal, 10- or 12- week paid internship program that enables undergraduate, graduate students, and recent graduates to gain experience through applied learning and professional development opportunities that advance the academic and career pursuits of participants.",
+    "url": "https://www.usajobs.gov/job/853565600",
+    "posted_at": "2026-01-05T14:56:11.043000",
+    "salary": "03-03",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853545200",
+    "title": "Data Scientist (Supply Chain)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Philadelphia, Pennsylvania"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/853545200",
+    "posted_at": "2026-01-05T11:24:56.800000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853531600",
+    "title": "Data Scientist",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the Fort Meade, MD.",
+    "url": "https://www.usajobs.gov/job/853531600",
+    "posted_at": "2026-01-05T09:57:47.273000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853522200",
+    "title": "2026 Summer Library of Congress Intern (Remote)",
+    "organization": "Library of Congress",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "The Library of Congress Internships (LOCI) program is a seasonal, 10- or 12- week paid internship program that enables undergraduate, graduate students, and recent graduates to gain experience through applied learning and professional development opportunities that advance the academic and career pursuits of participants.",
+    "url": "https://www.usajobs.gov/job/853522200",
+    "posted_at": "2026-01-05T08:27:43.277000",
+    "salary": "03-03",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853527100",
+    "title": "Information Technology Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Energy Information Administration, Department of Energy. As a Information Technology Specialist, you will provide in-depth and independent technical guidance, services, technologies, advice, and recommendations to Department of Energy (DOE) senior leaders, and acts as a team lead of technical federal and contractor IT professionals maintaining DOE systems, networks, and connectivity.",
+    "url": "https://www.usajobs.gov/job/853527100",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853434100",
     "title": "INTELLIGENCE RESEARCH SPECIALIST",
     "organization": "Drug Enforcement Administration",
@@ -343,20 +429,6 @@
     "remote": null
   },
   {
-    "job_id": "853049600",
-    "title": "Lead Data Scientist (Joint Cyber Readiness)",
-    "organization": "Joint Activities",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at Fort Meade, MD.",
-    "url": "https://www.usajobs.gov/job/853049600",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853151700",
     "title": "Senior Technical Leader, Senior Vehicle Operations Manager",
     "organization": "John F. Kennedy Space Center",
@@ -381,34 +453,6 @@
     "url": "https://www.usajobs.gov/job/852747400",
     "posted_at": "2025-12-29T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852955600",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/852955600",
-    "posted_at": "2025-12-19T13:05:28.423000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852955300",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/852955300",
-    "posted_at": "2025-12-19T13:04:47.150000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },

@@ -1,24 +1,129 @@
 [
   {
-    "job_id": "853392000",
+    "job_id": "853596400",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Van Nuys, California"
+    ],
+    "description": "This IT CYBERSECURITY SPECIALIST (INFOSEC) is located in an Air National Guard (ANG) Sensitive Compartmented Information Facility (SCIF) and is part of the CA 195th WG.",
+    "url": "https://www.usajobs.gov/job/853596400",
+    "posted_at": "2026-01-06T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853578400",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Information Systems Agency",
     "locations": [
-      "Gunter AFB, Alabama",
-      "Denver, Colorado",
-      "Fort Meade, Maryland",
-      "Columbus, Ohio",
-      "Tinker AFB, Oklahoma",
-      "Chambersburg, Pennsylvania",
-      "Mechanicsburg, Pennsylvania",
-      "San Antonio, Texas",
-      "Ogden, Utah",
-      "Arlington, Virginia"
+      "Alexandria, Virginia"
     ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA - HC/Product Management Office. .",
-    "url": "https://www.usajobs.gov/job/853392000",
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA IT.",
+    "url": "https://www.usajobs.gov/job/853578400",
+    "posted_at": "2026-01-06T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853572700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Ramstein, Germany"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve in an advisory role to the USAFE-AFAFRICA/A6, Director of Communications on all matters relating to MAJCOM level Information Technology (IT) Cybersecurity policy and vulnerability management compliance.",
+    "url": "https://www.usajobs.gov/job/853572700",
+    "posted_at": "2026-01-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853539600",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/853539600",
+    "posted_at": "2026-01-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853530400",
+    "title": "MANAGER",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Point Loma Complex, San Diego, California"
+    ],
+    "description": "You will serve as a MANAGER in the COMMUNICATIONS & NETWORKS DEPARTMENT of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/853530400",
+    "posted_at": "2026-01-06T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853530100",
+    "title": "IT PROJECT MANAGER (PLCYPLN)",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Point Loma Complex, San Diego, California"
+    ],
+    "description": "You will serve as a MANAGER in the COMMUNICATIONS & NETWORKS DEPARTMENT of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/853530100",
+    "posted_at": "2026-01-06T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853581300",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA JSO/J1 MANPOWER & PERSONNEL DIRECTORATE.",
+    "url": "https://www.usajobs.gov/job/853581300",
+    "posted_at": "2026-01-05T14:51:45.607000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853574600",
+    "title": "Engineer/Developer - Software/Hardware Research (Capabilities Development Specialist)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions? If so, click here to learn more and apply.",
+    "url": "https://www.usajobs.gov/job/853574600",
+    "posted_at": "2026-01-05T14:20:02.397000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853527100",
+    "title": "Information Technology Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Energy Information Administration, Department of Energy. As a Information Technology Specialist, you will provide in-depth and independent technical guidance, services, technologies, advice, and recommendations to Department of Energy (DOE) senior leaders, and acts as a team lead of technical federal and contractor IT professionals maintaining DOE systems, networks, and connectivity.",
+    "url": "https://www.usajobs.gov/job/853527100",
     "posted_at": "2026-01-05T00:00:00",
-    "salary": "15-15",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -496,20 +601,6 @@
     "remote": null
   },
   {
-    "job_id": "853260100",
-    "title": "IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Kearneysville, West Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-12, IT Cybersecurity Specialist (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, in Kearneysville, West Virginia.",
-    "url": "https://www.usajobs.gov/job/853260100",
-    "posted_at": "2025-12-29T13:48:40.433000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853236200",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Department of the Air Force - Agency Wide",
@@ -548,34 +639,6 @@
     "url": "https://www.usajobs.gov/job/853240400",
     "posted_at": "2025-12-29T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853199900",
-    "title": "IT SPECIALIST (OS)",
-    "organization": "Air Force Global Strike Command",
-    "locations": [
-      "Minot AFB, North Dakota"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to perform technical work on the Civil Engineer (CE) Control Systems (CS) and their associated network architecture with the purpose of properly installing, maintaining, and incorporating Cybersecurity measures at all levels.",
-    "url": "https://www.usajobs.gov/job/853199900",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853189500",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Mobility Command",
-    "locations": [
-      "Charleston AFB, South Carolina"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
-    "url": "https://www.usajobs.gov/job/853189500",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -679,34 +742,6 @@
     "remote": null
   },
   {
-    "job_id": "852955600",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/852955600",
-    "posted_at": "2025-12-19T13:05:28.423000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852955300",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Defense Commissary Agency",
-    "locations": [
-      "Fort Lee, Virginia"
-    ],
-    "description": "Serves as the Supervisory IT Specialist (PLCYPLN) in a Defense Commissary Agency (DeCA) HQ location. The primary purpose of this position is to manage information resources, business relationships, and information technology (IT) programs in support of DeCA's business mission and goals. Read the entire announcement before starting the application process.",
-    "url": "https://www.usajobs.gov/job/852955300",
-    "posted_at": "2025-12-19T13:04:47.150000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852839400",
     "title": "INTELLIGENCE SPECIALIST - ALTERNATE HIRING AUTHORITY",
     "organization": "Air Force Materiel Command",
@@ -797,20 +832,6 @@
     "remote": null
   },
   {
-    "job_id": "852606600",
-    "title": "IT SPECIALIST (INFOSEC/NETWORK)",
-    "organization": "Air Force District of Washington",
-    "locations": [
-      "Andrews AFB, Maryland"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. To serve as the Mystic Star Information Systems Security Manager and the 89th Communications Squadron Director of Cyberspace Operations Training.",
-    "url": "https://www.usajobs.gov/job/852606600",
-    "posted_at": "2025-12-17T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852634000",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -849,20 +870,6 @@
     "url": "https://www.usajobs.gov/job/852511100",
     "posted_at": "2025-12-15T18:00:56.460000",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852506100",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN) T32",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Phoenix, Arizona"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a SUPERVISORY IT SPECIALIST (PLCYPLN) T32, Position Description Number PDD2173P01 and is part of the AZ 161st Air Refueling Wing, National Guard.",
-    "url": "https://www.usajobs.gov/job/852506100",
-    "posted_at": "2025-12-15T17:05:44.503000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
