@@ -1,5 +1,128 @@
 [
   {
+    "job_id": "853703500",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Yokota Air Base, Japan"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to the serve as the primary point of contact to the squadron commander/director for administrative support programs.",
+    "url": "https://www.usajobs.gov/job/853703500",
+    "posted_at": "2026-01-07T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853630400",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/853630400",
+    "posted_at": "2026-01-07T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853714700",
+    "title": "SUPERVISORY OPERATIONS ANALYST",
+    "organization": "AFELM US Space Command",
+    "locations": [
+      "Kirtland AFB, New Mexico"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information.",
+    "url": "https://www.usajobs.gov/job/853714700",
+    "posted_at": "2026-01-06T15:53:25.117000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853693700",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $89,508 - $ 116,362 Columbus, OH: $93,400 - $121,422 Dayton, OH: $92,841- $120,696 Fort Belvoir, VA: $102,415- $133,142 New Cumberland, PA: $102,415- $133,142 Ogden, UT: $89,508 - $ 116,362 Philadelphia, PA: $98,630- $128,221 Richmond, VA: $93,499- $121,551",
+    "url": "https://www.usajobs.gov/job/853693700",
+    "posted_at": "2026-01-06T14:28:55.390000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853664600",
+    "title": "Applied Research Mathematician / Quantum Computing - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252528",
+    "url": "https://www.usajobs.gov/job/853664600",
+    "posted_at": "2026-01-06T12:27:13.343000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853651600",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command.",
+    "url": "https://www.usajobs.gov/job/853651600",
+    "posted_at": "2026-01-06T11:30:56.940000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853614300",
+    "title": "Supervisory Biomedical Equipment Support Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Detroit, Michigan"
+    ],
+    "description": "Serves as a Supervisory Biomedical Equipment Support Specialist (BESS) within the Biomedical Engineering Section of Facilities Management Service at the John D. Dingell VA Medical Center in Detroit, MI. Works in support of the medical equipment management program. In addition to duties at the full performance level, the Supervisory BESS utilizes supervisory and personnel management authorities and responsibilities.",
+    "url": "https://www.usajobs.gov/job/853614300",
+    "posted_at": "2026-01-06T07:45:55.473000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853612800",
+    "title": "IT Cybersecurity Specialist ( Direct Hire)",
+    "organization": "Office of the Inspector General",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "Atlanta, Georgia",
+      "New York, New York",
+      "El Paso, Texas"
+    ],
+    "description": "The Office of the Inspector General is one of the best places to work in the Department of Justice and is one of the premier inspector general offices in federal government. The OIG's IT Division offers advanced and entry-level opportunities to Software Application Developers, Cloud and Network Engineers, Security Specialists, Project Managers and Customer Support Technicians. This posting is to fill a position on the IT Security team.",
+    "url": "https://www.usajobs.gov/job/853612800",
+    "posted_at": "2026-01-06T07:23:01.610000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853596400",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -252,20 +375,6 @@
     "remote": null
   },
   {
-    "job_id": "853440500",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Norfolk, Virginia"
-    ],
-    "description": "You will serve as an INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) in the COMMUNICATIONS and INFORMATION SYSTEMS DIVISION, C5I OPERATIONS BR of DIR, MARITIME OPERATIONS CTR, USFFC.",
-    "url": "https://www.usajobs.gov/job/853440500",
-    "posted_at": "2026-01-02T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853367900",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Headquarters, Air Force Reserve Command",
@@ -289,20 +398,6 @@
     "description": "This position is located in the Department of Homeland Security (DHS), Federal Protective Service, Springfield, Virginia.",
     "url": "https://www.usajobs.gov/job/853365300",
     "posted_at": "2026-01-02T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853455700",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/853455700",
-    "posted_at": "2025-12-31T16:33:08.477000",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -389,16 +484,16 @@
     "remote": null
   },
   {
-    "job_id": "853350700",
-    "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
+    "job_id": "853455700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "U.S. Marine Corps",
     "locations": [
       "Fort Meade, Maryland"
     ],
-    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
-    "url": "https://www.usajobs.gov/job/853350700",
-    "posted_at": "2025-12-30T13:31:34.707000",
-    "salary": "11-14",
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/853455700",
+    "posted_at": "2025-12-31T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -461,58 +556,16 @@
     "remote": null
   },
   {
-    "job_id": "853283800",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Mobility Command",
+    "job_id": "853350700",
+    "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
     "locations": [
-      "Travis AFB, California"
+      "Fort Meade, Maryland"
     ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/853283800",
+    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
+    "url": "https://www.usajobs.gov/job/853350700",
     "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853279000",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Holloman AFB, New Mexico"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
-    "url": "https://www.usajobs.gov/job/853279000",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853270200",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Keesler AFB, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/853270200",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853245600",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Keesler AFB, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program, and others.",
-    "url": "https://www.usajobs.gov/job/853245600",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
+    "salary": "11-14",
     "grade": null,
     "remote": null
   },
@@ -545,20 +598,6 @@
     "remote": null
   },
   {
-    "job_id": "853243300",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Mobility Command",
-    "locations": [
-      "McChord AFB, Washington"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
-    "url": "https://www.usajobs.gov/job/853243300",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853233700",
     "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN)",
     "organization": "Air Combat Command",
@@ -573,20 +612,6 @@
     "remote": null
   },
   {
-    "job_id": "853101200",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Defense Health Agency",
-    "locations": [
-      "Falls Church, Virginia"
-    ],
-    "description": "About the Position: This position supports the mission of the J-8, Financial Operations Directorate and is located in Falls Church, Virginia. A relocation incentive may be authorized. Salary negotiation may be available for those candidates who are new to Federal service. Leave accrual negotiation may be available for those candidates who are new to the Federal service. Student Loan repayment may be authorized. This is a Direct Hire Solicitation",
-    "url": "https://www.usajobs.gov/job/853101200",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853263900",
     "title": "Compliance Specialist",
     "organization": "National Oceanic and Atmospheric Administration",
@@ -597,20 +622,6 @@
     "url": "https://www.usajobs.gov/job/853263900",
     "posted_at": "2025-12-29T14:20:52.263000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853236200",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Lackland AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is: to serve as a Senior Interactive On-Net Operator authority, providing US Cyber Command (USCYBERCOM) Cyber Mission Forces and performs exploitation operations of foreign adversary computer networks. **Salary ranges include local market supplements.**",
-    "url": "https://www.usajobs.gov/job/853236200",
-    "posted_at": "2025-12-29T11:05:43.253000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -700,20 +711,6 @@
     "remote": null
   },
   {
-    "job_id": "853134600",
-    "title": "Supervisory Information System Security Manager (ISSM)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "Marine Corps Community Services (MCCS) is looking for the best and brightest to join our Team! MCCS is a comprehensive program that supports and enhances the quality of life for Marines, their families, and others in the Marine Corps Community. We offer a team oriented environment comprised of military personnel, civilian employees, contractors and volunteers who keep the organization functioning smoothly and effectively.",
-    "url": "https://www.usajobs.gov/job/853134600",
-    "posted_at": "2025-12-23T10:17:40.113000",
-    "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853040700",
     "title": "Risk Management Senior Leader",
     "organization": "Defense Information Systems Agency",
@@ -784,6 +781,20 @@
     "url": "https://www.usajobs.gov/job/852822300",
     "posted_at": "2025-12-18T12:21:40.953000",
     "salary": "29-30",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852828700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Army National Guard Units",
+    "locations": [
+      "Camp Dodge Military Reservation, Iowa"
+    ],
+    "description": "IOWA ARMY NATIONAL GUARD - TITLE 32 EXCEPTED SERVICE POSITION This position is open to current on-board G6 Title 5 and Title 32 employees of the Iowa Army National Guard. Military membership is required. LOCATION: G6, Johnston, IA",
+    "url": "https://www.usajobs.gov/job/852828700",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },

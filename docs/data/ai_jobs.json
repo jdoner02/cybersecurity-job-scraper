@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "853660100",
+    "title": "AI Operations Specialist",
+    "organization": "Library of Congress",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "This position is located in the Digital Strategy Directorate, Office of the Chief Information Officer. This position is a non-supervisory, bargaining unit position. The position description number for this position is 465121. The salary range indicated reflects the locality pay adjustments for the Washington, D.C., Metropolitan area. Salary will be set according to the incumbent's duty station. The incumbent of this position will work a flexitime or compflex schedule.",
+    "url": "https://www.usajobs.gov/job/853660100",
+    "posted_at": "2026-01-06T12:09:57.063000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853594600",
     "title": "Security Specialist (Nuclear Security Compliance)",
     "organization": "Department of Energy - Agency Wide",
@@ -12,20 +26,6 @@
     "url": "https://www.usajobs.gov/job/853594600",
     "posted_at": "2026-01-06T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853565600",
-    "title": "2026 Summer Library of Congress Intern (Remote)",
-    "organization": "Library of Congress",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "The Library of Congress Internships (LOCI) program is a seasonal, 10- or 12- week paid internship program that enables undergraduate, graduate students, and recent graduates to gain experience through applied learning and professional development opportunities that advance the academic and career pursuits of participants.",
-    "url": "https://www.usajobs.gov/job/853565600",
-    "posted_at": "2026-01-05T14:56:11.043000",
-    "salary": "03-03",
     "grade": null,
     "remote": null
   },
@@ -67,6 +67,20 @@
     "description": "The Library of Congress Internships (LOCI) program is a seasonal, 10- or 12- week paid internship program that enables undergraduate, graduate students, and recent graduates to gain experience through applied learning and professional development opportunities that advance the academic and career pursuits of participants.",
     "url": "https://www.usajobs.gov/job/853522200",
     "posted_at": "2026-01-05T08:27:43.277000",
+    "salary": "03-03",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853565600",
+    "title": "2026 Summer Library of Congress Intern (Remote)",
+    "organization": "Library of Congress",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "The Library of Congress Internships (LOCI) program is a seasonal, 10- or 12- week paid internship program that enables undergraduate, graduate students, and recent graduates to gain experience through applied learning and professional development opportunities that advance the academic and career pursuits of participants.",
+    "url": "https://www.usajobs.gov/job/853565600",
+    "posted_at": "2026-01-05T00:00:00",
     "salary": "03-03",
     "grade": null,
     "remote": null
@@ -409,22 +423,6 @@
     "url": "https://www.usajobs.gov/job/852701600",
     "posted_at": "2026-01-02T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853399000",
-    "title": "Health Physicist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia",
-      "Germantown, Maryland",
-      "Albuquerque, New Mexico"
-    ],
-    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy. As a Health Physicist, you will conduct investigations of possible violations of the Department's nuclear safety regulations, review of all aspects of the radiation protection program for the organization's missions and tasks, and lead teams of DOE and contractor technical experts in the conduct of, investigations, inspections, reviews, and associated technical analyses.",
-    "url": "https://www.usajobs.gov/job/853399000",
-    "posted_at": "2025-12-31T08:56:20.230000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
