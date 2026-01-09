@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "853980500",
+    "title": "Fire Protection Engineer",
+    "organization": "Langley Research Center",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "You will serve as the Fire Protection Engineer / Authority Having Jurisdiction (AHJ) and will be responsible for the prevention, identification, mitigation, and investigation of fire hazards on people, structures, and commodities in order to ensure continuity of operations at NASA Langley Research Center (LaRC).",
+    "url": "https://www.usajobs.gov/job/853980500",
+    "posted_at": "2026-01-09T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853898300",
+    "title": "IT Cybersecurity Specialist (Infosec)",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position provides technical direction and guidance to staff providing system cybersecurity engineering, information system security officers, and information system security mangers of the Advana program and ecosystem by preparing: cybersecurity road maps, reviewing and approving Advana ecosystem cybersecurity increment milestones, deliverables, justifications for current and proposed changes to the platform to maintain the security and reduce risk of the overall Advana ecosystem.",
+    "url": "https://www.usajobs.gov/job/853898300",
+    "posted_at": "2026-01-09T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853740300",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -110,34 +138,6 @@
     "url": "https://www.usajobs.gov/job/852837900",
     "posted_at": "2026-01-05T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852701700",
-    "title": "Intelligence Operations Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Greenbelt, Maryland"
-    ],
-    "description": "You will serve as a Counterintelligence Special Agent in NASA's Defensive Counterintelligence Program, assigned to the Counterintelligence (CI)/Counterterrorism (CT) Office at Goddard Space Flight Center. You will be responsible for providing CI support to research and technology at NASA, providing CI education and awareness to NASA personnel, and conducting CI inquiries and investigations with U.S. Government agency partners.",
-    "url": "https://www.usajobs.gov/job/852701700",
-    "posted_at": "2026-01-02T00:00:00",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852701600",
-    "title": "Intelligence Operations Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "You will serve as a Counterintelligence Special Agent in NASA's Defensive Counterintelligence Program, assigned to the Counterintelligence (CI)/Counterterrorism (CT) Office at Kennedy Space Center. You will be responsible for providing CI support to research and technology at NASA, providing CI education and awareness to NASA personnel, and conducting CI inquiries and investigations with U.S. Government agency partners.",
-    "url": "https://www.usajobs.gov/job/852701600",
-    "posted_at": "2026-01-02T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
