@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "854006800",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "San Diego, California"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), San Diego Field Division, CA. This position(s) primary purpose is to provide technical support to the Division's Information Technology (IT) systems and telecommunications.",
+    "url": "https://www.usajobs.gov/job/854006800",
+    "posted_at": "2026-01-09T07:06:14.983000",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854005600",
+    "title": "Data Scientist - Experienced to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Newly hired Data Scientists will be assigned to a mission office by aligning their data science skills with mission needs. Due to the challenging and evolving nature of NSA data science problems, Data Scientists are expected to continue broadening and deepening their expertise throughout their career. NSA data science is collaborative and you are expected to work with NSA experts in data science, related technical domains, and specialized subject areas.",
+    "url": "https://www.usajobs.gov/job/854005600",
+    "posted_at": "2026-01-09T06:31:39.080000",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853980500",
     "title": "Fire Protection Engineer",
     "organization": "Langley Research Center",
@@ -128,20 +156,6 @@
     "remote": null
   },
   {
-    "job_id": "852837900",
-    "title": "Legislative Affairs Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Office of Legislative and Intergovernmental Affairs (OLIA). As a Legislative Affairs Specialist, you will be responsible for coordinating with internal and external partners of OLIA, in support of the legislative agenda for the Agency.",
-    "url": "https://www.usajobs.gov/job/852837900",
-    "posted_at": "2026-01-05T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853151700",
     "title": "Senior Technical Leader, Senior Vehicle Operations Manager",
     "organization": "John F. Kennedy Space Center",
@@ -152,20 +166,6 @@
     "url": "https://www.usajobs.gov/job/853151700",
     "posted_at": "2025-12-29T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852747400",
-    "title": "IT SPECIALIST (DATAMGT/SYSANALYSIS)",
-    "organization": "Air Force Civilian Career Training",
-    "locations": [
-      "Offutt AFB, Nebraska"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to provide developmental experience designed to broaden the skills and/or enhance the leadership perspective of an identified high-potential, mid-level manager/executive; it is not a continuing position and assignment duration is limited to 36 months.",
-    "url": "https://www.usajobs.gov/job/852747400",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },

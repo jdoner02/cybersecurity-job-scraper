@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "854063300",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA - FE/Endpoint Svcs/Customer Spt PMO.",
+    "url": "https://www.usajobs.gov/job/854063300",
+    "posted_at": "2026-01-10T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854029600",
+    "title": "ODNI Chief Information Security Officer (CISO)",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "The Intelligence Community (IC) Chief Information Office (CIO) is responsible for advancing the Intelligence Community's mission by driving secure collaboration, integration, and information sharing; identifying and addressing information enterprise risks; and providing strategic leadership and oversight of the IC's enterprise architecture and enterprise information technology.",
+    "url": "https://www.usajobs.gov/job/854029600",
+    "posted_at": "2026-01-09T09:59:52.380000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854027700",
+    "title": "ODNI Chief Information Security Officer (CISO)",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "The Intelligence Community (IC) Chief Information Office (CIO) is responsible for advancing the Intelligence Community's mission by driving secure collaboration, integration, and information sharing; identifying and addressing information enterprise risks; and providing strategic leadership and oversight of the IC's enterprise architecture and enterprise information technology.",
+    "url": "https://www.usajobs.gov/job/854027700",
+    "posted_at": "2026-01-09T09:58:48.957000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854005600",
+    "title": "Data Scientist - Experienced to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Newly hired Data Scientists will be assigned to a mission office by aligning their data science skills with mission needs. Due to the challenging and evolving nature of NSA data science problems, Data Scientists are expected to continue broadening and deepening their expertise throughout their career. NSA data science is collaborative and you are expected to work with NSA experts in data science, related technical domains, and specialized subject areas.",
+    "url": "https://www.usajobs.gov/job/854005600",
+    "posted_at": "2026-01-09T06:31:39.080000",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853974000",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
     "organization": "Air Mobility Command",
@@ -75,6 +131,20 @@
     "url": "https://www.usajobs.gov/job/853898300",
     "posted_at": "2026-01-09T00:00:00",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853875400",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Patrick AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to provide professional & technical expertise in performance of work requiring knowledge & application of information technology enterprise data storage systems encompassing cybersecurity analysis, the design & implementation of enterprise & mission data storage system architecture, & operation of systems. **Salary ranges include local market supplements**",
+    "url": "https://www.usajobs.gov/job/853875400",
+    "posted_at": "2026-01-09T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -191,6 +261,20 @@
     "remote": null
   },
   {
+    "job_id": "853928400",
+    "title": "IT SPEC(CUSTSPT)",
+    "organization": "Field Operating Offices of the Office of the Secretary of the Army",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for STEM Positions, Cyber Security & Related Positions to recruit and appoint qualified candidates to positions in the competitive service. About the Position: You will serves as a IT Specialist within the Army Review Boards Agency with duties relating to customer support, technical support, cybersecurity, IT project management, and acquisition support. Position is located in Arlington, Virginia.",
+    "url": "https://www.usajobs.gov/job/853928400",
+    "posted_at": "2026-01-08T12:42:02.453000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853915000",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -219,6 +303,20 @@
     "remote": null
   },
   {
+    "job_id": "853865100",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Saint Cloud, Minnesota"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at the St. Cloud VA Healthcare System. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
+    "url": "https://www.usajobs.gov/job/853865100",
+    "posted_at": "2026-01-08T07:05:40.263000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853871500",
     "title": "PROGRAM ANALYST",
     "organization": "Defense Logistics Agency",
@@ -234,22 +332,43 @@
     ],
     "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $106,437 - $138,370 Columbus, OH: $111,065- $144,386 Dayton, OH: $110,401- $143,523 Fort Belvoir, VA: $121,785- $158,322 New Cumberland, PA: $121,785- $158,322 Ogden, UT: $106,437 - $138,370 Philadelphia, PA: $117,284- $152,471 Richmond, VA: $111,183- $144,540",
     "url": "https://www.usajobs.gov/job/853871500",
-    "posted_at": "2026-01-08T08:13:52.580000",
+    "posted_at": "2026-01-08T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "853865100",
-    "title": "Biomedical Equipment Support Specialist (Information Systems)",
-    "organization": "Veterans Health Administration",
+    "job_id": "853871500",
+    "title": "PROGRAM ANALYST",
+    "organization": "Defense Logistics Agency",
     "locations": [
-      "Saint Cloud, Minnesota"
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
     ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at the St. Cloud VA Healthcare System. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
-    "url": "https://www.usajobs.gov/job/853865100",
-    "posted_at": "2026-01-08T07:05:40.263000",
-    "salary": "12-12",
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $106,437 - $138,370 Columbus, OH: $111,065- $144,386 Dayton, OH: $110,401- $143,523 Fort Belvoir, VA: $121,785- $158,322 New Cumberland, PA: $121,785- $158,322 Ogden, UT: $106,437 - $138,370 Philadelphia, PA: $117,284- $152,471 Richmond, VA: $111,183- $144,540",
+    "url": "https://www.usajobs.gov/job/853871500",
+    "posted_at": "2026-01-08T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853855300",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Hickam AFB, Hawaii"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, and health care program.",
+    "url": "https://www.usajobs.gov/job/853855300",
+    "posted_at": "2026-01-08T00:00:00",
+    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -282,6 +401,20 @@
     "remote": null
   },
   {
+    "job_id": "853844000",
+    "title": "IT SPECIALIST (NETWORK)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Schriever AFB, Colorado"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the senior information technology (IT) specialist for the 10th Space Operations Squadron (10 SOPS) Networks Flight. Responsible for ensuring the overall network performance of 10 SOPS' alternate master control station providing expert technical knowledge and skill in network infrastructure, cybersecurity protocols, and system administration.",
+    "url": "https://www.usajobs.gov/job/853844000",
+    "posted_at": "2026-01-08T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853816600",
     "title": "Supvy IT Cybersecurity Specialist (INFOSEC)",
     "organization": "Patent and Trademark Office",
@@ -292,6 +425,20 @@
     "url": "https://www.usajobs.gov/job/853816600",
     "posted_at": "2026-01-08T00:00:00",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853810700",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/SYSADMIN)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is: To serve as the Air Mobility Command JWICS network Information System Security Manager, provide management for the JWICS cybersecurity program, with responsibility for security planning, coordination, and security during installation, testing, modifying, upgrading, operation, troubleshooting, maintenance of network. Salary ranges include local market supplements.",
+    "url": "https://www.usajobs.gov/job/853810700",
+    "posted_at": "2026-01-08T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -346,6 +493,34 @@
     ],
     "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program.",
     "url": "https://www.usajobs.gov/job/853766900",
+    "posted_at": "2026-01-08T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853766900",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Travis AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program.",
+    "url": "https://www.usajobs.gov/job/853766900",
+    "posted_at": "2026-01-08T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853759600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Travis AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program.",
+    "url": "https://www.usajobs.gov/job/853759600",
     "posted_at": "2026-01-08T00:00:00",
     "salary": "6-6",
     "grade": null,
@@ -410,22 +585,6 @@
     "remote": null
   },
   {
-    "job_id": "853664500",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/853664500",
-    "posted_at": "2026-01-08T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853856600",
     "title": "Senior Executive Leader/General Counsel - National Security Agency (MD)",
     "organization": "National Security Agency/Central Security Service",
@@ -450,20 +609,6 @@
     "url": "https://www.usajobs.gov/job/853840700",
     "posted_at": "2026-01-07T16:55:44.900000",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853828200",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Bratenahl, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, HOW TO APPLY and WHAT TO EXPECT NEXT sections below for instructions.",
-    "url": "https://www.usajobs.gov/job/853828200",
-    "posted_at": "2026-01-07T14:49:55.457000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -594,6 +739,20 @@
     "remote": null
   },
   {
+    "job_id": "853773800",
+    "title": "Lead IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Whitehall, Ohio"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Columbus, OH: $131,245- $170,624",
+    "url": "https://www.usajobs.gov/job/853773800",
+    "posted_at": "2026-01-07T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853703500",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Pacific Air Forces",
@@ -636,23 +795,16 @@
     "remote": null
   },
   {
-    "job_id": "853693700",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
+    "job_id": "853664600",
+    "title": "Applied Research Mathematician / Quantum Computing - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
     "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
+      "Fort Meade, Maryland"
     ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $89,508 - $ 116,362 Columbus, OH: $93,400 - $121,422 Dayton, OH: $92,841- $120,696 Fort Belvoir, VA: $102,415- $133,142 New Cumberland, PA: $102,415- $133,142 Ogden, UT: $89,508 - $ 116,362 Philadelphia, PA: $98,630- $128,221 Richmond, VA: $93,499- $121,551",
-    "url": "https://www.usajobs.gov/job/853693700",
-    "posted_at": "2026-01-06T14:28:55.390000",
-    "salary": "12-12",
+    "description": "NSA's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252528",
+    "url": "https://www.usajobs.gov/job/853664600",
+    "posted_at": "2026-01-06T12:27:13.343000",
+    "salary": "11-15",
     "grade": null,
     "remote": null
   },
@@ -685,20 +837,6 @@
     "remote": null
   },
   {
-    "job_id": "853651600",
-    "title": "SUPV IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command.",
-    "url": "https://www.usajobs.gov/job/853651600",
-    "posted_at": "2026-01-06T11:30:56.940000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853614300",
     "title": "Supervisory Biomedical Equipment Support Specialist",
     "organization": "Veterans Health Administration",
@@ -708,6 +846,27 @@
     "description": "Serves as a Supervisory Biomedical Equipment Support Specialist (BESS) within the Biomedical Engineering Section of Facilities Management Service at the John D. Dingell VA Medical Center in Detroit, MI. Works in support of the medical equipment management program. In addition to duties at the full performance level, the Supervisory BESS utilizes supervisory and personnel management authorities and responsibilities.",
     "url": "https://www.usajobs.gov/job/853614300",
     "posted_at": "2026-01-06T07:45:55.473000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853693700",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $89,508 - $ 116,362 Columbus, OH: $93,400 - $121,422 Dayton, OH: $92,841- $120,696 Fort Belvoir, VA: $102,415- $133,142 New Cumberland, PA: $102,415- $133,142 Ogden, UT: $89,508 - $ 116,362 Philadelphia, PA: $98,630- $128,221 Richmond, VA: $93,499- $121,551",
+    "url": "https://www.usajobs.gov/job/853693700",
+    "posted_at": "2026-01-06T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -723,20 +882,6 @@
     "url": "https://www.usajobs.gov/job/853596400",
     "posted_at": "2026-01-06T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853578400",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA IT.",
-    "url": "https://www.usajobs.gov/job/853578400",
-    "posted_at": "2026-01-06T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -813,6 +958,71 @@
     "remote": null
   },
   {
+    "job_id": "853574600",
+    "title": "Engineer/Developer - Software/Hardware Research (Capabilities Development Specialist)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions? If so, click here to learn more and apply.",
+    "url": "https://www.usajobs.gov/job/853574600",
+    "posted_at": "2026-01-05T14:20:02.397000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854053800",
+    "title": "IT Security Specialist (Assessment Lead)",
+    "organization": "U.S. Courts",
+    "locations": [
+      "Birmingham, Alabama",
+      "Jacksonville, Florida",
+      "Miami, Florida",
+      "Atlanta, Georgia"
+    ],
+    "description": "The IT Security Specialist Assessment Lead is part of a team that, under the supervision of the Circuit IT Security Officer, provides IT security support to the court units within the Eleventh Circuit, which includes Georgia, Florida, and Alabama. This is an on-site position located in either Atlanta, Georgia; Birmingham, Alabama; Jacksonville, Florida; or Miami, Florida. Location is negotiable.",
+    "url": "https://www.usajobs.gov/job/854053800",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "29-29",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854053400",
+    "title": "IT Security Specialist (Technical Lead)",
+    "organization": "U.S. Courts",
+    "locations": [
+      "Birmingham, Alabama",
+      "Jacksonville, Florida",
+      "Miami, Florida",
+      "Atlanta, Georgia"
+    ],
+    "description": "The IT Security Specialist Technical Lead is part of a team that, under the supervision of the Circuit IT Security Officer, provides IT security support to the court units within the Eleventh Circuit, which includes Georgia, Florida, and Alabama. This is an on-site position located in either Atlanta, Georgia; Birmingham, Alabama; Jacksonville, Florida; or Miami, Florida. Location is negotiable.",
+    "url": "https://www.usajobs.gov/job/854053400",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "29-29",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854053400",
+    "title": "IT Security Specialist (Technical Lead)",
+    "organization": "U.S. Courts",
+    "locations": [
+      "Birmingham, Alabama",
+      "Jacksonville, Florida",
+      "Miami, Florida",
+      "Atlanta, Georgia"
+    ],
+    "description": "The IT Security Specialist Technical Lead is part of a team that, under the supervision of the Circuit IT Security Officer, provides IT security support to the court units within the Eleventh Circuit, which includes Georgia, Florida, and Alabama. This is an on-site position located in either Atlanta, Georgia; Birmingham, Alabama; Jacksonville, Florida; or Miami, Florida. Location is negotiable.",
+    "url": "https://www.usajobs.gov/job/854053400",
+    "posted_at": "2026-01-05T00:00:00",
+    "salary": "29-29",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853797500",
     "title": "CYBERSPACE LIAISON OFFICER",
     "organization": "Air Force Elements, U.S. Transportation Command",
@@ -823,37 +1033,6 @@
     "url": "https://www.usajobs.gov/job/853797500",
     "posted_at": "2026-01-05T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853337300",
-    "title": "IT SPECIALIST(INFOSEC)/ CYBER SECURITY SPECIALIST",
-    "organization": "Naval Facilities Engineering Systems Command",
-    "locations": [
-      "Washington Navy Yard, District of Columbia",
-      "Naval Base, Norfolk, Virginia"
-    ],
-    "description": "You will serve as a CYBER SECURITY SPECIALIST in the COMMAND INFORMATION OFFICE of NAVFAC OSF. PAY SCALE FOR LOCATIONS Washington Navy Yard, DC -$102,415-$133,142 Norfolk VA - $ 90,838-$118,092",
-    "url": "https://www.usajobs.gov/job/853337300",
-    "posted_at": "2026-01-05T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852959600",
-    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information. Open to United States CitizensPosition Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, ARMY SYSTEMS, DEBT & FMS SYSTEMS SUSTAINMENT BR, ZTCAC Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
-    "url": "https://www.usajobs.gov/job/852959600",
-    "posted_at": "2026-01-05T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -900,83 +1079,6 @@
     "url": "https://www.usajobs.gov/job/852271700",
     "posted_at": "2026-01-05T00:00:00",
     "salary": "9-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853488900",
-    "title": "Management and Program Analyst",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $89,508 - $ 116,362 Columbus, OH: $93,400 - $121,422 Dayton, OH: $92,841- $120,696 Fort Belvoir, VA: $102,415- $133,142 New Cumberland, PA: $102,415- $133,142 Ogden, UT: $89,508 - $ 116,362 Philadelphia, PA: $98,630- $128,221 Richmond, VA: $93,499- $121,551",
-    "url": "https://www.usajobs.gov/job/853488900",
-    "posted_at": "2026-01-02T12:50:03.683000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853482300",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/853482300",
-    "posted_at": "2026-01-02T11:22:32.013000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853482300",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/853482300",
-    "posted_at": "2026-01-02T11:22:32.013000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853479300",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/853479300",
-    "posted_at": "2026-01-02T11:12:09.020000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853479300",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/853479300",
-    "posted_at": "2026-01-02T11:12:09.020000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1062,34 +1164,6 @@
     "remote": null
   },
   {
-    "job_id": "853260700",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the Global Field Command, RN411 at Scott AFB, IL.",
-    "url": "https://www.usajobs.gov/job/853260700",
-    "posted_at": "2025-12-30T09:40:07.673000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853260700",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the Global Field Command, RN411 at Scott AFB, IL.",
-    "url": "https://www.usajobs.gov/job/853260700",
-    "posted_at": "2025-12-30T09:40:07.673000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853293700",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -1101,50 +1175,6 @@
     "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA OC/DISA GLOBAL Field Command, Operations Division (DG3).",
     "url": "https://www.usajobs.gov/job/853293700",
     "posted_at": "2025-12-30T07:37:20.440000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853293700",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois",
-      "Columbus, Ohio",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA OC/DISA GLOBAL Field Command, Operations Division (DG3).",
-    "url": "https://www.usajobs.gov/job/853293700",
-    "posted_at": "2025-12-30T07:37:20.440000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853292100",
-    "title": "Supervisory Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Beckley, West Virginia"
-    ],
-    "description": "Serves as a supervisory Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at the VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS utilizes supervisory and personnel management authorities and responsibilities.",
-    "url": "https://www.usajobs.gov/job/853292100",
-    "posted_at": "2025-12-30T06:53:53.440000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853292000",
-    "title": "Supervisory Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Beckley, West Virginia"
-    ],
-    "description": "Serves as a supervisory Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at the VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS utilizes supervisory and personnel management authorities and responsibilities.",
-    "url": "https://www.usajobs.gov/job/853292000",
-    "posted_at": "2025-12-30T06:52:49.633000",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -1192,20 +1222,6 @@
     "remote": null
   },
   {
-    "job_id": "853178300",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Columbus, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
-    "url": "https://www.usajobs.gov/job/853178300",
-    "posted_at": "2025-12-29T10:52:07.190000",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853091100",
     "title": "MANAGER",
     "organization": "Naval Sea Systems Command",
@@ -1220,36 +1236,6 @@
     "remote": null
   },
   {
-    "job_id": "853025500",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA Global Field Command, Infrastructure & Services Division (DG42/451/452).",
-    "url": "https://www.usajobs.gov/job/853025500",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853025500",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA Global Field Command, Infrastructure & Services Division (DG42/451/452).",
-    "url": "https://www.usajobs.gov/job/853025500",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853138100",
     "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Threat Reduction Agency",
@@ -1260,6 +1246,20 @@
     "url": "https://www.usajobs.gov/job/853138100",
     "posted_at": "2025-12-23T10:34:54.217000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853040700",
+    "title": "Risk Management Senior Leader",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "DISA provides secure and reliable communications and computing support that enable the President and our military forces to communicate globally through voice, video, and data transmission. DISA is a leader within the Federal Government in implementing \"people programs\" and offers a broad range of quality-of-life and training programs. Go to www.disa.mil for more information.",
+    "url": "https://www.usajobs.gov/job/853040700",
+    "posted_at": "2025-12-23T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1367,6 +1367,36 @@
     "remote": null
   },
   {
+    "job_id": "852646700",
+    "title": "IT SPECIALIST (SYSADMIN)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "China Lake, California",
+      "Point Mugu, California"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/852646700",
+    "posted_at": "2025-12-18T00:00:00",
+    "salary": "3-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852648100",
+    "title": "IT SPECIALIST (SYSADMIN)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "China Lake, California",
+      "Point Mugu, California"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/852648100",
+    "posted_at": "2025-12-17T07:10:17.637000",
+    "salary": "3-5",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "852648100",
     "title": "IT SPECIALIST (SYSADMIN)",
     "organization": "Naval Air Systems Command",
@@ -1396,16 +1426,16 @@
     "remote": null
   },
   {
-    "job_id": "852523000",
-    "title": "Information Technology Support Specialist",
-    "organization": "U.S. Courts",
+    "job_id": "852686500",
+    "title": "Chief Information Officer",
+    "organization": "Headquarters, NASA",
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "The Information Technology Support Specialist provides technical support to judges, chambers staff, and court staff in the areas of installing, configuring, troubleshooting, and repairing IT hardware and software applications, O365 administration, server and network support, and telecommunication systems support for VoIP and cellular phones.The incumbent is also responsible for training judges and court personnel in the use of automated systems and provides support for courtroom technology.",
-    "url": "https://www.usajobs.gov/job/852523000",
-    "posted_at": "2025-12-16T07:55:18.540000",
-    "salary": "25-28",
+    "description": "The Chief Information Officer (CIO) is the principal advisor to NASA leadership and other senior officials on matters pertaining to NASA IT strategy and investments, cybersecurity, records management, data management, artificial intelligence (AI), privacy, and information technology systems, services, and management. Has oversight of more than $2 billion dollars in IT spending with direction and oversight of a blended workforce of over 1,500 civil servants and support service contractors.",
+    "url": "https://www.usajobs.gov/job/852686500",
+    "posted_at": "2025-12-17T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1470,36 +1500,6 @@
     "url": "https://www.usajobs.gov/job/852385900",
     "posted_at": "2025-12-15T00:00:00",
     "salary": "3-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852365900",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852365900",
-    "posted_at": "2025-12-12T14:43:20.070000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852363800",
-    "title": "Attorney",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland",
-      "McLean, Virginia"
-    ],
-    "description": "The Office of General Counsel (OGC) at the ODNI provides legal advice and counsel to the Director of National Intelligence (DNI) and other ODNI officials on a wide range of legal issues to include intelligence and national security law; procurement and acquisition law; personnel law; government ethics, fiscal law; general administrative law; legislative support; government information practices (Freedom of Information Act/Privacy Act); and intellectual property law.",
-    "url": "https://www.usajobs.gov/job/852363800",
-    "posted_at": "2025-12-12T14:42:19.343000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
