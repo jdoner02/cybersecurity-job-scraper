@@ -443,20 +443,6 @@
     "remote": null
   },
   {
-    "job_id": "853810700",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/SYSADMIN)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is: To serve as the Air Mobility Command JWICS network Information System Security Manager, provide management for the JWICS cybersecurity program, with responsibility for security planning, coordination, and security during installation, testing, modifying, upgrading, operation, troubleshooting, maintenance of network. Salary ranges include local market supplements.",
-    "url": "https://www.usajobs.gov/job/853810700",
-    "posted_at": "2026-01-08T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853810100",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSANALYSIS)",
     "organization": "United States Fleet Forces Command",
@@ -669,6 +655,34 @@
     "remote": null
   },
   {
+    "job_id": "853818300",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Portland, Oregon"
+    ],
+    "description": "VA Portland Health Care System is a Complexity Level 1a Facility and provides extensive primary, secondary, tertiary, and quaternary care in outpatient, inpatient, residential, and community settings. VAPORHCS is a multi-site medical system that includes a major medical facility in Portland, Oregon, outpatient and residential facilities in Vancouver, Washington, and 10 Community Based Outpatient Clinics.",
+    "url": "https://www.usajobs.gov/job/853818300",
+    "posted_at": "2026-01-07T14:08:59.283000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853818700",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Portland, Oregon"
+    ],
+    "description": "VA Portland Health Care System is a Complexity Level 1a Facility and provides extensive primary, secondary, tertiary, and quaternary care in outpatient, inpatient, residential, and community settings. VAPORHCS is a multi-site medical system that includes a major medical facility in Portland, Oregon, outpatient and residential facilities in Vancouver, Washington, and 10 Community Based Outpatient Clinics.",
+    "url": "https://www.usajobs.gov/job/853818700",
+    "posted_at": "2026-01-07T14:08:05.193000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853818700",
     "title": "Biomedical Equipment Support Specialist (Information Systems)",
     "organization": "Veterans Health Administration",
@@ -721,20 +735,6 @@
     "url": "https://www.usajobs.gov/job/853834700",
     "posted_at": "2026-01-07T00:00:00",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853773800",
-    "title": "Lead IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Whitehall, Ohio"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Columbus, OH: $131,245- $170,624",
-    "url": "https://www.usajobs.gov/job/853773800",
-    "posted_at": "2026-01-07T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1083,21 +1083,6 @@
     "remote": null
   },
   {
-    "job_id": "853437000",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. This position is located in Defense Information Systems Agency at Scott AFB/Hill AFB, UT.",
-    "url": "https://www.usajobs.gov/job/853437000",
-    "posted_at": "2025-12-31T13:35:25.537000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "847989800",
     "title": "Special Agent - Cybersecurity/Technology Background",
     "organization": "Federal Bureau of Investigation",
@@ -1264,15 +1249,15 @@
     "remote": null
   },
   {
-    "job_id": "853040700",
-    "title": "Risk Management Senior Leader",
-    "organization": "Defense Information Systems Agency",
+    "job_id": "853106600",
+    "title": "Assistant Inspector General for Information Technology Division (Chief Information Officer)",
+    "organization": "Office of the Inspector General",
     "locations": [
-      "Fort Meade, Maryland"
+      "Washington, District of Columbia"
     ],
-    "description": "DISA provides secure and reliable communications and computing support that enable the President and our military forces to communicate globally through voice, video, and data transmission. DISA is a leader within the Federal Government in implementing \"people programs\" and offers a broad range of quality-of-life and training programs. Go to www.disa.mil for more information.",
-    "url": "https://www.usajobs.gov/job/853040700",
-    "posted_at": "2025-12-23T00:00:00",
+    "description": "The Assistant Inspector General (AIG) for Information Technology Division (ITD) position is located in the Department of Justice (DOJ) Office of the Inspector General (OIG). The AIG ITD serves as the Chief Information Officer (CIO), reports to the Deputy Inspector General (DIG), and manages the day-to-day operations of the ITD. Efforts support the OIG workforce, and the OIG's programs and operations designed to promote economy, efficiency, and effectiveness and prevent fraud, waste, and abuse.",
+    "url": "https://www.usajobs.gov/job/853106600",
+    "posted_at": "2025-12-22T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -1288,6 +1273,23 @@
     "url": "https://www.usajobs.gov/job/853106600",
     "posted_at": "2025-12-22T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "852839400",
+    "title": "INTELLIGENCE SPECIALIST - ALTERNATE HIRING AUTHORITY",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Robins AFB, Georgia",
+      "Wright-Patterson AFB, Ohio",
+      "Tinker AFB, Oklahoma",
+      "Hill AFB, Utah"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position, INTELLIGENCE SPECIALIST, GG-0132-13 is to provide cyber intelligence support to software development programs across acquisition and sustainment life cycles.",
+    "url": "https://www.usajobs.gov/job/852839400",
+    "posted_at": "2025-12-19T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
