@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "854111100",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/SYSANALYSIS)",
+    "organization": "AFELM US Space Command",
+    "locations": [
+      "Kirtland AFB, New Mexico"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the Center's Information System Security Manager who is the Director's authority and focal point for cybersecurity and the technical advisor for information technology (IT) policy, plans, and implementations.",
+    "url": "https://www.usajobs.gov/job/854111100",
+    "posted_at": "2026-01-12T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854111100",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC/SYSANALYSIS)",
+    "organization": "AFELM US Space Command",
+    "locations": [
+      "Kirtland AFB, New Mexico"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the Center's Information System Security Manager who is the Director's authority and focal point for cybersecurity and the technical advisor for information technology (IT) policy, plans, and implementations.",
+    "url": "https://www.usajobs.gov/job/854111100",
+    "posted_at": "2026-01-12T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854015400",
+    "title": "TELECOMMUNICATIONS SPECIALIST (CYBER)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Camp Humphreys, South Korea"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA - OC/PACIFIC.",
+    "url": "https://www.usajobs.gov/job/854015400",
+    "posted_at": "2026-01-12T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853961900",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Force Global Strike Command",
+    "locations": [
+      "Minot AFB, North Dakota"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resources requirements.",
+    "url": "https://www.usajobs.gov/job/853961900",
+    "posted_at": "2026-01-12T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854063300",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -439,6 +495,20 @@
     "url": "https://www.usajobs.gov/job/853810700",
     "posted_at": "2026-01-08T00:00:00",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853810100",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSANALYSIS)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Naval Base, Norfolk, Virginia"
+    ],
+    "description": "You will serve as an INFORMATION TECHNOLOGY SPECIALIST (SYSANALYSIS) in the Cybersecurity Division (N61) of the Meteorology and Oceanography Systems and Infrastructure Department (N6) of NAVAVNFCSTCEN.",
+    "url": "https://www.usajobs.gov/job/853810100",
+    "posted_at": "2026-01-08T00:00:00",
+    "salary": "11-12",
     "grade": null,
     "remote": null
   },
@@ -944,34 +1014,6 @@
     "remote": null
   },
   {
-    "job_id": "853574600",
-    "title": "Engineer/Developer - Software/Hardware Research (Capabilities Development Specialist)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions? If so, click here to learn more and apply.",
-    "url": "https://www.usajobs.gov/job/853574600",
-    "posted_at": "2026-01-05T14:20:02.397000",
-    "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853574600",
-    "title": "Engineer/Developer - Software/Hardware Research (Capabilities Development Specialist)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Are you a computer science or computer/electrical engineering professional? Do you have strong software or hardware design, development, testing or reverse engineering skills? Do you want to be part of a team that develops ground breaking solutions? If so, click here to learn more and apply.",
-    "url": "https://www.usajobs.gov/job/853574600",
-    "posted_at": "2026-01-05T14:20:02.397000",
-    "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854053800",
     "title": "IT Security Specialist (Assessment Lead)",
     "organization": "U.S. Courts",
@@ -1145,22 +1187,6 @@
     "url": "https://www.usajobs.gov/job/847981900",
     "posted_at": "2025-12-31T12:29:45.857000",
     "salary": "10-10",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853293700",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois",
-      "Columbus, Ohio",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA OC/DISA GLOBAL Field Command, Operations Division (DG3).",
-    "url": "https://www.usajobs.gov/job/853293700",
-    "posted_at": "2025-12-30T07:37:20.440000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1369,21 +1395,6 @@
     "remote": null
   },
   {
-    "job_id": "852646700",
-    "title": "IT SPECIALIST (SYSADMIN)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "China Lake, California",
-      "Point Mugu, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/852646700",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "3-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "852648100",
     "title": "IT SPECIALIST (SYSADMIN)",
     "organization": "Naval Air Systems Command",
@@ -1502,20 +1513,6 @@
     "url": "https://www.usajobs.gov/job/852385900",
     "posted_at": "2025-12-15T00:00:00",
     "salary": "3-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852300000",
-    "title": "Courtroom Technology Specialist",
-    "organization": "U.S. Courts",
-    "locations": [
-      "Atlanta, Georgia"
-    ],
-    "description": "The United States District Court clerk's office, Atlanta Division, has an opening for a courtroom technology specialist to support and lead the design, implementation, and maintenance of courtroom audio-visual (AV) and IT technologies to ensure reliable, secure, and modern operations. This role requires a blend of strategic vision, technical expertise, and leadership to manage complex projects and ensure smooth, secure, and high-performing technology services in courtroom settings.",
-    "url": "https://www.usajobs.gov/job/852300000",
-    "posted_at": "2025-12-12T09:28:52.217000",
-    "salary": "27-27",
     "grade": null,
     "remote": null
   }

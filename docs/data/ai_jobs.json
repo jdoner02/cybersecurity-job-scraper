@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "853874400",
+    "title": "Information Technology Specialist (System Admin / Customer Support)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Peachtree City, Georgia"
+    ],
+    "description": "About the Position: This position is located in Peachtree City, Georgia with the Department of Defense Education Activity's Information Technology Global Operations Branch. This position is not covered by a bargaining unit.",
+    "url": "https://www.usajobs.gov/job/853874400",
+    "posted_at": "2026-01-12T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "853812800",
+    "title": "Aircraft Pilot (Helicopter) (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "This position is located in the Aircraft Operations Division, Flight Operations Directorate. As a Project Pilot you will pilot aircraft used in the development and test programs; perform flights and ground simulations of advanced missions; and serve as a pilot aboard a helicopter.",
+    "url": "https://www.usajobs.gov/job/853812800",
+    "posted_at": "2026-01-12T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854006800",
     "title": "INFORMATION TECHNOLOGY SPECIALIST",
     "organization": "Drug Enforcement Administration",
