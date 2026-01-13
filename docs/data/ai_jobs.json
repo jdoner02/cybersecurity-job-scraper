@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "854179100",
+    "title": "Data Scientist",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Washington, District of Columbia",
+      "Indianapolis, Indiana",
+      "Minneapolis, Minnesota"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, People Analytics Division, in the following locations: Indianapolis, IN Minneapolis, MN Washington D.C. Salary: Salary listed reflects the rest of U.S. scale and, if applicable, will be adjusted to meet the locality pay or cost of living expenses of the duty location upon selection.",
+    "url": "https://www.usajobs.gov/job/854179100",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854231500",
+    "title": "Research Scientist / Computer Systems Researcher - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. We are looking for you to apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations; join our team of experts!",
+    "url": "https://www.usajobs.gov/job/854231500",
+    "posted_at": "2026-01-12T15:54:24.673000",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853874400",
     "title": "Information Technology Specialist (System Admin / Customer Support)",
     "organization": "Department of Defense Education Activity",
@@ -112,50 +142,6 @@
     "remote": null
   },
   {
-    "job_id": "853594600",
-    "title": "Security Specialist (Nuclear Security Compliance)",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia",
-      "Germantown, Maryland",
-      "Albuquerque, New Mexico"
-    ],
-    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy. As a Security Specialist (Nuclear Security Compliance), you will be responsible for leading teams of subject matter experts in evaluating the effectiveness of safeguards and security (S&S) programs across the Department of Energy and National Nuclear Security Administration complex.",
-    "url": "https://www.usajobs.gov/job/853594600",
-    "posted_at": "2026-01-06T00:00:00",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853545200",
-    "title": "Data Scientist (Supply Chain)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Philadelphia, Pennsylvania"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/853545200",
-    "posted_at": "2026-01-05T11:24:56.800000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853531600",
-    "title": "Data Scientist",
-    "organization": "Joint Activities",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the Fort Meade, MD.",
-    "url": "https://www.usajobs.gov/job/853531600",
-    "posted_at": "2026-01-05T09:57:47.273000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853565600",
     "title": "2026 Summer Library of Congress Intern (Remote)",
     "organization": "Library of Congress",
@@ -180,20 +166,6 @@
     "url": "https://www.usajobs.gov/job/853424500",
     "posted_at": "2026-01-05T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853151700",
-    "title": "Senior Technical Leader, Senior Vehicle Operations Manager",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "The Senior Vehicle Operations Manager (SVOM) reports to the Manager, Exploration Ground Systems (EGS) Program and directly impacts processes, decisions, and implementation policies that span across the Artemis Enterprise and EGS Program, benefit Agency capabilities, and impact critical operations and unique, multibillion dollar assets.",
-    "url": "https://www.usajobs.gov/job/853151700",
-    "posted_at": "2025-12-29T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
