@@ -1,5 +1,147 @@
 [
   {
+    "job_id": "854399800",
+    "title": "Nuclear Engineer",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia",
+      "Germantown, Maryland",
+      "Albuquerque, New Mexico"
+    ],
+    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy (DOE). As a Nuclear Engineer, you will lead or personally conduct assessments, technical analyses, and studies at DOE nuclear facilities and laboratories with teams of DOE and contractor experts.",
+    "url": "https://www.usajobs.gov/job/854399800",
+    "posted_at": "2026-01-14T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854392400",
+    "title": "Criminal Investigator",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Criminal Investigator, you will ensure the safety and evacuation of Departmental Leadership during and following emergency/disaster situations, ensuring they are available to continue the essential functions of the Department and the Government.",
+    "url": "https://www.usajobs.gov/job/854392400",
+    "posted_at": "2026-01-14T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854362700",
+    "title": "Aerospace Engineer, AST, Flight Systems Test",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "As an Aerospace Engineer with the Mechanical Engineering Branch, you will be responsible for thermal and fluid analysis of liquid, gas, and cryogenic liquid systems in the area of rocket propulsion testing. You will work on project teams to support government and commercial customers who are testing engines and engine components at Stennis Space Center. You will provide engineering solutions when problems arise and monitor corrective actions through completion.",
+    "url": "https://www.usajobs.gov/job/854362700",
+    "posted_at": "2026-01-14T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854280100",
+    "title": "Director, National Laboratory Programs",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Technology Commercialization, Department of Energy. As an Director, National Laboratory Programs, you will coordinate strategic partnership efforts and administer various programs and initiatives to accelerate the development and commercialization of mission-relevant technologies.",
+    "url": "https://www.usajobs.gov/job/854280100",
+    "posted_at": "2026-01-13T13:10:26.940000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854279200",
+    "title": "Chief Data Officer (CDO), EM-0301-00 (Public)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000.",
+    "url": "https://www.usajobs.gov/job/854279200",
+    "posted_at": "2026-01-13T09:13:19.740000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854278500",
+    "title": "Chief Data Officer (CDO), EM-0301-00 (Merit Promotion)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000.",
+    "url": "https://www.usajobs.gov/job/854278500",
+    "posted_at": "2026-01-13T09:10:58.327000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854276200",
+    "title": "Director, Division of Finance, EM-0501-00 (Public)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
+    "url": "https://www.usajobs.gov/job/854276200",
+    "posted_at": "2026-01-13T08:58:28.350000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854276000",
+    "title": "Director, Division of Finance, EM-0501-00 (Merit Promotion)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
+    "url": "https://www.usajobs.gov/job/854276000",
+    "posted_at": "2026-01-13T08:57:35.760000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854275000",
+    "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Public)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
+    "url": "https://www.usajobs.gov/job/854275000",
+    "posted_at": "2026-01-13T08:54:11.447000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854274000",
+    "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Merit Promotion)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
+    "url": "https://www.usajobs.gov/job/854274000",
+    "posted_at": "2026-01-13T08:51:14.667000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854179100",
     "title": "Data Scientist",
     "organization": "Customs and Border Protection",
@@ -26,6 +168,20 @@
     "url": "https://www.usajobs.gov/job/854231500",
     "posted_at": "2026-01-12T15:54:24.673000",
     "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854281700",
+    "title": "IT Project Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "The National Counterterrorism Center (NCTC) leads the nation's effort to protect the United States from terrorism by integrating, analyzing and sharing information to drive whole-of-government action and achieve our national CT objectives.",
+    "url": "https://www.usajobs.gov/job/854281700",
+    "posted_at": "2026-01-12T00:00:00",
+    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -96,20 +252,6 @@
     "url": "https://www.usajobs.gov/job/853980500",
     "posted_at": "2026-01-09T00:00:00",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853898300",
-    "title": "IT Cybersecurity Specialist (Infosec)",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position provides technical direction and guidance to staff providing system cybersecurity engineering, information system security officers, and information system security mangers of the Advana program and ecosystem by preparing: cybersecurity road maps, reviewing and approving Advana ecosystem cybersecurity increment milestones, deliverables, justifications for current and proposed changes to the platform to maintain the security and reduce risk of the overall Advana ecosystem.",
-    "url": "https://www.usajobs.gov/job/853898300",
-    "posted_at": "2026-01-09T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -194,20 +336,6 @@
     "url": "https://www.usajobs.gov/job/852864700",
     "posted_at": "2025-12-18T15:25:12.387000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852686500",
-    "title": "Chief Information Officer",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Chief Information Officer (CIO) is the principal advisor to NASA leadership and other senior officials on matters pertaining to NASA IT strategy and investments, cybersecurity, records management, data management, artificial intelligence (AI), privacy, and information technology systems, services, and management. Has oversight of more than $2 billion dollars in IT spending with direction and oversight of a blended workforce of over 1,500 civil servants and support service contractors.",
-    "url": "https://www.usajobs.gov/job/852686500",
-    "posted_at": "2025-12-17T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   }
