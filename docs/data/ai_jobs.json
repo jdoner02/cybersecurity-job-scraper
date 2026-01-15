@@ -1,17 +1,57 @@
 [
   {
-    "job_id": "854399800",
-    "title": "Nuclear Engineer",
+    "job_id": "854507000",
+    "title": "Supervisory Criminal Investigator",
     "organization": "Department of Energy - Agency Wide",
     "locations": [
-      "Washington, District of Columbia",
-      "Germantown, Maryland",
-      "Albuquerque, New Mexico"
+      "Washington, District of Columbia"
     ],
-    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy (DOE). As a Nuclear Engineer, you will lead or personally conduct assessments, technical analyses, and studies at DOE nuclear facilities and laboratories with teams of DOE and contractor experts.",
-    "url": "https://www.usajobs.gov/job/854399800",
-    "posted_at": "2026-01-14T00:00:00",
-    "salary": "15-15",
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Supervisory Criminal Investigator, you will serve as the Threat Management Special Agent for the Office of Executive Protection with the responsibility for developing executive protection intelligence and threat assessment products in support of the Office of Executive Protection.",
+    "url": "https://www.usajobs.gov/job/854507000",
+    "posted_at": "2026-01-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854498100",
+    "title": "IT SPECIALIST (APPSW/SYSANALYSIS)",
+    "organization": "Air Force Global Strike Command",
+    "locations": [
+      "Barksdale AFB, Louisiana"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to: Serve as the enterprise system architect and administrator of MAJCOM Commander's Resolution and Tracking Mechanism (CRTM) to ensure program compatibility, architecture, interfaces and design to include coding, testing, debugging, maintaining, and interpreting functional requirements.",
+    "url": "https://www.usajobs.gov/job/854498100",
+    "posted_at": "2026-01-15T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854468100",
+    "title": "Contract Specialist - DIRECT HIRE",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administrator (DEA), Financial Management Division (FC), Office of Acquisition (FA). This position(s) primary purpose is to lead and carry out operations in the area of contract operations, acquisition policy development, implementation, and compliance activities of DEA-wide-level regulations and support for acquisition systems throughout DEA and in coordination with DOJ.",
+    "url": "https://www.usajobs.gov/job/854468100",
+    "posted_at": "2026-01-15T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854459200",
+    "title": "Research Health Science Specialist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Allston, Massachusetts"
+    ],
+    "description": "Please note: There is no pay associated with this position. This position serves as Without Compensation Research Health Science Specialist within the Office of Research and Development (ORD). The VA Research Program strives to promote Veteran-centered care to improve patient experiences and outcomes across VA healthcare and community settings, and to advance value-driven care by providing Veterans the highest quality care at the lowest financial burden.",
+    "url": "https://www.usajobs.gov/job/854459200",
+    "posted_at": "2026-01-15T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -24,8 +64,24 @@
     ],
     "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Criminal Investigator, you will ensure the safety and evacuation of Departmental Leadership during and following emergency/disaster situations, ensuring they are available to continue the essential functions of the Department and the Government.",
     "url": "https://www.usajobs.gov/job/854392400",
-    "posted_at": "2026-01-14T00:00:00",
+    "posted_at": "2026-01-14T14:21:39.793000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854446100",
+    "title": "Nuclear Engineer",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia",
+      "Germantown, Maryland",
+      "Albuquerque, New Mexico"
+    ],
+    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy (DOE). As a Nuclear Engineer, you will lead or personally conduct assessments, technical analyses, and studies at DOE nuclear facilities and laboratories with teams of DOE and contractor experts.",
+    "url": "https://www.usajobs.gov/job/854446100",
+    "posted_at": "2026-01-14T09:53:04.743000",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -58,34 +114,6 @@
     "remote": null
   },
   {
-    "job_id": "854279200",
-    "title": "Chief Data Officer (CDO), EM-0301-00 (Public)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000.",
-    "url": "https://www.usajobs.gov/job/854279200",
-    "posted_at": "2026-01-13T09:13:19.740000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854278500",
-    "title": "Chief Data Officer (CDO), EM-0301-00 (Merit Promotion)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000.",
-    "url": "https://www.usajobs.gov/job/854278500",
-    "posted_at": "2026-01-13T09:10:58.327000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854276200",
     "title": "Director, Division of Finance, EM-0501-00 (Public)",
     "organization": "Federal Deposit Insurance Corporation",
@@ -114,15 +142,43 @@
     "remote": null
   },
   {
-    "job_id": "854275000",
+    "job_id": "854510800",
     "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Public)",
     "organization": "Federal Deposit Insurance Corporation",
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
-    "url": "https://www.usajobs.gov/job/854275000",
-    "posted_at": "2026-01-13T08:54:11.447000",
+    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
+    "url": "https://www.usajobs.gov/job/854510800",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854508600",
+    "title": "Chief Data Officer (CDO), EM-0301-00 (Public)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
+    "url": "https://www.usajobs.gov/job/854508600",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854278500",
+    "title": "Chief Data Officer (CDO), EM-0301-00 (Merit Promotion)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
+    "url": "https://www.usajobs.gov/job/854278500",
+    "posted_at": "2026-01-13T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -134,9 +190,9 @@
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
+    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
     "url": "https://www.usajobs.gov/job/854274000",
-    "posted_at": "2026-01-13T08:51:14.667000",
+    "posted_at": "2026-01-13T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -224,20 +280,6 @@
     "url": "https://www.usajobs.gov/job/854006800",
     "posted_at": "2026-01-09T07:06:14.983000",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854005600",
-    "title": "Data Scientist - Experienced to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Newly hired Data Scientists will be assigned to a mission office by aligning their data science skills with mission needs. Due to the challenging and evolving nature of NSA data science problems, Data Scientists are expected to continue broadening and deepening their expertise throughout their career. NSA data science is collaborative and you are expected to work with NSA experts in data science, related technical domains, and specialized subject areas.",
-    "url": "https://www.usajobs.gov/job/854005600",
-    "posted_at": "2026-01-09T06:31:39.080000",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   },
