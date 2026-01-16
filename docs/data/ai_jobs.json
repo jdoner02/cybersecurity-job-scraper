@@ -1,5 +1,90 @@
 [
   {
+    "job_id": "854696700",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/854696700",
+    "posted_at": "2026-01-16T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854544200",
+    "title": "DISTINGUISED SCIENTIST/ENGINEER FOR ENERGETIC SYSTEMS",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Indian Head, Maryland"
+    ],
+    "description": "You will serve as the Distinguished Scientist/Engineer for Energetic Systems at the Naval Surface Warfare Center, Indian Head Division, Naval Sea Systems Command. This position is a direct report to the Technical Director who serves as an SES. This position will serve as the DON senior technical energetic systems expert for Navy and DoD- related programs, and on issues for other Navy, DoD, and DOE laboratories; academic institutions; and private corporations.",
+    "url": "https://www.usajobs.gov/job/854544200",
+    "posted_at": "2026-01-16T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854620700",
+    "title": "Systems Engineer - Entry to Mid Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As an Engineering and Physical Science professional, you will leverage your skills to develop and enhance systems and tools that support intelligence operations. Your responsibilities will include advising on, administering, and performing scientific projects such as planning, designing, and constructing specialized equipment. By applying your science and engineering skills, you will make a significant contribution to protecting the nation.",
+    "url": "https://www.usajobs.gov/job/854620700",
+    "posted_at": "2026-01-15T11:33:44.060000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854604700",
+    "title": "IT Solutions Development Specialist",
+    "organization": "Federal Acquisition Service",
+    "locations": [
+      "San Francisco, California",
+      "Lakewood, Colorado",
+      "Washington, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas",
+      "Tacoma, Washington"
+    ],
+    "description": "As an Information Technology Solutions Development Specialist, you will serve as a senior expert in solutions development related to Information Technology (IT). Location of position: Federal Acquisition Service (FAS) - Office of the FAS Commissioner - Office of IT Category (QT3). San Francisco, CA; Lakewood, CO; Washington, DC; Atlanta, GA; Chicago, IL; Boston, MA; Kansas City, MO; New York, NY; Philadelphia, PA; Fort Worth, TX and/or Tacoma, WA.",
+    "url": "https://www.usajobs.gov/job/854604700",
+    "posted_at": "2026-01-15T10:33:29.447000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854507000",
     "title": "Supervisory Criminal Investigator",
     "organization": "Department of Energy - Agency Wide",
@@ -280,20 +365,6 @@
     "url": "https://www.usajobs.gov/job/854006800",
     "posted_at": "2026-01-09T07:06:14.983000",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853980500",
-    "title": "Fire Protection Engineer",
-    "organization": "Langley Research Center",
-    "locations": [
-      "Hampton, Virginia"
-    ],
-    "description": "You will serve as the Fire Protection Engineer / Authority Having Jurisdiction (AHJ) and will be responsible for the prevention, identification, mitigation, and investigation of fire hazards on people, structures, and commodities in order to ensure continuity of operations at NASA Langley Research Center (LaRC).",
-    "url": "https://www.usajobs.gov/job/853980500",
-    "posted_at": "2026-01-09T00:00:00",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
