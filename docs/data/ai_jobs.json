@@ -1,5 +1,96 @@
 [
   {
+    "job_id": "854817200",
+    "title": "IT Specialist (Artificial Intelligence)",
+    "organization": "Department of the Treasury - Agency Wide",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position may be filled within any Treasury Bureau. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
+    "url": "https://www.usajobs.gov/job/854817200",
+    "posted_at": "2026-01-16T16:11:08.453000",
+    "salary": "12-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854776600",
+    "title": "General Engineer",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA), Office of Technology Evaluation (OTE), Emerging Technology Division (ETD). ETD identifies and analyzes emerging and foundational technologies that are essential to the national security of the United States, pursuant to Section 1758 of the Export Control Reform Act (ECRA) of 2018. You are encouraged to apply!",
+    "url": "https://www.usajobs.gov/job/854776600",
+    "posted_at": "2026-01-16T12:38:20.217000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854771400",
+    "title": "General Engineer",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA), Office of Technology Evaluation (OTE), Emerging Technology Division (ETD). ETD identifies and analyzes emerging and foundational technologies that are essential to the national security of the United States, pursuant to Section 1758 of the Export Control Reform Act (ECRA) of 2018. You are encouraged to apply!",
+    "url": "https://www.usajobs.gov/job/854771400",
+    "posted_at": "2026-01-16T12:01:04.580000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854766100",
+    "title": "Trial Attorney (Enforcement and Affirmative Litigation Branch)",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Enforcement and Affirmative Litigation Branch seeks experienced attorneys to bring high-impact affirmative litigation to protect public health and safety and ensure nationwide compliance with federal law. Attorneys will litigate cutting-edge matters, enforce key consumer protection statutes, and challenge laws that undermine federal policy. For meaningful responsibility and impactful public service, the Branch offers a front-line role in the Department's major civil enforcement initiatives.",
+    "url": "https://www.usajobs.gov/job/854766100",
+    "posted_at": "2026-01-16T11:55:49.177000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854753900",
+    "title": "Chief Transformation and Modernization Officer",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Whitehall, Ohio"
+    ],
+    "description": "The position serves as the Chief Transformation and Modernization Officer (CTMO) leading the development and execution of comprehensive transformation strategy, modernization of business practices and development of innovative approaches to optimize the Agency's accounting and finance mission. The position is assigned to Defense Finance and Accounting Service (DFAS) Headquarters. One position is available, which may be located at Indianapolis, IN; Cleveland, OH; or Whitehall (Columbus), OH.",
+    "url": "https://www.usajobs.gov/job/854753900",
+    "posted_at": "2026-01-16T10:35:28.783000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854696700",
     "title": "Marine Interdiction Agent",
     "organization": "Customs and Border Protection",
@@ -185,6 +276,20 @@
     "remote": null
   },
   {
+    "job_id": "854326500",
+    "title": "Digital Product Manager ",
+    "organization": "National Gallery of Art",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The National Gallery of Art welcomes all people to explore art, creativity, and our shared humanity. Nearly four million people come through our doors each year\u2014with millions more online\u2014making us one of the most visited art museums in the world. Our renowned collection includes nearly 160,000 works of art, from the ancient world to today. Admission to the West and East Buildings, Sculpture Garden, special exhibitions, and public programs is always free.",
+    "url": "https://www.usajobs.gov/job/854326500",
+    "posted_at": "2026-01-14T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854280100",
     "title": "Director, National Laboratory Programs",
     "organization": "Department of Energy - Agency Wide",
@@ -327,20 +432,6 @@
     "remote": null
   },
   {
-    "job_id": "853874400",
-    "title": "Information Technology Specialist (System Admin / Customer Support)",
-    "organization": "Department of Defense Education Activity",
-    "locations": [
-      "Peachtree City, Georgia"
-    ],
-    "description": "About the Position: This position is located in Peachtree City, Georgia with the Department of Defense Education Activity's Information Technology Global Operations Branch. This position is not covered by a bargaining unit.",
-    "url": "https://www.usajobs.gov/job/853874400",
-    "posted_at": "2026-01-12T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853812800",
     "title": "Aircraft Pilot (Helicopter) (Direct Hire)",
     "organization": "Lyndon B. Johnson Space Center",
@@ -421,34 +512,6 @@
     "url": "https://www.usajobs.gov/job/853424500",
     "posted_at": "2026-01-05T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852880900",
-    "title": "GENERAL ENGINEER - Direct Hire Authority",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Eglin AFB, Florida"
-    ],
-    "description": "Veteran's preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to perform as the Senior Test Engineer within the Advanced Capabilities Flight of the 40th Flight Test Squadron.",
-    "url": "https://www.usajobs.gov/job/852880900",
-    "posted_at": "2025-12-18T17:03:29.837000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852864700",
-    "title": "SUPERVISORY GENERAL ENGINEER/DATA SCIENTIST/OPS RESEARCH ANALYST- DIRECT HIRE AUTHORITY",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Eglin AFB, Florida"
-    ],
-    "description": "Veteran's preference does not apply to DHA recruitment Click on \"Learn more about this agency\" button below for more information. In this position, you will supervise the Advanced Capabilities Flight at the 40th Flight Test Squadron.",
-    "url": "https://www.usajobs.gov/job/852864700",
-    "posted_at": "2025-12-18T15:25:12.387000",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   }
