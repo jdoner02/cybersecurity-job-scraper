@@ -1,38 +1,5 @@
 [
   {
-    "job_id": "854817200",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "Department of the Treasury - Agency Wide",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position may be filled within any Treasury Bureau. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
-    "url": "https://www.usajobs.gov/job/854817200",
-    "posted_at": "2026-01-16T16:11:08.453000",
-    "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854786700",
     "title": "Desktop Support Specialist",
     "organization": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
@@ -99,6 +66,39 @@
     "url": "https://www.usajobs.gov/job/854770300",
     "posted_at": "2026-01-16T11:55:51.947000",
     "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854817200",
+    "title": "IT Specialist (Artificial Intelligence)",
+    "organization": "Department of the Treasury - Agency Wide",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position may be filled within any Treasury Bureau. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
+    "url": "https://www.usajobs.gov/job/854817200",
+    "posted_at": "2026-01-16T00:00:00",
+    "salary": "12-15",
     "grade": null,
     "remote": null
   },
@@ -537,6 +537,34 @@
     "remote": null
   },
   {
+    "job_id": "854467100",
+    "title": "IT Cybersecurity Manager (PLCYPLN-INFOSEC)",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Martinsburg, West Virginia"
+    ],
+    "description": "This vacancy is for a GS-2210-15, IT Cybersecurity Manager (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC BUSINESS OPERATIONS DIVISION in Martinsburg, West Virginia.",
+    "url": "https://www.usajobs.gov/job/854467100",
+    "posted_at": "2026-01-14T11:04:47.763000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854380100",
+    "title": "Supervisory IT Cybersecurity Specialist (DEV/DTA)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer, Application Services Branch, Software Solutions Program, as a leader in application development offers the opportunity to guide talented teams of developers and technologists in delivering high-quality, mission-driven solutions. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/854380100",
+    "posted_at": "2026-01-14T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854380100",
     "title": "Supervisory IT Cybersecurity Specialist (DEV/DTA)",
     "organization": "U.S. Secret Service",
@@ -758,6 +786,20 @@
     "remote": null
   },
   {
+    "job_id": "854510800",
+    "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Public)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
+    "url": "https://www.usajobs.gov/job/854510800",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854364700",
     "title": "Information System Security Manager (ISSM) NF5",
     "organization": "U.S. Marine Corps",
@@ -768,6 +810,20 @@
     "url": "https://www.usajobs.gov/job/854364700",
     "posted_at": "2026-01-13T00:00:00",
     "salary": "05-05",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854274000",
+    "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Merit Promotion)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
+    "url": "https://www.usajobs.gov/job/854274000",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -883,20 +939,6 @@
     "url": "https://www.usajobs.gov/job/854195000",
     "posted_at": "2026-01-12T13:19:53.513000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854191000",
-    "title": "Supervisory IT Specialist (System Analysis)",
-    "organization": "Commander, Navy Installations",
-    "locations": [
-      "Millington, Tennessee"
-    ],
-    "description": "This position is assigned to the Enterprise Applications & Support Branch (N6Q2); NAF Systems Division (N6Q); Commander, Navy Installation Command (CNIC), Millington, TN. The incumbent serves as a Headquarters (HQ) Supervisory IT Specialist performing the evaluation, analysis, configuration, and delivery of business systems and support services for enterprise applications across CNIC NAF operations. The position ensures system functionality, business alignments, data integrity, and user support.",
-    "url": "https://www.usajobs.gov/job/854191000",
-    "posted_at": "2026-01-12T12:54:32.273000",
-    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -1041,6 +1083,20 @@
     "remote": null
   },
   {
+    "job_id": "853950900",
+    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC) (Title 5)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Des Moines, Iowa"
+    ],
+    "description": "IOWA AIR NATIONAL GUARD - TITLE 5 EXCEPTED SERVICE POSITION Open to current members of the Iowa Air and Army National Guard (Title 32 Military Technicians, Title 5 Civilians, Drill Status, M-Day). Do you meet this requirement? LOCATION: 132d Wing, Des Moines, IA",
+    "url": "https://www.usajobs.gov/job/853950900",
+    "posted_at": "2026-01-08T14:10:31.303000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853928400",
     "title": "IT SPEC(CUSTSPT)",
     "organization": "Field Operating Offices of the Office of the Secretary of the Army",
@@ -1093,27 +1149,6 @@
     "url": "https://www.usajobs.gov/job/853963100",
     "posted_at": "2026-01-08T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853871500",
-    "title": "PROGRAM ANALYST",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $106,437 - $138,370 Columbus, OH: $111,065- $144,386 Dayton, OH: $110,401- $143,523 Fort Belvoir, VA: $121,785- $158,322 New Cumberland, PA: $121,785- $158,322 Ogden, UT: $106,437 - $138,370 Philadelphia, PA: $117,284- $152,471 Richmond, VA: $111,183- $144,540",
-    "url": "https://www.usajobs.gov/job/853871500",
-    "posted_at": "2026-01-08T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1204,6 +1239,20 @@
     "remote": null
   },
   {
+    "job_id": "853780600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Rome, New York"
+    ],
+    "description": "THIS IS A NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION. This National Guard position is for a IT CYBERSECURITY SPECIALIST (INFOSEC), Position Description Number T5895000. This position is located at the 224th, Rome, National Guard. This vacancy does not meet the criteria for appointment of annuitants. Veterans' preference does not apply to this vacancy due to internal merit promotion. This is a Temporary NTE 1 year position.",
+    "url": "https://www.usajobs.gov/job/853780600",
+    "posted_at": "2026-01-07T12:33:31.080000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853857800",
     "title": "Special Assistant",
     "organization": "House of Representatives",
@@ -1232,20 +1281,6 @@
     "remote": null
   },
   {
-    "job_id": "853773800",
-    "title": "Lead IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Whitehall, Ohio"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Columbus, OH: $131,245- $170,624",
-    "url": "https://www.usajobs.gov/job/853773800",
-    "posted_at": "2026-01-07T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853714700",
     "title": "SUPERVISORY OPERATIONS ANALYST",
     "organization": "AFELM US Space Command",
@@ -1270,27 +1305,6 @@
     "url": "https://www.usajobs.gov/job/853664600",
     "posted_at": "2026-01-06T12:27:13.343000",
     "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853693700",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $89,508 - $ 116,362 Columbus, OH: $93,400 - $121,422 Dayton, OH: $92,841- $120,696 Fort Belvoir, VA: $102,415- $133,142 New Cumberland, PA: $102,415- $133,142 Ogden, UT: $89,508 - $ 116,362 Philadelphia, PA: $98,630- $128,221 Richmond, VA: $93,499- $121,551",
-    "url": "https://www.usajobs.gov/job/853693700",
-    "posted_at": "2026-01-06T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1511,35 +1525,6 @@
     "url": "https://www.usajobs.gov/job/852801600",
     "posted_at": "2025-12-19T00:00:00",
     "salary": "3-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852822300",
-    "title": "IT Support Supervisor",
-    "organization": "U.S. Courts",
-    "locations": [
-      "Tampa, Florida"
-    ],
-    "description": "The IT Support Supervisor performs first-line supervisory work related to automated systems within the Court, including system and application introduction, operation, coordination, and integration. The incumbent is responsible for supervising systems training and for overseeing the effectiveness of all office automation equipment within the Court. The IT Support Supervisor directs staff and ensures compliance with the appropriate guidelines, policies, and internal controls.",
-    "url": "https://www.usajobs.gov/job/852822300",
-    "posted_at": "2025-12-18T12:21:40.953000",
-    "salary": "29-30",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852646700",
-    "title": "IT SPECIALIST (SYSADMIN)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "China Lake, California",
-      "Point Mugu, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/852646700",
-    "posted_at": "2025-12-18T00:00:00",
-    "salary": "3-4",
     "grade": null,
     "remote": null
   }
