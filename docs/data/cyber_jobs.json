@@ -1,5 +1,76 @@
 [
   {
+    "job_id": "854766000",
+    "title": "Head of Cybersecurity (CISO)",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "The Head of Cybersecurity serves as the Chief Information Security Officer (CISO) for the Social Security Administration (SSA). The incumbent leads the agency's comprehensive cybersecurity security program, providing strategic direction for the development and implementation of IT security policies, procedures, and operations to protect SSA's information systems and sensitive personal information for millions of Americans.",
+    "url": "https://www.usajobs.gov/job/854766000",
+    "posted_at": "2026-01-19T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854674800",
+    "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (NETWORK/CUSTSPT)-Direct Hire Authority",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Holloman AFB, New Mexico"
+    ],
+    "description": "Veteran's preference does not apply to DHA recruitment. Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to exercise supervisory personnel management responsibilities, plan, organize, and direct cyber, IT, or information/knowledge management (IM) activities which comply with legal and regulatory requirements, coordinates with program and project managers and serves as senior technical advisor on cyber, IT, or IM activities.",
+    "url": "https://www.usajobs.gov/job/854674800",
+    "posted_at": "2026-01-19T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854661300",
+    "title": "IT SPECIALIST (INFOSEC)-Direct Hire Authority",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Eglin AFB, Florida"
+    ],
+    "description": "Veteran's preference does not apply to DHA recruitment Click on \"Learn more about this agency\" button below for more information. The primary purpose of this position is to Administers the Cybersecurity Program while applying cybersecurity principles, methods and security products to protect and maintain the availability, integrity, confidentiality and accountability of information system resources and information processed throughout the system's life cycle.",
+    "url": "https://www.usajobs.gov/job/854661300",
+    "posted_at": "2026-01-19T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854633200",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "Naval Facilities Engineering Systems Command",
+    "locations": [
+      "Washington Navy Yard, District of Columbia",
+      "Norfolk, Virginia"
+    ],
+    "description": "You will serve as a SUPERVISORY IT SPECIALIST (PLCYPLN/INFOSEC) in the Command Information Office (CIO) of NAVFAC OSF. Salary will be set based upon location selected: Washington Navy Yard: $169,279.00 to $197,200.00 Norfolk, Virginia: $150,144.00 to $195,190.00",
+    "url": "https://www.usajobs.gov/job/854633200",
+    "posted_at": "2026-01-19T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854609700",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the PROFESSIONAL Work Category at the SENIOR Work Level within the CES Occupational Structure. It is located in the DISA - IT/J6 Command, Control, Communications, and Computers Enterprise Directorate.",
+    "url": "https://www.usajobs.gov/job/854609700",
+    "posted_at": "2026-01-19T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854786700",
     "title": "Desktop Support Specialist",
     "organization": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
@@ -723,6 +794,20 @@
     "remote": null
   },
   {
+    "job_id": "854324000",
+    "title": "Supervisory Cybersecurity Specialist (PMA/ARC)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer, Network Management Section, IT & Communications Infrastructure Branch, IT Operations Program, provides an opportunity to leverage your technological expertise to maintain and modernize the US Secret Service's Information Technology and Communications infrastructure. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/854324000",
+    "posted_at": "2026-01-13T12:00:30.407000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854299100",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -928,21 +1013,6 @@
     "remote": null
   },
   {
-    "job_id": "854195000",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Whitehall, Ohio",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Columbus, OH: $92,475 - $120,222 Richmond, VA: $92,573- $120,350",
-    "url": "https://www.usajobs.gov/job/854195000",
-    "posted_at": "2026-01-12T13:19:53.513000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854168800",
     "title": "SUPV IT CYBERSECURITY SPECIALIST",
     "organization": "Defense Commissary Agency",
@@ -1065,20 +1135,6 @@
     "url": "https://www.usajobs.gov/job/853748400",
     "posted_at": "2026-01-09T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853950900",
-    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC) (Title 5)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Des Moines, Iowa"
-    ],
-    "description": "IOWA AIR NATIONAL GUARD - TITLE 5 EXCEPTED SERVICE POSITION Open to current members of the Iowa Air and Army National Guard (Title 32 Military Technicians, Title 5 Civilians, Drill Status, M-Day). Do you meet this requirement? LOCATION: 132d Wing, Des Moines, IA",
-    "url": "https://www.usajobs.gov/job/853950900",
-    "posted_at": "2026-01-08T14:10:31.303000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1295,20 +1351,6 @@
     "remote": null
   },
   {
-    "job_id": "853664600",
-    "title": "Applied Research Mathematician / Quantum Computing - Mid to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252528",
-    "url": "https://www.usajobs.gov/job/853664600",
-    "posted_at": "2026-01-06T12:27:13.343000",
-    "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853539600",
     "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -1455,20 +1497,6 @@
     "remote": null
   },
   {
-    "job_id": "853350700",
-    "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. Apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations, join our team of experts!",
-    "url": "https://www.usajobs.gov/job/853350700",
-    "posted_at": "2025-12-30T00:00:00",
-    "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853263900",
     "title": "Compliance Specialist",
     "organization": "National Oceanic and Atmospheric Administration",
@@ -1493,38 +1521,6 @@
     "url": "https://www.usajobs.gov/job/853106600",
     "posted_at": "2025-12-22T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852839400",
-    "title": "INTELLIGENCE SPECIALIST - ALTERNATE HIRING AUTHORITY",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Robins AFB, Georgia",
-      "Wright-Patterson AFB, Ohio",
-      "Tinker AFB, Oklahoma",
-      "Hill AFB, Utah"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position, INTELLIGENCE SPECIALIST, GG-0132-13 is to provide cyber intelligence support to software development programs across acquisition and sustainment life cycles.",
-    "url": "https://www.usajobs.gov/job/852839400",
-    "posted_at": "2025-12-19T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852801600",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "China Lake, California",
-      "Point Mugu, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/852801600",
-    "posted_at": "2025-12-19T00:00:00",
-    "salary": "3-5",
     "grade": null,
     "remote": null
   }
