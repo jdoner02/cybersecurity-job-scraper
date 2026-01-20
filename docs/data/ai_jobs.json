@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "854825400",
+    "title": "Intelligence Research Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "As the Intelligence Research Specialist you will serve as the principal intelligence advisor to organizational leadership and programs through specialized reports/briefings on critical issues. You will conduct research, analyze data, and present findings with a focus on space, counterspace, and emerging technologies. You will assess threats, integrate intelligence from multiple sources, and engage with interagency analysts to ensure information is accurate and briefed to the correct audience.",
+    "url": "https://www.usajobs.gov/job/854825400",
+    "posted_at": "2026-01-20T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854776600",
     "title": "General Engineer",
     "organization": "Bureau of Industry and Security",
@@ -386,20 +400,6 @@
     "url": "https://www.usajobs.gov/job/854179100",
     "posted_at": "2026-01-13T00:00:00",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854231500",
-    "title": "Research Scientist / Computer Systems Researcher - Mid to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. We are looking for you to apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations; join our team of experts!",
-    "url": "https://www.usajobs.gov/job/854231500",
-    "posted_at": "2026-01-12T15:54:24.673000",
-    "salary": "11-15",
     "grade": null,
     "remote": null
   },

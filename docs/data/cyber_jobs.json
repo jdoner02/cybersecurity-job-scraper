@@ -1,5 +1,91 @@
 [
   {
+    "job_id": "854804200",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Charleston AFB, South Carolina"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program.",
+    "url": "https://www.usajobs.gov/job/854804200",
+    "posted_at": "2026-01-20T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854801900",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, Government Purchase Card (GPC) program, and more.",
+    "url": "https://www.usajobs.gov/job/854801900",
+    "posted_at": "2026-01-20T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854646600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/854646600",
+    "posted_at": "2026-01-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854646600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/854646600",
+    "posted_at": "2026-01-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854364500",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/854364500",
+    "posted_at": "2026-01-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854364500",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/854364500",
+    "posted_at": "2026-01-20T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854766000",
     "title": "Head of Cybersecurity (CISO)",
     "organization": "Social Security Administration",
@@ -53,6 +139,20 @@
     "url": "https://www.usajobs.gov/job/854633200",
     "posted_at": "2026-01-19T00:00:00",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854609700",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the PROFESSIONAL Work Category at the SENIOR Work Level within the CES Occupational Structure. It is located in the DISA - IT/J6 Command, Control, Communications, and Computers Enterprise Directorate.",
+    "url": "https://www.usajobs.gov/job/854609700",
+    "posted_at": "2026-01-19T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -364,20 +464,6 @@
     "remote": null
   },
   {
-    "job_id": "854580600",
-    "title": "IT Cybersecurity Specialist (NET/ARC)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer, IT & Communications Infrastructure Branch will allow you to develop, implement, and sustain information technology to support the agency's protective and investigative mission. This is a Direct Hire Authority (DHA) solicitation. Veterans' preference does not apply. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/854580600",
-    "posted_at": "2026-01-15T08:42:14.953000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854572600",
     "title": "Information  Technology Specialist (APPSW/DATAMGT)",
     "organization": "Defense Contract Audit Agency",
@@ -422,6 +508,21 @@
     "remote": null
   },
   {
+    "job_id": "854539200",
+    "title": "Supervisory IT Cybersecurity Specialist (INFOSEC) (Program Manager)",
+    "organization": "Defense POW/MIA Accounting Agency",
+    "locations": [
+      "Hickam AFB, Hawaii",
+      "Arlington, Virginia"
+    ],
+    "description": "The mission of the Defense POW/MIA Accounting Agency (DPAA) is to provide the fullest possible accounting for our missing personnel from our Nation's past conflicts to their families and our Nation. DPAA personnel research, investigate, recover, and identify remains of DOD personnel unaccounted for from World War II, Korean War, Vietnam War, Cold War, Iraq conflicts and the Persian Gulf War. The DPAA Director (SES-3) reports to the Under Secretary of Defense for Policy (USD(P)).",
+    "url": "https://www.usajobs.gov/job/854539200",
+    "posted_at": "2026-01-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854498100",
     "title": "IT SPECIALIST (APPSW/SYSANALYSIS)",
     "organization": "Air Force Global Strike Command",
@@ -432,6 +533,23 @@
     "url": "https://www.usajobs.gov/job/854498100",
     "posted_at": "2026-01-15T00:00:00",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854495000",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Bratenahl, Ohio",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/854495000",
+    "posted_at": "2026-01-15T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -594,48 +712,6 @@
     "remote": null
   },
   {
-    "job_id": "854467100",
-    "title": "IT Cybersecurity Manager (PLCYPLN-INFOSEC)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Martinsburg, West Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-15, IT Cybersecurity Manager (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC BUSINESS OPERATIONS DIVISION in Martinsburg, West Virginia.",
-    "url": "https://www.usajobs.gov/job/854467100",
-    "posted_at": "2026-01-14T11:04:47.763000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854467100",
-    "title": "IT Cybersecurity Manager (PLCYPLN-INFOSEC)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Martinsburg, West Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-15, IT Cybersecurity Manager (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC BUSINESS OPERATIONS DIVISION in Martinsburg, West Virginia.",
-    "url": "https://www.usajobs.gov/job/854467100",
-    "posted_at": "2026-01-14T11:04:47.763000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854380100",
-    "title": "Supervisory IT Cybersecurity Specialist (DEV/DTA)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer, Application Services Branch, Software Solutions Program, as a leader in application development offers the opportunity to guide talented teams of developers and technologists in delivering high-quality, mission-driven solutions. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/854380100",
-    "posted_at": "2026-01-14T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854380100",
     "title": "Supervisory IT Cybersecurity Specialist (DEV/DTA)",
     "organization": "U.S. Secret Service",
@@ -690,6 +766,22 @@
     "url": "https://www.usajobs.gov/job/854289800",
     "posted_at": "2026-01-14T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854280400",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/854280400",
+    "posted_at": "2026-01-14T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -794,34 +886,6 @@
     "remote": null
   },
   {
-    "job_id": "854324000",
-    "title": "Supervisory Cybersecurity Specialist (PMA/ARC)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer, Network Management Section, IT & Communications Infrastructure Branch, IT Operations Program, provides an opportunity to leverage your technological expertise to maintain and modernize the US Secret Service's Information Technology and Communications infrastructure. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/854324000",
-    "posted_at": "2026-01-13T12:00:30.407000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854299100",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Des Moines, Iowa"
-    ],
-    "description": "IOWA AIR NATIONAL GUARD - TITLE 32 EXCEPTED SERVICE POSITION This position is open to current on-board Title 5 and Title 32 employees of the 132d Wing, Des Moines, Iowa Air National Guard. Military membership is required. LOCATION: 132d Wing, Des Moines, Iowa",
-    "url": "https://www.usajobs.gov/job/854299100",
-    "posted_at": "2026-01-13T10:32:13.443000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854282800",
     "title": "IT Specialist (INET)",
     "organization": "Defense Logistics Agency",
@@ -839,20 +903,6 @@
     "url": "https://www.usajobs.gov/job/854282800",
     "posted_at": "2026-01-13T09:27:13.870000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854262800",
-    "title": "SUPV IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA EII/ENTRPRS INTEGR AND INNOV - OFC OF CH INFO OFCR DIRECTORATE (ORG IO).",
-    "url": "https://www.usajobs.gov/job/854262800",
-    "posted_at": "2026-01-13T07:22:26.877000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -955,20 +1005,6 @@
     "remote": null
   },
   {
-    "job_id": "854202400",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "San Diego, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/854202400",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854172200",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Pacific Air Forces",
@@ -999,16 +1035,18 @@
     "remote": null
   },
   {
-    "job_id": "854231500",
-    "title": "Research Scientist / Computer Systems Researcher - Mid to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
+    "job_id": "854125100",
+    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
     "locations": [
-      "Fort Meade, Maryland"
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
     ],
-    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. We are looking for you to apply your computer science expertise to projects that seek to create new standards for the transformation of information. If you want to develop technologies and tools and be a part of cutting edge innovations; join our team of experts!",
-    "url": "https://www.usajobs.gov/job/854231500",
-    "posted_at": "2026-01-12T15:54:24.673000",
-    "salary": "11-15",
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/854125100",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1253,6 +1291,20 @@
     "remote": null
   },
   {
+    "job_id": "853828200",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Bratenahl, Ohio"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information. **This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants. Please review the HOW YOU WILL BE EVALUATED, HOW TO APPLY and WHAT TO EXPECT NEXT sections below for instructions.",
+    "url": "https://www.usajobs.gov/job/853828200",
+    "posted_at": "2026-01-07T14:49:55.457000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "853818300",
     "title": "Biomedical Equipment Support Specialist (Information Systems)",
     "organization": "Veterans Health Administration",
@@ -1295,20 +1347,6 @@
     "remote": null
   },
   {
-    "job_id": "853780600",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Rome, New York"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION. This National Guard position is for a IT CYBERSECURITY SPECIALIST (INFOSEC), Position Description Number T5895000. This position is located at the 224th, Rome, National Guard. This vacancy does not meet the criteria for appointment of annuitants. Veterans' preference does not apply to this vacancy due to internal merit promotion. This is a Temporary NTE 1 year position.",
-    "url": "https://www.usajobs.gov/job/853780600",
-    "posted_at": "2026-01-07T12:33:31.080000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853857800",
     "title": "Special Assistant",
     "organization": "House of Representatives",
@@ -1319,20 +1357,6 @@
     "url": "https://www.usajobs.gov/job/853857800",
     "posted_at": "2026-01-07T00:00:00",
     "salary": "9-10",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853834700",
-    "title": "IT Cybersecurity Specialist",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Glen Burnie, Maryland"
-    ],
-    "description": "This vacancy is for a GS-2210-13/14, IT Cybersecurity Specialist located in the Department of Homeland Security, U.S. Coast Guard, SFLC BOD INFORMATION SERVICES BR in BALTIMORE, Maryland.",
-    "url": "https://www.usajobs.gov/job/853834700",
-    "posted_at": "2026-01-07T00:00:00",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -1411,22 +1435,6 @@
     "url": "https://www.usajobs.gov/job/853797500",
     "posted_at": "2026-01-05T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "852959600",
-    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information. Open to United States CitizensPosition Location(s): IT DIR OFFICE, ACCOUNTING SERVICES, ARMY SYSTEMS, DEBT & FMS SYSTEMS SUSTAINMENT BR, ZTCAC Pay for first time hires to the Federal Govt will typically be set at step 1 salary for their respective grade level.",
-    "url": "https://www.usajobs.gov/job/852959600",
-    "posted_at": "2026-01-05T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
