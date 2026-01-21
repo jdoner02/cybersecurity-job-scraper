@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "854885500",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Tomah, Wisconsin"
+    ],
+    "description": "The Program Analyst (Informatics) is located at the Tomah VA Medical Center. The primary purpose of the Program Analyst (Informatics) is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/854885500",
+    "posted_at": "2026-01-20T13:04:08.840000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854885300",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Tomah, Wisconsin"
+    ],
+    "description": "The Program Analyst (Informatics) is located at the Tomah VA Medical Center. The primary purpose of the Program Analyst (Informatics) is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/854885300",
+    "posted_at": "2026-01-20T12:07:22.370000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854879600",
+    "title": "Applied Research Mathematician / Machine Learning Security and Generative AI",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252462",
+    "url": "https://www.usajobs.gov/job/854879600",
+    "posted_at": "2026-01-20T11:35:24.123000",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854825400",
     "title": "Intelligence Research Specialist",
     "organization": "Headquarters, NASA",
@@ -232,36 +274,6 @@
     "remote": null
   },
   {
-    "job_id": "854392400",
-    "title": "Criminal Investigator",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Criminal Investigator, you will ensure the safety and evacuation of Departmental Leadership during and following emergency/disaster situations, ensuring they are available to continue the essential functions of the Department and the Government.",
-    "url": "https://www.usajobs.gov/job/854392400",
-    "posted_at": "2026-01-14T14:21:39.793000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854446100",
-    "title": "Nuclear Engineer",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia",
-      "Germantown, Maryland",
-      "Albuquerque, New Mexico"
-    ],
-    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy (DOE). As a Nuclear Engineer, you will lead or personally conduct assessments, technical analyses, and studies at DOE nuclear facilities and laboratories with teams of DOE and contractor experts.",
-    "url": "https://www.usajobs.gov/job/854446100",
-    "posted_at": "2026-01-14T09:53:04.743000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854362700",
     "title": "Aerospace Engineer, AST, Flight Systems Test",
     "organization": "John C. Stennis Space Center",
@@ -300,34 +312,6 @@
     "url": "https://www.usajobs.gov/job/854280100",
     "posted_at": "2026-01-13T13:10:26.940000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854276200",
-    "title": "Director, Division of Finance, EM-0501-00 (Public)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
-    "url": "https://www.usajobs.gov/job/854276200",
-    "posted_at": "2026-01-13T08:58:28.350000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854276000",
-    "title": "Director, Division of Finance, EM-0501-00 (Merit Promotion)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
-    "url": "https://www.usajobs.gov/job/854276000",
-    "posted_at": "2026-01-13T08:57:35.760000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -374,6 +358,34 @@
     "remote": null
   },
   {
+    "job_id": "854276200",
+    "title": "Director, Division of Finance, EM-0501-00 (Public)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
+    "url": "https://www.usajobs.gov/job/854276200",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854276000",
+    "title": "Director, Division of Finance, EM-0501-00 (Merit Promotion)",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000.",
+    "url": "https://www.usajobs.gov/job/854276000",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854274000",
     "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Merit Promotion)",
     "organization": "Federal Deposit Insurance Corporation",
@@ -384,22 +396,6 @@
     "url": "https://www.usajobs.gov/job/854274000",
     "posted_at": "2026-01-13T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854179100",
-    "title": "Data Scientist",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Washington, District of Columbia",
-      "Indianapolis, Indiana",
-      "Minneapolis, Minnesota"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, People Analytics Division, in the following locations: Indianapolis, IN Minneapolis, MN Washington D.C. Salary: Salary listed reflects the rest of U.S. scale and, if applicable, will be adjusted to meet the locality pay or cost of living expenses of the duty location upon selection.",
-    "url": "https://www.usajobs.gov/job/854179100",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -432,34 +428,6 @@
     "remote": null
   },
   {
-    "job_id": "853740300",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Huntington, West Virginia"
-    ],
-    "description": "The work of this position is health-oriented, and it requires knowledge and skills gained from education, on the job training, developmental assignments, and/or experience in a health science and/or allied scientific field, such as Health Informatics. Health Informatics is a discipline at the intersection of clinical health care, information science, and computer science that designs and delivers information to improve clinical care, individual and public health care, and biomedical research.",
-    "url": "https://www.usajobs.gov/job/853740300",
-    "posted_at": "2026-01-07T08:36:28.553000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853660100",
-    "title": "AI Operations Specialist",
-    "organization": "Library of Congress",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "This position is located in the Digital Strategy Directorate, Office of the Chief Information Officer. This position is a non-supervisory, bargaining unit position. The position description number for this position is 465121. The salary range indicated reflects the locality pay adjustments for the Washington, D.C., Metropolitan area. Salary will be set according to the incumbent's duty station. The incumbent of this position will work a flexitime or compflex schedule.",
-    "url": "https://www.usajobs.gov/job/853660100",
-    "posted_at": "2026-01-06T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "853565600",
     "title": "2026 Summer Library of Congress Intern (Remote)",
     "organization": "Library of Congress",
@@ -470,20 +438,6 @@
     "url": "https://www.usajobs.gov/job/853565600",
     "posted_at": "2026-01-05T00:00:00",
     "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853424500",
-    "title": "Supervisory Management and Program Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Albuquerque, New Mexico"
-    ],
-    "description": "This position is part of the Office of Enterprise Assessments, Department of Energy. As a Supervisory Management and Program Analyst, you will serve as the Deputy Director of the National Training Center within the Office of Enterprise Assessments, acting as the principal assistant to the NTC Director and assuming full leadership responsibilities in the Director's absence.",
-    "url": "https://www.usajobs.gov/job/853424500",
-    "posted_at": "2026-01-05T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   }
