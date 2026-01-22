@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "855008100",
+    "title": "Supervisory Human Resources Specialist",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Bay Saint Louis, Mississippi"
+    ],
+    "description": "NASA's Shared Services Center, Employee Services Branch is seeking a dynamic leader to serve as HR Chief, overseeing Retirement and Benefits, Payroll, Personnel Actions, Leave Programs, eOPF, Unemployment Compensation, and Workers' Compensation. You will provide strategic leadership, ensure compliance with regulations and policy, support workforce stability, lead a team of HR professionals, provide expert guidance to leadership, and manage high-volume mission-critical employee services programs.",
+    "url": "https://www.usajobs.gov/job/855008100",
+    "posted_at": "2026-01-22T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "854885500",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -84,36 +98,6 @@
     "remote": null
   },
   {
-    "job_id": "854766100",
-    "title": "Trial Attorney (Enforcement and Affirmative Litigation Branch)",
-    "organization": "Offices, Boards and Divisions",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Enforcement and Affirmative Litigation Branch seeks experienced attorneys to bring high-impact affirmative litigation to protect public health and safety and ensure nationwide compliance with federal law. Attorneys will litigate cutting-edge matters, enforce key consumer protection statutes, and challenge laws that undermine federal policy. For meaningful responsibility and impactful public service, the Branch offers a front-line role in the Department's major civil enforcement initiatives.",
-    "url": "https://www.usajobs.gov/job/854766100",
-    "posted_at": "2026-01-16T11:55:49.177000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854753900",
-    "title": "Chief Transformation and Modernization Officer",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "The position serves as the Chief Transformation and Modernization Officer (CTMO) leading the development and execution of comprehensive transformation strategy, modernization of business practices and development of innovative approaches to optimize the Agency's accounting and finance mission. The position is assigned to Defense Finance and Accounting Service (DFAS) Headquarters. One position is available, which may be located at Indianapolis, IN; Cleveland, OH; or Whitehall (Columbus), OH.",
-    "url": "https://www.usajobs.gov/job/854753900",
-    "posted_at": "2026-01-16T10:35:28.783000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854817200",
     "title": "IT Specialist (Artificial Intelligence)",
     "organization": "Department of the Treasury - Agency Wide",
@@ -143,6 +127,22 @@
     "url": "https://www.usajobs.gov/job/854817200",
     "posted_at": "2026-01-16T00:00:00",
     "salary": "12-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854753900",
+    "title": "Chief Transformation and Modernization Officer",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Whitehall, Ohio"
+    ],
+    "description": "The position serves as the Chief Transformation and Modernization Officer (CTMO) leading the development and execution of comprehensive transformation strategy, modernization of business practices and development of innovative approaches to optimize the Agency's accounting and finance mission. The position is assigned to Defense Finance and Accounting Service (DFAS) Headquarters. One position is available, which may be located at Indianapolis, IN; Cleveland, OH; or Whitehall (Columbus), OH.",
+    "url": "https://www.usajobs.gov/job/854753900",
+    "posted_at": "2026-01-16T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -228,20 +228,6 @@
     "url": "https://www.usajobs.gov/job/854604700",
     "posted_at": "2026-01-15T10:33:29.447000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854507000",
-    "title": "Supervisory Criminal Investigator",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Supervisory Criminal Investigator, you will serve as the Threat Management Special Agent for the Office of Executive Protection with the responsibility for developing executive protection intelligence and threat assessment products in support of the Office of Executive Protection.",
-    "url": "https://www.usajobs.gov/job/854507000",
-    "posted_at": "2026-01-15T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
