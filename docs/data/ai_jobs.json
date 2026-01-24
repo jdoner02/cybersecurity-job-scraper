@@ -1,5 +1,20 @@
 [
   {
+    "job_id": "855292800",
+    "title": "Supervisory Contract Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Hydrocarbon and Geothermal Energy Office, Department of Energy. As a Supervisory Contract Specialist, you will direct a comprehensive acquisition and assistance program that carries out the full range of contract and grant activities with respect to Government contracts and grants throughout the National Energy Technology Laboratory.",
+    "url": "https://www.usajobs.gov/job/855292800",
+    "posted_at": "2026-01-23T10:43:04.677000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "855239300",
     "title": "Information Technology Project Manager",
     "organization": "Office of the Secretary of Defense",
@@ -115,20 +130,6 @@
     "url": "https://www.usajobs.gov/job/854885300",
     "posted_at": "2026-01-20T00:00:00",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854825400",
-    "title": "Intelligence Research Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As the Intelligence Research Specialist you will serve as the principal intelligence advisor to organizational leadership and programs through specialized reports/briefings on critical issues. You will conduct research, analyze data, and present findings with a focus on space, counterspace, and emerging technologies. You will assess threats, integrate intelligence from multiple sources, and engage with interagency analysts to ensure information is accurate and briefed to the correct audience.",
-    "url": "https://www.usajobs.gov/job/854825400",
-    "posted_at": "2026-01-20T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -309,20 +310,6 @@
     "remote": null
   },
   {
-    "job_id": "854280100",
-    "title": "Director, National Laboratory Programs",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Technology Commercialization, Department of Energy. As an Director, National Laboratory Programs, you will coordinate strategic partnership efforts and administer various programs and initiatives to accelerate the development and commercialization of mission-relevant technologies.",
-    "url": "https://www.usajobs.gov/job/854280100",
-    "posted_at": "2026-01-13T13:10:26.940000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854510800",
     "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Public)",
     "organization": "Federal Deposit Insurance Corporation",
@@ -347,6 +334,20 @@
     "url": "https://www.usajobs.gov/job/854508600",
     "posted_at": "2026-01-13T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "854280100",
+    "title": "Director, National Laboratory Programs",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Technology Commercialization, Department of Energy. As an Director, National Laboratory Programs, you will coordinate strategic partnership efforts and administer various programs and initiatives to accelerate the development and commercialization of mission-relevant technologies.",
+    "url": "https://www.usajobs.gov/job/854280100",
+    "posted_at": "2026-01-13T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -417,34 +418,6 @@
     "url": "https://www.usajobs.gov/job/854281700",
     "posted_at": "2026-01-12T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853812800",
-    "title": "Aircraft Pilot (Helicopter) (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "This position is located in the Aircraft Operations Division, Flight Operations Directorate. As a Project Pilot you will pilot aircraft used in the development and test programs; perform flights and ground simulations of advanced missions; and serve as a pilot aboard a helicopter.",
-    "url": "https://www.usajobs.gov/job/853812800",
-    "posted_at": "2026-01-12T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "853565600",
-    "title": "2026 Summer Library of Congress Intern (Remote)",
-    "organization": "Library of Congress",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "The Library of Congress Internships (LOCI) program is a seasonal, 10- or 12- week paid internship program that enables undergraduate, graduate students, and recent graduates to gain experience through applied learning and professional development opportunities that advance the academic and career pursuits of participants.",
-    "url": "https://www.usajobs.gov/job/853565600",
-    "posted_at": "2026-01-05T00:00:00",
-    "salary": "03-03",
     "grade": null,
     "remote": null
   }
