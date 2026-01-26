@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "855375200",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Amarillo, Texas"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/855375200",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855342800",
+    "title": "Business Systems Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), Business Systems Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/855342800",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855341900",
+    "title": "Node-React Full Stack Web Application Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), Node-React Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/855341900",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855330700",
+    "title": "JAVA Angular Full Stack Web Application Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/855330700",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "855292800",
     "title": "Supervisory Contract Specialist",
     "organization": "Department of Energy - Agency Wide",
