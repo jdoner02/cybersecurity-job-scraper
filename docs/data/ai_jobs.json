@@ -1,15 +1,43 @@
 [
   {
-    "job_id": "855375200",
+    "job_id": "855371400",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
     "locations": [
-      "Amarillo, Texas"
+      "San Antonio, Texas"
     ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/855375200",
-    "posted_at": "2026-01-26T00:00:00",
-    "salary": "5-12",
+    "description": "The primary purpose of this position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA).",
+    "url": "https://www.usajobs.gov/job/855371400",
+    "posted_at": "2026-01-27T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855427100",
+    "title": "Human Resources Specialist - Executive Resources",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Chief Human Capital Officer, Department of Energy. As a Human Resources Specialist, you will be responsible for providing direct human resources services to the Office of Corporate Executive Management (OCEM). You will manage all operational human capital programs related to the recruiting and staffing of Senior Executive Service (SES), Senior Level (Senior Level and Scientific and Professional), Excepted Service and political appointees.",
+    "url": "https://www.usajobs.gov/job/855427100",
+    "posted_at": "2026-01-26T16:18:06.583000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855330700",
+    "title": "JAVA Angular Full Stack Web Application Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/855330700",
+    "posted_at": "2026-01-26T16:13:11.967000",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -22,7 +50,7 @@
     ],
     "description": "IT Specialist (APPSW), Business Systems Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
     "url": "https://www.usajobs.gov/job/855342800",
-    "posted_at": "2026-01-26T00:00:00",
+    "posted_at": "2026-01-26T16:11:58.367000",
     "salary": "13-15",
     "grade": null,
     "remote": null
@@ -36,22 +64,50 @@
     ],
     "description": "IT Specialist (APPSW), Node-React Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
     "url": "https://www.usajobs.gov/job/855341900",
-    "posted_at": "2026-01-26T00:00:00",
+    "posted_at": "2026-01-26T16:10:45.327000",
     "salary": "13-15",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "855330700",
-    "title": "JAVA Angular Full Stack Web Application Developer",
-    "organization": "Social Security Administration",
+    "job_id": "855463300",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
     "locations": [
-      "Woodlawn, Maryland"
+      "Saginaw, Michigan"
     ],
-    "description": "IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/855330700",
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/855463300",
+    "posted_at": "2026-01-26T13:37:44.600000",
+    "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855457100",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Saginaw, Michigan"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/855457100",
+    "posted_at": "2026-01-26T13:06:17.407000",
+    "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855375200",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Amarillo, Texas"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/855375200",
     "posted_at": "2026-01-26T00:00:00",
-    "salary": "13-15",
+    "salary": "5-12",
     "grade": null,
     "remote": null
   },
@@ -162,34 +218,6 @@
     "remote": null
   },
   {
-    "job_id": "854885500",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Tomah, Wisconsin"
-    ],
-    "description": "The Program Analyst (Informatics) is located at the Tomah VA Medical Center. The primary purpose of the Program Analyst (Informatics) is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/854885500",
-    "posted_at": "2026-01-20T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854885300",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Tomah, Wisconsin"
-    ],
-    "description": "The Program Analyst (Informatics) is located at the Tomah VA Medical Center. The primary purpose of the Program Analyst (Informatics) is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/854885300",
-    "posted_at": "2026-01-20T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854817200",
     "title": "IT Specialist (Artificial Intelligence)",
     "organization": "Department of the Treasury - Agency Wide",
@@ -286,30 +314,6 @@
     "remote": null
   },
   {
-    "job_id": "854604700",
-    "title": "IT Solutions Development Specialist",
-    "organization": "Federal Acquisition Service",
-    "locations": [
-      "San Francisco, California",
-      "Lakewood, Colorado",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas",
-      "Tacoma, Washington"
-    ],
-    "description": "As an Information Technology Solutions Development Specialist, you will serve as a senior expert in solutions development related to Information Technology (IT). Location of position: Federal Acquisition Service (FAS) - Office of the FAS Commissioner - Office of IT Category (QT3). San Francisco, CA; Lakewood, CO; Washington, DC; Atlanta, GA; Chicago, IL; Boston, MA; Kansas City, MO; New York, NY; Philadelphia, PA; Fort Worth, TX and/or Tacoma, WA.",
-    "url": "https://www.usajobs.gov/job/854604700",
-    "posted_at": "2026-01-15T10:33:29.447000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854459200",
     "title": "Research Health Science Specialist",
     "organization": "Veterans Health Administration",
@@ -338,34 +342,6 @@
     "remote": null
   },
   {
-    "job_id": "854510800",
-    "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Public)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
-    "url": "https://www.usajobs.gov/job/854510800",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854508600",
-    "title": "Chief Data Officer (CDO), EM-0301-00 (Public)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
-    "url": "https://www.usajobs.gov/job/854508600",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854280100",
     "title": "Director, National Laboratory Programs",
     "organization": "Department of Energy - Agency Wide",
@@ -376,62 +352,6 @@
     "url": "https://www.usajobs.gov/job/854280100",
     "posted_at": "2026-01-13T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854278500",
-    "title": "Chief Data Officer (CDO), EM-0301-00 (Merit Promotion)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Chief Information Officer Organization, Division of Information Technology of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $315,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
-    "url": "https://www.usajobs.gov/job/854278500",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854276200",
-    "title": "Director, Division of Finance, EM-0501-00 (Public)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This announcement has been extended to January 26, 2026.",
-    "url": "https://www.usajobs.gov/job/854276200",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854276000",
-    "title": "Director, Division of Finance, EM-0501-00 (Merit Promotion)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Division of Finance of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This announcement has been extended to January 26, 2026.",
-    "url": "https://www.usajobs.gov/job/854276000",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854274000",
-    "title": "Chief Information Officer (CIO) and Chief Privacy Officer (CPO), EM-2210-00 (Merit Promotion)",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Chief Information Officer Organization, Office of the Chairman of the Federal Deposit Insurance Corporation in Washington, D.C. Salary reflects a pay cap for this position of $325,000. This job opportunity announcement is being extended until Monday, January 26, 2026.",
-    "url": "https://www.usajobs.gov/job/854274000",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
