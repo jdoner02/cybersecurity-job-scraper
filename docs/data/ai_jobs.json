@@ -1,5 +1,89 @@
 [
   {
+    "job_id": "855675900",
+    "title": "General Attorney (Artificial Intelligence)",
+    "organization": "Immigration and Customs Enforcement",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The U.S. Immigration and Customs Enforcement (ICE) Office of the Principal Legal Advisor (OPLA) is seeking an attorney to join our legal team as an Associate Legal Advisor with the OPLA Headquarters Knowledge Management Division (KMD) within the Chief of Staff portfolio. The attorney will advise on and evaluate artificial intelligence (AI) use. One or more positions may be filled using this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/855675900",
+    "posted_at": "2026-01-28T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855660500",
+    "title": "Supervisory General Engineer (DE)",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is for a Supervisory General Engineer in the Information Technology Controls Division (ITCD), Office of National Security Controls (ONSC), Strategic Trade (ST), Office of the Assistant Secretary for Export Administration (EA), Bureau of Industry and Security (BIS) within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/855660500",
+    "posted_at": "2026-01-27T16:18:21.300000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855660200",
+    "title": "Supervisory General Engineer (MP)",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is for a Supervisory General Engineer in the Information Technology Controls Division (ITCD), Office of National Security Controls (ONSC), Strategic Trade (ST), Office of the Assistant Secretary for Export Administration (EA), Bureau of Industry and Security (BIS) within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/855660200",
+    "posted_at": "2026-01-27T16:16:35.993000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855544900",
+    "title": "Senior AI/ET Strategist",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
+    "url": "https://www.usajobs.gov/job/855544900",
+    "posted_at": "2026-01-27T14:36:02.393000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855616100",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Big Spring, Texas"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/855616100",
+    "posted_at": "2026-01-27T14:08:28.777000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855543100",
+    "title": "IT Specialist (SYSANALYSIS/APPSW)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
+    "url": "https://www.usajobs.gov/job/855543100",
+    "posted_at": "2026-01-27T08:39:18.090000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "855371400",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -98,6 +182,20 @@
     "remote": null
   },
   {
+    "job_id": "855542900",
+    "title": "IT Specialist (SYSANALYSIS/APPSW)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
+    "url": "https://www.usajobs.gov/job/855542900",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "855375200",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -123,20 +221,6 @@
     "url": "https://www.usajobs.gov/job/855292800",
     "posted_at": "2026-01-23T10:43:04.677000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855239300",
-    "title": "Information Technology Project Manager",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "The Chief Data and Artificial Intelligence Office (CDAO) mission is to accelerate the adoption of data analytics and artificial intelligence (AI) across the Department of War (DoW). The CDAO works across the Military Departments and Services, Joint Staff, Combatant Commands (CCMDs), Office of the Secretary of War (OSW), and other DoW Components to support of DoW's warfighting and business functions.",
-    "url": "https://www.usajobs.gov/job/855239300",
-    "posted_at": "2026-01-23T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -338,34 +422,6 @@
     "url": "https://www.usajobs.gov/job/854326500",
     "posted_at": "2026-01-14T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854280100",
-    "title": "Director, National Laboratory Programs",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Technology Commercialization, Department of Energy. As an Director, National Laboratory Programs, you will coordinate strategic partnership efforts and administer various programs and initiatives to accelerate the development and commercialization of mission-relevant technologies.",
-    "url": "https://www.usajobs.gov/job/854280100",
-    "posted_at": "2026-01-13T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854281700",
-    "title": "IT Project Manager",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "The National Counterterrorism Center (NCTC) leads the nation's effort to protect the United States from terrorism by integrating, analyzing and sharing information to drive whole-of-government action and achieve our national CT objectives.",
-    "url": "https://www.usajobs.gov/job/854281700",
-    "posted_at": "2026-01-12T00:00:00",
-    "salary": "14-15",
     "grade": null,
     "remote": null
   }
