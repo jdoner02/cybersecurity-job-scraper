@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "855793900",
+    "title": "Contract Specialist - DIRECT HIRE",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Financial Management Division, Office of Acquisition. This position primary purpose is to design, lead and carry out operation in the area of contract operations, acquisition policy development, implementation, and compliance activities of DEA-wide-level regulations and support for acquisition systems throughout DEA and in coordination with the Department of Justice.",
+    "url": "https://www.usajobs.gov/job/855793900",
+    "posted_at": "2026-01-28T15:53:00.123000",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "855675900",
     "title": "General Attorney (Artificial Intelligence)",
     "organization": "Immigration and Customs Enforcement",
@@ -42,20 +56,6 @@
     "remote": null
   },
   {
-    "job_id": "855544900",
-    "title": "Senior AI/ET Strategist",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
-    "url": "https://www.usajobs.gov/job/855544900",
-    "posted_at": "2026-01-27T14:36:02.393000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855616100",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -70,6 +70,20 @@
     "remote": null
   },
   {
+    "job_id": "855544900",
+    "title": "Senior AI/ET Strategist",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
+    "url": "https://www.usajobs.gov/job/855544900",
+    "posted_at": "2026-01-27T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "855543100",
     "title": "IT Specialist (SYSANALYSIS/APPSW)",
     "organization": "Patent and Trademark Office",
@@ -78,7 +92,7 @@
     ],
     "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
     "url": "https://www.usajobs.gov/job/855543100",
-    "posted_at": "2026-01-27T08:39:18.090000",
+    "posted_at": "2026-01-27T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -108,48 +122,6 @@
     "url": "https://www.usajobs.gov/job/855427100",
     "posted_at": "2026-01-26T16:18:06.583000",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855330700",
-    "title": "JAVA Angular Full Stack Web Application Developer",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/855330700",
-    "posted_at": "2026-01-26T16:13:11.967000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855342800",
-    "title": "Business Systems Developer",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW), Business Systems Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/855342800",
-    "posted_at": "2026-01-26T16:11:58.367000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855341900",
-    "title": "Node-React Full Stack Web Application Developer",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW), Node-React Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/855341900",
-    "posted_at": "2026-01-26T16:10:45.327000",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -206,6 +178,48 @@
     "url": "https://www.usajobs.gov/job/855375200",
     "posted_at": "2026-01-26T00:00:00",
     "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855342800",
+    "title": "Business Systems Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), Business Systems Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/855342800",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855341900",
+    "title": "Node-React Full Stack Web Application Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), Node-React Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/855341900",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855330700",
+    "title": "JAVA Angular Full Stack Web Application Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/855330700",
+    "posted_at": "2026-01-26T00:00:00",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -393,20 +407,6 @@
     "description": "You will serve as the Distinguished Scientist/Engineer for Energetic Systems at the Naval Surface Warfare Center, Indian Head Division, Naval Sea Systems Command. This position is a direct report to the Technical Director who serves as an SES. This position will serve as the DON senior technical energetic systems expert for Navy and DoD- related programs, and on issues for other Navy, DoD, and DOE laboratories; academic institutions; and private corporations.",
     "url": "https://www.usajobs.gov/job/854544200",
     "posted_at": "2026-01-16T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854459200",
-    "title": "Research Health Science Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Allston, Massachusetts"
-    ],
-    "description": "Please note: There is no pay associated with this position. This position serves as Without Compensation Research Health Science Specialist within the Office of Research and Development (ORD). The VA Research Program strives to promote Veteran-centered care to improve patient experiences and outcomes across VA healthcare and community settings, and to advance value-driven care by providing Veterans the highest quality care at the lowest financial burden.",
-    "url": "https://www.usajobs.gov/job/854459200",
-    "posted_at": "2026-01-15T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
