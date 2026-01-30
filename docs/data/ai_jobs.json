@@ -1,5 +1,52 @@
 [
   {
+    "job_id": "855975600",
+    "title": "Supervisory Contract Specialist - DIRECT HIRE",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Financial Management Division, Office of Acquisition (FA). This position(s) primary purpose is to supervise and perform assignments in support of significant program office/operating unit acquisitions of a nationwide magnitude, the agency-wide procurement program, and the audit/review of the acquisition program and/or its components.",
+    "url": "https://www.usajobs.gov/job/855975600",
+    "posted_at": "2026-01-29T15:55:26.810000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855853300",
+    "title": "Data Scientist (Supply Chain)",
+    "organization": "Defense Contract Management Agency",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "See below for important information regarding this job. Additional vacancies may be filled from this announcement. DCMA Location Negotiable upon Selection. This is not a remote work position. See DCMA Location List, not all locations may be available.",
+    "url": "https://www.usajobs.gov/job/855853300",
+    "posted_at": "2026-01-29T08:25:31.673000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "855793900",
     "title": "Contract Specialist - DIRECT HIRE",
     "organization": "Drug Enforcement Administration",
@@ -399,7 +446,7 @@
   },
   {
     "job_id": "854544200",
-    "title": "DISTINGUISED SCIENTIST/ENGINEER FOR ENERGETIC SYSTEMS",
+    "title": "DISTINGUISHED SCIENTIST/ENGINEER FOR ENERGETIC SYSTEMS",
     "organization": "Naval Sea Systems Command",
     "locations": [
       "Indian Head, Maryland"
