@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "856084500",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/856084500",
+    "posted_at": "2026-02-01T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856122300",
     "title": "LABORATORY EVIDENCE CONTROL SPECIALIST",
     "organization": "Drug Enforcement Administration",
@@ -289,27 +322,6 @@
     "remote": null
   },
   {
-    "job_id": "855171900",
-    "title": "Management and Program Analyst",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
-    "url": "https://www.usajobs.gov/job/855171900",
-    "posted_at": "2026-01-22T12:01:12.383000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855107400",
     "title": "Trial Attorney (Enforcement and Affirmative Litigation Branch)",
     "organization": "Offices, Boards and Divisions",
@@ -319,20 +331,6 @@
     "description": "The Enforcement and Affirmative Litigation Branch seeks experienced attorneys to bring high-impact affirmative litigation to protect public health and safety and ensure nationwide compliance with federal law. Attorneys will litigate cutting-edge matters, enforce key consumer protection statutes, and challenge laws that undermine federal policy. For meaningful responsibility and impactful public service, the Branch offers a front-line role in the Department's major civil enforcement initiatives.",
     "url": "https://www.usajobs.gov/job/855107400",
     "posted_at": "2026-01-22T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854879600",
-    "title": "Applied Research Mathematician / Machine Learning Security and Generative AI",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252462",
-    "url": "https://www.usajobs.gov/job/854879600",
-    "posted_at": "2026-01-20T11:35:24.123000",
     "salary": "13-15",
     "grade": null,
     "remote": null
@@ -367,39 +365,6 @@
     "url": "https://www.usajobs.gov/job/854817200",
     "posted_at": "2026-01-16T00:00:00",
     "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854696700",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/854696700",
-    "posted_at": "2026-01-16T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },

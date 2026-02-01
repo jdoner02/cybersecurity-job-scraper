@@ -17,6 +17,23 @@
     "remote": null
   },
   {
+    "job_id": "856121000",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Joint Base Anacostia-Bolling, District of Columbia",
+      "Tinker AFB, Oklahoma",
+      "Lackland AFB, Texas",
+      "Hill AFB, Utah"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA FE/Global Service Desk Division.",
+    "url": "https://www.usajobs.gov/job/856121000",
+    "posted_at": "2026-01-31T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856153200",
     "title": "Attorney Advisor - PUBLIC NOTICE",
     "organization": "Transportation Security Administration",
@@ -55,6 +72,20 @@
     "url": "https://www.usajobs.gov/job/856109200",
     "posted_at": "2026-01-30T14:25:10.117000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856100100",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Bratenahl, Ohio"
+    ],
+    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
+    "url": "https://www.usajobs.gov/job/856100100",
+    "posted_at": "2026-01-30T13:49:29.750000",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -337,6 +368,22 @@
     "url": "https://www.usajobs.gov/job/855750700",
     "posted_at": "2026-01-30T00:00:00",
     "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855629900",
+    "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Whitehall, Ohio"
+    ],
+    "description": "Who may apply: All US Citizens Applicants on the Cleveland list may be placed at Bratenahl. We may use this announcement to fill other positions in the I&T Dir.",
+    "url": "https://www.usajobs.gov/job/855629900",
+    "posted_at": "2026-01-30T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -888,22 +935,6 @@
     "remote": null
   },
   {
-    "job_id": "855408000",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/855408000",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855323400",
     "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -1243,20 +1274,6 @@
     "remote": null
   },
   {
-    "job_id": "854879600",
-    "title": "Applied Research Mathematician / Machine Learning Security and Generative AI",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1252462",
-    "url": "https://www.usajobs.gov/job/854879600",
-    "posted_at": "2026-01-20T11:35:24.123000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "854847300",
     "title": "IT SPECIALIST (INFOSEC/SYSADMIN)",
     "organization": "U.S. Pacific Fleet",
@@ -1266,21 +1283,6 @@
     "description": "You will serve as an Information Technology Specialist (INFOSEC/SYSADMIN) in the Information Technology and Cybersecurity Department of PSNS and IMF.",
     "url": "https://www.usajobs.gov/job/854847300",
     "posted_at": "2026-01-20T09:08:58.947000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854646600",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/854646600",
-    "posted_at": "2026-01-20T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null
