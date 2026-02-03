@@ -1,5 +1,139 @@
 [
   {
+    "job_id": "856268900",
+    "title": "AI Standards Architect",
+    "organization": "National Institute of Standards and Technology",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia"
+    ],
+    "description": "CAISI is a center of AI expertise in the U.S. government. Its Partnerships team is hiring a computer scientist to research and develop technical guidelines for AI, including evaluation methodologies, security frameworks, and agentic protocols. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
+    "url": "https://www.usajobs.gov/job/856268900",
+    "posted_at": "2026-02-03T00:00:00",
+    "salary": "3-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856266200",
+    "title": "AI Research Scientist, Applied Systems",
+    "organization": "National Institute of Standards and Technology",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia"
+    ],
+    "description": "Building gold-standard AI requires gold-standard AI measurement. Within NIST, CAISI works in concert with the larger community of AI practitioners to advance AI measurement, security, and innovation. The CAISI Applied Systems team is seeking a research scientist to design and execute rigorous research analyzing AI systems in real-world settings. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
+    "url": "https://www.usajobs.gov/job/856266200",
+    "posted_at": "2026-02-03T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856243600",
+    "title": "Physical Scientist",
+    "organization": "National Oceanic and Atmospheric Administration",
+    "locations": [
+      "College Park, Maryland"
+    ],
+    "description": "This position is located in the National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data, and Information Service (NESDIS), Office of Satellite Products and Operations (OSPO), Satellite Products and Services Division (SPSD) with two vacancies in College Park, MD.",
+    "url": "https://www.usajobs.gov/job/856243600",
+    "posted_at": "2026-02-03T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856290300",
+    "title": "Supervisory Human Resources Specialist (Deputy Chief, HR Operations Center)",
+    "organization": "Immigration and Customs Enforcement",
+    "locations": [
+      "Irving, Texas"
+    ],
+    "description": "View Common Definitions of terms found in this announcement. Organizational Location: This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Office of Human Capital, Human Resources Operations Center (HROC), in Irving, Texas. This is a non-bargaining unit position.",
+    "url": "https://www.usajobs.gov/job/856290300",
+    "posted_at": "2026-02-02T18:56:46.567000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856275100",
+    "title": "Director for Spectrum Policy and Planning",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Director for Spectrum Policy and Planning analyzes spectrum utilization issues and policies, providing expert service and recommendations to the management officials with delegated responsibility to direct and discharge all major elements of the Agency's spectrum management program. Serves as a technical expert in both national and international spectrum management, representing NASA in the development of spectrum management use policy while performing official liaison with national bodies.",
+    "url": "https://www.usajobs.gov/job/856275100",
+    "posted_at": "2026-02-02T16:04:49.623000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856274700",
+    "title": "Director for Spectrum Policy and Planning",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Director for Spectrum Policy and Planning analyzes spectrum utilization issues and policies, providing expert service and recommendations to the management officials with delegated responsibility to direct and discharge all major elements of the Agency's spectrum management program. Serves as a technical expert in both national and international spectrum management, representing NASA in the development of spectrum management use policy while performing official liaison with national bodies.",
+    "url": "https://www.usajobs.gov/job/856274700",
+    "posted_at": "2026-02-02T16:03:41.133000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856213300",
+    "title": "Realty Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia",
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is part of the Office of Management, Department of Energy. As a Realty Specialist, you will serve as the Department's leading expert in real estate for DOE Headquarters activities. As such, incumbent serves as a technical resource for the Department and, when appropriate, as an ad hoc team leader to address real estate matters. In some cases, staff will come from within the office and in other cases staff will come from other Field Management Offices or other Departmental Elements.",
+    "url": "https://www.usajobs.gov/job/856213300",
+    "posted_at": "2026-02-02T11:14:14.630000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856205600",
+    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
+    "url": "https://www.usajobs.gov/job/856205600",
+    "posted_at": "2026-02-02T10:34:22.337000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856101000",
     "title": "AI Evaluations Scientist, Biological AI Models",
     "organization": "National Institute of Standards and Technology",
@@ -94,20 +228,6 @@
     "remote": null
   },
   {
-    "job_id": "855975600",
-    "title": "Supervisory Contract Specialist - DIRECT HIRE",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Financial Management Division, Office of Acquisition (FA). This position(s) primary purpose is to supervise and perform assignments in support of significant program office/operating unit acquisitions of a nationwide magnitude, the agency-wide procurement program, and the audit/review of the acquisition program and/or its components.",
-    "url": "https://www.usajobs.gov/job/855975600",
-    "posted_at": "2026-01-29T15:55:26.810000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855853300",
     "title": "Data Scientist (Supply Chain)",
     "organization": "Defense Contract Management Agency",
@@ -163,7 +283,7 @@
     ],
     "description": "This vacancy is for a Supervisory General Engineer in the Information Technology Controls Division (ITCD), Office of National Security Controls (ONSC), Strategic Trade (ST), Office of the Assistant Secretary for Export Administration (EA), Bureau of Industry and Security (BIS) within the Department of Commerce.",
     "url": "https://www.usajobs.gov/job/855660500",
-    "posted_at": "2026-01-27T16:18:21.300000",
+    "posted_at": "2026-01-27T00:00:00",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -177,22 +297,8 @@
     ],
     "description": "This vacancy is for a Supervisory General Engineer in the Information Technology Controls Division (ITCD), Office of National Security Controls (ONSC), Strategic Trade (ST), Office of the Assistant Secretary for Export Administration (EA), Bureau of Industry and Security (BIS) within the Department of Commerce.",
     "url": "https://www.usajobs.gov/job/855660200",
-    "posted_at": "2026-01-27T16:16:35.993000",
+    "posted_at": "2026-01-27T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855616100",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Big Spring, Texas"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/855616100",
-    "posted_at": "2026-01-27T14:08:28.777000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -235,20 +341,6 @@
     "url": "https://www.usajobs.gov/job/855371400",
     "posted_at": "2026-01-27T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855427100",
-    "title": "Human Resources Specialist - Executive Resources",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Chief Human Capital Officer, Department of Energy. As a Human Resources Specialist, you will be responsible for providing direct human resources services to the Office of Corporate Executive Management (OCEM). You will manage all operational human capital programs related to the recruiting and staffing of Senior Executive Service (SES), Senior Level (Senior Level and Scientific and Professional), Excepted Service and political appointees.",
-    "url": "https://www.usajobs.gov/job/855427100",
-    "posted_at": "2026-01-26T16:18:06.583000",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
