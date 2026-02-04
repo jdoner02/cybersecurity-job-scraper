@@ -1,5 +1,89 @@
 [
   {
+    "job_id": "856389000",
+    "title": "Senior Organizational Strategist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Legacy Management, Department of Energy. As a Senior Organizational Strategist, you will serve as a Senior Organizational Strategist, human resource management policy advisor, and assistant to the Deputy Director for the Office of Legacy Management (LM).",
+    "url": "https://www.usajobs.gov/job/856389000",
+    "posted_at": "2026-02-04T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856348700",
+    "title": "FINANCIAL MANAGEMENT SPECIALIST",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "San Diego, California"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), San Diego Field Division This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/856348700",
+    "posted_at": "2026-02-04T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856308400",
+    "title": "Supervisory Human Resources Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of the Chief Human Capital Officer, within the Office of Workforce Technology and Development (OWTD) at the Department of Energy. As a Supervisory Human Resources Specialist, you will be responsible for supervising a team of Human Resources Development Specialists and Management Analysts, who perform a variety of functions in support of the agency's employee development objectives.",
+    "url": "https://www.usajobs.gov/job/856308400",
+    "posted_at": "2026-02-04T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855972000",
+    "title": "Lead Accountant",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Bay Saint Louis, Mississippi"
+    ],
+    "description": "The Budget and Accounting Division at NASA Shared Services Center (NSSC) is currently seeking a highly qualified candidate to serve as a Lead Accountant. This position is responsible for overseeing the Working Capital Fund (WCF) activities for NSSC, National Center for Critical Information Processing and Storage (NCCIPS) and Information Technology (IT) Business Services functions using accepted accounting practices and federal regulations.",
+    "url": "https://www.usajobs.gov/job/855972000",
+    "posted_at": "2026-02-04T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855963600",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Patuxent River, Maryland"
+    ],
+    "description": "You will serve as an IT SPECIALIST (INFOSEC) in the CYBERSECURITY DIVISION of NAVAIRWARCENAC DIV.",
+    "url": "https://www.usajobs.gov/job/855963600",
+    "posted_at": "2026-02-04T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "855936900",
+    "title": "AST - Facility Systems Safety",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "As a GS-14 AST Facility Systems Safety Engineer you will be responsible for managing the electrical safety program. You will establish program requirements, maintain policy documents, support project designs, monitor contractor performance, report safety trends to leadership, and assign responsibilities to team members within the organization. You will participate in facility inspections and program audits, perform data analysis and provide guidance to address critical and complex issues.",
+    "url": "https://www.usajobs.gov/job/855936900",
+    "posted_at": "2026-02-04T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856268900",
     "title": "AI Standards Architect",
     "organization": "National Institute of Standards and Technology",
