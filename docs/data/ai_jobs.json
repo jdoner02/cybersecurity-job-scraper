@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "856552100",
+    "title": "Kafka Engineer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW) Kafka Engineer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/856552100",
+    "posted_at": "2026-02-05T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856389000",
     "title": "Senior Organizational Strategist",
     "organization": "Department of Energy - Agency Wide",
@@ -266,24 +280,6 @@
     "remote": null
   },
   {
-    "job_id": "856122300",
-    "title": "LABORATORY EVIDENCE CONTROL SPECIALIST",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Pleasanton, California",
-      "Vista, California",
-      "Chicago, Illinois",
-      "Largo, Maryland",
-      "Dallas, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences. This position's primary purpose is to serve as an expert in evidence matters and provides authoritative and interpretive assistance and advice to the field office and other federal, state and local law enforcement personnel regarding the legal handling of evidence matters. Also, the secure handling of evidence acquired by the field office.",
-    "url": "https://www.usajobs.gov/job/856122300",
-    "posted_at": "2026-01-30T15:04:27.600000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856003800",
     "title": "DATA SCIENTIST",
     "organization": "Air Force Elements, U.S. Transportation Command",
@@ -298,15 +294,33 @@
     "remote": null
   },
   {
+    "job_id": "856122300",
+    "title": "LABORATORY EVIDENCE CONTROL SPECIALIST",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Pleasanton, California",
+      "Vista, California",
+      "Chicago, Illinois",
+      "Largo, Maryland",
+      "Dallas, Texas"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences. This position's primary purpose is to serve as an expert in evidence matters and provides authoritative and interpretive assistance and advice to the field office and other federal, state and local law enforcement personnel regarding the legal handling of evidence matters. Also, the secure handling of evidence acquired by the field office.",
+    "url": "https://www.usajobs.gov/job/856122300",
+    "posted_at": "2026-01-30T00:00:00",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856003300",
     "title": "Operations Research Analyst",
     "organization": "Joint Activities",
     "locations": [
       "Stuttgart, Germany"
     ],
-    "description": "About the Position: You will conduct strategic level assessments as part of implementing USEUCOM's Theater Strategy for the command. Recognized as a command expert performing professional and scientific work requiring the design, development, and adaptation of mathematical, statistical, econometric, and other scientific methods and techniques and provide advice and insight about the probable outcomes of alternative courses of action.",
+    "description": "About the Position: Serves as the Joint Strategic Assessments Branch Chief. You will conduct strategic level assessments as part of implementing USEUCOM's Theater Strategy for the command. Recognized as a command expert performing professional and scientific work requiring the design, development, and adaptation of mathematical, statistical, econometric, and other scientific methods and techniques and provide advice and insight about the probable outcomes of alternative courses of action.",
     "url": "https://www.usajobs.gov/job/856003300",
-    "posted_at": "2026-01-30T05:29:37.430000",
+    "posted_at": "2026-01-30T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -570,20 +584,6 @@
     "url": "https://www.usajobs.gov/job/854544200",
     "posted_at": "2026-01-16T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854326500",
-    "title": "Digital Product Manager ",
-    "organization": "National Gallery of Art",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The National Gallery of Art welcomes all people to explore art, creativity, and our shared humanity. Nearly four million people come through our doors each year\u2014with millions more online\u2014making us one of the most visited art museums in the world. Our renowned collection includes nearly 160,000 works of art, from the ancient world to today. Admission to the West and East Buildings, Sculpture Garden, special exhibitions, and public programs is always free.",
-    "url": "https://www.usajobs.gov/job/854326500",
-    "posted_at": "2026-01-14T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   }
