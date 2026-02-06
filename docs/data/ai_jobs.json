@@ -1,5 +1,121 @@
 [
   {
+    "job_id": "856726500",
+    "title": "Python Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW), Python Developer position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/856726500",
+    "posted_at": "2026-02-06T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856720800",
+    "title": "HIT Integration Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW) HIT Integration Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/856720800",
+    "posted_at": "2026-02-06T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856707700",
+    "title": "Test Automation Engineer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW) Test Automation Engineer position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/856707700",
+    "posted_at": "2026-02-06T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856629100",
+    "title": "Data Scientist",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (Data Scientist) positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/856629100",
+    "posted_at": "2026-02-06T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856728200",
+    "title": "MISSION SUPPORT SPECIALIST",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Metairie, Louisiana"
+    ],
+    "description": "This position is located in the DEA, New Orleans Division. This position's primary purpose is to exercise, independent judgment and discretion in assisting in the preparation and processing of confidential employee matters. The incumbent will also maintain and coordinate the administrative support program in the Business Operations Section by initiating and ensuring effective communication, coordination, and follow-up action with other Divisions and Headquarters Program Offices within DEA.",
+    "url": "https://www.usajobs.gov/job/856728200",
+    "posted_at": "2026-02-05T14:53:33.567000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856649300",
+    "title": "Solutions Architect",
+    "organization": "Office of the Chief Information Officer",
+    "locations": [
+      "San Francisco, California",
+      "Lakewood, Colorado",
+      "Washington, District of Columbia",
+      "Orlando, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Kansas City, Missouri",
+      "Raleigh, North Carolina",
+      "New York, New York",
+      "Portland, Oregon",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "San Antonio, Texas",
+      "Norfolk, Virginia",
+      "Spokane, Washington",
+      "Tacoma, Washington"
+    ],
+    "description": "As a Solutions Architect, you will serve as a senior technical architect responsible for the design, development, and implementation of the USAi platform. Location of position: The Office of Enterprise Data & Privacy Management The Office of Enterprise Data and Privacy Management focuses on continually improving data and information management, privacy, and accessibility. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
+    "url": "https://www.usajobs.gov/job/856649300",
+    "posted_at": "2026-02-05T10:09:52.590000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856640500",
+    "title": "Chief Information Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office (USPTO), America's Innovation Agency, is a fee-funded bureau of the U.S. Department of Commerce with 13,000+ employees and projected fee revenue of approximately $5 billion. Headquartered in Alexandria VA but operating globally through partnerships with international IP bodies and offices (including IP5, WIPO, and trilateral collaborations), the USPTO grants patents and registers trademarks to power innovation, competitiveness, and economic growth.",
+    "url": "https://www.usajobs.gov/job/856640500",
+    "posted_at": "2026-02-05T09:39:44.407000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856552100",
     "title": "Kafka Engineer",
     "organization": "Social Security Administration",
@@ -429,20 +545,6 @@
     "remote": null
   },
   {
-    "job_id": "855371400",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "San Antonio, Texas"
-    ],
-    "description": "The primary purpose of this position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA).",
-    "url": "https://www.usajobs.gov/job/855371400",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855542900",
     "title": "IT Specialist (SYSANALYSIS/APPSW)",
     "organization": "Patent and Trademark Office",
@@ -453,20 +555,6 @@
     "url": "https://www.usajobs.gov/job/855542900",
     "posted_at": "2026-01-26T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855375200",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Amarillo, Texas"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/855375200",
-    "posted_at": "2026-01-26T00:00:00",
-    "salary": "5-12",
     "grade": null,
     "remote": null
   },
