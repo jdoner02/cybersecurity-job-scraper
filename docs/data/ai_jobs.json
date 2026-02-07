@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "856845500",
+    "title": "Privacy Program Manager and Enterprise Risk Management Analyst",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "District of Columbia, District of Columbia"
+    ],
+    "description": "As a Government Information Specialist (Privacy Program Manager & Enterprise Risk Management Analyst) with OPM, you will serve as the agency's senior technical authority for privacy compliance and enterprise privacy risk management, providing expert guidance to leadership on complex, sensitive, and high-visibility privacy issues and ensuring consistent application of privacy requirements across OPM programs, systems, and technologies.",
+    "url": "https://www.usajobs.gov/job/856845500",
+    "posted_at": "2026-02-06T11:52:31.407000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856831800",
+    "title": "AI PRODUCT MANAGER",
+    "organization": "Consumer Product Safety Commission",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "A typical day for an AI Product Manager at CPSC's Analytics Center of Excellence (COE) involves leading complex technical projects that integrate AI/ML solutions into enterprise systems. The day starts with stakeholder meetings to define project scope and success metrics, followed by coordinating with data engineers and IT specialists to align technical requirements with modernization goals. The manager monitors project progress, addresses risks, and prepares briefings for senior leadership.",
+    "url": "https://www.usajobs.gov/job/856831800",
+    "posted_at": "2026-02-06T11:08:25.907000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856831400",
+    "title": "AI PRODUCT MANAGER",
+    "organization": "Consumer Product Safety Commission",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "A typical day for an AI Product Manager at CPSC's Analytics Center of Excellence (COE) involves leading complex technical projects that integrate AI/ML solutions into enterprise systems. The day starts with stakeholder meetings to define project scope and success metrics, followed by coordinating with data engineers and IT specialists to align technical requirements with modernization goals. The manager monitors project progress, addresses risks, and prepares briefings for senior leadership.",
+    "url": "https://www.usajobs.gov/job/856831400",
+    "posted_at": "2026-02-06T11:06:54.710000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856787000",
+    "title": "Solutions Architect",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist (APPSW) Solutions Architect positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/856787000",
+    "posted_at": "2026-02-06T08:03:18.010000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856726500",
     "title": "Python Developer",
     "organization": "Social Security Administration",
@@ -258,20 +314,6 @@
     "remote": null
   },
   {
-    "job_id": "856290300",
-    "title": "Supervisory Human Resources Specialist (Deputy Chief, HR Operations Center)",
-    "organization": "Immigration and Customs Enforcement",
-    "locations": [
-      "Irving, Texas"
-    ],
-    "description": "View Common Definitions of terms found in this announcement. Organizational Location: This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Office of Human Capital, Human Resources Operations Center (HROC), in Irving, Texas. This is a non-bargaining unit position.",
-    "url": "https://www.usajobs.gov/job/856290300",
-    "posted_at": "2026-02-02T18:56:46.567000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856275100",
     "title": "Director for Spectrum Policy and Planning",
     "organization": "Headquarters, NASA",
@@ -485,34 +527,6 @@
     "url": "https://www.usajobs.gov/job/855675900",
     "posted_at": "2026-01-28T00:00:00",
     "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855660500",
-    "title": "Supervisory General Engineer (DE)",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is for a Supervisory General Engineer in the Information Technology Controls Division (ITCD), Office of National Security Controls (ONSC), Strategic Trade (ST), Office of the Assistant Secretary for Export Administration (EA), Bureau of Industry and Security (BIS) within the Department of Commerce.",
-    "url": "https://www.usajobs.gov/job/855660500",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855660200",
-    "title": "Supervisory General Engineer (MP)",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is for a Supervisory General Engineer in the Information Technology Controls Division (ITCD), Office of National Security Controls (ONSC), Strategic Trade (ST), Office of the Assistant Secretary for Export Administration (EA), Bureau of Industry and Security (BIS) within the Department of Commerce.",
-    "url": "https://www.usajobs.gov/job/855660200",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
