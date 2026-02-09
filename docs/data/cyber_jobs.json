@@ -1,14 +1,184 @@
 [
   {
-    "job_id": "856899100",
-    "title": "Supervisory Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
+    "job_id": "856924100",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
     "locations": [
-      "El Paso, Texas"
+      "Travis AFB, California"
     ],
-    "description": "Serves as a Supervisory Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS utilizes supervisory and personnel management authorities and responsibilities.",
-    "url": "https://www.usajobs.gov/job/856899100",
-    "posted_at": "2026-02-06T14:48:21.110000",
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program, and more.",
+    "url": "https://www.usajobs.gov/job/856924100",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856911100",
+    "title": "ACTIVITY PROGRAM COORDINATOR",
+    "organization": "Headquarters, Air Force Reserve Command",
+    "locations": [
+      "March AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the activity leadership for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program",
+    "url": "https://www.usajobs.gov/job/856911100",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856907500",
+    "title": "IT SPECIALIST",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Patrick AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to provide professional and technical expertise in performance of work requiring knowledge and application of information technology data management systems encompassing cybersecurity analysis, the design and implementation of enterprise and mission data management system architecture, and the operation and sustainment of data management systems.",
+    "url": "https://www.usajobs.gov/job/856907500",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856906000",
+    "title": "SUPERVISOR",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Point Loma Complex, San Diego, California"
+    ],
+    "description": "You will serve as a SUPERVISOR in the CORPORATE OPERATIONS, CODE 8000 of NAVWARSYSCEN PACIFIC SAN DIEGO CA.",
+    "url": "https://www.usajobs.gov/job/856906000",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856866600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Tyndall AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, Government Purchase Card (GPC) program, etc.",
+    "url": "https://www.usajobs.gov/job/856866600",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856858100",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS)administrator, drug demand reduction program, and more.",
+    "url": "https://www.usajobs.gov/job/856858100",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856856300",
+    "title": "IT SPECIALIST (OS)",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Kadena Air Base Okinawa, Japan"
+    ],
+    "description": "See Additional Information section below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to perform technical work on the Civil Engineer (CE) Control Systems (CS) and their associated network architecture with the purpose of properly installing, maintaining, and incorporating Cybersecurity measures at all levels.",
+    "url": "https://www.usajobs.gov/job/856856300",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856816500",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Norfolk, Virginia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J6/C4 ENTERPRISE DIRECTORATE.",
+    "url": "https://www.usajobs.gov/job/856816500",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856800200",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Ramstein, Germany"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, Government Purchase Card (GPC) program, and more.",
+    "url": "https://www.usajobs.gov/job/856800200",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856729300",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (NETWORK)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA FE/Endpoint Svcs /Customer Spt Directorate. .",
+    "url": "https://www.usajobs.gov/job/856729300",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856692500",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resources requirements.",
+    "url": "https://www.usajobs.gov/job/856692500",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856614300",
+    "title": "IT CYBERSECURITY SPECIALIST (DATAMGT/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Whitehall, Ohio"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA OC/INFRASTRUCTURE DIRECTORATE.",
+    "url": "https://www.usajobs.gov/job/856614300",
+    "posted_at": "2026-02-09T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856065300",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/856065300",
+    "posted_at": "2026-02-09T00:00:00",
     "salary": "12-12",
     "grade": null,
     "remote": null
@@ -123,20 +293,6 @@
     "url": "https://www.usajobs.gov/job/856666200",
     "posted_at": "2026-02-06T00:00:00",
     "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856612700",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA - FE/Endpoint Svcs/Customer Spt PMO.",
-    "url": "https://www.usajobs.gov/job/856612700",
-    "posted_at": "2026-02-06T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -318,20 +474,6 @@
     "remote": null
   },
   {
-    "job_id": "856640500",
-    "title": "Chief Information Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO), America's Innovation Agency, is a fee-funded bureau of the U.S. Department of Commerce with 13,000+ employees and projected fee revenue of approximately $5 billion. Headquartered in Alexandria VA but operating globally through partnerships with international IP bodies and offices (including IP5, WIPO, and trilateral collaborations), the USPTO grants patents and registers trademarks to power innovation, competitiveness, and economic growth.",
-    "url": "https://www.usajobs.gov/job/856640500",
-    "posted_at": "2026-02-05T09:39:44.407000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856628200",
     "title": "IT CYBERSECURITY SPECIALIST ( NETWORK/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -474,20 +616,6 @@
     "remote": null
   },
   {
-    "job_id": "856446500",
-    "title": "Medical Instrument Technician-Supervisory Echocardiography Technician",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Nashville, Tennessee"
-    ],
-    "description": "The Supervisory Medical Instrument Technician (Echocardiography) serves as the senior technical and administrative leader for the Echocardiography and Electrocardiography (ECG/EKG) diagnostic teams within the Cardiology Section. The incumbent is responsible for oversight of the daily operations, staff supervision, workflow coordination, quality assurance, performance improvement, and provision of high-quality cardiovascular diagnostic services across multiple care settings.",
-    "url": "https://www.usajobs.gov/job/856446500",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "10-10",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856362800",
     "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -530,20 +658,6 @@
     "remote": null
   },
   {
-    "job_id": "856310100",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC/SYSADMIN)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Cheyenne Mountain AFB, Colorado"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA-J6/C4 ENTERPRISE DIRECTORATE.",
-    "url": "https://www.usajobs.gov/job/856310100",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855963600",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "Naval Air Systems Command",
@@ -568,20 +682,6 @@
     "url": "https://www.usajobs.gov/job/856335900",
     "posted_at": "2026-02-03T10:39:13.743000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856319700",
-    "title": "Supervisory IT Specialist (Network)",
-    "organization": "Department of State - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Executive Secretariat, Office of Executive Technology (S/ES ET). The Executive Secretariat (S/ES), is responsible for coordination of the work of the Department internally, serving as the liaison between the Department's bureaus. You will serve as a Supervisory Information Technology (IT) Specialist and act as the Division Chief of the Operations & Engineering Division to ensure the integrity and availability of IT networks, applications and systems.",
-    "url": "https://www.usajobs.gov/job/856319700",
-    "posted_at": "2026-02-03T09:52:10.877000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -786,20 +886,6 @@
     "remote": null
   },
   {
-    "job_id": "856448800",
-    "title": "Deputy Assistant Administrator, Information Systems Division",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "Serves as the Deputy Assistant Administrator (DAA) and Deputy Chief Information Officer for the Information Systems Division (TC) with full technical responsibility for leading the management, administration and execution of the development, implementation and operation of program policies and procedures pertaining to the Drug Enforcement Administration's (DEA) Information Technology Program (IT). The IT Program supports all domestic and foreign DEA offices located around the world.",
-    "url": "https://www.usajobs.gov/job/856448800",
-    "posted_at": "2026-02-02T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856392100",
     "title": "Technical Solutions Architect (ServiceNow Cyber) #5374",
     "organization": "Senate",
@@ -810,20 +896,6 @@
     "url": "https://www.usajobs.gov/job/856392100",
     "posted_at": "2026-02-02T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856099900",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Columbus, Ohio"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA HC/Hosting and Compute Center (HC35).",
-    "url": "https://www.usajobs.gov/job/856099900",
-    "posted_at": "2026-02-02T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -881,20 +953,6 @@
     "url": "https://www.usajobs.gov/job/855420700",
     "posted_at": "2026-02-02T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856153200",
-    "title": "Attorney Advisor - PUBLIC NOTICE",
-    "organization": "Transportation Security Administration",
-    "locations": [
-      "Springfield, Virginia"
-    ],
-    "description": "Securing Travel, Protecting People - At the Transportation Security Administration, you will serve in a high-stakes environment to safeguard the American way of life. In cities across the country, you would secure airports, seaports, railroads, highways, and/or public transit systems, thus protecting America's transportation infrastructure and ensuring freedom of movement for people and commerce.",
-    "url": "https://www.usajobs.gov/job/856153200",
-    "posted_at": "2026-01-30T17:32:07.503000",
-    "salary": "G-K",
     "grade": null,
     "remote": null
   },
@@ -1041,20 +1099,6 @@
     "remote": null
   },
   {
-    "job_id": "855984200",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DoD Cyber Defense Command (DCDC).",
-    "url": "https://www.usajobs.gov/job/855984200",
-    "posted_at": "2026-01-30T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855931200",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "Air Force Special Operations Command",
@@ -1109,21 +1153,6 @@
     "url": "https://www.usajobs.gov/job/855619600",
     "posted_at": "2026-01-30T00:00:00",
     "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855410400",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/855410400",
-    "posted_at": "2026-01-30T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1281,38 +1310,6 @@
     "url": "https://www.usajobs.gov/job/855408000",
     "posted_at": "2026-01-27T00:00:00",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855408000",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/855408000",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855323400",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/855323400",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
