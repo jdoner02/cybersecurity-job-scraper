@@ -1,5 +1,133 @@
 [
   {
+    "job_id": "857060500",
+    "title": "Senior Interagency Advisor, Export Control & Interagency Liaison Division",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "NASA's senior advisor and principal liaison to the Department of War (DoW) advises on matters involving the totality of NASA missions with particular emphasis on science, technology, research, and development activities. The incumbent provides authoritative guidance across defense-related interagency issues, engagements and partnerships, represents NASA in high-level policy forums, and ensures alignment of NASA 's programs with national policy priorities.",
+    "url": "https://www.usajobs.gov/job/857060500",
+    "posted_at": "2026-02-10T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857050500",
+    "title": "Supervisory Environmental Protection Specialist",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "Serves as the Environmental Management Manager (Chief) for the Environmental and Health Services at Stennis Space Center. Manages environmental compliance, stewardship, and regulatory engagement across the Center. Directs Center-wide environmental programs, advises leadership on environmental risks and requirements; oversees permitting and audits, and ensures operations meet all federal, state, local, and Agency environmental standards while advancing sustainability and mission readiness",
+    "url": "https://www.usajobs.gov/job/857050500",
+    "posted_at": "2026-02-10T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857027000",
+    "title": "Associate Director, ES&H & Emergency Management",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Albany, Oregon",
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Hydrocarbons and Geothermal Energy (HGEO) - National Energy Technology Laboratory (NETL). As an Associate Director, Environmental, Safety & Health (ES&H) and Emergency Management (EM), you will be responsible for conceiving, planning, and managing comprehensive ES&H and EM programs to ensure compliance with all DOE, federal, state, and local requirements.",
+    "url": "https://www.usajobs.gov/job/857027000",
+    "posted_at": "2026-02-10T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857015100",
+    "title": "Statistician",
+    "organization": "Office of Management and Budget",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Office of Management and Budget (OMB), Office of Information and Regulatory Affairs (OIRA). The incumbent will serve as a Statistician and Statistical Expert, with expertise in survey methods, complex quantitative analysis methods, economics, finance, artificial intelligence, or related fields.",
+    "url": "https://www.usajobs.gov/job/857015100",
+    "posted_at": "2026-02-10T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856988600",
+    "title": "Deputy Comptroller for Supervision System and Analytical Support, NB-0570-VIII",
+    "organization": "Office of the Comptroller of the Currency",
+    "locations": [
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Charlotte, North Carolina",
+      "Edison, New Jersey",
+      "New York, New York",
+      "Cleveland, Ohio",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Dallas, Texas"
+    ],
+    "description": "As the Deputy Comptroller for Supervision System and Analytical Support (SS&AS), you will function as a key advisor on OCC supervisory data systems and solutions, data analytics, current and emerging risks, and on major supervisory policy issues affecting the federal banking system.",
+    "url": "https://www.usajobs.gov/job/856988600",
+    "posted_at": "2026-02-09T11:13:45.490000",
+    "salary": "8-8",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856988200",
+    "title": "Deputy Comptroller for Supervision System and Analytical Support, NB-0570-VIII",
+    "organization": "Office of the Comptroller of the Currency",
+    "locations": [
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Charlotte, North Carolina",
+      "Edison, New Jersey",
+      "New York, New York",
+      "Cleveland, Ohio",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Dallas, Texas"
+    ],
+    "description": "As the Deputy Comptroller for Supervision System and Analytical Support (SS&AS), you will function as a key advisor on OCC supervisory data systems and solutions, data analytics, current and emerging risks, and on major supervisory policy issues affecting the federal banking system.",
+    "url": "https://www.usajobs.gov/job/856988200",
+    "posted_at": "2026-02-09T11:12:55.833000",
+    "salary": "8-8",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856956800",
+    "title": "AI Engineer - Entry to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a newly hired AI Engineer you may, depending on the skill-sets currently in demand, be assigned to a mission office, or alternatively enrolled in the three-year Data Science Development Program (DSDP) in which you will both broaden and specialize your AI Engineering skills by taking courses and touring with a variety of mission offices (each for several months). In either case you will work with NSA experts in AI Engineering, related technical domains, and specialized subject areas.",
+    "url": "https://www.usajobs.gov/job/856956800",
+    "posted_at": "2026-02-09T08:50:49.140000",
+    "salary": "7-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "856880000",
     "title": "Government Information Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -136,38 +264,6 @@
     "url": "https://www.usajobs.gov/job/856728200",
     "posted_at": "2026-02-05T14:53:33.567000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856649300",
-    "title": "Solutions Architect",
-    "organization": "Office of the Chief Information Officer",
-    "locations": [
-      "San Francisco, California",
-      "Lakewood, Colorado",
-      "Washington, District of Columbia",
-      "Orlando, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "Raleigh, North Carolina",
-      "New York, New York",
-      "Portland, Oregon",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas",
-      "Norfolk, Virginia",
-      "Spokane, Washington",
-      "Tacoma, Washington"
-    ],
-    "description": "As a Solutions Architect, you will serve as a senior technical architect responsible for the design, development, and implementation of the USAi platform. Location of position: The Office of Enterprise Data & Privacy Management The Office of Enterprise Data and Privacy Management focuses on continually improving data and information management, privacy, and accessibility. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/856649300",
-    "posted_at": "2026-02-05T10:09:52.590000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -314,20 +410,6 @@
     "remote": null
   },
   {
-    "job_id": "856243600",
-    "title": "Physical Scientist",
-    "organization": "National Oceanic and Atmospheric Administration",
-    "locations": [
-      "College Park, Maryland"
-    ],
-    "description": "This position is located in the National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data, and Information Service (NESDIS), Office of Satellite Products and Operations (OSPO), Satellite Products and Services Division (SPSD) with two vacancies in College Park, MD.",
-    "url": "https://www.usajobs.gov/job/856243600",
-    "posted_at": "2026-02-03T00:00:00",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856275100",
     "title": "Director for Spectrum Policy and Planning",
     "organization": "Headquarters, NASA",
@@ -352,6 +434,20 @@
     "url": "https://www.usajobs.gov/job/856274700",
     "posted_at": "2026-02-02T16:03:41.133000",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "856205600",
+    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
+    "url": "https://www.usajobs.gov/job/856205600",
+    "posted_at": "2026-02-02T10:34:22.337000",
+    "salary": "11-14",
     "grade": null,
     "remote": null
   },
@@ -384,22 +480,8 @@
     ],
     "description": "This position is part of the Office of Management, Department of Energy. As a Realty Specialist, you will serve as the Department's leading expert in real estate for DOE Headquarters activities. As such, incumbent serves as a technical resource for the Department and, when appropriate, as an ad hoc team leader to address real estate matters. In some cases, staff will come from within the office and in other cases staff will come from other Field Management Offices or other Departmental Elements.",
     "url": "https://www.usajobs.gov/job/856213300",
-    "posted_at": "2026-02-02T11:14:14.630000",
+    "posted_at": "2026-02-02T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856205600",
-    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
-    "url": "https://www.usajobs.gov/job/856205600",
-    "posted_at": "2026-02-02T10:34:22.337000",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
@@ -466,24 +548,6 @@
     "remote": null
   },
   {
-    "job_id": "856122300",
-    "title": "LABORATORY EVIDENCE CONTROL SPECIALIST",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Pleasanton, California",
-      "Vista, California",
-      "Chicago, Illinois",
-      "Largo, Maryland",
-      "Dallas, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences. This position's primary purpose is to serve as an expert in evidence matters and provides authoritative and interpretive assistance and advice to the field office and other federal, state and local law enforcement personnel regarding the legal handling of evidence matters. Also, the secure handling of evidence acquired by the field office.",
-    "url": "https://www.usajobs.gov/job/856122300",
-    "posted_at": "2026-01-30T00:00:00",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856003300",
     "title": "Operations Research Analyst",
     "organization": "Joint Activities",
@@ -494,39 +558,6 @@
     "url": "https://www.usajobs.gov/job/856003300",
     "posted_at": "2026-01-30T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855853300",
-    "title": "Data Scientist (Supply Chain)",
-    "organization": "Defense Contract Management Agency",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "See below for important information regarding this job. Additional vacancies may be filled from this announcement. DCMA Location Negotiable upon Selection. This is not a remote work position. See DCMA Location List, not all locations may be available.",
-    "url": "https://www.usajobs.gov/job/855853300",
-    "posted_at": "2026-01-29T08:25:31.673000",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
