@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "857266500",
+    "title": "Computer Scientist (Data Scientist)",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "District of Columbia, District of Columbia"
+    ],
+    "description": "This position is located within the United States Coast Guard, Coast Guard Counterintelligence Service (CGCIS) Insider Threat Division. This position is the senior Computer Scientist for the USCG's Insider Threat Program. The USCG's Insider Threat Program is required by Executive Order 13587 to provide proactive detection, deterrence, and mitigation of risks posed by individuals with authorized access to the USCG's assets, information, technology, and operations.",
+    "url": "https://www.usajobs.gov/job/857266500",
+    "posted_at": "2026-02-11T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857245600",
+    "title": "Director Engineering Directorate",
+    "organization": "Langley Research Center",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "The Director, Engineering Directorate (ED) at NASA's Langley Research Center is responsible for providing systems engineering and discipline engineering capabilities to the Center. The incumbent provides technical leadership and systems management to engineers, technicians, and business personnel required to deliver and/or compete effectively for, and meet commitments on, engineering and technology development work that support the research, science, and technology needs of the Center.",
+    "url": "https://www.usajobs.gov/job/857245600",
+    "posted_at": "2026-02-11T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857233700",
+    "title": "Supervisory Program Manager (HR Data and Systems)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Human Resources Division, HR Data and Systems Section. This position(s) primary purpose is to lead the development, management, and implementation of a holistic multi-year Human Resources Information Systems (HRIS) strategy providing a technical roadmap while leveraging current technology solutions; and to analyze and interpret a variety of HR data to identify strategies and initiatives impacting HR related areas.",
+    "url": "https://www.usajobs.gov/job/857233700",
+    "posted_at": "2026-02-11T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857077800",
+    "title": "Information Technology Specialist (Security)(Direct-Hire)",
+    "organization": "Goddard Space Flight Center",
+    "locations": [
+      "Wallops Island, Virginia"
+    ],
+    "description": "Serves as the Security Engineer, responsible for ensuring the confidentiality, integrity, and availability of Goddard's critical data and IT assets. Provides secure solutions to meet complex problems, works with organizations to enhance and strengthen information security and integrate it throughout the system life cycle. Provides support to plan, design and implement security controls which safeguard/monitor anomalous events for networks, information systems, enterprise applications and data.",
+    "url": "https://www.usajobs.gov/job/857077800",
+    "posted_at": "2026-02-11T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857060500",
     "title": "Senior Interagency Advisor, Export Control & Interagency Liaison Division",
     "organization": "Headquarters, NASA",
@@ -108,7 +164,7 @@
     ],
     "description": "As the Deputy Comptroller for Supervision System and Analytical Support (SS&AS), you will function as a key advisor on OCC supervisory data systems and solutions, data analytics, current and emerging risks, and on major supervisory policy issues affecting the federal banking system.",
     "url": "https://www.usajobs.gov/job/856988200",
-    "posted_at": "2026-02-09T11:12:55.833000",
+    "posted_at": "2026-02-09T00:00:00",
     "salary": "8-8",
     "grade": null,
     "remote": null
@@ -122,7 +178,7 @@
     ],
     "description": "As a newly hired AI Engineer you may, depending on the skill-sets currently in demand, be assigned to a mission office, or alternatively enrolled in the three-year Data Science Development Program (DSDP) in which you will both broaden and specialize your AI Engineering skills by taking courses and touring with a variety of mission offices (each for several months). In either case you will work with NSA experts in AI Engineering, related technical domains, and specialized subject areas.",
     "url": "https://www.usajobs.gov/job/856956800",
-    "posted_at": "2026-02-09T08:50:49.140000",
+    "posted_at": "2026-02-09T00:00:00",
     "salary": "7-15",
     "grade": null,
     "remote": null
@@ -138,20 +194,6 @@
     "url": "https://www.usajobs.gov/job/856880000",
     "posted_at": "2026-02-09T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856845500",
-    "title": "Privacy Program Manager and Enterprise Risk Management Analyst",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "District of Columbia, District of Columbia"
-    ],
-    "description": "As a Government Information Specialist (Privacy Program Manager & Enterprise Risk Management Analyst) with OPM, you will serve as the agency's senior technical authority for privacy compliance and enterprise privacy risk management, providing expert guidance to leadership on complex, sensitive, and high-visibility privacy issues and ensuring consistent application of privacy requirements across OPM programs, systems, and technologies.",
-    "url": "https://www.usajobs.gov/job/856845500",
-    "posted_at": "2026-02-06T11:52:31.407000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -348,20 +390,6 @@
     "url": "https://www.usajobs.gov/job/855972000",
     "posted_at": "2026-02-04T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855963600",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Patuxent River, Maryland"
-    ],
-    "description": "You will serve as an IT SPECIALIST (INFOSEC) in the CYBERSECURITY DIVISION of NAVAIRWARCENAC DIV.",
-    "url": "https://www.usajobs.gov/job/855963600",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "5-5",
     "grade": null,
     "remote": null
   },
