@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "857342900",
+    "title": "Staff Assistant",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Administrative Law Judges. This position primary purpose is to directly manages all administrative duties for the office. Ensures efficient and effective flow of staff papers, reports, and recommendations. Keeps management informed on all important appointments and all administrative matters.",
+    "url": "https://www.usajobs.gov/job/857342900",
+    "posted_at": "2026-02-12T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857151300",
+    "title": "Aerospace Engineer, AST, Safety and Mission Assurance (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "The Safety and Mission Assurance Directorate, Institutional Division, Technical Integration Branch at Kennedy Space Center is seeking an aerospace engineer for a range flight safety position. Selectee will assess flight vehicles, flight systems, and planned trajectories for rockets and unmanned aerial vehicles; perform flight hazard analyses; provide launch support; and develop risk mitigation strategies, such as setting abort limits, to protect people and critical assets on the ground.",
+    "url": "https://www.usajobs.gov/job/857151300",
+    "posted_at": "2026-02-12T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857044600",
+    "title": "Aerospace Engineer, AST, Safety and Mission Assurance (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As a Mission Assurance Engineer within the Launch Services Division, Safety and Mission Assurance (SMA) Directorate at Kennedy Space Center (KSC), you will conduct technical assessments on all aspects of launch vehicles and associated systems, including safety and quality related launch vehicle products. You will advise on, coordinate, assess, and/or perform mission assurance activities for launch vehicle hardware and associated ground support equipment for Launch Services Program missions.",
+    "url": "https://www.usajobs.gov/job/857044600",
+    "posted_at": "2026-02-12T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857266500",
     "title": "Computer Scientist (Data Scientist)",
     "organization": "U.S. Coast Guard",
@@ -52,6 +94,20 @@
     "url": "https://www.usajobs.gov/job/857077800",
     "posted_at": "2026-02-11T00:00:00",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857417400",
+    "title": "ASSOCIATE GENERAL COUNSEL",
+    "organization": "Defense Intelligence Agency",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "We are committed to: Teamwork: Partnering at all levels and across organizational boundaries for mission accomplishment. Integrity: Adherence to the highest legal and ethical principles in our responsibilities. Excellence: Unrivaled defense intelligence expertise. Service: Putting the welfare of the Nation and commitment to our mission before oneself.",
+    "url": "https://www.usajobs.gov/job/857417400",
+    "posted_at": "2026-02-10T00:00:00",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -318,7 +374,7 @@
     ],
     "description": "The United States Patent and Trademark Office (USPTO), America's Innovation Agency, is a fee-funded bureau of the U.S. Department of Commerce with 13,000+ employees and projected fee revenue of approximately $5 billion. Headquartered in Alexandria VA but operating globally through partnerships with international IP bodies and offices (including IP5, WIPO, and trilateral collaborations), the USPTO grants patents and registers trademarks to power innovation, competitiveness, and economic growth.",
     "url": "https://www.usajobs.gov/job/856640500",
-    "posted_at": "2026-02-05T09:39:44.407000",
+    "posted_at": "2026-02-05T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -334,20 +390,6 @@
     "url": "https://www.usajobs.gov/job/856552100",
     "posted_at": "2026-02-05T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856389000",
-    "title": "Senior Organizational Strategist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Legacy Management, Department of Energy. As a Senior Organizational Strategist, you will serve as a Senior Organizational Strategist, human resource management policy advisor, and assistant to the Deputy Director for the Office of Legacy Management (LM).",
-    "url": "https://www.usajobs.gov/job/856389000",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -466,20 +508,6 @@
     "remote": null
   },
   {
-    "job_id": "856205600",
-    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
-    "url": "https://www.usajobs.gov/job/856205600",
-    "posted_at": "2026-02-02T10:34:22.337000",
-    "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856213300",
     "title": "Realty Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -586,20 +614,6 @@
     "url": "https://www.usajobs.gov/job/856003300",
     "posted_at": "2026-01-30T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855675900",
-    "title": "General Attorney (Artificial Intelligence)",
-    "organization": "Immigration and Customs Enforcement",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The U.S. Immigration and Customs Enforcement (ICE) Office of the Principal Legal Advisor (OPLA) is seeking an attorney to join our legal team as an Associate Legal Advisor with the OPLA Headquarters Knowledge Management Division (KMD) within the Chief of Staff portfolio. The attorney will advise on and evaluate artificial intelligence (AI) use. Experience with using and/or evaluating AI products is preferred. One or more positions may be filled using this vacancy announcement.",
-    "url": "https://www.usajobs.gov/job/855675900",
-    "posted_at": "2026-01-28T00:00:00",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   },
