@@ -1,5 +1,75 @@
 [
   {
+    "job_id": "857713700",
+    "title": "Data Scientist",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of Strategy, Planning, and Innovation will allow you to apply data science and related information management principles to promote effective data use for informed decision-making, and to drive positive transformation in programs and organizational units with advanced analytic, modeling, and evaluation support. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857713700",
+    "posted_at": "2026-02-13T11:17:12.727000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857711800",
+    "title": "Data Scientist",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of Strategy, Planning, and Innovation will allow you to apply data science and related information management principles to promote effective data use for informed decision-making, and to drive positive transformation in programs and organizational units with advanced analytic, modeling, and evaluation support. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857711800",
+    "posted_at": "2026-02-13T11:10:33.680000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857700300",
+    "title": "Supervisory IT Specialist (Artificial Intelligence)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857700300",
+    "posted_at": "2026-02-13T10:49:40.703000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857702700",
+    "title": "IT Specialist (Artificial Intelligence)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857702700",
+    "posted_at": "2026-02-13T10:37:36.350000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857700800",
+    "title": "IT Specialist (Artificial Intelligence)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857700800",
+    "posted_at": "2026-02-13T10:33:03.510000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857635800",
     "title": "Marketing Specialist",
     "organization": "Air Combat Command",
@@ -123,20 +193,6 @@
     "description": "The United States Patent and Trademark Office's (USPTO) mission is to promote innovation and competition by providing quality examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide. Through the issuance of patents, the USPTO encourages technological advancement by providing incentives to invent, invest in, and disclose new technology worldwide.",
     "url": "https://www.usajobs.gov/job/857613700",
     "posted_at": "2026-02-12T15:39:39.090000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857612700",
-    "title": "Data Analyst",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "The USPS OIG is seeking a highly qualified applicant to fill our Data Analyst position in the Research and Insights Solution Center located in Arlington, Virginia. Bring your skills and voice to our team!",
-    "url": "https://www.usajobs.gov/job/857612700",
-    "posted_at": "2026-02-12T15:36:55.440000",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -578,62 +634,6 @@
     "remote": null
   },
   {
-    "job_id": "856348700",
-    "title": "FINANCIAL MANAGEMENT SPECIALIST",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "San Diego, California"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), San Diego Field Division This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
-    "url": "https://www.usajobs.gov/job/856348700",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856308400",
-    "title": "Supervisory Human Resources Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of the Chief Human Capital Officer, within the Office of Workforce Technology and Development (OWTD) at the Department of Energy. As a Supervisory Human Resources Specialist, you will be responsible for supervising a team of Human Resources Development Specialists and Management Analysts, who perform a variety of functions in support of the agency's employee development objectives.",
-    "url": "https://www.usajobs.gov/job/856308400",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855972000",
-    "title": "Lead Accountant",
-    "organization": "National Aeronautics and Space Administration - Agency Wide",
-    "locations": [
-      "Bay Saint Louis, Mississippi"
-    ],
-    "description": "The Budget and Accounting Division at NASA Shared Services Center (NSSC) is currently seeking a highly qualified candidate to serve as a Lead Accountant. This position is responsible for overseeing the Working Capital Fund (WCF) activities for NSSC, National Center for Critical Information Processing and Storage (NCCIPS) and Information Technology (IT) Business Services functions using accepted accounting practices and federal regulations.",
-    "url": "https://www.usajobs.gov/job/855972000",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855936900",
-    "title": "AST - Facility Systems Safety",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As a GS-14 AST Facility Systems Safety Engineer you will be responsible for managing the electrical safety program. You will establish program requirements, maintain policy documents, support project designs, monitor contractor performance, report safety trends to leadership, and assign responsibilities to team members within the organization. You will participate in facility inspections and program audits, perform data analysis and provide guidance to address critical and complex issues.",
-    "url": "https://www.usajobs.gov/job/855936900",
-    "posted_at": "2026-02-04T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856268900",
     "title": "AI Standards Architect",
     "organization": "National Institute of Standards and Technology",
@@ -784,62 +784,6 @@
     "url": "https://www.usajobs.gov/job/856003800",
     "posted_at": "2026-01-30T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856003300",
-    "title": "Operations Research Analyst",
-    "organization": "Joint Activities",
-    "locations": [
-      "Stuttgart, Germany"
-    ],
-    "description": "About the Position: Serves as the Joint Strategic Assessments Branch Chief. You will conduct strategic level assessments as part of implementing USEUCOM's Theater Strategy for the command. Recognized as a command expert performing professional and scientific work requiring the design, development, and adaptation of mathematical, statistical, econometric, and other scientific methods and techniques and provide advice and insight about the probable outcomes of alternative courses of action.",
-    "url": "https://www.usajobs.gov/job/856003300",
-    "posted_at": "2026-01-30T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855544900",
-    "title": "Senior AI/ET Strategist",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
-    "url": "https://www.usajobs.gov/job/855544900",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855543100",
-    "title": "IT Specialist (SYSANALYSIS/APPSW)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
-    "url": "https://www.usajobs.gov/job/855543100",
-    "posted_at": "2026-01-27T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855542900",
-    "title": "IT Specialist (SYSANALYSIS/APPSW)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "We need your expertise! Our mission here at Emerging Technologies & Innovation Division (ET & ID) is to promote the use of new technology, innovative solutions, and experience design practices across business product delivery teams. At ET & ID you can work with business product delivery teams to deliver high quality/high value Artificial Intelligence/Emerging Technology (AI/ET) solutions in support of desired business outcomes.",
-    "url": "https://www.usajobs.gov/job/855542900",
-    "posted_at": "2026-01-26T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
