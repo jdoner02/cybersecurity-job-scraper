@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "857184400",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Joint Base Anacostia-Bolling, District of Columbia"
+    ],
+    "description": "This position is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. This position is for DISA White House Communications Agency at Joint Base Anacostia-Bolling, District of Columbia. This is an Excepted Service position and does not confer eligibility to be converted to the Competitive Service. If you are a current Federal Career/Career-Conditional employee, you will be placed on an Excepted appointment under 10 U.S.C. 1599f.",
+    "url": "https://www.usajobs.gov/job/857184400",
+    "posted_at": "2026-02-16T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857790700",
     "title": "2026 Summer Internship - IT Operations",
     "organization": "Supreme Court of the United States",
@@ -408,6 +422,20 @@
     "remote": null
   },
   {
+    "job_id": "857332500",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Yokota Air Base, Japan"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/857332500",
+    "posted_at": "2026-02-12T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857192400",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Force Global Strike Command",
@@ -605,6 +633,20 @@
     "url": "https://www.usajobs.gov/job/857151400",
     "posted_at": "2026-02-11T00:00:00",
     "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857148600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Keesler AFB, Mississippi"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs.",
+    "url": "https://www.usajobs.gov/job/857148600",
+    "posted_at": "2026-02-11T00:00:00",
+    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -1405,67 +1447,6 @@
     "url": "https://www.usajobs.gov/job/854661300",
     "posted_at": "2026-01-19T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854817200",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "Department of the Treasury - Agency Wide",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position may be filled within any Treasury Bureau. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
-    "url": "https://www.usajobs.gov/job/854817200",
-    "posted_at": "2026-01-16T00:00:00",
-    "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854787300",
-    "title": "Desktop Support Specialist",
-    "organization": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
-    "locations": [
-      "New Orleans, Louisiana"
-    ],
-    "description": "For more information on the Department of Justice and the United States Attorneys' Offices, visit http://www.justice.gov/usao/. As needed, additional positions may be filled using this announcement. This position is also being announced to All U.S. Citizens and Nationals under 26-LAE-12864888-DE.",
-    "url": "https://www.usajobs.gov/job/854787300",
-    "posted_at": "2026-01-16T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854786700",
-    "title": "Desktop Support Specialist",
-    "organization": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
-    "locations": [
-      "New Orleans, Louisiana"
-    ],
-    "description": "For more information on the Department of Justice and the United States Attorneys' Offices, visit http://www.justice.gov/usao/. As needed, additional positions may be filled using this announcement. This position is also being announced to applicants eligible to apply through Merit Staffing procedures under 26-LAE-12864889-MP.",
-    "url": "https://www.usajobs.gov/job/854786700",
-    "posted_at": "2026-01-16T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   }

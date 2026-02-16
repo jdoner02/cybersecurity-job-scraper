@@ -856,52 +856,5 @@
     "salary": "13-15",
     "grade": null,
     "remote": null
-  },
-  {
-    "job_id": "854817200",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "Department of the Treasury - Agency Wide",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position may be filled within any Treasury Bureau. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
-    "url": "https://www.usajobs.gov/job/854817200",
-    "posted_at": "2026-01-16T00:00:00",
-    "salary": "12-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "854544200",
-    "title": "DISTINGUISHED SCIENTIST/ENGINEER FOR ENERGETIC SYSTEMS",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Indian Head, Maryland"
-    ],
-    "description": "You will serve as the Distinguished Scientist/Engineer for Energetic Systems at the Naval Surface Warfare Center, Indian Head Division, Naval Sea Systems Command. This position is a direct report to the Technical Director who serves as an SES. This position will serve as the DON senior technical energetic systems expert for Navy and DoD- related programs, and on issues for other Navy, DoD, and DOE laboratories; academic institutions; and private corporations.",
-    "url": "https://www.usajobs.gov/job/854544200",
-    "posted_at": "2026-01-16T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
   }
 ]
