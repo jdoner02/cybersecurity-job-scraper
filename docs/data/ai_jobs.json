@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "857678800",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "El Paso, Texas"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/857678800",
+    "posted_at": "2026-02-17T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857713700",
     "title": "Data Scientist",
     "organization": "U.S. Secret Service",
@@ -66,6 +80,36 @@
     "url": "https://www.usajobs.gov/job/857700800",
     "posted_at": "2026-02-13T10:33:03.510000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857805100",
+    "title": "Systems Engineer (Hiring Event)",
+    "organization": "National Geospatial-Intelligence Agency",
+    "locations": [
+      "Saint Louis, Missouri",
+      "Springfield, Virginia"
+    ],
+    "description": "Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and validation of systems and",
+    "url": "https://www.usajobs.gov/job/857805100",
+    "posted_at": "2026-02-13T00:00:00",
+    "salary": "04-04",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857805000",
+    "title": "Systems Engineer (Hiring Event)",
+    "organization": "National Geospatial-Intelligence Agency",
+    "locations": [
+      "Saint Louis, Missouri",
+      "Springfield, Virginia"
+    ],
+    "description": "Systems Engineers apply a structured approach to design and implementation of systems and processes. They capture and translate mission and customer requirements in order to transform them into capabilities, testing, and validation of services. Systems Engineers analyze and allocate requirements to systems architecture components and oversee the development, testing, and validation of systems and",
+    "url": "https://www.usajobs.gov/job/857805000",
+    "posted_at": "2026-02-13T00:00:00",
+    "salary": "03-03",
     "grade": null,
     "remote": null
   },
@@ -170,6 +214,20 @@
     "remote": null
   },
   {
+    "job_id": "857371800",
+    "title": "ISS (Educational Technologist)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Agana, Guam"
+    ],
+    "description": "About the Position: This Position is for the DoDEA Pacific West District - Guam, Located in Agana, Guam. Federal employees in Guam are currently entitled to receive a 11.88% Cost of Living Allowance (COLA) in addition to the base salary.",
+    "url": "https://www.usajobs.gov/job/857371800",
+    "posted_at": "2026-02-13T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857613800",
     "title": "Chief Data Officer",
     "organization": "Patent and Trademark Office",
@@ -240,20 +298,6 @@
     "remote": null
   },
   {
-    "job_id": "857461400",
-    "title": "Market Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Technology Commercialization, Department of Energy. As a Market Analyst, you will coordinate strategic partnership efforts and administer various programs and initiatives to accelerate the development and commercialization of mission-relevant technologies.",
-    "url": "https://www.usajobs.gov/job/857461400",
-    "posted_at": "2026-02-12T06:23:21.463000",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857342900",
     "title": "Staff Assistant",
     "organization": "Drug Enforcement Administration",
@@ -264,20 +308,6 @@
     "url": "https://www.usajobs.gov/job/857342900",
     "posted_at": "2026-02-12T00:00:00",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857151300",
-    "title": "Aerospace Engineer, AST, Safety and Mission Assurance (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "The Safety and Mission Assurance Directorate, Institutional Division, Technical Integration Branch at Kennedy Space Center is seeking an aerospace engineer for a range flight safety position. Selectee will assess flight vehicles, flight systems, and planned trajectories for rockets and unmanned aerial vehicles; perform flight hazard analyses; provide launch support; and develop risk mitigation strategies, such as setting abort limits, to protect people and critical assets on the ground.",
-    "url": "https://www.usajobs.gov/job/857151300",
-    "posted_at": "2026-02-12T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -588,20 +618,6 @@
     "url": "https://www.usajobs.gov/job/856629100",
     "posted_at": "2026-02-06T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856728200",
-    "title": "MISSION SUPPORT SPECIALIST",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Metairie, Louisiana"
-    ],
-    "description": "This position is located in the DEA, New Orleans Division. This position's primary purpose is to exercise, independent judgment and discretion in assisting in the preparation and processing of confidential employee matters. The incumbent will also maintain and coordinate the administrative support program in the Business Operations Section by initiating and ensuring effective communication, coordination, and follow-up action with other Divisions and Headquarters Program Offices within DEA.",
-    "url": "https://www.usajobs.gov/job/856728200",
-    "posted_at": "2026-02-05T14:53:33.567000",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
