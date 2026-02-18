@@ -1,5 +1,89 @@
 [
   {
+    "job_id": "857944600",
+    "title": "Director of Budget",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position reports directly to the Chief Financial Officer. In this role, the Director of Budget exercises broad executive leadership and management over a portfolio spanning the Agency's budget, strategic planning, analysis and evaluation, and performance.",
+    "url": "https://www.usajobs.gov/job/857944600",
+    "posted_at": "2026-02-18T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857916000",
+    "title": "Research Computer Scientist",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bedford, Massachusetts"
+    ],
+    "description": "This position serves as Without Compensation Research Assistant within the Office of Research and Development (ORD). The VA Research Program strives to promote Veteran-centered care to improve patient experiences and outcomes across VA healthcare and community settings, and to advance value-driven care by providing Veterans the highest quality care at the lowest financial burden. Note: There is no pay associated with this position.",
+    "url": "https://www.usajobs.gov/job/857916000",
+    "posted_at": "2026-02-18T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857740400",
+    "title": "FINANCIAL MANAGEMENT ANALYST",
+    "organization": "Secretary of the Navy Offices (SECNAV)",
+    "locations": [
+      "Washington Navy Yard, District of Columbia"
+    ],
+    "description": "You will serve as a FINANCIAL MANAGEMENT ANALYST in the ASSISTANT SECRETARY OF THE NAVY (ASN).",
+    "url": "https://www.usajobs.gov/job/857740400",
+    "posted_at": "2026-02-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857935400",
+    "title": "Software Engineer - Entry to Mid Level (Texas)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
+    "url": "https://www.usajobs.gov/job/857935400",
+    "posted_at": "2026-02-17T15:28:13.710000",
+    "salary": "7-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857920700",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Saginaw, Michigan"
+    ],
+    "description": "This job announcement is for a Program Analyst (Informatics) at the Aleda E. Lutz VA Medical Center in Saginaw, MI. The vacancy is only open to current permanent Federal employees in the Health Informatics Service of the Aleda E. Lutz VA Medical Center. NOTE: The 2-page Resume requirement does not apply to this position. For more information, refer to Required Documents below.",
+    "url": "https://www.usajobs.gov/job/857920700",
+    "posted_at": "2026-02-17T14:36:55.363000",
+    "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857915900",
+    "title": "Interdisciplinary Physical Scientist / General Engineer",
+    "organization": "Defense Threat Reduction Agency",
+    "locations": [
+      "Reston, Virginia"
+    ],
+    "description": "This position is part of the Defense Threat Reduction Agency. The incumbent will serve as the Target and Intelligence Support Specialist accountable for developing long-range program/project goals, plans and objectives for the division and accountable for the success of support activities of the Hard and Deeply Buried Target (HDBT) Defeat Division.",
+    "url": "https://www.usajobs.gov/job/857915900",
+    "posted_at": "2026-02-17T14:23:55.120000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857678800",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -42,48 +126,6 @@
     "remote": null
   },
   {
-    "job_id": "857700300",
-    "title": "Supervisory IT Specialist (Artificial Intelligence)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857700300",
-    "posted_at": "2026-02-13T10:49:40.703000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857702700",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857702700",
-    "posted_at": "2026-02-13T10:37:36.350000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857700800",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857700800",
-    "posted_at": "2026-02-13T10:33:03.510000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857805100",
     "title": "Systems Engineer (Hiring Event)",
     "organization": "National Geospatial-Intelligence Agency",
@@ -110,6 +152,48 @@
     "url": "https://www.usajobs.gov/job/857805000",
     "posted_at": "2026-02-13T00:00:00",
     "salary": "03-03",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857702700",
+    "title": "IT Specialist (Artificial Intelligence)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857702700",
+    "posted_at": "2026-02-13T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857700800",
+    "title": "IT Specialist (Artificial Intelligence)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857700800",
+    "posted_at": "2026-02-13T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857700300",
+    "title": "Supervisory IT Specialist (Artificial Intelligence)",
+    "organization": "U.S. Secret Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
+    "url": "https://www.usajobs.gov/job/857700300",
+    "posted_at": "2026-02-13T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -214,20 +298,6 @@
     "remote": null
   },
   {
-    "job_id": "857371800",
-    "title": "ISS (Educational Technologist)",
-    "organization": "Department of Defense Education Activity",
-    "locations": [
-      "Agana, Guam"
-    ],
-    "description": "About the Position: This Position is for the DoDEA Pacific West District - Guam, Located in Agana, Guam. Federal employees in Guam are currently entitled to receive a 11.88% Cost of Living Allowance (COLA) in addition to the base salary.",
-    "url": "https://www.usajobs.gov/job/857371800",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "10-10",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857613800",
     "title": "Chief Data Officer",
     "organization": "Patent and Trademark Office",
@@ -294,6 +364,20 @@
     "url": "https://www.usajobs.gov/job/857580000",
     "posted_at": "2026-02-12T14:13:56.270000",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857461400",
+    "title": "Market Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Technology Commercialization, Department of Energy. As a Market Analyst, you will coordinate strategic partnership efforts and administer various programs and initiatives to accelerate the development and commercialization of mission-relevant technologies.",
+    "url": "https://www.usajobs.gov/job/857461400",
+    "posted_at": "2026-02-12T06:23:21.463000",
+    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -368,20 +452,6 @@
     "remote": null
   },
   {
-    "job_id": "857077800",
-    "title": "Information Technology Specialist (Security)(Direct-Hire)",
-    "organization": "Goddard Space Flight Center",
-    "locations": [
-      "Wallops Island, Virginia"
-    ],
-    "description": "Serves as the Security Engineer, responsible for ensuring the confidentiality, integrity, and availability of Goddard's critical data and IT assets. Provides secure solutions to meet complex problems, works with organizations to enhance and strengthen information security and integrate it throughout the system life cycle. Provides support to plan, design and implement security controls which safeguard/monitor anomalous events for networks, information systems, enterprise applications and data.",
-    "url": "https://www.usajobs.gov/job/857077800",
-    "posted_at": "2026-02-11T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857417400",
     "title": "ASSOCIATE GENERAL COUNSEL",
     "organization": "Defense Intelligence Agency",
@@ -406,36 +476,6 @@
     "url": "https://www.usajobs.gov/job/857060500",
     "posted_at": "2026-02-10T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857050500",
-    "title": "Supervisory Environmental Protection Specialist",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "Serves as the Environmental Management Manager (Chief) for the Environmental and Health Services at Stennis Space Center. Manages environmental compliance, stewardship, and regulatory engagement across the Center. Directs Center-wide environmental programs, advises leadership on environmental risks and requirements; oversees permitting and audits, and ensures operations meet all federal, state, local, and Agency environmental standards while advancing sustainability and mission readiness",
-    "url": "https://www.usajobs.gov/job/857050500",
-    "posted_at": "2026-02-10T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857027000",
-    "title": "Associate Director, ES&H & Emergency Management",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Albany, Oregon",
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the Hydrocarbons and Geothermal Energy (HGEO) - National Energy Technology Laboratory (NETL). As an Associate Director, Environmental, Safety & Health (ES&H) and Emergency Management (EM), you will be responsible for conceiving, planning, and managing comprehensive ES&H and EM programs to ensure compliance with all DOE, federal, state, and local requirements.",
-    "url": "https://www.usajobs.gov/job/857027000",
-    "posted_at": "2026-02-10T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -519,34 +559,6 @@
     "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence. As a Government Information Specialist, you will serve as the primary Freedom of Information Act (FOIA) Officer, handle requests for intake, consultations, ensure proper disposition of records, and release of classified information related to sensitive intelligence functions.",
     "url": "https://www.usajobs.gov/job/856880000",
     "posted_at": "2026-02-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856831800",
-    "title": "AI PRODUCT MANAGER",
-    "organization": "Consumer Product Safety Commission",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "A typical day for an AI Product Manager at CPSC's Analytics Center of Excellence (COE) involves leading complex technical projects that integrate AI/ML solutions into enterprise systems. The day starts with stakeholder meetings to define project scope and success metrics, followed by coordinating with data engineers and IT specialists to align technical requirements with modernization goals. The manager monitors project progress, addresses risks, and prepares briefings for senior leadership.",
-    "url": "https://www.usajobs.gov/job/856831800",
-    "posted_at": "2026-02-06T11:08:25.907000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856831400",
-    "title": "AI PRODUCT MANAGER",
-    "organization": "Consumer Product Safety Commission",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "A typical day for an AI Product Manager at CPSC's Analytics Center of Excellence (COE) involves leading complex technical projects that integrate AI/ML solutions into enterprise systems. The day starts with stakeholder meetings to define project scope and success metrics, followed by coordinating with data engineers and IT specialists to align technical requirements with modernization goals. The manager monitors project progress, addresses risks, and prepares briefings for senior leadership.",
-    "url": "https://www.usajobs.gov/job/856831400",
-    "posted_at": "2026-02-06T11:06:54.710000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -688,7 +700,7 @@
     ],
     "description": "The Director for Spectrum Policy and Planning analyzes spectrum utilization issues and policies, providing expert service and recommendations to the management officials with delegated responsibility to direct and discharge all major elements of the Agency's spectrum management program. Serves as a technical expert in both national and international spectrum management, representing NASA in the development of spectrum management use policy while performing official liaison with national bodies.",
     "url": "https://www.usajobs.gov/job/856275100",
-    "posted_at": "2026-02-02T16:04:49.623000",
+    "posted_at": "2026-02-02T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -702,42 +714,8 @@
     ],
     "description": "The Director for Spectrum Policy and Planning analyzes spectrum utilization issues and policies, providing expert service and recommendations to the management officials with delegated responsibility to direct and discharge all major elements of the Agency's spectrum management program. Serves as a technical expert in both national and international spectrum management, representing NASA in the development of spectrum management use policy while performing official liaison with national bodies.",
     "url": "https://www.usajobs.gov/job/856274700",
-    "posted_at": "2026-02-02T16:03:41.133000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856213300",
-    "title": "Realty Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is part of the Office of Management, Department of Energy. As a Realty Specialist, you will serve as the Department's leading expert in real estate for DOE Headquarters activities. As such, incumbent serves as a technical resource for the Department and, when appropriate, as an ad hoc team leader to address real estate matters. In some cases, staff will come from within the office and in other cases staff will come from other Field Management Offices or other Departmental Elements.",
-    "url": "https://www.usajobs.gov/job/856213300",
     "posted_at": "2026-02-02T00:00:00",
-    "salary": "15-15",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
