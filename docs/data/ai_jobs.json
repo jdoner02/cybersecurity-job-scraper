@@ -1,5 +1,103 @@
 [
   {
+    "job_id": "858127100",
+    "title": "Aerospace Engineer, AST, Flight Systems Test (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Las Cruces, New Mexico"
+    ],
+    "description": "You will serve as a Project Manager and Operations Director in the Propulsion Test Office at NASA's White Sands Test Facility (WSTF) to ensure the safe performance of hot fire testing of propulsion hardware and integrated systems at ambient and altitude test conditions for NASA and other customers.",
+    "url": "https://www.usajobs.gov/job/858127100",
+    "posted_at": "2026-02-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858095400",
+    "title": "Electrical Engineer, AST - Electrical Power Systems (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "The Power Systems Branch is seeking candidates with unique technical and programmatic skills to join their team as a Senior Power Systems Engineer. Work will include the following areas: electrical design, power requirements definition, hardware or software development, testing, verification, integration, certification, or operations. This will encompass space or aeronautical flight systems, vehicles, or payloads.",
+    "url": "https://www.usajobs.gov/job/858095400",
+    "posted_at": "2026-02-19T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858010800",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Richmond, Virginia"
+    ],
+    "description": "This is a non-supervisory position located in the Veterans Health Administration of the Department of Veterans Affairs in Richmond, VA(VISN 6). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). This work of this position is healthcare-oriented in nature.",
+    "url": "https://www.usajobs.gov/job/858010800",
+    "posted_at": "2026-02-19T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857950600",
+    "title": "Operations Research Analyst (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "You will serve as an Operations Research Analyst in the mission processing branch supporting the Operations and Test Management Division to provide flow management leadership analysis/metrics to support performance evaluation; analyze risk and what-if scenarios for current/upcoming flow; lead lessons-learned collection and implementation efforts throughout ops flow; lead planned vs. as-run assessment to inform flow planning; identify and manage ops risks associated with future missions.",
+    "url": "https://www.usajobs.gov/job/857950600",
+    "posted_at": "2026-02-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857888600",
+    "title": "General Engineer, AST, Mission Support Requirements and Development (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Serves as the Launch Site Integration Engineer (LSIE), within the Program Technical Integration Branch of the Exploration Ground Systems Program Directorate. Duties include performing launch site payload integration for Artemis missions, including managing ground integration requirements, launch site hardware processing, and payload support for launch.",
+    "url": "https://www.usajobs.gov/job/857888600",
+    "posted_at": "2026-02-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857885800",
+    "title": "General Engineer, AST, Mission Support Requirements and Development (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "You will serve as an Operations Project Engineer or Ground Integration Engineer within the Exploration Ground Systems Program at Kennedy Space Center. You will provide leadership in technical integration of cross-program issues, flight and ground hardware anomaly resolution, design/operational requirements, procedures development and execution for ground systems and/or spaceflight hardware/software processing, launch, and recovery operations.",
+    "url": "https://www.usajobs.gov/job/857885800",
+    "posted_at": "2026-02-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857542800",
+    "title": "General Engineer, AST, Launch and Flight Operations (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "The Test, Launch and Recovery Operations Management Branch of the Exploration Ground Systems (EGS) is responsible for test planning, integration, scheduling, implementation, and leadership of the test operations associated with Integrated Systems Verification and Validation, Flight and Ground Systems Integrated Testing, Launch and Recovery Operations for SLS, Orion and EGS programs. Serves as a NASA Test Director (NTD) and provide direction and guidance to the team during test operations.",
+    "url": "https://www.usajobs.gov/job/857542800",
+    "posted_at": "2026-02-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857944600",
     "title": "Director of Budget",
     "organization": "Headquarters, NASA",
@@ -127,7 +225,7 @@
   },
   {
     "job_id": "857805100",
-    "title": "Systems Engineer (Hiring Event)",
+    "title": "Systems Engineer (Hiring Event- EXTENDED)",
     "organization": "National Geospatial-Intelligence Agency",
     "locations": [
       "Saint Louis, Missouri",
@@ -142,7 +240,7 @@
   },
   {
     "job_id": "857805000",
-    "title": "Systems Engineer (Hiring Event)",
+    "title": "Systems Engineer (Hiring Event- EXTENDED)",
     "organization": "National Geospatial-Intelligence Agency",
     "locations": [
       "Saint Louis, Missouri",
@@ -326,20 +424,6 @@
     "remote": null
   },
   {
-    "job_id": "857610000",
-    "title": "Data Analyst",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
-    "url": "https://www.usajobs.gov/job/857610000",
-    "posted_at": "2026-02-12T15:28:36.923000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857604100",
     "title": "Data Analyst",
     "organization": "Office of the Inspector General, USPS",
@@ -378,6 +462,20 @@
     "url": "https://www.usajobs.gov/job/857461400",
     "posted_at": "2026-02-12T06:23:21.463000",
     "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857610000",
+    "title": "Data Analyst",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
+    "url": "https://www.usajobs.gov/job/857610000",
+    "posted_at": "2026-02-12T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
