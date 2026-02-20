@@ -1,5 +1,100 @@
 [
   {
+    "job_id": "858257500",
+    "title": "Electrical Engineer, AST, Electrical Systems",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "As an Electrical Engineer, you will perform professional engineering work involving the design, analysis, testing, and compliance assessment of Flight Termination Systems (FTS) in support of NASA's research, test, and development activities. You will be responsible for developing, evaluating, and/or establishing technical requirements for the application and integration of low voltage, electro-mechanical systems into aerospace vehicles (primarily on unmanned aircraft systems).",
+    "url": "https://www.usajobs.gov/job/858257500",
+    "posted_at": "2026-02-20T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858250600",
+    "title": "Technical Advisor for AI and Data Science",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Eglin AFB, Florida",
+      "Robins AFB, Georgia",
+      "Hanscom AFB, Massachusetts",
+      "White Oak, Maryland",
+      "Holloman AFB, New Mexico",
+      "Nellis AFB, Nevada",
+      "Wright-Patterson AFB, Ohio",
+      "Arnold AFB, Tennessee",
+      "Lackland AFB, Texas",
+      "Hill AFB, Utah"
+    ],
+    "description": "The Air Force Test Center (AFTC) is AFMC's lead center for integration of all developmental test and evaluation (DT&E) activities and organizations. The Technical Advisor, Artificial Intelligence and Data Science will serve as the subject matter expert for Artificial Intelligence and Data Science, and on behalf of the AFTC Executive Director.",
+    "url": "https://www.usajobs.gov/job/858250600",
+    "posted_at": "2026-02-20T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858218200",
+    "title": "Aerospace Engineer, AST, Aerospace Flight Systems (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "As an AST Environmental Control engineer within the Crew and Thermal Systems Division, you will be responsible for technology development, test systems design/oversight, and/or project management of government furnished equipment in the area of Environmental Control and Life Support, Active Thermal Control, and Space Suit Systems. You will lead a team of highly skilled engineers and be recognized as integral member of the organization in supporting both programmatic and engineering management.",
+    "url": "https://www.usajobs.gov/job/858218200",
+    "posted_at": "2026-02-20T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858034200",
+    "title": "AST, Technical Management (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "As the Avionics and Flight Termination System (FTS) Team Lead within the Space Launch System (SLS), Stages Element Office, you will be responsible for the leading the avionics and FTS team of civil service and contractor personnel. You will advise the Element Manager on all matters relating to avionics and FTS. You will monitor and report on the prime contractor's performance and will be responsible for effectively interfacing with the engineering community, safety, and procurement personnel.",
+    "url": "https://www.usajobs.gov/job/858034200",
+    "posted_at": "2026-02-20T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857958100",
+    "title": "General Engineer, AST, Mission Support Requirements and Development (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As the Operations Project Engineer for the Exploration Ground Systems Program, you will be responsible for technical integration across flight elements. This involves technical integration efforts for Orion and Space Launch System Programs, engineering disciplines during operational planning, as well as processing, launch, landing and recovery.",
+    "url": "https://www.usajobs.gov/job/857958100",
+    "posted_at": "2026-02-20T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857910100",
+    "title": "AST, Technical Management",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "Serves as an AST, Technical Management within the Test Operations Division, you will be responsible for leading and providing oversight to a diverse group of engineers performing complex technical activities in support of propulsion testing and assigned facility. This position will require interfacing with other organizations to coordinate work activities to minimize errors and avoid potential conflicts in successfully achieving assigned goals and objective.",
+    "url": "https://www.usajobs.gov/job/857910100",
+    "posted_at": "2026-02-20T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858127100",
     "title": "Aerospace Engineer, AST, Flight Systems Test (Direct Hire)",
     "organization": "Lyndon B. Johnson Space Center",
@@ -136,20 +231,6 @@
     "url": "https://www.usajobs.gov/job/857740400",
     "posted_at": "2026-02-18T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857935400",
-    "title": "Software Engineer - Entry to Mid Level (Texas)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "San Antonio, Texas"
-    ],
-    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it.",
-    "url": "https://www.usajobs.gov/job/857935400",
-    "posted_at": "2026-02-17T15:28:13.710000",
-    "salary": "7-12",
     "grade": null,
     "remote": null
   },
@@ -368,20 +449,6 @@
     "remote": null
   },
   {
-    "job_id": "857545100",
-    "title": "Bayou Choctaw Site Engineer",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Baton Rouge, Louisiana"
-    ],
-    "description": "This position is part of the Office of the Project Manager, Strategic Petroleum Reserve, Department of Energy. As a Bayou Choctaw Site Engineer, you will provide professional engineering expertise and support to DOE programs, projects or initiatives whose mission or responsibilities include designing, evaluating, developing, testing, modifying, installing, inspecting, and/or maintaining products and systems.",
-    "url": "https://www.usajobs.gov/job/857545100",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857371800",
     "title": "ISS (Educational Technologist)",
     "organization": "Department of Defense Education Activity",
@@ -452,20 +519,6 @@
     "remote": null
   },
   {
-    "job_id": "857461400",
-    "title": "Market Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Technology Commercialization, Department of Energy. As a Market Analyst, you will coordinate strategic partnership efforts and administer various programs and initiatives to accelerate the development and commercialization of mission-relevant technologies.",
-    "url": "https://www.usajobs.gov/job/857461400",
-    "posted_at": "2026-02-12T06:23:21.463000",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857610000",
     "title": "Data Analyst",
     "organization": "Office of the Inspector General, USPS",
@@ -490,20 +543,6 @@
     "url": "https://www.usajobs.gov/job/857342900",
     "posted_at": "2026-02-12T00:00:00",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857044600",
-    "title": "Aerospace Engineer, AST, Safety and Mission Assurance (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "As a Mission Assurance Engineer within the Launch Services Division, Safety and Mission Assurance (SMA) Directorate at Kennedy Space Center (KSC), you will conduct technical assessments on all aspects of launch vehicles and associated systems, including safety and quality related launch vehicle products. You will advise on, coordinate, assess, and/or perform mission assurance activities for launch vehicle hardware and associated ground support equipment for Launch Services Program missions.",
-    "url": "https://www.usajobs.gov/job/857044600",
-    "posted_at": "2026-02-12T00:00:00",
-    "salary": "11-13",
     "grade": null,
     "remote": null
   },
@@ -648,20 +687,6 @@
     "remote": null
   },
   {
-    "job_id": "856880000",
-    "title": "Government Information Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence. As a Government Information Specialist, you will serve as the primary Freedom of Information Act (FOIA) Officer, handle requests for intake, consultations, ensure proper disposition of records, and release of classified information related to sensitive intelligence functions.",
-    "url": "https://www.usajobs.gov/job/856880000",
-    "posted_at": "2026-02-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856787000",
     "title": "Solutions Architect",
     "organization": "Social Security Administration",
@@ -728,20 +753,6 @@
     "url": "https://www.usajobs.gov/job/856629100",
     "posted_at": "2026-02-06T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856640500",
-    "title": "Chief Information Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office (USPTO), America's Innovation Agency, is a fee-funded bureau of the U.S. Department of Commerce with 13,000+ employees and projected fee revenue of approximately $5 billion. Headquartered in Alexandria VA but operating globally through partnerships with international IP bodies and offices (including IP5, WIPO, and trilateral collaborations), the USPTO grants patents and registers trademarks to power innovation, competitiveness, and economic growth.",
-    "url": "https://www.usajobs.gov/job/856640500",
-    "posted_at": "2026-02-05T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
