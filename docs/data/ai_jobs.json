@@ -1,5 +1,88 @@
 [
   {
+    "job_id": "858389000",
+    "title": "Student Trainee (Electrical Engineering)",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "Cleveland, Ohio",
+      "Harris County, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
+    "url": "https://www.usajobs.gov/job/858389000",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "4-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858388900",
+    "title": "Student Trainee (Aerospace Engineering)",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
+    "url": "https://www.usajobs.gov/job/858388900",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "4-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858388800",
+    "title": "Student Trainee (Mechanical Engineering)",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
+    "url": "https://www.usajobs.gov/job/858388800",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "4-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857381200",
+    "title": "Supervisory Administrative Officer",
+    "organization": "Immigration and Customs Enforcement",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "View Common Definitions of terms found in this announcement. Organizational Location: This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Office of Human Capital, Business Management Unit, in Washington, District of Columbia. This is a non-bargaining unit position.",
+    "url": "https://www.usajobs.gov/job/857381200",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858257500",
     "title": "Electrical Engineer, AST, Electrical Systems",
     "organization": "Armstrong Flight Research Center",
@@ -301,20 +384,6 @@
     "url": "https://www.usajobs.gov/job/857700800",
     "posted_at": "2026-02-13T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857700300",
-    "title": "Supervisory IT Specialist (Artificial Intelligence)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857700300",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -805,20 +874,6 @@
     "remote": null
   },
   {
-    "job_id": "856003800",
-    "title": "DATA SCIENTIST",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Direct-Hire Auth (Cyber), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/856003800",
-    "posted_at": "2026-01-30T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "855342800",
     "title": "Business Systems Developer",
     "organization": "Social Security Administration",
@@ -857,20 +912,6 @@
     "url": "https://www.usajobs.gov/job/855330700",
     "posted_at": "2026-01-26T00:00:00",
     "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855191700",
-    "title": "ASSISTANT/ASSOCIATE/FULL PROFESSOR (CYBER, ARTIFICIAL INTELLIGENCE, DISRUPTIVE TECHNOLOGY)",
-    "organization": "Defense Security Cooperation Agency",
-    "locations": [
-      "Honolulu, Hawaii"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer.",
-    "url": "https://www.usajobs.gov/job/855191700",
-    "posted_at": "2026-01-23T00:00:00",
-    "salary": "5-7",
     "grade": null,
     "remote": null
   }

@@ -1,5 +1,119 @@
 [
   {
+    "job_id": "858439600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Force Global Strike Command",
+    "locations": [
+      "Dyess AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, Cybersecurity Liaison, Government Travel Card program, Defense Travel System, Government Purchase Card program, and assists in organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/858439600",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858413900",
+    "title": "IT SPECIALIST (SYSADMIN)",
+    "organization": "U.S. Pacific Fleet",
+    "locations": [
+      "Pearl Harbor, Hawaii"
+    ],
+    "description": "You will serve as an IT SPECIALIST (SYSADMIN) in the MARITIME OPERATIONS CENTER. You could be working in one of the following server environments: Windows based LINUX based Virtual based",
+    "url": "https://www.usajobs.gov/job/858413900",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858408500",
+    "title": "ACTIVITY PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Goodfellow AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the activity leadership for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program.",
+    "url": "https://www.usajobs.gov/job/858408500",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858397400",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Joint Base Anacostia-Bolling, District of Columbia"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA-White House Communications Agency (WH2030).",
+    "url": "https://www.usajobs.gov/job/858397400",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858355600",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Hickam AFB, Hawaii"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the Pacific Air Forces (PACAF) Command Special Access Program (SAP) Cybersecurity/Information Systems Security Manager (ISSM), Risk Management Framework Subject Matter Expert, and lead Cybersecurity analyst for PACAF in support of SAPs; Supervisor and manager for HQ PACAF Cybersecurity Team (civilians and contractors).",
+    "url": "https://www.usajobs.gov/job/858355600",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858254800",
+    "title": "Information Technology Specialist (INFOSEC)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "About the Position: This position is assigned to the Deputy Assistant Secretary of Defense for Military Community and Family Policy (DASD (MC&FP), Assistant Secretary of Defense for Manpower and Reserve Affairs (M&RA), Office of the Under Secretary of Defense, Personnel and Readiness (USD (P&R)). This is a Direct Hire Solicitation for Certain Competitive Service positions within Department of Defense. This position may be eligible for situational telework as determined by the agency policy.",
+    "url": "https://www.usajobs.gov/job/858254800",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858187600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Cleveland, Ohio",
+      "Columbus, Ohio"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/858187600",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "857903700",
+    "title": "IT SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Yokosuka, Japan"
+    ],
+    "description": "You will serve as a IT SPECIALIST(PLCYPLN/INFOSEC) in the Information Technology Department of NAVOCEANASWECEN. ***ACCESS TO MEDICAL AND DENTAL CARE IN JAPAN IS EXTREMELY LIMITED. Please see Additional Information section below. *** This position is only open to current permanent employees of BSO NV60 within the commuting area of the duty location listed for this position.",
+    "url": "https://www.usajobs.gov/job/857903700",
+    "posted_at": "2026-02-23T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858203600",
     "title": "SUPERVISORY OPERATIONS PROGRAM MANAGER",
     "organization": "Immediate Office of the Chief of Naval Operations",
@@ -71,27 +185,6 @@
     "remote": null
   },
   {
-    "job_id": "858335600",
-    "title": "Program Analyst",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Site specific salary information is as follows: Battle Creek, MI: $147,945- $192,331 Columbus, OH: $154,378 - $197,200 Dayton, OH: $153,455- $197,200 Fort Belvoir, VA: $169,279 - $197,200 New Cumberland, PA: $169,279 - $197,200 Ogden, UT: $147,945- $192,331 Philadelphia, PA: $163,023- $197,200 Richmond, VA: $154,542- $197,200",
-    "url": "https://www.usajobs.gov/job/858335600",
-    "posted_at": "2026-02-20T09:05:01.350000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858326300",
     "title": "AUDITOR - IT AUDITS",
     "organization": "Securities and Exchange Commission",
@@ -101,20 +194,6 @@
     "description": "Office of Inspector General's (OIG), Office of Audits is seeking a well-qualified, experienced auditor to conduct audits of the SEC's programs, operations, and technology-related activities to ensure compliance with federal laws, regulations, policies, and standards. The auditor will evaluate internal controls, assess risks, and determine whether controls are working as intended. In addition, an auditor in the SEC OIG will make recommendations for improvement that will enhance agency efficiency.",
     "url": "https://www.usajobs.gov/job/858326300",
     "posted_at": "2026-02-20T08:16:47.157000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858289600",
-    "title": "Executive Assistant",
-    "organization": "Deputy Assistant Secretary for Information and Technology",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The incumbent in this position serves as the Executive Assistant to the Principal Deputy Assistant Secretary (PDAS), Deputy Chief Information Officers (DCIO) and Deputy Assistant Secretary (DAS) for Office of Information and Technology (OIT), Department of Veterans Affairs (VA). They assure that policies and programs are properly coordinated with other VA components and other government agencies and keeps the PDAS fully informed of program issues affecting VA.",
-    "url": "https://www.usajobs.gov/job/858289600",
-    "posted_at": "2026-02-20T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -220,20 +299,6 @@
     "url": "https://www.usajobs.gov/job/857954100",
     "posted_at": "2026-02-20T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857470900",
-    "title": "AUDITOR (PERFORMANCE)",
-    "organization": "Consumer Product Safety Commission",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "The CPSC Office of Inspector General (OIG) is responsible for oversight of the CPSC. We conduct audits to assess agency compliance with laws and regulations and efficiency and effectiveness of operations. We are a small, collegial office where you can work on a wide range of projects. We are nimble, fast-paced and initiative and problem identification and solutions are prized. To learn more about the CPSC OIG, please visit our website: https://oig.cpsc.gov/",
-    "url": "https://www.usajobs.gov/job/857470900",
-    "posted_at": "2026-02-20T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1850,20 +1915,6 @@
     "remote": null
   },
   {
-    "job_id": "857783000",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Lackland AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs such as task management, Government Travel Card (GTC) program, drug demand reduction program, health care program, fitness program, Government Purchase Card (GPC) program, and safety program.",
-    "url": "https://www.usajobs.gov/job/857783000",
-    "posted_at": "2026-02-17T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857769400",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -2034,20 +2085,6 @@
     "remote": null
   },
   {
-    "job_id": "857184400",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Joint Base Anacostia-Bolling, District of Columbia"
-    ],
-    "description": "This position is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. This position is for DISA White House Communications Agency at Joint Base Anacostia-Bolling, District of Columbia. This is an Excepted Service position and does not confer eligibility to be converted to the Competitive Service. If you are a current Federal Career/Career-Conditional employee, you will be placed on an Excepted appointment under 10 U.S.C. 1599f.",
-    "url": "https://www.usajobs.gov/job/857184400",
-    "posted_at": "2026-02-16T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857790700",
     "title": "2026 Summer Internship - IT Operations",
     "organization": "Supreme Court of the United States",
@@ -2086,20 +2123,6 @@
     "url": "https://www.usajobs.gov/job/857700800",
     "posted_at": "2026-02-13T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857700300",
-    "title": "Supervisory IT Specialist (Artificial Intelligence)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857700300",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -2269,20 +2292,6 @@
     "url": "https://www.usajobs.gov/job/857281900",
     "posted_at": "2026-02-11T07:42:01.587000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857281700",
-    "title": "IT Cybersecurity Specialist (INFOSEC)",
-    "organization": "Defense Microelectronics Activity",
-    "locations": [
-      "McClellan, California"
-    ],
-    "description": "This position is part of the Defense Microelectronics Activity, Defense Microelectronics Activity. The incumbent performs work enabling the DMEA IT Cyber Assurance branch to execute its mission by protecting the confidentiality, integrity, and availability of DMEA's information and information systems.",
-    "url": "https://www.usajobs.gov/job/857281700",
-    "posted_at": "2026-02-11T07:41:26.257000",
-    "salary": "3-3",
     "grade": null,
     "remote": null
   },
@@ -2602,20 +2611,6 @@
     "url": "https://www.usajobs.gov/job/856066100",
     "posted_at": "2026-01-30T11:48:41.750000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856003800",
-    "title": "DATA SCIENTIST",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "Direct-Hire Auth (Cyber), PL 118-31, Sec 1250B(i)(2), 12/22/2023 This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command.",
-    "url": "https://www.usajobs.gov/job/856003800",
-    "posted_at": "2026-01-30T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
