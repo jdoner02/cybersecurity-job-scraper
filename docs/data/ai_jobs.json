@@ -1,5 +1,117 @@
 [
   {
+    "job_id": "858644400",
+    "title": "Aerospace Engineer, AST, Aerospace Flight Systems",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "As an AST, Aerospace Flight Systems (OB1 Deorbit Technical Manager) with the International Space Station Vehicle Office, you will be responsible for ensuring that the final deorbit of the International Space Station vehicle is safely executed. You will lead a team responsible for developing and coordinating the deorbit concept of operations and requirements, including plans for altitude decay, propellant utilization, thruster selection, drag manipulation, and target demise location.",
+    "url": "https://www.usajobs.gov/job/858644400",
+    "posted_at": "2026-02-24T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858587100",
+    "title": "Program Manager (Data Officer)",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Port Hueneme, California"
+    ],
+    "description": "This position reports directly to the Deputy Assistant Secretary for Resources for the Bureau of Consular Affairs (CA). This position serves as the Program Manager (Data Officer) responsible for data oversight and development within CA and coordinates and consults with the Bureau's leadership and the Department's Chief Data Officer and Managing Director of the Center for Analytics in the Office of Management Strategy and Solutions on programs that impact the bureau to which he/she is assigned.",
+    "url": "https://www.usajobs.gov/job/858587100",
+    "posted_at": "2026-02-24T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858599000",
+    "title": "Data Scientist (Supply Chain)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Whitehall, Ohio"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/858599000",
+    "posted_at": "2026-02-23T15:01:21.337000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858576300",
+    "title": "Director Center Operations",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "The Director for Center Operations at the Johnson Space Center (JSC) exercises responsibility for providing comprehensive institutional services and support for the Center, including laboratories, test chambers, and other aerospace research, development, and operations facilities required to support and accomplish the Center's assigned programs.",
+    "url": "https://www.usajobs.gov/job/858576300",
+    "posted_at": "2026-02-23T13:47:51.143000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858535000",
+    "title": "Emerging Technology Branch Chief",
+    "organization": "Space Systems Command",
+    "locations": [
+      "Peterson AFB, Colorado"
+    ],
+    "description": "To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
+    "url": "https://www.usajobs.gov/job/858535000",
+    "posted_at": "2026-02-23T11:13:36.787000",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858495800",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/ENTARCH)",
+    "organization": "U.S. Marine Corps",
+    "locations": [
+      "MacDill AFB, Florida"
+    ],
+    "description": "You will serve as a INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/ENARCH) in the U.S. MARINE CORPS FORCES CENTRAL COMMAND of US MARINE CORPS FORCES, CENTRAL CMD.",
+    "url": "https://www.usajobs.gov/job/858495800",
+    "posted_at": "2026-02-23T08:43:07.063000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858492700",
+    "title": "General Engineer",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is to fill General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security, Office of Assistant Secretary for Export Administration (EA), Strategic Trade (ST), Office of National Security Controls (ONSC). If interested in this wonderful career opportunity, you are encouraged to apply!",
+    "url": "https://www.usajobs.gov/job/858492700",
+    "posted_at": "2026-02-23T08:11:32.163000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858481900",
+    "title": "ADMINISTRATIVE SERVICES ASSISTANT(OA)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Kings Bay, Georgia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/858481900",
+    "posted_at": "2026-02-23T05:40:57.307000",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858389000",
     "title": "Student Trainee (Electrical Engineering)",
     "organization": "National Aeronautics and Space Administration - Agency Wide",
@@ -178,20 +290,6 @@
     "remote": null
   },
   {
-    "job_id": "858127100",
-    "title": "Aerospace Engineer, AST, Flight Systems Test (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Las Cruces, New Mexico"
-    ],
-    "description": "You will serve as a Project Manager and Operations Director in the Propulsion Test Office at NASA's White Sands Test Facility (WSTF) to ensure the safe performance of hot fire testing of propulsion hardware and integrated systems at ambient and altitude test conditions for NASA and other customers.",
-    "url": "https://www.usajobs.gov/job/858127100",
-    "posted_at": "2026-02-19T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858095400",
     "title": "Electrical Engineer, AST - Electrical Power Systems (Direct Hire)",
     "organization": "Lyndon B. Johnson Space Center",
@@ -216,20 +314,6 @@
     "url": "https://www.usajobs.gov/job/858010800",
     "posted_at": "2026-02-19T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857950600",
-    "title": "Operations Research Analyst (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "You will serve as an Operations Research Analyst in the mission processing branch supporting the Operations and Test Management Division to provide flow management leadership analysis/metrics to support performance evaluation; analyze risk and what-if scenarios for current/upcoming flow; lead lessons-learned collection and implementation efforts throughout ops flow; lead planned vs. as-run assessment to inform flow planning; identify and manage ops risks associated with future missions.",
-    "url": "https://www.usajobs.gov/job/857950600",
-    "posted_at": "2026-02-19T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -318,20 +402,6 @@
     "remote": null
   },
   {
-    "job_id": "857678800",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "El Paso, Texas"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/857678800",
-    "posted_at": "2026-02-17T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857713700",
     "title": "Data Scientist",
     "organization": "U.S. Secret Service",
@@ -370,20 +440,6 @@
     "url": "https://www.usajobs.gov/job/857702700",
     "posted_at": "2026-02-13T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857700800",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857700800",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -442,34 +498,6 @@
     "url": "https://www.usajobs.gov/job/857608100",
     "posted_at": "2026-02-13T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857576200",
-    "title": "Engineering Technician (Direct Hire)",
-    "organization": "Armstrong Flight Research Center",
-    "locations": [
-      "Edwards AFB, California"
-    ],
-    "description": "The Maintenance Division, Aircraft Maintenance Branch at NASA's Armstrong Flight Research Center is seeking a highly skilled Engineering Technician to support the Engine Shop in maintaining and repairing jet engines. The role involves performing troubleshooting, repair, maintenance, installation, testing, and evaluation of complex aircraft systems, ensuring the safe and efficient operation of advanced flight vehicles.",
-    "url": "https://www.usajobs.gov/job/857576200",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857371800",
-    "title": "ISS (Educational Technologist)",
-    "organization": "Department of Defense Education Activity",
-    "locations": [
-      "Agana, Guam"
-    ],
-    "description": "About the Position: This Position is for the DoDEA Pacific West District - Guam, Located in Agana, Guam. Federal employees in Guam are currently entitled to receive a 11.88% Cost of Living Allowance (COLA) in addition to the base salary.",
-    "url": "https://www.usajobs.gov/job/857371800",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "10-10",
     "grade": null,
     "remote": null
   },
@@ -586,20 +614,6 @@
     "remote": null
   },
   {
-    "job_id": "857417400",
-    "title": "ASSOCIATE GENERAL COUNSEL",
-    "organization": "Defense Intelligence Agency",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "We are committed to: Teamwork: Partnering at all levels and across organizational boundaries for mission accomplishment. Integrity: Adherence to the highest legal and ethical principles in our responsibilities. Excellence: Unrivaled defense intelligence expertise. Service: Putting the welfare of the Nation and commitment to our mission before oneself.",
-    "url": "https://www.usajobs.gov/job/857417400",
-    "posted_at": "2026-02-10T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857060500",
     "title": "Senior Interagency Advisor, Export Control & Interagency Liaison Division",
     "organization": "Headquarters, NASA",
@@ -610,20 +624,6 @@
     "url": "https://www.usajobs.gov/job/857060500",
     "posted_at": "2026-02-10T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857015100",
-    "title": "Statistician",
-    "organization": "Office of Management and Budget",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Office of Management and Budget (OMB), Office of Information and Regulatory Affairs (OIRA). The incumbent will serve as a Statistician and Statistical Expert, with expertise in survey methods, complex quantitative analysis methods, economics, finance, artificial intelligence, or related fields.",
-    "url": "https://www.usajobs.gov/job/857015100",
-    "posted_at": "2026-02-10T00:00:00",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -764,21 +764,6 @@
     "url": "https://www.usajobs.gov/job/856552100",
     "posted_at": "2026-02-05T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856268900",
-    "title": "AI Standards Architect",
-    "organization": "National Institute of Standards and Technology",
-    "locations": [
-      "San Francisco, California",
-      "Washington, District of Columbia"
-    ],
-    "description": "CAISI is a center of AI expertise in the U.S. government. Its Partnerships team is hiring a computer scientist to research and develop technical guidelines for AI, including evaluation methodologies, security frameworks, and agentic protocols. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
-    "url": "https://www.usajobs.gov/job/856268900",
-    "posted_at": "2026-02-03T00:00:00",
-    "salary": "3-4",
     "grade": null,
     "remote": null
   },
