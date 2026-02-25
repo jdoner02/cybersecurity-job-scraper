@@ -1,5 +1,125 @@
 [
   {
+    "job_id": "858804700",
+    "title": "Real Property Management Team Supervisor",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Grand Junction, Colorado",
+      "Westminster, Colorado",
+      "Washington, District of Columbia",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Office of Legacy Management, Department of Energy. As a Real Property Management Team Supervisor, you will be responsible for leading the strategic management and stewardship of LM's real property team. This includes directing the implementation of established policies, acquisition, disposal, and long-term oversight.",
+    "url": "https://www.usajobs.gov/job/858804700",
+    "posted_at": "2026-02-25T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858627800",
+    "title": "PROGRAM ANALYST",
+    "organization": "Naval Education and Training Command",
+    "locations": [
+      "Dahlgren, Virginia"
+    ],
+    "description": "You will serve as a PROGRAM ANALYST of SURFCOMSYSTRNCMD DAHLGREN.",
+    "url": "https://www.usajobs.gov/job/858627800",
+    "posted_at": "2026-02-25T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858584500",
+    "title": "Supervisory Security Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland"
+    ],
+    "description": "This position is part of the Office of Environmental Management - Headquarters, Department of Energy. As a Supervisory Security Specialist, you will provide technical support regarding emergency management, security, safeguards, and emergency preparedness functions. You will function to carry out safeguarding EM assets, provide technical recommendations internally and externally in the above disciplines, and ensure minimal impact on the environmental mission of the program office.",
+    "url": "https://www.usajobs.gov/job/858584500",
+    "posted_at": "2026-02-25T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858721400",
+    "title": "Director Mission AI Campaign",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. Comprised of 7 organizations, PC oversees IC Human Capital; Acquisition, Procurement & Facilities; Intelligence Advance Research Projects Activity; Science & Technology Group; Requirements, Cost & Effectiveness; Policy & Strategy; and Data and Partnership Interoperability.",
+    "url": "https://www.usajobs.gov/job/858721400",
+    "posted_at": "2026-02-24T11:51:59.537000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858700600",
+    "title": "IT Specialist (AI)",
+    "organization": "Treasury, Departmental Offices",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position may be filled within any Treasury Bureau. As an IT Specialist (Artificial Intelligence), you will be responsible for formulating technical strategies, standards, & architectures that advance the secure & ethical deployment of AI across Treasury and, by extension, the federal government. You will ensure Treasury's systems meet mission, cybersecurity, & performance requirements using best practices including Agile, DevSecOps, and Digital Engineering.",
+    "url": "https://www.usajobs.gov/job/858700600",
+    "posted_at": "2026-02-24T10:56:14.363000",
+    "salary": "12-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858676900",
+    "title": "Deputy Chief Information Officer Chief Technology Officer",
+    "organization": "Office of the Secretary",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Deputy Chief Information Officer, Chief Technology Officer position is located in the Office of the Chief Information Officer. In this role, the incumbent serves as the principal innovator to develop and drive our technology strategy, advance information systems/technology and innovation across DOC.",
+    "url": "https://www.usajobs.gov/job/858676900",
+    "posted_at": "2026-02-24T09:28:21.937000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858669500",
+    "title": "Principal Deputy Chief Digital and Artificial Intelligence Officer",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is located in the Chief Digital and Artificial Intelligence Office, within the Office of the Under Secretary of War for Research and Engineering. The incumbent provides broad guidance on policy, programmatic and technical issues relating to CDAO responsibilities and functions to satisfy warfighter needs.",
+    "url": "https://www.usajobs.gov/job/858669500",
+    "posted_at": "2026-02-24T09:00:47.977000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858644400",
     "title": "Aerospace Engineer, AST, Aerospace Flight Systems",
     "organization": "Lyndon B. Johnson Space Center",
@@ -290,20 +410,6 @@
     "remote": null
   },
   {
-    "job_id": "858095400",
-    "title": "Electrical Engineer, AST - Electrical Power Systems (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "The Power Systems Branch is seeking candidates with unique technical and programmatic skills to join their team as a Senior Power Systems Engineer. Work will include the following areas: electrical design, power requirements definition, hardware or software development, testing, verification, integration, certification, or operations. This will encompass space or aeronautical flight systems, vehicles, or payloads.",
-    "url": "https://www.usajobs.gov/job/858095400",
-    "posted_at": "2026-02-19T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858010800",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -412,20 +518,6 @@
     "url": "https://www.usajobs.gov/job/857713700",
     "posted_at": "2026-02-13T11:17:12.727000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857711800",
-    "title": "Data Scientist",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of Strategy, Planning, and Innovation will allow you to apply data science and related information management principles to promote effective data use for informed decision-making, and to drive positive transformation in programs and organizational units with advanced analytic, modeling, and evaluation support. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857711800",
-    "posted_at": "2026-02-13T11:10:33.680000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -628,62 +720,6 @@
     "remote": null
   },
   {
-    "job_id": "856988600",
-    "title": "Deputy Comptroller for Supervision System and Analytical Support, NB-0570-VIII",
-    "organization": "Office of the Comptroller of the Currency",
-    "locations": [
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Charlotte, North Carolina",
-      "Edison, New Jersey",
-      "New York, New York",
-      "Cleveland, Ohio",
-      "Philadelphia, Pennsylvania",
-      "Pittsburgh, Pennsylvania",
-      "Dallas, Texas"
-    ],
-    "description": "As the Deputy Comptroller for Supervision System and Analytical Support (SS&AS), you will function as a key advisor on OCC supervisory data systems and solutions, data analytics, current and emerging risks, and on major supervisory policy issues affecting the federal banking system.",
-    "url": "https://www.usajobs.gov/job/856988600",
-    "posted_at": "2026-02-09T11:13:45.490000",
-    "salary": "8-8",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856988200",
-    "title": "Deputy Comptroller for Supervision System and Analytical Support, NB-0570-VIII",
-    "organization": "Office of the Comptroller of the Currency",
-    "locations": [
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Charlotte, North Carolina",
-      "Edison, New Jersey",
-      "New York, New York",
-      "Cleveland, Ohio",
-      "Philadelphia, Pennsylvania",
-      "Pittsburgh, Pennsylvania",
-      "Dallas, Texas"
-    ],
-    "description": "As the Deputy Comptroller for Supervision System and Analytical Support (SS&AS), you will function as a key advisor on OCC supervisory data systems and solutions, data analytics, current and emerging risks, and on major supervisory policy issues affecting the federal banking system.",
-    "url": "https://www.usajobs.gov/job/856988200",
-    "posted_at": "2026-02-09T00:00:00",
-    "salary": "8-8",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "856787000",
     "title": "Solutions Architect",
     "organization": "Social Security Administration",
@@ -779,34 +815,6 @@
     "url": "https://www.usajobs.gov/job/856266200",
     "posted_at": "2026-02-03T00:00:00",
     "salary": "4-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856275100",
-    "title": "Director for Spectrum Policy and Planning",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Director for Spectrum Policy and Planning analyzes spectrum utilization issues and policies, providing expert service and recommendations to the management officials with delegated responsibility to direct and discharge all major elements of the Agency's spectrum management program. Serves as a technical expert in both national and international spectrum management, representing NASA in the development of spectrum management use policy while performing official liaison with national bodies.",
-    "url": "https://www.usajobs.gov/job/856275100",
-    "posted_at": "2026-02-02T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856274700",
-    "title": "Director for Spectrum Policy and Planning",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Director for Spectrum Policy and Planning analyzes spectrum utilization issues and policies, providing expert service and recommendations to the management officials with delegated responsibility to direct and discharge all major elements of the Agency's spectrum management program. Serves as a technical expert in both national and international spectrum management, representing NASA in the development of spectrum management use policy while performing official liaison with national bodies.",
-    "url": "https://www.usajobs.gov/job/856274700",
-    "posted_at": "2026-02-02T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
