@@ -1,5 +1,118 @@
 [
   {
+    "job_id": "858998500",
+    "title": "Chief Engineer, SSC",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "Serves as the Chief Engineer for Stennis Space Center (SCC). Provides independent oversight and guidance to the Center's mission focused work. The work involves detailed engineering oversight of cryogenic and storable propellant systems, high pressure (up to 15,000 psi) systems, instrumentation and control systems, rocket engine systems, institutional facilities and systems, and safety principles and practices related to high energy chemical propulsion systems.",
+    "url": "https://www.usajobs.gov/job/858998500",
+    "posted_at": "2026-02-26T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858920400",
+    "title": "Program Manager",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Los Alamos, New Mexico"
+    ],
+    "description": "This position is part of the Office of Environmental Management - Los Alamos Field Office, Department of Energy. As a Program Manager, you will serve as the Director of the Office of Clean Up Execution (OCX). This position leads all operational oversight.",
+    "url": "https://www.usajobs.gov/job/858920400",
+    "posted_at": "2026-02-26T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858918300",
+    "title": "Interdisciplinary General Engineer Physical Scientist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Los Alamos, New Mexico"
+    ],
+    "description": "This position is part of the Office of Environmental Management - Los Alamos Field Office, Department of Energy. As a Interdisciplinary General Engineer Physical Scientist, you will serve as a Federal Cleanup Director and Program Manager for overseeing and measuring progress against the cleanup mission. Serving as the technical point of contact between Federal and contracting staff for all technical matters relating to EMLA Cleanup Contract and performance.",
+    "url": "https://www.usajobs.gov/job/858918300",
+    "posted_at": "2026-02-26T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858878900",
+    "title": "Intelligence Operations Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence (IN). As an Intelligence Operations Specialist, you will manage all counterintelligence and operational activities within the Investigative Division of the Department.",
+    "url": "https://www.usajobs.gov/job/858878900",
+    "posted_at": "2026-02-26T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858843700",
+    "title": "Intelligence Research Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence (IN) with responsibilities for providing technical and analytical support on global energy security issues.",
+    "url": "https://www.usajobs.gov/job/858843700",
+    "posted_at": "2026-02-26T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858871900",
+    "title": "Senior Financial Advisor",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Office of Fossil Energy and Carbon Management - National Energy Technology Laboratory, Department of Energy. As a Senior Financial Advisor, you will serve as a crucial liaison between the Budget and Accounting Teams, acting as the conduit between Budget's cash flow analysis and the Accounting Team's indirect rate collection.",
+    "url": "https://www.usajobs.gov/job/858871900",
+    "posted_at": "2026-02-25T10:07:10.510000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858850000",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Richmond, Virginia"
+    ],
+    "description": "This is a full performance level, non-supervisory position, located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/858850000",
+    "posted_at": "2026-02-25T08:48:59.897000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858841200",
+    "title": "INTERDISCIPLINARY General Engineer/Physical Scientist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Manufacturing and Energy Management Supply Chain, Department of Energy. As a INTERDISCIPLINARY General Engineer/Physical Scientist, you will provide broad expertise on critical minerals and materials supply chains including commercial processes such as extraction, processing, and manufacturing.",
+    "url": "https://www.usajobs.gov/job/858841200",
+    "posted_at": "2026-02-25T08:06:54.743000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858804700",
     "title": "Real Property Management Team Supervisor",
     "organization": "Department of Energy - Agency Wide",
@@ -424,48 +537,6 @@
     "remote": null
   },
   {
-    "job_id": "857888600",
-    "title": "General Engineer, AST, Mission Support Requirements and Development (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "Serves as the Launch Site Integration Engineer (LSIE), within the Program Technical Integration Branch of the Exploration Ground Systems Program Directorate. Duties include performing launch site payload integration for Artemis missions, including managing ground integration requirements, launch site hardware processing, and payload support for launch.",
-    "url": "https://www.usajobs.gov/job/857888600",
-    "posted_at": "2026-02-19T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857885800",
-    "title": "General Engineer, AST, Mission Support Requirements and Development (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "You will serve as an Operations Project Engineer or Ground Integration Engineer within the Exploration Ground Systems Program at Kennedy Space Center. You will provide leadership in technical integration of cross-program issues, flight and ground hardware anomaly resolution, design/operational requirements, procedures development and execution for ground systems and/or spaceflight hardware/software processing, launch, and recovery operations.",
-    "url": "https://www.usajobs.gov/job/857885800",
-    "posted_at": "2026-02-19T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857542800",
-    "title": "General Engineer, AST, Launch and Flight Operations (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "The Test, Launch and Recovery Operations Management Branch of the Exploration Ground Systems (EGS) is responsible for test planning, integration, scheduling, implementation, and leadership of the test operations associated with Integrated Systems Verification and Validation, Flight and Ground Systems Integrated Testing, Launch and Recovery Operations for SLS, Orion and EGS programs. Serves as a NASA Test Director (NTD) and provide direction and guidance to the team during test operations.",
-    "url": "https://www.usajobs.gov/job/857542800",
-    "posted_at": "2026-02-19T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857944600",
     "title": "Director of Budget",
     "organization": "Headquarters, NASA",
@@ -636,20 +707,6 @@
     "remote": null
   },
   {
-    "job_id": "857580000",
-    "title": "Deputy Administrator for Technology",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position serves as the Deputy Administrator for Technology within the Treasury Common Services Center (TCSC) and reports directly to the Administrator, TCSC. The incumbent functions as the principal executive responsible for the strategic planning, integration, governance, and operational management of enterprise information technology (IT) systems and services supporting Department of the Treasury-wide operations under TCSC.",
-    "url": "https://www.usajobs.gov/job/857580000",
-    "posted_at": "2026-02-12T14:13:56.270000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857610000",
     "title": "Data Analyst",
     "organization": "Office of the Inspector General, USPS",
@@ -664,34 +721,6 @@
     "remote": null
   },
   {
-    "job_id": "857342900",
-    "title": "Staff Assistant",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Administrative Law Judges. This position primary purpose is to directly manages all administrative duties for the office. Ensures efficient and effective flow of staff papers, reports, and recommendations. Keeps management informed on all important appointments and all administrative matters.",
-    "url": "https://www.usajobs.gov/job/857342900",
-    "posted_at": "2026-02-12T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857266500",
-    "title": "Computer Scientist (Data Scientist)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "District of Columbia, District of Columbia"
-    ],
-    "description": "This position is located within the United States Coast Guard, Coast Guard Counterintelligence Service (CGCIS) Insider Threat Division. This position is the senior Computer Scientist for the USCG's Insider Threat Program. The USCG's Insider Threat Program is required by Executive Order 13587 to provide proactive detection, deterrence, and mitigation of risks posed by individuals with authorized access to the USCG's assets, information, technology, and operations.",
-    "url": "https://www.usajobs.gov/job/857266500",
-    "posted_at": "2026-02-11T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857245600",
     "title": "Director Engineering Directorate",
     "organization": "Langley Research Center",
@@ -701,20 +730,6 @@
     "description": "The Director, Engineering Directorate (ED) at NASA's Langley Research Center is responsible for providing systems engineering and discipline engineering capabilities to the Center. The incumbent provides technical leadership and systems management to engineers, technicians, and business personnel required to deliver and/or compete effectively for, and meet commitments on, engineering and technology development work that support the research, science, and technology needs of the Center.",
     "url": "https://www.usajobs.gov/job/857245600",
     "posted_at": "2026-02-11T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857060500",
-    "title": "Senior Interagency Advisor, Export Control & Interagency Liaison Division",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "NASA's senior advisor and principal liaison to the Department of War (DoW) advises on matters involving the totality of NASA missions with particular emphasis on science, technology, research, and development activities. The incumbent provides authoritative guidance across defense-related interagency issues, engagements and partnerships, represents NASA in high-level policy forums, and ensures alignment of NASA 's programs with national policy priorities.",
-    "url": "https://www.usajobs.gov/job/857060500",
-    "posted_at": "2026-02-10T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -863,48 +878,6 @@
     "url": "https://www.usajobs.gov/job/856084500",
     "posted_at": "2026-02-01T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855342800",
-    "title": "Business Systems Developer",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW), Business Systems Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/855342800",
-    "posted_at": "2026-01-26T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855341900",
-    "title": "Node-React Full Stack Web Application Developer",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW), Node-React Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/855341900",
-    "posted_at": "2026-01-26T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855330700",
-    "title": "JAVA Angular Full Stack Web Application Developer",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW), JAVA Angular Full Stack Web Application Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/855330700",
-    "posted_at": "2026-01-26T00:00:00",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   }
