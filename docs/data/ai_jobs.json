@@ -1,5 +1,103 @@
 [
   {
+    "job_id": "859179600",
+    "title": "Electronics Technician (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "As an Avionics and Instrumentation Technician, you will play a crucial role in supporting NASA's aeronautics, research, and science missions. Your primary purpose is to oversee the design, development, and maintenance of avionic systems on Armstrong Flight Research Centers diverse aircraft fleet. Your role involves providing support on avionics and instrumentation systems, ensuring compliance with NASA standards, and working with a team of aircraft engineering technicians.",
+    "url": "https://www.usajobs.gov/job/859179600",
+    "posted_at": "2026-02-27T00:00:00",
+    "salary": "10-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858793900",
+    "title": "Lead Quality Assurance Specialist (Aerospace) (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As the Lead Quality Assurance Specialist in the Safety and Mission Assurance Directorate, Exploration Ground Systems Division, Quality Assurance Branch at Kennedy Space Center, you will lead, plan, develop, administer, evaluate, and coordinate a comprehensive quality assurance program supporting assigned aerospace programs and projects. In this role, you will also lead a team in identifying, distributing, and balancing workload among employees to ensure efficient and timely mission support.",
+    "url": "https://www.usajobs.gov/job/858793900",
+    "posted_at": "2026-02-27T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858792600",
+    "title": "Aerospace Engineer, AST, Aerospace Flight Systems (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "As the Space Launch System (SLS) Flight Safety System Manager within the Systems Engineering and Integration Office, you will be responsible for development, implementation, and verification of Flight Safety System (FSS) / Flight Termination System (FTS) requirements for SLS. You will lead a team of skilled engineers day-to-day to ensure compliance with the range FSS/FTS requirements, and will be the SLS Program's primary Point of Contact with the Space Force Space Launch Delta 45.",
+    "url": "https://www.usajobs.gov/job/858792600",
+    "posted_at": "2026-02-27T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858721900",
+    "title": "Information Technology Specialist (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "As a Mission Operations Manager, within the Networks and Telecommunications Services (NaTS) Service Line Integrated Operations Office, you will be responsible for enhancing modernization of facilities, systems, and procedures, and managing schedules, resources, and security of the systems that deliver IT services. You will lead a team of highly skilled specialists in disbursed geographical areas in a 24x7 environment to integrate, operate, and secure enterprise and mission network systems.",
+    "url": "https://www.usajobs.gov/job/858721900",
+    "posted_at": "2026-02-27T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858548400",
+    "title": "Information Technology Specialist (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "The Integration Lead for the NASA Integrated Operations Center (NIOC) drives enterprise technical integration across services, resolves complex design conflicts, and aligns requirements with OCIO programs, missions, and Centers. You will develop and execute technology roadmaps, embed them into service processes and enterprise architecture, establish performance metrics, promote data-driven improvement, and ensure compliance with technical and governance standards.",
+    "url": "https://www.usajobs.gov/job/858548400",
+    "posted_at": "2026-02-27T00:00:00",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859115100",
+    "title": "Management and Program Analyst (Audit Sustainment)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/859115100",
+    "posted_at": "2026-02-26T12:47:12.083000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858670100",
+    "title": "Supervisory Economist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Energy Information Administration, Department of Energy. As a Supervisory Economist, you will provide team leadership, technical analysis, and senior level economic expertise and analytical advice on a broad range of professional economic work such as rendering advice and services with respect to highly complex economic questions, regulations, and policies.",
+    "url": "https://www.usajobs.gov/job/858670100",
+    "posted_at": "2026-02-26T08:11:05.863000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858998500",
     "title": "Chief Engineer, SSC",
     "organization": "John C. Stennis Space Center",
@@ -360,7 +458,7 @@
       "Harris County, Texas",
       "Hampton, Virginia"
     ],
-    "description": "This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
+    "description": "This announcement has been amended. The \"How You Will Be Evaluated\" section has been updated to align with the assessment. Applicants do not need to reapply. This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
     "url": "https://www.usajobs.gov/job/858389000",
     "posted_at": "2026-02-23T00:00:00",
     "salary": "4-9",
@@ -383,7 +481,7 @@
       "Houston, Texas",
       "Hampton, Virginia"
     ],
-    "description": "This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
+    "description": "This announcement has been amended. The \"How You Will Be Evaluated\" section has been updated to align with the assessment. Applicants do not need to reapply. This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
     "url": "https://www.usajobs.gov/job/858388900",
     "posted_at": "2026-02-23T00:00:00",
     "salary": "4-9",
@@ -406,7 +504,7 @@
       "Houston, Texas",
       "Hampton, Virginia"
     ],
-    "description": "This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
+    "description": "This announcement has been amended. The \"How You Will Be Evaluated\" section has been updated to align with the assessment. Applicants do not need to reapply. This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program. Please read the entire announcement before applying.",
     "url": "https://www.usajobs.gov/job/858388800",
     "posted_at": "2026-02-23T00:00:00",
     "salary": "4-9",
@@ -481,48 +579,6 @@
     "remote": null
   },
   {
-    "job_id": "858034200",
-    "title": "AST, Technical Management (Direct Hire)",
-    "organization": "George C. Marshall Space Flight Center",
-    "locations": [
-      "Huntsville, Alabama"
-    ],
-    "description": "As the Avionics and Flight Termination System (FTS) Team Lead within the Space Launch System (SLS), Stages Element Office, you will be responsible for the leading the avionics and FTS team of civil service and contractor personnel. You will advise the Element Manager on all matters relating to avionics and FTS. You will monitor and report on the prime contractor's performance and will be responsible for effectively interfacing with the engineering community, safety, and procurement personnel.",
-    "url": "https://www.usajobs.gov/job/858034200",
-    "posted_at": "2026-02-20T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857958100",
-    "title": "General Engineer, AST, Mission Support Requirements and Development (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "As the Operations Project Engineer for the Exploration Ground Systems Program, you will be responsible for technical integration across flight elements. This involves technical integration efforts for Orion and Space Launch System Programs, engineering disciplines during operational planning, as well as processing, launch, landing and recovery.",
-    "url": "https://www.usajobs.gov/job/857958100",
-    "posted_at": "2026-02-20T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857910100",
-    "title": "AST, Technical Management",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "Serves as an AST, Technical Management within the Test Operations Division, you will be responsible for leading and providing oversight to a diverse group of engineers performing complex technical activities in support of propulsion testing and assigned facility. This position will require interfacing with other organizations to coordinate work activities to minimize errors and avoid potential conflicts in successfully achieving assigned goals and objective.",
-    "url": "https://www.usajobs.gov/job/857910100",
-    "posted_at": "2026-02-20T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858010800",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -593,20 +649,6 @@
     "remote": null
   },
   {
-    "job_id": "857702700",
-    "title": "IT Specialist (Artificial Intelligence)",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of the Chief Information Officer will allow you to enhance the Homeland Security mission through the advanced use of Artificial Intelligence and expertise to maintain and modernize the US Secret Service's Information Technology platform to support the agency's protective and investigative mission. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857702700",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857635800",
     "title": "Marketing Specialist",
     "organization": "Air Combat Command",
@@ -665,20 +707,6 @@
     "remote": null
   },
   {
-    "job_id": "857613800",
-    "title": "Chief Data Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office's (USPTO) mission is to promote innovation and competition by providing quality examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide. Through the issuance of patents, the USPTO encourages technological advancement by providing incentives to invent, invest in, and disclose new technology worldwide.",
-    "url": "https://www.usajobs.gov/job/857613800",
-    "posted_at": "2026-02-12T15:44:26.417000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857613700",
     "title": "Chief Artificial Intelligence Officer",
     "organization": "Patent and Trademark Office",
@@ -707,6 +735,20 @@
     "remote": null
   },
   {
+    "job_id": "857613800",
+    "title": "Chief Data Officer",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The United States Patent and Trademark Office's (USPTO) mission is to promote innovation and competition by providing quality examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide. Through the issuance of patents, the USPTO encourages technological advancement by providing incentives to invent, invest in, and disclose new technology worldwide.",
+    "url": "https://www.usajobs.gov/job/857613800",
+    "posted_at": "2026-02-12T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "857610000",
     "title": "Data Analyst",
     "organization": "Office of the Inspector General, USPS",
@@ -716,20 +758,6 @@
     "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
     "url": "https://www.usajobs.gov/job/857610000",
     "posted_at": "2026-02-12T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857245600",
-    "title": "Director Engineering Directorate",
-    "organization": "Langley Research Center",
-    "locations": [
-      "Hampton, Virginia"
-    ],
-    "description": "The Director, Engineering Directorate (ED) at NASA's Langley Research Center is responsible for providing systems engineering and discipline engineering capabilities to the Center. The incumbent provides technical leadership and systems management to engineers, technicians, and business personnel required to deliver and/or compete effectively for, and meet commitments on, engineering and technology development work that support the research, science, and technology needs of the Center.",
-    "url": "https://www.usajobs.gov/job/857245600",
-    "posted_at": "2026-02-11T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
