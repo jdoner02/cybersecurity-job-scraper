@@ -1,5 +1,112 @@
 [
   {
+    "job_id": "859359600",
+    "title": "Supervisory IT Specialist (DATAMGT)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This position serves as the Branch Chief for the Electronic Data Services Branch (EDSB). The Electronic Data Services Branch (EDSB) is responsible for providing electronic data operation and maintenance services that include updating, maintaining, overseeing and serving as the designated data steward for the patent and trademark data processes and products for customers.",
+    "url": "https://www.usajobs.gov/job/859359600",
+    "posted_at": "2026-02-27T16:08:34.907000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859357900",
+    "title": "Supervisory IT Specialist (DATAMGT)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This position serves as the Branch Chief for the Electronic Data Services Branch (EDSB). The Electronic Data Services Branch (EDSB) is responsible for providing electronic data operation and maintenance services that include updating, maintaining, overseeing and serving as the designated data steward for the patent and trademark data processes and products for customers.",
+    "url": "https://www.usajobs.gov/job/859357900",
+    "posted_at": "2026-02-27T15:46:49.857000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859303200",
+    "title": "Research Statistical Assistant",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Pittsburgh, Pennsylvania"
+    ],
+    "description": "Please note: There is no pay associated with this position. This position serves as Without Compensation Research Statistical Assistant within the Office of Research and Development (ORD). The VA Research Program strives to promote Veteran-centered care to improve patient experiences and outcomes across VA healthcare and community settings, and to advance value-driven care by providing Veterans the highest quality care at the lowest financial burden.",
+    "url": "https://www.usajobs.gov/job/859303200",
+    "posted_at": "2026-02-27T12:41:37.690000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859252600",
+    "title": "DEPUTY CHIEF HUMAN CAPITAL OFFICER",
+    "organization": "Federal Trade Commission",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in OED, Human Capital Management Office (HCMO). HCMO/OED is responsible for human resources, including honors program recruitment, attorney/non-attorney hiring, benefits, retirement, workers compensation, SES hiring, advice & guidance to managers on conduct, performance & discipline problems, position classification, labor relations, administration of performance management, payroll, electronic time & attendance coordination, training & personnel security.",
+    "url": "https://www.usajobs.gov/job/859252600",
+    "posted_at": "2026-02-27T10:03:10.413000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859241200",
+    "title": "Human Resources Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Golden, Colorado",
+      "Washington, District of Columbia",
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas",
+      "Cincinnati, Ohio",
+      "Oak Ridge, Tennessee"
+    ],
+    "description": "This position is part of the Department of Energy's Office of the Chief Human Capital Officer, Office of Workforce Administration and Management (OWAM). As a Human Resources Specialist, you will serve as a senior advisor on the Talent Team, which works to improve existing hiring practices by scaling candidate assessment and selection methods to assess and hire high quality applicants.",
+    "url": "https://www.usajobs.gov/job/859241200",
+    "posted_at": "2026-02-27T09:09:22.827000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859221300",
+    "title": "Senior Advisor, Congressional Affairs",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Senior Advisor, Congressional Affairs, you will be responsible for all Office of Energy Dominance Financing (EDF) interactions with Congress, federal, state, and local elected officials, and other government agencies, including correspondence and oversight.",
+    "url": "https://www.usajobs.gov/job/859221300",
+    "posted_at": "2026-02-27T06:40:45.883000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "859179600",
     "title": "Electronics Technician (Direct Hire)",
     "organization": "Armstrong Flight Research Center",
@@ -401,20 +508,6 @@
     "remote": null
   },
   {
-    "job_id": "858495800",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/ENTARCH)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "MacDill AFB, Florida"
-    ],
-    "description": "You will serve as a INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/ENARCH) in the U.S. MARINE CORPS FORCES CENTRAL COMMAND of US MARINE CORPS FORCES, CENTRAL CMD.",
-    "url": "https://www.usajobs.gov/job/858495800",
-    "posted_at": "2026-02-23T08:43:07.063000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858492700",
     "title": "General Engineer",
     "organization": "Bureau of Industry and Security",
@@ -425,103 +518,6 @@
     "url": "https://www.usajobs.gov/job/858492700",
     "posted_at": "2026-02-23T08:11:32.163000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858481900",
-    "title": "ADMINISTRATIVE SERVICES ASSISTANT(OA)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Kings Bay, Georgia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/858481900",
-    "posted_at": "2026-02-23T05:40:57.307000",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858389000",
-    "title": "Student Trainee (Electrical Engineering)",
-    "organization": "National Aeronautics and Space Administration - Agency Wide",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Stennis Space Center, Mississippi",
-      "Las Cruces, New Mexico",
-      "Cleveland, Ohio",
-      "Harris County, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "This announcement has been amended. The \"How You Will Be Evaluated\" section has been updated to align with the assessment. Applicants do not need to reapply. This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
-    "url": "https://www.usajobs.gov/job/858389000",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858388900",
-    "title": "Student Trainee (Aerospace Engineering)",
-    "organization": "National Aeronautics and Space Administration - Agency Wide",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Stennis Space Center, Mississippi",
-      "Las Cruces, New Mexico",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "This announcement has been amended. The \"How You Will Be Evaluated\" section has been updated to align with the assessment. Applicants do not need to reapply. This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program Please read the entire announcement before applying.",
-    "url": "https://www.usajobs.gov/job/858388900",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858388800",
-    "title": "Student Trainee (Mechanical Engineering)",
-    "organization": "National Aeronautics and Space Administration - Agency Wide",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Stennis Space Center, Mississippi",
-      "Las Cruces, New Mexico",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "This announcement has been amended. The \"How You Will Be Evaluated\" section has been updated to align with the assessment. Applicants do not need to reapply. This position is in NASA's Pathways Intern Employment Program (IEP) which provides students with opportunities to explore NASA careers and gain meaningful developmental work experience. To learn more about NASA's Pathways Program, click here: NASA Pathways Internship Program. Please read the entire announcement before applying.",
-    "url": "https://www.usajobs.gov/job/858388800",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "4-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857381200",
-    "title": "Supervisory Administrative Officer",
-    "organization": "Immigration and Customs Enforcement",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "View Common Definitions of terms found in this announcement. Organizational Location: This position is located in the Department of Homeland Security, U.S. Immigration and Customs Enforcement, Office of Human Capital, Business Management Unit, in Washington, District of Columbia. This is a non-bargaining unit position.",
-    "url": "https://www.usajobs.gov/job/857381200",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -561,20 +557,6 @@
     "url": "https://www.usajobs.gov/job/858250600",
     "posted_at": "2026-02-20T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858218200",
-    "title": "Aerospace Engineer, AST, Aerospace Flight Systems (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "As an AST Environmental Control engineer within the Crew and Thermal Systems Division, you will be responsible for technology development, test systems design/oversight, and/or project management of government furnished equipment in the area of Environmental Control and Life Support, Active Thermal Control, and Space Suit Systems. You will lead a team of highly skilled engineers and be recognized as integral member of the organization in supporting both programmatic and engineering management.",
-    "url": "https://www.usajobs.gov/job/858218200",
-    "posted_at": "2026-02-20T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -635,34 +617,6 @@
     "remote": null
   },
   {
-    "job_id": "857713700",
-    "title": "Data Scientist",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Joining the Secret Service, Office of Strategy, Planning, and Innovation will allow you to apply data science and related information management principles to promote effective data use for informed decision-making, and to drive positive transformation in programs and organizational units with advanced analytic, modeling, and evaluation support. For definitions of terms found in this announcement, please click here.",
-    "url": "https://www.usajobs.gov/job/857713700",
-    "posted_at": "2026-02-13T11:17:12.727000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857635800",
-    "title": "Marketing Specialist",
-    "organization": "Air Combat Command",
-    "locations": [
-      "Tyndall AFB, Florida"
-    ],
-    "description": "About the position: This position is Non-appropriated Fund (NAF) and will be assigned to the Force Support Squadron Marketing Department.",
-    "url": "https://www.usajobs.gov/job/857635800",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857616100",
     "title": "Artemis Mission Development Manager",
     "organization": "Headquarters, NASA",
@@ -693,48 +647,6 @@
     "remote": null
   },
   {
-    "job_id": "857608100",
-    "title": "Education Policy Analyst, AD-1701-00, GS-15 Equivalent (Excepted Service) (Term NTE 3 YRS)",
-    "organization": "National Assessment Governing Board",
-    "locations": [
-      "District of Columbia, District of Columbia"
-    ],
-    "description": "This position is located in the National Assessment Governing Board (NAGB), in Washington, DC. The National Assessment Governing Board (NAGB) sets policy for the National Assessment of Education Progress (NAEP).",
-    "url": "https://www.usajobs.gov/job/857608100",
-    "posted_at": "2026-02-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857613700",
-    "title": "Chief Artificial Intelligence Officer",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "The United States Patent and Trademark Office's (USPTO) mission is to promote innovation and competition by providing quality examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide. Through the issuance of patents, the USPTO encourages technological advancement by providing incentives to invent, invest in, and disclose new technology worldwide.",
-    "url": "https://www.usajobs.gov/job/857613700",
-    "posted_at": "2026-02-12T15:39:39.090000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "857604100",
-    "title": "Data Analyst",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
-    "url": "https://www.usajobs.gov/job/857604100",
-    "posted_at": "2026-02-12T15:13:35.850000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857613800",
     "title": "Chief Data Officer",
     "organization": "Patent and Trademark Office",
@@ -749,16 +661,30 @@
     "remote": null
   },
   {
-    "job_id": "857610000",
-    "title": "Data Analyst",
-    "organization": "Office of the Inspector General, USPS",
+    "job_id": "857613700",
+    "title": "Chief Artificial Intelligence Officer",
+    "organization": "Patent and Trademark Office",
     "locations": [
-      "Arlington, Virginia"
+      "Alexandria, Virginia"
     ],
-    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
-    "url": "https://www.usajobs.gov/job/857610000",
+    "description": "The United States Patent and Trademark Office's (USPTO) mission is to promote innovation and competition by providing quality examination and issuance of patent and trademark applications, guiding domestic and international intellectual property policy, and delivering intellectual property information and education worldwide. Through the issuance of patents, the USPTO encourages technological advancement by providing incentives to invent, invest in, and disclose new technology worldwide.",
+    "url": "https://www.usajobs.gov/job/857613700",
     "posted_at": "2026-02-12T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859282000",
+    "title": "ASSOCIATE GENERAL COUNSEL",
+    "organization": "Defense Intelligence Agency",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "We are committed to: Teamwork: Partnering at all levels and across organizational boundaries for mission accomplishment. Integrity: Adherence to the highest legal and ethical principles in our responsibilities. Excellence: Unrivaled defense intelligence expertise. Service: Putting the welfare of the Nation and commitment to our mission before oneself.",
+    "url": "https://www.usajobs.gov/job/859282000",
+    "posted_at": "2026-02-10T00:00:00",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },

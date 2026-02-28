@@ -1,5 +1,79 @@
 [
   {
+    "job_id": "859381500",
+    "title": "IT Specialist (APPSW)",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Washington, District of Columbia",
+      "Macon, Georgia",
+      "Kansas City, Missouri",
+      "Boyers, Pennsylvania",
+      "Philadelphia, Pennsylvania"
+    ],
+    "description": "As an IT Specialist (Application Software) with OPM, you will design, develop, test, and deploy mission-critical applications that support enterprise-wide IT operations. You will translate business requirements into secure, scalable software solutions; apply modern development practices; and ensure applications meet federal standards for performance, accessibility, and cybersecurity.",
+    "url": "https://www.usajobs.gov/job/859381500",
+    "posted_at": "2026-02-27T18:16:39.687000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859363600",
+    "title": "Technology Vulnerability Analyst - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Our mission requires a strong offense and a steadfast defense. The offense collects, processes and disseminates intelligence information derived from foreign signals for intelligence and counterintelligence purposes. The defense prevents adversaries from gaining access to sensitive or classified national security information. Technology Vulnerability Analysts detect and mitigate close access technical attacks unintentional (TEMPEST) threats emanating from secure facilities and equipment.",
+    "url": "https://www.usajobs.gov/job/859363600",
+    "posted_at": "2026-02-27T16:07:12.983000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859327300",
+    "title": "OIG IT Auditor",
+    "organization": "U.S. Capitol Police",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The United States Capitol Police (USCP) safeguards the Congress, Members of Congress, employees, visitors, and Congressional buildings and grounds from crime, disruption, and terrorism. We protect and secure Congress so it can fulfill its constitutional and legislative responsibilities in a safe, secure and open environment.",
+    "url": "https://www.usajobs.gov/job/859327300",
+    "posted_at": "2026-02-27T14:01:25.630000",
+    "salary": "10-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859263200",
+    "title": "SUPERVISORY IT SPECIALIST",
+    "organization": "Army National Guard Units",
+    "locations": [
+      "Columbia, South Carolina"
+    ],
+    "description": "This is a National Guard Title 32 Excepted position for a SUPERVISORY IT SPECIALIST, Position Description Number PDD2467P01 , and is part of the SC DOIM, South Carolina Army National Guard.",
+    "url": "https://www.usajobs.gov/job/859263200",
+    "posted_at": "2026-02-27T10:28:11.157000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859230300",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Army National Guard Units",
+    "locations": [
+      "Columbia, South Carolina"
+    ],
+    "description": "This is a National Guard Title 32 Excepted position for a IT CYBERSECURITY SPECIALIST (INFOSEC), Position Description Number PDD2486P01 , and is part of the SC DOIM, South Carolina Army National Guard.",
+    "url": "https://www.usajobs.gov/job/859230300",
+    "posted_at": "2026-02-27T08:15:34.257000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "859154800",
     "title": "INFORMATION TECHNOLOGY CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Military Sealift Command",
@@ -140,34 +214,6 @@
     "remote": null
   },
   {
-    "job_id": "859123800",
-    "title": "Information Technology Specialist (INFOSEC)  Direct-Hire",
-    "organization": "National Transportation Safety Board",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Office of the Chief Information Officer (OCIO). The Chief Information Security Officer (CISO) serves as the agency's senior cybersecurity official and is responsible for overseeing enterprise-wide cybersecurity strategies, risk management, and compliance with federal mandates.",
-    "url": "https://www.usajobs.gov/job/859123800",
-    "posted_at": "2026-02-26T13:14:09.730000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859100000",
-    "title": "Supervisory IT Specialist (INFOSEC)",
-    "organization": "Bureau of Economic Analysis",
-    "locations": [
-      "Suitland, Maryland"
-    ],
-    "description": "This vacancy is for a Supervisory IT Specialist (INFOSEC) position in the OCIO located at the Bureau of Economic Analysis. This Job Announcement may be used to fill other Supervisory IT Specialist (INFOSEC), ZP-2210 -5, FPL 5 positions within BEA in the same geographical location with the same qualifications and specialized experience. Applicants who apply under this Announcement may opt-in (at their request) to allow the sharing of their application package.",
-    "url": "https://www.usajobs.gov/job/859100000",
-    "posted_at": "2026-02-26T12:03:35.940000",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859086500",
     "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -195,6 +241,34 @@
     "url": "https://www.usajobs.gov/job/859027200",
     "posted_at": "2026-02-26T08:40:53.950000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859123800",
+    "title": "Information Technology Specialist (INFOSEC)  Direct-Hire",
+    "organization": "National Transportation Safety Board",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Office of the Chief Information Officer (OCIO). The Chief Information Security Officer (CISO) serves as the agency's senior cybersecurity official and is responsible for overseeing enterprise-wide cybersecurity strategies, risk management, and compliance with federal mandates.",
+    "url": "https://www.usajobs.gov/job/859123800",
+    "posted_at": "2026-02-26T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859100000",
+    "title": "Supervisory IT Specialist (INFOSEC)",
+    "organization": "Bureau of Economic Analysis",
+    "locations": [
+      "Suitland, Maryland"
+    ],
+    "description": "This vacancy is for a Supervisory IT Specialist (INFOSEC) position in the OCIO located at the Bureau of Economic Analysis. This Job Announcement may be used to fill other Supervisory IT Specialist (INFOSEC), ZP-2210 -5, FPL 5 positions within BEA in the same geographical location with the same qualifications and specialized experience. Applicants who apply under this Announcement may opt-in (at their request) to allow the sharing of their application package.",
+    "url": "https://www.usajobs.gov/job/859100000",
+    "posted_at": "2026-02-26T00:00:00",
+    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -510,26 +584,6 @@
     "url": "https://www.usajobs.gov/job/858699100",
     "posted_at": "2026-02-25T00:00:00",
     "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858695300",
-    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Montgomery, Alabama",
-      "Denver, Colorado",
-      "Columbus, Ohio",
-      "Tinker AFB, Oklahoma",
-      "Mechanicsburg, Pennsylvania",
-      "San Antonio, Texas",
-      "Ogden, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA - HCA/Operations and Command Division.",
-    "url": "https://www.usajobs.gov/job/858695300",
-    "posted_at": "2026-02-25T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -919,34 +973,6 @@
     "remote": null
   },
   {
-    "job_id": "858439600",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Force Global Strike Command",
-    "locations": [
-      "Dyess AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, Cybersecurity Liaison, Government Travel Card program, Defense Travel System, Government Purchase Card program, and assists in organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/858439600",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858408500",
-    "title": "ACTIVITY PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Goodfellow AFB, Texas"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the activity leadership for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program.",
-    "url": "https://www.usajobs.gov/job/858408500",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858397400",
     "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -1292,20 +1318,6 @@
     "remote": null
   },
   {
-    "job_id": "857492900",
-    "title": "General Engineer",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Patuxent River, Maryland"
-    ],
-    "description": "You will serve as the Operational Technology Integration Lead in the Fleet Readiness Centers' Infrastructure Optimization and Modernization Program (FIOP) of COMFLTREADCEN, responsible for planning, integration, qualification, cybersecurity compliance, and sustained lifecycle management of industrial operational technologies and equipment across all Fleet Readiness Centers (FRCs).",
-    "url": "https://www.usajobs.gov/job/857492900",
-    "posted_at": "2026-02-18T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857492000",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -1473,22 +1485,8 @@
     ],
     "description": "This position is located in the National Oceanic and Atmospheric Administration (NOAA) Office of Space Commerce (OSC) Commercial Remote Sensing Regulatory Affairs (CRSRA) with one vacancy in Washington, D.C.",
     "url": "https://www.usajobs.gov/job/856066100",
-    "posted_at": "2026-01-30T11:48:41.750000",
+    "posted_at": "2026-01-30T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "855592500",
-    "title": "Attorney",
-    "organization": "Nuclear Regulatory Commission",
-    "locations": [
-      "Rockville, Maryland"
-    ],
-    "description": "This position is located in the Office of the General Counsel. Division and supervisory information will be determined at time of selection. This position level is subject to Confidential Financial Disclosure reporting requirements. This position level is subject to Security Ownership Restriction reporting requirements.",
-    "url": "https://www.usajobs.gov/job/855592500",
-    "posted_at": "2026-01-28T00:00:00",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   }
