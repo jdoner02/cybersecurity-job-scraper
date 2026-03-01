@@ -959,20 +959,6 @@
     "remote": null
   },
   {
-    "job_id": "858598500",
-    "title": "Cybersecurity Intern, Summer",
-    "organization": "House of Representatives",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Cybersecurity Intern will gain experience in a fast paced, dynamic organization where they can learn basic security analysis skills and potentially play an even greater role in an organization whose mission is to protect the legislative process from all actors \u2013 from malware as a service to nation state sponsored attackers.",
-    "url": "https://www.usajobs.gov/job/858598500",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "1-1",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858397400",
     "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -1173,6 +1159,20 @@
     "remote": null
   },
   {
+    "job_id": "858150700",
+    "title": "Chief Product and Technology Officer ",
+    "organization": "Office of the Secretary of Transportation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Chief Information Officer (CIO) leads the Office of the Chief Information Officer (OCIO) organization and serves as the principal advisor to the Secretary of Transportation and DOT Operating Administrations on matters involving information technology (IT), information assurance - cybersecurity, privacy, and records management; portfolio management; IT infrastructure and operations; IT innovation and emerging technologies; enterprise date management; applications and digital solutions.",
+    "url": "https://www.usajobs.gov/job/858150700",
+    "posted_at": "2026-02-19T07:23:59.133000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "858119600",
     "title": "IT SPECIALIST (INFOSEC) - DIRECT HIRE AUTHORITY",
     "organization": "Air Force Materiel Command",
@@ -1183,6 +1183,20 @@
     "url": "https://www.usajobs.gov/job/858119600",
     "posted_at": "2026-02-18T16:04:49.130000",
     "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858111400",
+    "title": "Applied Research Mathematician / Machine Learning Security / Generative AI - Exp to Expert (MD)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA's Mathematics Research Group conducts world-class mathematical research with the objective of developing new and innovative techniques and technologies to support our Signals Intelligence and Cybersecurity missions, as well as the broader Intelligence Community (IC). We are actively seeking mathematicians to join our Mathematics Research Group. The Group focuses on mathematics research in the applications of a wide range of technical areas.",
+    "url": "https://www.usajobs.gov/job/858111400",
+    "posted_at": "2026-02-18T15:40:46.620000",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -1210,20 +1224,6 @@
     "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for an IT Cybersecurity Specialist, Position Description Number D2791000 and is part of the 158th Mission Support Group of the Vermont Air National Guard. This position is also advertised to Active Guard Reserve Airmen under announcement number MVA-26-06.",
     "url": "https://www.usajobs.gov/job/858003900",
     "posted_at": "2026-02-18T09:40:38.803000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858001400",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Cheyenne Mountain AFB, Colorado"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA IT3C11.",
-    "url": "https://www.usajobs.gov/job/858001400",
-    "posted_at": "2026-02-18T09:32:03.630000",
     "salary": "12-12",
     "grade": null,
     "remote": null
