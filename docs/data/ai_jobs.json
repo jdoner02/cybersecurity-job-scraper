@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "859349700",
+    "title": "Mission Support Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Omaha, Nebraska"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Omaha Division. This position(s) primary purpose is to exercise independent judgment and discretion in assisting in the preparation and processing of confidential employee matters. The incumbent will also maintain and coordinate the administrative support program by initiating and ensuring effective communication, coordination, and follow-up action with other Divisions.",
+    "url": "https://www.usajobs.gov/job/859349700",
+    "posted_at": "2026-03-02T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859344000",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Omaha, Nebraska"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Omaha Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/859344000",
+    "posted_at": "2026-03-02T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859167600",
+    "title": "Information Technology Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a Information Technology Specialist, you will be support the DOE Counterintelligence (CI) mission, you will provide information technology (IT) expertise to DOE CI mission activities, including investigations, awareness, analysis, insider threat, cyber forensics, and more benefitting DOE elements at headquarters, field offices, and the national laboratories.",
+    "url": "https://www.usajobs.gov/job/859167600",
+    "posted_at": "2026-03-02T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859056000",
+    "title": "General Engineer, AST - Payload Processing Operations",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "You will serve as the Orion Production Operations (OPO) Module Assembly Operations Lead, providing insight, oversight, and in-line support for assembly, integration, and production (AI&P) of an assigned Orion module in support of Artemis. You will manage and assess technical data for Certification of Flight Readiness (CoFR) and endorsement of the as-built spacecraft, independently evaluating module technical and schedule risks and AI&P performance.",
+    "url": "https://www.usajobs.gov/job/859056000",
+    "posted_at": "2026-03-02T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "859371300",
     "title": "Marine Interdiction Agent",
     "organization": "Customs and Border Protection",
