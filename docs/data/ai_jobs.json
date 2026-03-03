@@ -1,5 +1,76 @@
 [
   {
+    "job_id": "859531900",
+    "title": "AST - Technical Management",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "You will serve as the Energy & Water Manager in the Facilities Services Division, ensuring compliance with Federal and NASA requirements, setting, tracking, and reporting performance goals, coordinating utilities and O&M activities, developing and evaluating projects, guiding contractors, improving procedures, and overseeing contract impacts to support efficient, sustainable operations at SSC.",
+    "url": "https://www.usajobs.gov/job/859531900",
+    "posted_at": "2026-03-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859528100",
+    "title": "Budget Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of International Affairs, Department of Energy. As a Budget Analyst, you will provide expert budgetary guidance to the Deputy Director, encompassing continuous financial monitoring, dashboard updates, and ensuring effective fund allocation.",
+    "url": "https://www.usajobs.gov/job/859528100",
+    "posted_at": "2026-03-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859503300",
+    "title": "General Engineer",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a General Engineer, you will provide professional engineering expertise and support to Agency programs, projects or initiatives whose mission or responsibilities include designing, evaluating, developing, testing, modifying, installing, inspecting and or maintaining products and systems related to cybersecurity for critical infrastructure.",
+    "url": "https://www.usajobs.gov/job/859503300",
+    "posted_at": "2026-03-03T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859111500",
+    "title": "General Engineer, AST, Technical Management (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama",
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Supports the Booster Element Office (BEO) with build-up & integration of Aft Skirt and Forward Assemblies at the Booster Fabrication Facilities (BFF) & overall Booster assembly build-up at the Rotation, Processing & Surge Facility (RPSF) & Vehicle Assembly Building (VAB). Encompasses all aspects of flight vehicle systems design, production & operation. Includes management & integration of all technical, schedule, safety, financial, & legal aspects in support of Program requirements & milestones.",
+    "url": "https://www.usajobs.gov/job/859111500",
+    "posted_at": "2026-03-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859488300",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Cincinnati, Ohio"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/859488300",
+    "posted_at": "2026-03-02T14:01:57.590000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "859349700",
     "title": "Mission Support Specialist",
     "organization": "Drug Enforcement Administration",
@@ -424,20 +495,6 @@
     "remote": null
   },
   {
-    "job_id": "858627800",
-    "title": "PROGRAM ANALYST",
-    "organization": "Naval Education and Training Command",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "You will serve as a PROGRAM ANALYST of SURFCOMSYSTRNCMD DAHLGREN.",
-    "url": "https://www.usajobs.gov/job/858627800",
-    "posted_at": "2026-02-25T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858584500",
     "title": "Supervisory Security Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -527,34 +584,6 @@
     "remote": null
   },
   {
-    "job_id": "858644400",
-    "title": "Aerospace Engineer, AST, Aerospace Flight Systems",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "As an AST, Aerospace Flight Systems (OB1 Deorbit Technical Manager) with the International Space Station Vehicle Office, you will be responsible for ensuring that the final deorbit of the International Space Station vehicle is safely executed. You will lead a team responsible for developing and coordinating the deorbit concept of operations and requirements, including plans for altitude decay, propellant utilization, thruster selection, drag manipulation, and target demise location.",
-    "url": "https://www.usajobs.gov/job/858644400",
-    "posted_at": "2026-02-24T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858587100",
-    "title": "Program Manager (Data Officer)",
-    "organization": "Department of State - Agency Wide",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "This position reports directly to the Deputy Assistant Secretary for Resources for the Bureau of Consular Affairs (CA). This position serves as the Program Manager (Data Officer) responsible for data oversight and development within CA and coordinates and consults with the Bureau's leadership and the Department's Chief Data Officer and Managing Director of the Center for Analytics in the Office of Management Strategy and Solutions on programs that impact the bureau to which he/she is assigned.",
-    "url": "https://www.usajobs.gov/job/858587100",
-    "posted_at": "2026-02-24T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858599000",
     "title": "Data Scientist (Supply Chain)",
     "organization": "Defense Logistics Agency",
@@ -579,34 +608,6 @@
     "url": "https://www.usajobs.gov/job/858576300",
     "posted_at": "2026-02-23T13:47:51.143000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858535000",
-    "title": "Emerging Technology Branch Chief",
-    "organization": "Space Systems Command",
-    "locations": [
-      "Peterson AFB, Colorado"
-    ],
-    "description": "To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
-    "url": "https://www.usajobs.gov/job/858535000",
-    "posted_at": "2026-02-23T11:13:36.787000",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858492700",
-    "title": "General Engineer",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is to fill General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security, Office of Assistant Secretary for Export Administration (EA), Strategic Trade (ST), Office of National Security Controls (ONSC). If interested in this wonderful career opportunity, you are encouraged to apply!",
-    "url": "https://www.usajobs.gov/job/858492700",
-    "posted_at": "2026-02-23T08:11:32.163000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -646,20 +647,6 @@
     "url": "https://www.usajobs.gov/job/858250600",
     "posted_at": "2026-02-20T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858010800",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Richmond, Virginia"
-    ],
-    "description": "This is a non-supervisory position located in the Veterans Health Administration of the Department of Veterans Affairs in Richmond, VA(VISN 6). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). This work of this position is healthcare-oriented in nature.",
-    "url": "https://www.usajobs.gov/job/858010800",
-    "posted_at": "2026-02-19T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -872,21 +859,6 @@
     "description": "Building gold-standard AI requires gold-standard AI measurement. Within NIST, CAISI works in concert with the larger community of AI practitioners to advance AI measurement, security, and innovation. The CAISI Applied Systems team is seeking a research scientist to design and execute rigorous research analyzing AI systems in real-world settings. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
     "url": "https://www.usajobs.gov/job/856266200",
     "posted_at": "2026-02-03T00:00:00",
-    "salary": "4-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "856101000",
-    "title": "AI Evaluations Scientist, Biological AI Models",
-    "organization": "National Institute of Standards and Technology",
-    "locations": [
-      "San Francisco, California",
-      "Washington, District of Columbia"
-    ],
-    "description": "The NIST Center for AI Standards and Innovation (CAISI) is seeking a candidate who will design, develop, and execute national security-related evaluations of frontier biological AI models in accordance with the AI Action Plan. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
-    "url": "https://www.usajobs.gov/job/856101000",
-    "posted_at": "2026-02-02T00:00:00",
     "salary": "4-5",
     "grade": null,
     "remote": null
