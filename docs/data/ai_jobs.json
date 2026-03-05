@@ -1,5 +1,158 @@
 [
   {
+    "job_id": "859910400",
+    "title": "Mainframe/CICS Architect",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland",
+      "Durham, North Carolina"
+    ],
+    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/859910400",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859910100",
+    "title": "Mainframe Storage Architect",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Denver, Colorado",
+      "Urbana, Maryland",
+      "Woodlawn, Maryland",
+      "Durham, North Carolina",
+      "Wilkes Barre, Pennsylvania"
+    ],
+    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/859910100",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859907200",
+    "title": "Data Solutions Developer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/859907200",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859876600",
+    "title": "Supervisory Human Resources Specialist",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Bay Saint Louis, Mississippi"
+    ],
+    "description": "You will serve as a Supervisory Human Resources Specialist providing leadership and technical direction for enterprise Staffing and Classification operations supporting multiple Centers and Agency-level customers. You will ensure compliant, timely, and strategic delivery of human capital services aligned with mission priorities.",
+    "url": "https://www.usajobs.gov/job/859876600",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859841900",
+    "title": "Environmental Protection Specialist (Direct-Hire)",
+    "organization": "Langley Research Center",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "As an Environmental Protection Specialist with the Environmental Management Office (EMO) you will be responsible for overall environmental compliance for programs such as the Center's Water Quality, Hazardous Materials Management, Pesticide Management, and Natural Resource Management Programs.",
+    "url": "https://www.usajobs.gov/job/859841900",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859624300",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Office of Inspector General",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Dallas, Texas"
+    ],
+    "description": "This position is located in the Department of Health and Human Services (HHS), Office of Inspector General (OIG), Office of Management and Policy (OMP), The salary for this position will be adjusted based on the duty location. View the Office of Personnel Management (OPM) pay charts for more information: Salaries & Wages (opm.gov). Resumes must be no more than 2-pages in length.",
+    "url": "https://www.usajobs.gov/job/859624300",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859600900",
+    "title": "Aerospace Engineer, AST, Environmental Control Systems (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "Serves as the International Space Station (ISS) Environmental Control and Life Support (ECLS) Systems Manager within the Crew and Thermal Systems Division. Responsible for the technical oversight of the Air Revitalization, Pressure Control, Emergency Hardware, Waste Management, and other sub-systems. Lead a team of highly skilled engineers in providing technical authority over prime and sub-prime contractor activities, government furnished equipment, and mission evaluation.",
+    "url": "https://www.usajobs.gov/job/859600900",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858948400",
+    "title": "Industrial Hygienist",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As the Industrial Hygiene Officer (IHO) and Alternate Radiation Protection Officer, you will be responsible for the management of Kennedy Space Center's Industrial Hygiene Program and activities. You will manage a wide range of chemical and physical hazards associated with spacecraft and payload processing and launch operations, and oversee industrial hygiene services.",
+    "url": "https://www.usajobs.gov/job/858948400",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859890400",
+    "title": "Chief Information Security Officer (CISO)",
+    "organization": "Office of Inspector General",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "We are seeking a highly qualified and motivated individual to serve as the Chief Information Security Officer (CISO) and be a proactive member of our team. Location of position: GSA Office of Inspector General 1800 F Street NW Washington, D.C. 20405 We are currently filling one vacancy, but additional vacancies may be filled as needed.",
+    "url": "https://www.usajobs.gov/job/859890400",
+    "posted_at": "2026-03-04T15:57:40.713000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859715900",
+    "title": "Management and Program Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a Management and Program Analyst, you will analyze and evaluate the effectiveness and efficiency with which assigned DOE organizations and their components carry out their programs and functions and to develop information, advice, and recommendations for management to use in making decisions on the administrative and programmatic aspects of agency operations and management.",
+    "url": "https://www.usajobs.gov/job/859715900",
+    "posted_at": "2026-03-04T14:41:43.080000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "859688200",
     "title": "Criminal Investigator (Direct Hire)",
     "organization": "Headquarters, NASA",
@@ -8,8 +161,25 @@
     ],
     "description": "As a Criminal Investigator with the NASA Office of Inspector General, Office of Investigations, you will independently conduct complex criminal investigations of fraud, waste, abuse, and misconduct in NASA programs impacting national security, persons, and property. You will analyze evidence, prepare investigative reports, collaborate with prosecutors, testify in legal proceedings, and apply specialized investigative techniques to provide independent oversight and protect Agency resources.",
     "url": "https://www.usajobs.gov/job/859688200",
-    "posted_at": "2026-03-04T00:00:00",
+    "posted_at": "2026-03-04T07:17:56.817000",
     "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859740400",
+    "title": "Registration Program Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Centennial, Colorado",
+      "Minneapolis, Minnesota",
+      "Omaha, Nebraska",
+      "Dallas, Texas"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Rocky Mountain Division Office, Minneapolis/St. Paul District Office, Omaha Division Office and Dallas Division Office. This position's primary purpose is to serves as a key resource at the state and national levels in accordance with the states jurisdictions for all registration applicants authorized to manufacture, distribute, and prescribe controlled substances in accordance with the Controlled Substance Act (CSA)",
+    "url": "https://www.usajobs.gov/job/859740400",
+    "posted_at": "2026-03-04T06:16:03.370000",
+    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -157,7 +327,7 @@
     ],
     "description": "This position serves as the Branch Chief for the Electronic Data Services Branch (EDSB). The Electronic Data Services Branch (EDSB) is responsible for providing electronic data operation and maintenance services that include updating, maintaining, overseeing and serving as the designated data steward for the patent and trademark data processes and products for customers.",
     "url": "https://www.usajobs.gov/job/859588500",
-    "posted_at": "2026-03-03T12:05:22.580000",
+    "posted_at": "2026-03-03T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -486,20 +656,6 @@
     "remote": null
   },
   {
-    "job_id": "858918300",
-    "title": "Interdisciplinary General Engineer Physical Scientist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Los Alamos, New Mexico"
-    ],
-    "description": "This position is part of the Office of Environmental Management - Los Alamos Field Office, Department of Energy. As a Interdisciplinary General Engineer Physical Scientist, you will serve as a Federal Cleanup Director and Program Manager for overseeing and measuring progress against the cleanup mission. Serving as the technical point of contact between Federal and contracting staff for all technical matters relating to EMLA Cleanup Contract and performance.",
-    "url": "https://www.usajobs.gov/job/858918300",
-    "posted_at": "2026-02-26T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858878900",
     "title": "Intelligence Operations Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -551,23 +707,6 @@
     "description": "This position is part of the Office of Manufacturing and Energy Management Supply Chain, Department of Energy. As a INTERDISCIPLINARY General Engineer/Physical Scientist, you will provide broad expertise on critical minerals and materials supply chains including commercial processes such as extraction, processing, and manufacturing.",
     "url": "https://www.usajobs.gov/job/858841200",
     "posted_at": "2026-02-25T08:06:54.743000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858804700",
-    "title": "Real Property Management Team Supervisor",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Grand Junction, Colorado",
-      "Westminster, Colorado",
-      "Washington, District of Columbia",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the Office of Legacy Management, Department of Energy. As a Real Property Management Team Supervisor, you will be responsible for leading the strategic management and stewardship of LM's real property team. This includes directing the implementation of established policies, acquisition, disposal, and long-term oversight.",
-    "url": "https://www.usajobs.gov/job/858804700",
-    "posted_at": "2026-02-25T00:00:00",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -671,20 +810,6 @@
     "description": "See below for important information regarding this job.",
     "url": "https://www.usajobs.gov/job/858599000",
     "posted_at": "2026-02-23T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858257500",
-    "title": "Electrical Engineer, AST, Electrical Systems",
-    "organization": "Armstrong Flight Research Center",
-    "locations": [
-      "Edwards AFB, California"
-    ],
-    "description": "As an Electrical Engineer, you will perform professional engineering work involving the design, analysis, testing, and compliance assessment of Flight Termination Systems (FTS) in support of NASA's research, test, and development activities. You will be responsible for developing, evaluating, and/or establishing technical requirements for the application and integration of low voltage, electro-mechanical systems into aerospace vehicles (primarily on unmanned aircraft systems).",
-    "url": "https://www.usajobs.gov/job/858257500",
-    "posted_at": "2026-02-20T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
