@@ -1,5 +1,104 @@
 [
   {
+    "job_id": "860192300",
+    "title": "IT Specialist",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
+    "url": "https://www.usajobs.gov/job/860192300",
+    "posted_at": "2026-03-06T12:29:51.733000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860190100",
+    "title": "Data Scientist (Artificial Intelligence Risk)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $147,945- $192,331 Columbus, OH: $154,378 - $197,200 Dayton, OH: $153,455- $197,200 Fort Belvoir, VA: $169,279 - $197,200 New Cumberland, PA: $169,279 - $197,200 Ogden, UT: $147,945- $192,331 Philadelphia, PA: $163,023- $197,200 Richmond, VA: $154,542- $197,200",
+    "url": "https://www.usajobs.gov/job/860190100",
+    "posted_at": "2026-03-06T11:48:35.643000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860162900",
+    "title": "Training Technician (OA)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administrator (DEA), Operations Division, Office of Training. This position(s) primary purpose is to assist and work closely with the Class Coordinators, Instructors, Unit Chief, and Section Chief performing a variety of duties related to curriculum, scheduling, operational policies and plans, long-term training objectives, identification of DEA training needs and the development of new programs, and training schedules.",
+    "url": "https://www.usajobs.gov/job/860162900",
+    "posted_at": "2026-03-06T10:28:51.450000",
+    "salary": "7-8",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860057400",
+    "title": "Cloud Systems Administrator",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland",
+      "Durham, North Carolina"
+    ],
+    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/860057400",
+    "posted_at": "2026-03-06T09:48:45.637000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860123000",
+    "title": "Supervisory Information Technology Specialist (INFOSEC)",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a Supervisory Information Technology Specialist (INFOSEC), you will be for providing innovative cyber-centric intelligence support to the Department of Energy and the Nation's critical energy infrastructure. This mission includes providing Information Technology (IT) infrastructure, capabilities and technical support to the DOE Intelligence and Counterintelligence workforce.",
+    "url": "https://www.usajobs.gov/job/860123000",
+    "posted_at": "2026-03-06T07:14:53.947000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860121900",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Los Angeles, California"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Los Angeles, CA Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/860121900",
+    "posted_at": "2026-03-06T06:44:49.330000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "860065800",
     "title": "ServiceNow Engineer-DHA",
     "organization": "Social Security Administration",
@@ -18,21 +117,6 @@
     "remote": null
   },
   {
-    "job_id": "860057400",
-    "title": "Cloud Systems Administrator",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860057400",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860055600",
     "title": "ATTORNEY ADVISER (GENERAL)",
     "organization": "Air Force Legal Operations Agency",
@@ -43,34 +127,6 @@
     "url": "https://www.usajobs.gov/job/860055600",
     "posted_at": "2026-03-06T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860055600",
-    "title": "ATTORNEY ADVISER (GENERAL)",
-    "organization": "Air Force Legal Operations Agency",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "The primary purpose of this position is to serve as a Cyber, Information, Privacy and Data Management Law Attorney, and to provide specialized professional legal advice and counsel to The Judge Advocate General (TJAG), and the Director of Operations and International Law (JAO), and other directorates and staff, as appropriate.",
-    "url": "https://www.usajobs.gov/job/860055600",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859967500",
-    "title": "Supervisory IT Specialist (CUSTSPT)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the DEA, Headquarters Information Technology Division (TC), Arlington VA. This position(s) primary purpose is to serve as the Unit Chief of the Infrastructure Management Unit and has a major responsibility for coordinating the expansion of DEAs infrastructure to include new office locations and office closures for all of DEA worldwide.",
-    "url": "https://www.usajobs.gov/job/859967500",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -123,20 +179,6 @@
     "url": "https://www.usajobs.gov/job/860041600",
     "posted_at": "2026-03-05T13:52:43.540000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860035900",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. The primary purpose of this position is to perform as an intermediate level trainee, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and junior examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/860035900",
-    "posted_at": "2026-03-05T13:34:29.183000",
-    "salary": "9-9",
     "grade": null,
     "remote": null
   },
@@ -280,28 +322,6 @@
     "remote": null
   },
   {
-    "job_id": "859624300",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Office of Inspector General",
-    "locations": [
-      "San Francisco, California",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas"
-    ],
-    "description": "This position is located in the Department of Health and Human Services (HHS), Office of Inspector General (OIG), Office of Management and Policy (OMP), The salary for this position will be adjusted based on the duty location. View the Office of Personnel Management (OPM) pay charts for more information: Salaries & Wages (opm.gov). Resumes must be no more than 2-pages in length.",
-    "url": "https://www.usajobs.gov/job/859624300",
-    "posted_at": "2026-03-05T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859600900",
     "title": "Aerospace Engineer, AST, Environmental Control Systems (Direct Hire)",
     "organization": "Lyndon B. Johnson Space Center",
@@ -403,23 +423,6 @@
     "remote": null
   },
   {
-    "job_id": "859740400",
-    "title": "Registration Program Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Centennial, Colorado",
-      "Minneapolis, Minnesota",
-      "Omaha, Nebraska",
-      "Dallas, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Rocky Mountain Division Office, Minneapolis/St. Paul District Office, Omaha Division Office and Dallas Division Office. This position's primary purpose is to serves as a key resource at the state and national levels in accordance with the states jurisdictions for all registration applicants authorized to manufacture, distribute, and prescribe controlled substances in accordance with the Controlled Substance Act (CSA)",
-    "url": "https://www.usajobs.gov/job/859740400",
-    "posted_at": "2026-03-04T06:16:03.370000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859682700",
     "title": "Criminal Investigator (Direct Hire)",
     "organization": "Headquarters, NASA",
@@ -434,34 +437,6 @@
     "remote": null
   },
   {
-    "job_id": "859643700",
-    "title": "Administrative Officer",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Administrative Officer, you will be providing general and specialized management support to the MOD Director and across the Loan Program Office Divisions.",
-    "url": "https://www.usajobs.gov/job/859643700",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859643700",
-    "title": "Administrative Officer",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Administrative Officer, you will be providing general and specialized management support to the MOD Director and across the Loan Program Office Divisions.",
-    "url": "https://www.usajobs.gov/job/859643700",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859637500",
     "title": "Investigator",
     "organization": "Department of Energy - Agency Wide",
@@ -472,20 +447,6 @@
     "url": "https://www.usajobs.gov/job/859637500",
     "posted_at": "2026-03-04T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859600000",
-    "title": "Operations Manager",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Operations Manager, you will be the Operations Manager for Office of Executive Protection that focuses on directing, planning, and evaluating complex criminal investigative programs.",
-    "url": "https://www.usajobs.gov/job/859600000",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -520,38 +481,6 @@
     "url": "https://www.usajobs.gov/job/859592800",
     "posted_at": "2026-03-04T00:00:00",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859588900",
-    "title": "Human Resources Specialist (Classification)",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Golden, Colorado",
-      "Cincinnati, Ohio",
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Department of Energy's Office of the Chief Human Capital Officer, Office of Human Resources Operations and Client Services (OHROCS). As a Human Resources Specialist (Classification), you will provide technical advice and assistance in position classification and position management to all levels of management.",
-    "url": "https://www.usajobs.gov/job/859588900",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859588900",
-    "title": "Human Resources Specialist (Classification)",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Golden, Colorado",
-      "Cincinnati, Ohio",
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Department of Energy's Office of the Chief Human Capital Officer, Office of Human Resources Operations and Client Services (OHROCS). As a Human Resources Specialist (Classification), you will provide technical advice and assistance in position classification and position management to all levels of management.",
-    "url": "https://www.usajobs.gov/job/859588900",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -629,20 +558,6 @@
     "remote": null
   },
   {
-    "job_id": "859588500",
-    "title": "Supervisory IT Specialist (DATAMGT)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This position serves as the Branch Chief for the Electronic Data Services Branch (EDSB). The Electronic Data Services Branch (EDSB) is responsible for providing electronic data operation and maintenance services that include updating, maintaining, overseeing and serving as the designated data steward for the patent and trademark data processes and products for customers.",
-    "url": "https://www.usajobs.gov/job/859588500",
-    "posted_at": "2026-03-03T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859531900",
     "title": "AST - Technical Management",
     "organization": "John C. Stennis Space Center",
@@ -651,20 +566,6 @@
     ],
     "description": "You will serve as the Energy & Water Manager in the Facilities Services Division, ensuring compliance with Federal and NASA requirements, setting, tracking, and reporting performance goals, coordinating utilities and O&M activities, developing and evaluating projects, guiding contractors, improving procedures, and overseeing contract impacts to support efficient, sustainable operations at SSC.",
     "url": "https://www.usajobs.gov/job/859531900",
-    "posted_at": "2026-03-03T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859528100",
-    "title": "Budget Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of International Affairs, Department of Energy. As a Budget Analyst, you will provide expert budgetary guidance to the Deputy Director, encompassing continuous financial monitoring, dashboard updates, and ensuring effective fund allocation.",
-    "url": "https://www.usajobs.gov/job/859528100",
     "posted_at": "2026-03-03T00:00:00",
     "salary": "14-14",
     "grade": null,
@@ -770,20 +671,6 @@
     "remote": null
   },
   {
-    "job_id": "859344000",
-    "title": "Financial Management Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Omaha, Nebraska"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Omaha Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
-    "url": "https://www.usajobs.gov/job/859344000",
-    "posted_at": "2026-03-02T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859167600",
     "title": "Information Technology Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -798,20 +685,6 @@
     "remote": null
   },
   {
-    "job_id": "859056000",
-    "title": "General Engineer, AST - Payload Processing Operations",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "You will serve as the Orion Production Operations (OPO) Module Assembly Operations Lead, providing insight, oversight, and in-line support for assembly, integration, and production (AI&P) of an assigned Orion module in support of Artemis. You will manage and assess technical data for Certification of Flight Readiness (CoFR) and endorsement of the as-built spacecraft, independently evaluating module technical and schedule risks and AI&P performance.",
-    "url": "https://www.usajobs.gov/job/859056000",
-    "posted_at": "2026-03-02T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859371300",
     "title": "Marine Interdiction Agent",
     "organization": "Customs and Border Protection",
@@ -874,20 +747,6 @@
     "url": "https://www.usajobs.gov/job/859371300",
     "posted_at": "2026-03-01T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859357900",
-    "title": "Supervisory IT Specialist (DATAMGT)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This position serves as the Branch Chief for the Electronic Data Services Branch (EDSB). The Electronic Data Services Branch (EDSB) is responsible for providing electronic data operation and maintenance services that include updating, maintaining, overseeing and serving as the designated data steward for the patent and trademark data processes and products for customers.",
-    "url": "https://www.usajobs.gov/job/859357900",
-    "posted_at": "2026-02-27T15:46:49.857000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -934,201 +793,6 @@
     "remote": null
   },
   {
-    "job_id": "859252600",
-    "title": "DEPUTY CHIEF HUMAN CAPITAL OFFICER",
-    "organization": "Federal Trade Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in OED, Human Capital Management Office (HCMO). HCMO/OED is responsible for human resources, including honors program recruitment, attorney/non-attorney hiring, benefits, retirement, workers compensation, SES hiring, advice & guidance to managers on conduct, performance & discipline problems, position classification, labor relations, administration of performance management, payroll, electronic time & attendance coordination, training & personnel security.",
-    "url": "https://www.usajobs.gov/job/859252600",
-    "posted_at": "2026-02-27T10:03:10.413000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859252600",
-    "title": "DEPUTY CHIEF HUMAN CAPITAL OFFICER",
-    "organization": "Federal Trade Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in OED, Human Capital Management Office (HCMO). HCMO/OED is responsible for human resources, including honors program recruitment, attorney/non-attorney hiring, benefits, retirement, workers compensation, SES hiring, advice & guidance to managers on conduct, performance & discipline problems, position classification, labor relations, administration of performance management, payroll, electronic time & attendance coordination, training & personnel security.",
-    "url": "https://www.usajobs.gov/job/859252600",
-    "posted_at": "2026-02-27T10:03:10.413000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859241200",
-    "title": "Human Resources Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Golden, Colorado",
-      "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
-      "Cincinnati, Ohio",
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Department of Energy's Office of the Chief Human Capital Officer, Office of Workforce Administration and Management (OWAM). As a Human Resources Specialist, you will serve as a senior advisor on the Talent Team, which works to improve existing hiring practices by scaling candidate assessment and selection methods to assess and hire high quality applicants.",
-    "url": "https://www.usajobs.gov/job/859241200",
-    "posted_at": "2026-02-27T09:09:22.827000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859241200",
-    "title": "Human Resources Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Golden, Colorado",
-      "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
-      "Cincinnati, Ohio",
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Department of Energy's Office of the Chief Human Capital Officer, Office of Workforce Administration and Management (OWAM). As a Human Resources Specialist, you will serve as a senior advisor on the Talent Team, which works to improve existing hiring practices by scaling candidate assessment and selection methods to assess and hire high quality applicants.",
-    "url": "https://www.usajobs.gov/job/859241200",
-    "posted_at": "2026-02-27T09:09:22.827000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859241200",
-    "title": "Human Resources Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Golden, Colorado",
-      "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
-      "Cincinnati, Ohio",
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Department of Energy's Office of the Chief Human Capital Officer, Office of Workforce Administration and Management (OWAM). As a Human Resources Specialist, you will serve as a senior advisor on the Talent Team, which works to improve existing hiring practices by scaling candidate assessment and selection methods to assess and hire high quality applicants.",
-    "url": "https://www.usajobs.gov/job/859241200",
-    "posted_at": "2026-02-27T09:09:22.827000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859221300",
-    "title": "Senior Advisor, Congressional Affairs",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Senior Advisor, Congressional Affairs, you will be responsible for all Office of Energy Dominance Financing (EDF) interactions with Congress, federal, state, and local elected officials, and other government agencies, including correspondence and oversight.",
-    "url": "https://www.usajobs.gov/job/859221300",
-    "posted_at": "2026-02-27T06:40:45.883000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859221300",
-    "title": "Senior Advisor, Congressional Affairs",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Senior Advisor, Congressional Affairs, you will be responsible for all Office of Energy Dominance Financing (EDF) interactions with Congress, federal, state, and local elected officials, and other government agencies, including correspondence and oversight.",
-    "url": "https://www.usajobs.gov/job/859221300",
-    "posted_at": "2026-02-27T06:40:45.883000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859221300",
-    "title": "Senior Advisor, Congressional Affairs",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Senior Advisor, Congressional Affairs, you will be responsible for all Office of Energy Dominance Financing (EDF) interactions with Congress, federal, state, and local elected officials, and other government agencies, including correspondence and oversight.",
-    "url": "https://www.usajobs.gov/job/859221300",
-    "posted_at": "2026-02-27T06:40:45.883000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859179600",
-    "title": "Electronics Technician (Direct Hire)",
-    "organization": "Armstrong Flight Research Center",
-    "locations": [
-      "Edwards AFB, California"
-    ],
-    "description": "As an Avionics and Instrumentation Technician, you will play a crucial role in supporting NASA's aeronautics, research, and science missions. Your primary purpose is to oversee the design, development, and maintenance of avionic systems on Armstrong Flight Research Centers diverse aircraft fleet. Your role involves providing support on avionics and instrumentation systems, ensuring compliance with NASA standards, and working with a team of aircraft engineering technicians.",
-    "url": "https://www.usajobs.gov/job/859179600",
-    "posted_at": "2026-02-27T00:00:00",
-    "salary": "10-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859115100",
     "title": "Management and Program Analyst (Audit Sustainment)",
     "organization": "Defense Logistics Agency",
@@ -1153,34 +817,6 @@
     "url": "https://www.usajobs.gov/job/858998500",
     "posted_at": "2026-02-26T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858920400",
-    "title": "Program Manager",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Los Alamos, New Mexico"
-    ],
-    "description": "This position is part of the Office of Environmental Management - Los Alamos Field Office, Department of Energy. As a Program Manager, you will serve as the Director of the Office of Clean Up Execution (OCX). This position leads all operational oversight.",
-    "url": "https://www.usajobs.gov/job/858920400",
-    "posted_at": "2026-02-26T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858920400",
-    "title": "Program Manager",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Los Alamos, New Mexico"
-    ],
-    "description": "This position is part of the Office of Environmental Management - Los Alamos Field Office, Department of Energy. As a Program Manager, you will serve as the Director of the Office of Clean Up Execution (OCX). This position leads all operational oversight.",
-    "url": "https://www.usajobs.gov/job/858920400",
-    "posted_at": "2026-02-26T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1255,62 +891,6 @@
     "remote": null
   },
   {
-    "job_id": "858841200",
-    "title": "INTERDISCIPLINARY General Engineer/Physical Scientist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Manufacturing and Energy Management Supply Chain, Department of Energy. As a INTERDISCIPLINARY General Engineer/Physical Scientist, you will provide broad expertise on critical minerals and materials supply chains including commercial processes such as extraction, processing, and manufacturing.",
-    "url": "https://www.usajobs.gov/job/858841200",
-    "posted_at": "2026-02-25T08:06:54.743000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858841200",
-    "title": "INTERDISCIPLINARY General Engineer/Physical Scientist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Manufacturing and Energy Management Supply Chain, Department of Energy. As a INTERDISCIPLINARY General Engineer/Physical Scientist, you will provide broad expertise on critical minerals and materials supply chains including commercial processes such as extraction, processing, and manufacturing.",
-    "url": "https://www.usajobs.gov/job/858841200",
-    "posted_at": "2026-02-25T08:06:54.743000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858841200",
-    "title": "INTERDISCIPLINARY General Engineer/Physical Scientist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Manufacturing and Energy Management Supply Chain, Department of Energy. As a INTERDISCIPLINARY General Engineer/Physical Scientist, you will provide broad expertise on critical minerals and materials supply chains including commercial processes such as extraction, processing, and manufacturing.",
-    "url": "https://www.usajobs.gov/job/858841200",
-    "posted_at": "2026-02-25T08:06:54.743000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858721400",
-    "title": "Director Mission AI Campaign",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Policy & Capabilities Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. Comprised of 7 organizations, PC oversees IC Human Capital; Acquisition, Procurement & Facilities; Intelligence Advance Research Projects Activity; Science & Technology Group; Requirements, Cost & Effectiveness; Policy & Strategy; and Data and Partnership Interoperability.",
-    "url": "https://www.usajobs.gov/job/858721400",
-    "posted_at": "2026-02-24T11:51:59.537000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858721400",
     "title": "Director Mission AI Campaign",
     "organization": "Office of the Director of National Intelligence",
@@ -1372,20 +952,6 @@
     "remote": null
   },
   {
-    "job_id": "858676900",
-    "title": "Deputy Chief Information Officer Chief Technology Officer",
-    "organization": "Office of the Secretary",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Deputy Chief Information Officer, Chief Technology Officer position is located in the Office of the Chief Information Officer. In this role, the incumbent serves as the principal innovator to develop and drive our technology strategy, advance information systems/technology and innovation across DOC.",
-    "url": "https://www.usajobs.gov/job/858676900",
-    "posted_at": "2026-02-24T09:28:21.937000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858669500",
     "title": "Principal Deputy Chief Digital and Artificial Intelligence Officer",
     "organization": "Office of the Secretary of Defense",
@@ -1409,45 +975,6 @@
     "description": "The Director for Center Operations at the Johnson Space Center (JSC) exercises responsibility for providing comprehensive institutional services and support for the Center, including laboratories, test chambers, and other aerospace research, development, and operations facilities required to support and accomplish the Center's assigned programs.",
     "url": "https://www.usajobs.gov/job/858576300",
     "posted_at": "2026-02-23T13:47:51.143000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858599000",
-    "title": "Data Scientist (Supply Chain)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Whitehall, Ohio"
-    ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/858599000",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858250600",
-    "title": "Technical Advisor for AI and Data Science",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Eglin AFB, Florida",
-      "Robins AFB, Georgia",
-      "Hanscom AFB, Massachusetts",
-      "White Oak, Maryland",
-      "Holloman AFB, New Mexico",
-      "Nellis AFB, Nevada",
-      "Wright-Patterson AFB, Ohio",
-      "Arnold AFB, Tennessee",
-      "Lackland AFB, Texas",
-      "Hill AFB, Utah"
-    ],
-    "description": "The Air Force Test Center (AFTC) is AFMC's lead center for integration of all developmental test and evaluation (DT&E) activities and organizations. The Technical Advisor, Artificial Intelligence and Data Science will serve as the subject matter expert for Artificial Intelligence and Data Science, and on behalf of the AFTC Executive Director.",
-    "url": "https://www.usajobs.gov/job/858250600",
-    "posted_at": "2026-02-20T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
