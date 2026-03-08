@@ -782,6 +782,20 @@
     "remote": null
   },
   {
+    "job_id": "858964100",
+    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Ford Island, Hawaii"
+    ],
+    "description": "This position is part of the Warfare Centers Personnel Demonstration Project. The NT-5 pay band encompasses positions equivalent to GS-13 and GS-14. You will serve as the Branch Head for the Fleet Cyber Support Branch (Code 45300) within the Fleet Readiness Department, Fleet Technical Support Division of the Naval Undersea Warfare Center Division Keyport.",
+    "url": "https://www.usajobs.gov/job/858964100",
+    "posted_at": "2026-03-03T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "859257500",
     "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
     "organization": "Defense Finance and Accounting Service",
@@ -927,20 +941,6 @@
     "url": "https://www.usajobs.gov/job/859381500",
     "posted_at": "2026-02-27T18:16:39.687000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859363600",
-    "title": "Technology Vulnerability Analyst - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "Our mission requires a strong offense and a steadfast defense. The offense collects, processes and disseminates intelligence information derived from foreign signals for intelligence and counterintelligence purposes. The defense prevents adversaries from gaining access to sensitive or classified national security information. Technology Vulnerability Analysts detect and mitigate close access technical attacks unintentional (TEMPEST) threats emanating from secure facilities and equipment.",
-    "url": "https://www.usajobs.gov/job/859363600",
-    "posted_at": "2026-02-27T16:07:12.983000",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
