@@ -1,5 +1,105 @@
 [
   {
+    "job_id": "860269900",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Misawa AFB, Japan"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS)administrator, drug demand reduction program and others.",
+    "url": "https://www.usajobs.gov/job/860269900",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860265200",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Offutt AFB, Nebraska"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS)administrator, drug demand reduction program, health care program and others.",
+    "url": "https://www.usajobs.gov/job/860265200",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860180300",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Nashville, Tennessee"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, Cybersecurity Liaison, Government Travel Card program, Defense Travel System, Government Purchase Card program, and assists in organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/860180300",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860135500",
+    "title": "ACTIVITY PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Goodfellow AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the activity leadership for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and Government Purchase Card (GPC) program.",
+    "url": "https://www.usajobs.gov/job/860135500",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860072000",
+    "title": "IT SPECIALIST (INFOSEC/SYSANALYSIS)",
+    "organization": "Naval Facilities Engineering Systems Command",
+    "locations": [
+      "Port Hueneme, California",
+      "Washington Navy Yard, District of Columbia",
+      "Norfolk, Virginia"
+    ],
+    "description": "You will serve as an IT SPECIALIST (INFOSEC/SYSANALYSIS) in the Command Information Office, Infrastructure and Engineering Division (CIO5/CIOC1), of NAVFAC OSF. PAY TABLES BY LOCATION Port Hueneme, California-$146,632-$190,627 Washington Navy Yard, District of Columbia- $143,913-$187,093 Norfolk, Virginia- $127,646-$165,945",
+    "url": "https://www.usajobs.gov/job/860072000",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860052400",
+    "title": "NIH Chief Information Officer",
+    "organization": "National Institutes of Health",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "The National Institutes of Health (NIH), part of the U.S. Department of Health and Human Services, is the largest biomedical research funding organization in the world. The NIH is composed of 27 Institutes and Centers The Office of the Director (OD) in the National Institutes of Health is seeking exceptional candidates for the position of Chief Information Officer. This is a career Federal position in the Senior Executive Service. See \"Duties\" section for a list of major responsibilities.",
+    "url": "https://www.usajobs.gov/job/860052400",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859843900",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Military Sealift Command",
+    "locations": [
+      "Naval Base, Norfolk, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/859843900",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "859969400",
     "title": "Chief Information Security Officer (CISO), NB-2210-VII",
     "organization": "Office of the Comptroller of the Currency",
@@ -430,20 +530,6 @@
     "remote": null
   },
   {
-    "job_id": "859594700",
-    "title": "LEAD IT PROGRAM MANAGER (ENTERPRISE ARCHITECTURE)",
-    "organization": "Immediate Office of the Chief of Naval Operations",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies through the Certain Personnel/Modified Direct Hire Authority. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/859594700",
-    "posted_at": "2026-03-05T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859869100",
     "title": "T5 IT SPECIALIST (SYSTEMS ADMINISTRATION)",
     "organization": "Army National Guard Units",
@@ -582,20 +668,6 @@
     "url": "https://www.usajobs.gov/job/859479400",
     "posted_at": "2026-03-04T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859034700",
-    "title": "SUPERVISORY GENERAL ENGINEER",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Lakehurst, New Jersey"
-    ],
-    "description": "You will serve as a Branch Head in the Aviation Data Management and Control System (ADMACS) Software (SW) & Infrastructure Branch (BL13200) in the Naval Air Warfare Center Aircraft Division of NAVAIRWARCENADLKE.",
-    "url": "https://www.usajobs.gov/job/859034700",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -782,20 +854,6 @@
     "remote": null
   },
   {
-    "job_id": "858964100",
-    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Ford Island, Hawaii"
-    ],
-    "description": "This position is part of the Warfare Centers Personnel Demonstration Project. The NT-5 pay band encompasses positions equivalent to GS-13 and GS-14. You will serve as the Branch Head for the Fleet Cyber Support Branch (Code 45300) within the Fleet Readiness Department, Fleet Technical Support Division of the Naval Undersea Warfare Center Division Keyport.",
-    "url": "https://www.usajobs.gov/job/858964100",
-    "posted_at": "2026-03-03T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859257500",
     "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
     "organization": "Defense Finance and Accounting Service",
@@ -904,29 +962,6 @@
     "remote": null
   },
   {
-    "job_id": "858896000",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Montgomery, Alabama",
-      "Denver, Colorado",
-      "Fort Meade, Maryland",
-      "Whitehall, Ohio",
-      "Tinker AFB, Oklahoma",
-      "Chambersburg, Pennsylvania",
-      "Mechanicsburg, Pennsylvania",
-      "San Antonio, Texas",
-      "Hill AFB, Utah",
-      "Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA HC/Hosting and Compute Center (HC35).",
-    "url": "https://www.usajobs.gov/job/858896000",
-    "posted_at": "2026-03-02T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859381500",
     "title": "IT Specialist (APPSW)",
     "organization": "Office of Personnel Management",
@@ -1011,20 +1046,6 @@
     "url": "https://www.usajobs.gov/job/859190700",
     "posted_at": "2026-02-26T16:23:20.213000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859162700",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senio Work Level within the CES Occupational Structure. It is located in the DISA.",
-    "url": "https://www.usajobs.gov/job/859162700",
-    "posted_at": "2026-02-26T15:02:01.543000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1273,20 +1294,6 @@
     "remote": null
   },
   {
-    "job_id": "858524500",
-    "title": "SUPERVISORY TECHNICIAN",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "You will serve as a SUPERVISORY TECHNICIAN in the SMALL COMBATANTS TEST & EVALUATION BRANCH, COMBAT SYSTEMS TEST & EVALUATION DEPARTMENT of NAVAL SURFACE WARFARE CENTER, located in Port Hueneme, CA.",
-    "url": "https://www.usajobs.gov/job/858524500",
-    "posted_at": "2026-02-24T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858498200",
     "title": "SUPERVISORY TECHNICIAN",
     "organization": "Naval Sea Systems Command",
@@ -1325,20 +1332,6 @@
     "url": "https://www.usajobs.gov/job/858569900",
     "posted_at": "2026-02-23T13:29:42.787000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858555200",
-    "title": "IT SPECIALIST (SYSADMIN)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Reno, Nevada"
-    ],
-    "description": "This position is for a IT SPEC SYSADMIN, PD# D1650P01, part of the Nevada Air National Guard. Provide information technology system support to the assigned unit. The incumbent provides systems administration support on workstations and servers using multiple operating systems. The incumbent is responsible for installing and testing the system security configuration and monitoring, operating, troubleshooting and maintaining workstation and server hardware and software.",
-    "url": "https://www.usajobs.gov/job/858555200",
-    "posted_at": "2026-02-23T12:22:09.883000",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
