@@ -1,5 +1,82 @@
 [
   {
+    "job_id": "860916300",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Lakenheath, United Kingdom"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and more.",
+    "url": "https://www.usajobs.gov/job/860916300",
+    "posted_at": "2026-03-13T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860909400",
+    "title": "Information Technology Specialist (SYSADMIN)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Naval Base, Norfolk, Virginia"
+    ],
+    "description": "You will serve as an IT SPECIALIST (SYSADMIN) in the METEOROLOGY AND OCEANOGRAPHY (METOC) SYSTEMS AND INFRASTRUCTURE DEPARTMENT of NAVAVNFCSTCEN.",
+    "url": "https://www.usajobs.gov/job/860909400",
+    "posted_at": "2026-03-13T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860857900",
+    "title": "IT SPECIALIST (INFOSEC/CUSTSPT)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Naval Base, Norfolk, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer. GS: $75,788 to $98,530 Per Year",
+    "url": "https://www.usajobs.gov/job/860857900",
+    "posted_at": "2026-03-13T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860889000",
+    "title": "Information Technology Specialist (InfoSec)",
+    "organization": "Federal Law Enforcement Training Centers",
+    "locations": [
+      "Glynco, Georgia"
+    ],
+    "description": "\"The Federal Law Enforcement Training Centers (FLETC), through strategic partnerships, prepares the federal law enforcement community to safeguard America's people, property, and institutions.\" We are a unique inter-agency organization preparing the next generation of law enforcement officers to meet our Nation's most pressing security challenges.\" Click here to learn more. An incentive may be authorized. See additional info section.",
+    "url": "https://www.usajobs.gov/job/860889000",
+    "posted_at": "2026-03-12T09:31:16.663000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860873100",
+    "title": "IT Cybersecurity Specialist (INFOSEC/ENTARCH)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
+    "url": "https://www.usajobs.gov/job/860873100",
+    "posted_at": "2026-03-12T08:37:34.383000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "860853600",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
@@ -22,26 +99,6 @@
     ],
     "description": "THIS IS AN ARMY NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a TITLE 32 SUPERVISORY IT CYBERSECURITY SPECIALIST(INFOSEC) (MI G6), Position Description Number NGD2487000 and is part of the MI JFHQ Army, Michigan Army National Guard.",
     "url": "https://www.usajobs.gov/job/860791400",
-    "posted_at": "2026-03-12T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860744800",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Montgomery, Alabama",
-      "Fort Meade, Maryland",
-      "Columbus, Ohio",
-      "Oklahoma City, Oklahoma",
-      "Mechanicsburg, Pennsylvania",
-      "San Antonio, Texas",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the professional Work Category at the senior Work Level within the CES Occupational Structure. It is located in the DISA DISA - HC/Operations Support Office.",
-    "url": "https://www.usajobs.gov/job/860744800",
     "posted_at": "2026-03-12T00:00:00",
     "salary": "13-13",
     "grade": null,
@@ -773,22 +830,6 @@
     "remote": null
   },
   {
-    "job_id": "860038600",
-    "title": "IT Specialist (APPSW/ENTARCH)",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "San Francisco, California",
-      "Woodlawn, Maryland",
-      "Seattle, Washington"
-    ],
-    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Enterprise Data and Analytics. As an IT Specialist (APPSW/ENTARCH), GS-2210-14, you will serve as a senior Software Engineer, providing expert-level technical leadership across OEDA systems and product teams to make healthcare data easier to access and share.",
-    "url": "https://www.usajobs.gov/job/860038600",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860032900",
     "title": "Director Cybersecurity Specialist",
     "organization": "Food and Drug Administration",
@@ -898,20 +939,6 @@
     "remote": null
   },
   {
-    "job_id": "860041600",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. This primary purpose of this position is to perform as a senior digital forensic examiner, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence for DEA, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/860041600",
-    "posted_at": "2026-03-05T13:52:43.540000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860035900",
     "title": "IT Cybersecurity Specialist (Digital Evidence)",
     "organization": "Drug Enforcement Administration",
@@ -981,57 +1008,6 @@
     "url": "https://www.usajobs.gov/job/859857900",
     "posted_at": "2026-03-05T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859783300",
-    "title": "SUPV IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA - JOINT SERVICES PROVIDER.",
-    "url": "https://www.usajobs.gov/job/859783300",
-    "posted_at": "2026-03-05T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859624300",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Office of Inspector General",
-    "locations": [
-      "San Francisco, California",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas"
-    ],
-    "description": "This position is located in the Department of Health and Human Services (HHS), Office of Inspector General (OIG), Office of Management and Policy (OMP), The salary for this position will be adjusted based on the duty location. View the Office of Personnel Management (OPM) pay charts for more information: Salaries & Wages (opm.gov). Resumes must be no more than 2-pages in length.",
-    "url": "https://www.usajobs.gov/job/859624300",
-    "posted_at": "2026-03-05T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859617700",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Columbus, Ohio",
-      "Hill AFB, Utah"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA HYBRID CLOUD SOLUTIONS.",
-    "url": "https://www.usajobs.gov/job/859617700",
-    "posted_at": "2026-03-05T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1160,6 +1136,20 @@
     "url": "https://www.usajobs.gov/job/859503300",
     "posted_at": "2026-03-03T00:00:00",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "858964100",
+    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Ford Island, Hawaii"
+    ],
+    "description": "This position is part of the Warfare Centers Personnel Demonstration Project. The NT-5 pay band encompasses positions equivalent to GS-13 and GS-14. You will serve as the Branch Head for the Fleet Cyber Support Branch (Code 45300) within the Fleet Readiness Department, Fleet Technical Support Division of the Naval Undersea Warfare Center Division Keyport.",
+    "url": "https://www.usajobs.gov/job/858964100",
+    "posted_at": "2026-03-03T00:00:00",
+    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -1419,7 +1409,7 @@
     "locations": [
       "District of Columbia, District of Columbia"
     ],
-    "description": "This position is located in Technology Directorate / Security Services Division / Cyber Operations Branch in Washington, DC. The Technology Directorate is responsible for providing information technology services for all FSA systems, promoting the effective and secure use of technology to achieve FSA's strategic objectives through sound planning, investments, integrated technology architectures and standards, effective systems development, production support, and cybersecurity services. e.",
+    "description": "This position is located in Federal Student Aid/ Product Management Division in Washington, DC. The",
     "url": "https://www.usajobs.gov/job/860139000",
     "posted_at": "2026-02-23T00:00:00",
     "salary": "14-14",
