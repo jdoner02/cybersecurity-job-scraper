@@ -84,6 +84,20 @@
     "remote": null
   },
   {
+    "job_id": "860955000",
+    "title": "INTELLIGENCE SPECIALIST",
+    "organization": "Air Force Materiel Command",
+    "locations": [
+      "Hanscom AFB, Massachusetts"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position, INTELLIGENCE SPECIALIST, GG-0132-13 is to provide cyber intelligence support to programs across the acquisition life cycle (Acquisition Intelligence).",
+    "url": "https://www.usajobs.gov/job/860955000",
+    "posted_at": "2026-03-13T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "860916300",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "U.S. Air Forces, Europe",
@@ -495,6 +509,20 @@
     "url": "https://www.usajobs.gov/job/860577200",
     "posted_at": "2026-03-10T13:40:30.073000",
     "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860576700",
+    "title": "ENGINEER/SCIENTIST",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "NIWC LANT Charleston, South Carolina"
+    ],
+    "description": "You will serve as an ENGINEER/SCIENTIST in the Communications and Networks division, Engineering department of NIWC ATLANTIC. This is a RE-ADVERTISEMENT of Announcement Number:ST-12885754-26-AJW. Applicants that have previously applied NEED to re-apply to this announcement.",
+    "url": "https://www.usajobs.gov/job/860576700",
+    "posted_at": "2026-03-10T13:39:49.527000",
+    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -985,6 +1013,21 @@
     "remote": null
   },
   {
+    "job_id": "860034200",
+    "title": "IT PROGRAM MANAGER (INFOSEC/SYSANALYSIS)",
+    "organization": "Defense Human Resources Activity",
+    "locations": [
+      "Seaside, California",
+      "Alexandria, Virginia"
+    ],
+    "description": "This position is part of the Defense Human Resources Activity.",
+    "url": "https://www.usajobs.gov/job/860034200",
+    "posted_at": "2026-03-05T13:57:49.797000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "860035900",
     "title": "IT Cybersecurity Specialist (Digital Evidence)",
     "organization": "Drug Enforcement Administration",
@@ -1116,20 +1159,6 @@
     "remote": null
   },
   {
-    "job_id": "859662100",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA EX/EX32.",
-    "url": "https://www.usajobs.gov/job/859662100",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859617600",
     "title": "DIRECTOR OF CONGRESSIONAL AFFAIRS",
     "organization": "Defense Information Systems Agency",
@@ -1239,34 +1268,6 @@
     "url": "https://www.usajobs.gov/job/859079700",
     "posted_at": "2026-03-02T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859263200",
-    "title": "SUPERVISORY IT SPECIALIST",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Columbia, South Carolina"
-    ],
-    "description": "This is a National Guard Title 32 Excepted position for a SUPERVISORY IT SPECIALIST, Position Description Number PDD2467P01 , and is part of the SC DOIM, South Carolina Army National Guard.",
-    "url": "https://www.usajobs.gov/job/859263200",
-    "posted_at": "2026-02-27T10:28:11.157000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859230300",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Columbia, South Carolina"
-    ],
-    "description": "This is a National Guard Title 32 Excepted position for a IT CYBERSECURITY SPECIALIST (INFOSEC), Position Description Number PDD2486P01 , and is part of the SC DOIM, South Carolina Army National Guard.",
-    "url": "https://www.usajobs.gov/job/859230300",
-    "posted_at": "2026-02-27T08:15:34.257000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
