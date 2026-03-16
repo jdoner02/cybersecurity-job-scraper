@@ -1,5 +1,90 @@
 [
   {
+    "job_id": "861183900",
+    "title": "Information Technology Specialist (Information Security)",
+    "organization": "Defense Health Agency",
+    "locations": [
+      "Silver Spring, Maryland"
+    ],
+    "description": "About the Position: This position is located at the Joint Pathology Center in Silver Spring, Maryland. The role is primarily sedentary office work involving extended periods of computer use. The work environment consists of a collaborative office setting. Standard duty hours are 8:00 AM to 4:30 PM, though it may require participation in scheduled shift coverage or on-call support to maintain operational cybersecurity oversight.",
+    "url": "https://www.usajobs.gov/job/861183900",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861091300",
+    "title": "IT Cybersecurity Specialist (Defense Critical Energy Infrastructure (DCEI))",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Cybersecurity, Energy Security and Emergency Response, Department of Energy. As an IT Cybersecurity Specialist (Defense Critical Energy Infrastructure (DCEI)), you will be an expert in IT Cybersecurity Program Management within the Department of Energy (DOE). Their colleagues and superiors see them as a top authority on cybersecurity. They offer independent, expert advice, management services, and recommendations on cybersecurity matters to DOE leaders.",
+    "url": "https://www.usajobs.gov/job/861091300",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860819500",
+    "title": "IT SPECIALIST (INFOSEC)",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "Arlington, Virginia",
+      "Norfolk, Virginia"
+    ],
+    "description": "You will serve as an IT SPECIALIST (INFOSEC) in the DIRECT REPORTING PROGRAM (DRPM), MILE. Initial consideration for this announcement is limited to the number of applications listed at the top of this announcement. All applications received on the day the application limit is reached will be accepted and processed.",
+    "url": "https://www.usajobs.gov/job/860819500",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860695000",
+    "title": "IT SPEC (NETWORK) - TITLE 32",
+    "organization": "Air National Guard Units",
+    "locations": [
+      "Brunswick, Georgia"
+    ],
+    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This position is for an IT Specialist (Network Services), Position Description Number D1822000 located in the 224th JCSS, Brunswick, GA. This is a full-time, Excepted Permanent, dual status position which requires Georgia Air National Guard Membership. Area of Consideration: Current members of the Air National Guard, Air Force Reserve or Air Force Active Duty component.",
+    "url": "https://www.usajobs.gov/job/860695000",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860662800",
+    "title": "INFORMATION SPECIALIST (SYSADMIN/INFOSEC)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Pearl Harbor, Hawaii"
+    ],
+    "description": "You will serve as a INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN/INFOSEC) in the INFORMATION TECHNOLOGY DEPARTMENT of JOINT TYPHOON WARCEN PEARL HARBOR HI.",
+    "url": "https://www.usajobs.gov/job/860662800",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860614100",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is in the Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It is being recruited under 10 U.S.C. 1599f into the Cyber Excepted Service (CES) personnel system. Positions in the Cyber Excepted Service are positions necessary to carry out and support the mission of the United States Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA-RS921.",
+    "url": "https://www.usajobs.gov/job/860614100",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861193600",
     "title": "Director of IT Service Delivery",
     "organization": "Office of Inspector General",
@@ -84,20 +169,6 @@
     "remote": null
   },
   {
-    "job_id": "860955000",
-    "title": "INTELLIGENCE SPECIALIST",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Hanscom AFB, Massachusetts"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position, INTELLIGENCE SPECIALIST, GG-0132-13 is to provide cyber intelligence support to programs across the acquisition life cycle (Acquisition Intelligence).",
-    "url": "https://www.usajobs.gov/job/860955000",
-    "posted_at": "2026-03-13T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860916300",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "U.S. Air Forces, Europe",
@@ -136,20 +207,6 @@
     "url": "https://www.usajobs.gov/job/860857900",
     "posted_at": "2026-03-13T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861010700",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Santa Fe, New Mexico"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. NEW MEXICO ARMY NATIONAL GUARD NATIONWIDE. All members of the New Mexico Army National Guard or current Active Duty/Reserve military members eligible and wiling to become members of the New Mexico Army National Guard This National Guard position is for a SUPERVISORY IT SPECIALIST (PLCYPLN), Position Description Number D1578P01.",
-    "url": "https://www.usajobs.gov/job/861010700",
-    "posted_at": "2026-03-12T16:14:36.737000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -509,20 +566,6 @@
     "url": "https://www.usajobs.gov/job/860577200",
     "posted_at": "2026-03-10T13:40:30.073000",
     "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860576700",
-    "title": "ENGINEER/SCIENTIST",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "NIWC LANT Charleston, South Carolina"
-    ],
-    "description": "You will serve as an ENGINEER/SCIENTIST in the Communications and Networks division, Engineering department of NIWC ATLANTIC. This is a RE-ADVERTISEMENT of Announcement Number:ST-12885754-26-AJW. Applicants that have previously applied NEED to re-apply to this announcement.",
-    "url": "https://www.usajobs.gov/job/860576700",
-    "posted_at": "2026-03-10T13:39:49.527000",
-    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -1013,21 +1056,6 @@
     "remote": null
   },
   {
-    "job_id": "860034200",
-    "title": "IT PROGRAM MANAGER (INFOSEC/SYSANALYSIS)",
-    "organization": "Defense Human Resources Activity",
-    "locations": [
-      "Seaside, California",
-      "Alexandria, Virginia"
-    ],
-    "description": "This position is part of the Defense Human Resources Activity.",
-    "url": "https://www.usajobs.gov/job/860034200",
-    "posted_at": "2026-03-05T13:57:49.797000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860035900",
     "title": "IT Cybersecurity Specialist (Digital Evidence)",
     "organization": "Drug Enforcement Administration",
@@ -1038,20 +1066,6 @@
     "url": "https://www.usajobs.gov/job/860035900",
     "posted_at": "2026-03-05T13:34:29.183000",
     "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860023700",
-    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Santa Fe, New Mexico"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION. NEW MEXICO ARMY NATIONAL GUARD This National Guard position is for a SUPERVISORY IT SPECIALIST (PLCYPLN), Position Description Number T59119P1 and is part of the NM DCSIM, National Guard.",
-    "url": "https://www.usajobs.gov/job/860023700",
-    "posted_at": "2026-03-05T13:01:22.613000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1428,20 +1442,6 @@
     "url": "https://www.usajobs.gov/job/858637500",
     "posted_at": "2026-02-23T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858306200",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Fargo, North Dakota"
-    ],
-    "description": "THIS IS A ND NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION. Military membership is NOT required. This ND National Guard position is for a IT CYBERSECURITY SPECIALIST (SYSADMIN), Position Description Number T5896000 and is part of the ND 119 Operations Support Squadron, National Guard.",
-    "url": "https://www.usajobs.gov/job/858306200",
-    "posted_at": "2026-02-19T17:44:42.637000",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
