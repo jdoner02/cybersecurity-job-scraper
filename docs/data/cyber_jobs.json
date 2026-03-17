@@ -1,5 +1,336 @@
 [
   {
+    "job_id": "861361300",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Honolulu, Hawaii"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/861361300",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861322200",
+    "title": "IT Cybersecurity Specialist (Digital Forensic Examiner)",
+    "organization": "Environmental Protection Agency",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The EPA Office of Inspector General is an independent office within the EPA that helps the agency protect the environment in a more efficient & cost effective manner. We perform audits, evaluations, & investigations of the EPA to promote economy, efficiency, and to prevent and detect fraud, waste and abuse. We strive to provide solutions to problems that ultimately result in making America a cleaner and healthier place.",
+    "url": "https://www.usajobs.gov/job/861322200",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861305200",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Charleston AFB, South Carolina"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and drug demand reduction program.",
+    "url": "https://www.usajobs.gov/job/861305200",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861304700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/861304700",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861295100",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Montgomery, Alabama",
+      "Columbus, Ohio",
+      "Whitehall, Ohio",
+      "Tinker AFB, Oklahoma",
+      "Chambersburg, Pennsylvania",
+      "Mechanicsburg, Pennsylvania",
+      "San Antonio, Texas",
+      "Ogden, Utah"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA J9(HAC)/HYBRID CLOUD SOLUTIONS.",
+    "url": "https://www.usajobs.gov/job/861295100",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861271600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Ramstein, Germany"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program, and more.",
+    "url": "https://www.usajobs.gov/job/861271600",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861227500",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Maxwell AFB, Alabama",
+      "Tinker AFB, Oklahoma",
+      "Mechanicsburg, Pennsylvania",
+      "Lackland AFB, Texas",
+      "Hill AFB, Utah"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA HC/Server LOB.",
+    "url": "https://www.usajobs.gov/job/861227500",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860961400",
+    "title": "Information Technology Specialist (Operating Systems)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland",
+      "San Antonio, Texas"
+    ],
+    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at Ft. Meade or San Antonio, TX. . Salary Range for San Antonio, TX: $115,475 - $157,818 Salary Range for Ft. Meade, MD: $131,841 - $180,186",
+    "url": "https://www.usajobs.gov/job/860961400",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860958700",
+    "title": "Information Technology Specialist (Operating Systems)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland",
+      "San Antonio, Texas"
+    ],
+    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at Ft. Meade or San Antonio, TX. . Salary Range for San Antonio, TX: $115,475 - $157,818 Salary Range for Ft. Meade, MD: $131,841 - $180,186",
+    "url": "https://www.usajobs.gov/job/860958700",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860866300",
+    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "United States Fleet Forces Command",
+    "locations": [
+      "Suffolk, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/860866300",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860777800",
+    "title": "Supervisory Information Technology Cybersecurity Specialist (Operating Systems)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at Ft. Meade, Maryland.",
+    "url": "https://www.usajobs.gov/job/860777800",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860731300",
+    "title": "SENIOR WINDOWS SYSTEM ADMINISTRATOR",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Dahlgren, Virginia"
+    ],
+    "description": "This position is part of the Warfare Centers Personnel Demonstration Project. The NT-5 pay band encompasses positions equivalent to GS-13 and GS-14. You will serve as the Senior Windows System Administrator in the Corporate Operations Department, ACIO/Information Technology Division, IT Operations Branch (Code 1041) of the Naval Surface Warfare Center Dahlgren Division.",
+    "url": "https://www.usajobs.gov/job/860731300",
+    "posted_at": "2026-03-17T00:00:00",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861332400",
+    "title": "Biomedical Equipment Support Specialist(Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bay Pines, Florida"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specializing in information systems within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System. The BESS maintains medical servers and networks, medical equipment, diagnostic software, virtual platforms, and clinical applications software. * Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.*",
+    "url": "https://www.usajobs.gov/job/861332400",
+    "posted_at": "2026-03-16T15:27:09.490000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861330900",
+    "title": "Biomedical Equipment Support Specialist(Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Bay Pines, Florida"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specializing in information systems within the Healthcare Technology Management (HTM) Service at the Bay Pines VA Healthcare System. The BESS maintains medical servers and networks, medical equipment, diagnostic software, virtual platforms, and clinical applications software. * Recruitment/Relocation Incentive may be authorized for a highly qualified candidate subject to approval, available funding, and in accordance with policy.*",
+    "url": "https://www.usajobs.gov/job/861330900",
+    "posted_at": "2026-03-16T15:24:06.573000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861319800",
+    "title": "Computer Network Defense Analyst - Entry Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Our adversaries and cyber criminals continue to push limits in cyberspace, creating more national security threats than we have ever seen. In order to ensure the United States maintains its strategic edge in cyberspace, NSA is looking for Computer Network Defense Analysts who are highly skilled, want to stay on the leading edge of technology and are impassioned about ensuring the security of our nation.",
+    "url": "https://www.usajobs.gov/job/861319800",
+    "posted_at": "2026-03-16T14:51:03.553000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861316100",
+    "title": "System Vulnerability Analyst - Entry Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "System Vulnerability Analysts (Network Cyber Mitigations Engineers) analyze vulnerabilities & develop mitigations to strengthen defenses. Produce formal and informal reports, briefings, and guidance to defend against attacks against network infrastructure devices or systems. NSA analysts' competencies run the gamut of data transport possibilities. They work with traditional wired networks, wireless transport, including Wi-Fi and cellular, collaborative platforms such as video teleconferencing.",
+    "url": "https://www.usajobs.gov/job/861316100",
+    "posted_at": "2026-03-16T14:37:57.527000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861289300",
+    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is: To serve as Technical Advisor to the Commander, 833d Cyberspace Operations Squadron (833 COS). Oversees and manages the execution of cyberspace policies, missions, and functions.",
+    "url": "https://www.usajobs.gov/job/861289300",
+    "posted_at": "2026-03-16T13:00:33.193000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861284700",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 New Cumberland, PA: $143,913- $187,093",
+    "url": "https://www.usajobs.gov/job/861284700",
+    "posted_at": "2026-03-16T12:43:51.093000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861267800",
+    "title": "IT Cybersecurity Specialist ( System Administration)-Direct Hire",
+    "organization": "Office of the Inspector General",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "New York, New York",
+      "El Paso, Texas"
+    ],
+    "description": "The Office of the Inspector General is one of the best places to work in the Department of Justice and is one of the premier inspector general offices in federal government. The OIG's IT Division offers advanced and entry-level opportunities to Software Application Developers, Cloud and Network Engineers, Security Specialists, Project Managers and Customer Support Technicians. This posting is to fill a position on our Cloud and Network engineering team.",
+    "url": "https://www.usajobs.gov/job/861267800",
+    "posted_at": "2026-03-16T11:35:58.743000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861248300",
+    "title": "SUPV IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Contract Management Agency",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "See below for important information regarding this job. Additional vacancies may be filled from this announcement. DCMA Location Negotiable upon Selection. This is not a remote work position. See DCMA Location List, not all locations may be available.",
+    "url": "https://www.usajobs.gov/job/861248300",
+    "posted_at": "2026-03-16T10:14:58.180000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861241700",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
+    "locations": [
+      "NIWC LANT Charleston, South Carolina"
+    ],
+    "description": "You will serve as an IT Specialist (INFOSEC) in the Engineering Department of NIWC ATLANTIC as the Cyber Security Service Provider (CSSP) Service Area Chief.",
+    "url": "https://www.usajobs.gov/job/861241700",
+    "posted_at": "2026-03-16T09:41:16.710000",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861183900",
     "title": "Information Technology Specialist (Information Security)",
     "organization": "Defense Health Agency",
@@ -51,20 +382,6 @@
     ],
     "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This position is for an IT Specialist (Network Services), Position Description Number D1822000 located in the 224th JCSS, Brunswick, GA. This is a full-time, Excepted Permanent, dual status position which requires Georgia Air National Guard Membership. Area of Consideration: Current members of the Air National Guard, Air Force Reserve or Air Force Active Duty component.",
     "url": "https://www.usajobs.gov/job/860695000",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860662800",
-    "title": "INFORMATION SPECIALIST (SYSADMIN/INFOSEC)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Pearl Harbor, Hawaii"
-    ],
-    "description": "You will serve as a INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN/INFOSEC) in the INFORMATION TECHNOLOGY DEPARTMENT of JOINT TYPHOON WARCEN PEARL HARBOR HI.",
-    "url": "https://www.usajobs.gov/job/860662800",
     "posted_at": "2026-03-16T00:00:00",
     "salary": "11-11",
     "grade": null,
@@ -430,20 +747,6 @@
     "remote": null
   },
   {
-    "job_id": "860586100",
-    "title": "Senior Strategic Advisor",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This position is located in the Department of War, Office of the Secretary of War, DoW Chief Information Office (CIO), Workforce Innovation Directorate (WID). The WID oversees the creation and maintenance of cybersecurity policies and strategies consistent with DoW CIO's objectives and national policy and is also responsible for the design and implementation of the DoW Cyber Excepted Service personnel system, cyber human resources policies, and cyber human capital strategy.",
-    "url": "https://www.usajobs.gov/job/860586100",
-    "posted_at": "2026-03-11T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860567600",
     "title": "Director, Resource Management Staff",
     "organization": "Offices, Boards and Divisions",
@@ -556,34 +859,6 @@
     "remote": null
   },
   {
-    "job_id": "860577200",
-    "title": "IT SPECIALIST (NETWORK)",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "NIWC LANT Charleston, South Carolina"
-    ],
-    "description": "You will serve as an IT SPECIALIST (NETWORK) in the Communications and Networks Division, Engineering Department of NIWC ATLANTIC. This is a RE-ADVERTISEMENT of Announcement Number:ST-12885752-26-AJW. Applicants that have previously applied NEED to re-apply to this announcement.",
-    "url": "https://www.usajobs.gov/job/860577200",
-    "posted_at": "2026-03-10T13:40:30.073000",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860515200",
-    "title": "Engineer/Scientist",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "NIWC LANT Charleston, South Carolina"
-    ],
-    "description": "You will serve as a Engineer/Scientist in the COMP APPS, SVC, INTEG & INFRASTRUCT (50000) of NIWC ATLANTIC. This is a RE-ADVERTISEMENT of Announcement Number:ST-12875983-26-ABD. Applicants that have previously applied NEED to re-apply to this announcement.",
-    "url": "https://www.usajobs.gov/job/860515200",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860439900",
     "title": "Deputy Chief Information Security Officer",
     "organization": "National Institute of Standards and Technology",
@@ -627,20 +902,6 @@
     "remote": null
   },
   {
-    "job_id": "860363700",
-    "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN/ENTARCH)",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Langley AFB, Virginia"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is responsible for assessing the IT capabilities supporting the operations of Air Force Intelligence, Surveillance and Reconnaissance (ISR) through the mission networks and areas supported by the AF Distributed Common Ground System and making recommendations to the 480th ISR Wing (ISRW) Commander, senior leadership, Major Command (MAJCOM) and 16 AF Headquarters Staff.",
-    "url": "https://www.usajobs.gov/job/860363700",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860352700",
     "title": "SUPERVISORY INFORMATION TECHNOLOGY PROGRAM MANAGER (SYSANALYSIS)",
     "organization": "Military Sealift Command",
@@ -651,41 +912,6 @@
     "url": "https://www.usajobs.gov/job/860352700",
     "posted_at": "2026-03-10T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860322700",
-    "title": "Supervisory IT Program Manager",
-    "organization": "Office of the Inspector General",
-    "locations": [
-      "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
-      "Kansas City, Missouri"
-    ],
-    "description": "This position is located in the U.S. Department of Agriculture (USDA), Office of Inspector General (OIG), Information Technology Division. This position is responsible to the Deputy Assistant Inspector General/Office of Management (D/AIG/OM) for planning, organizing, coordinating, implementing, and evaluating the Office of Inspector General information technology operations and functions to meet the needs of all OIG program missions. Selectee may remain in their current duty location.",
-    "url": "https://www.usajobs.gov/job/860322700",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -718,20 +944,6 @@
     "remote": null
   },
   {
-    "job_id": "860207200",
-    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST",
-    "organization": "Secretary of the Navy Offices (SECNAV)",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "You will serve as a Supervisory IT Cybersecurity Specialist in the Cyber Directorate of NCIS. All Naval Criminal Investigative Service (NCIS) positions are in the excepted service. This position is in the excepted service and does not confer competitive status. This job opportunity announcement has a first cut-off 50 applicants. Once the first 50 applicants received the announcement will automatically close.",
-    "url": "https://www.usajobs.gov/job/860207200",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860134700",
     "title": "Cyberspace Operations Planner",
     "organization": "Joint Activities",
@@ -742,20 +954,6 @@
     "url": "https://www.usajobs.gov/job/860134700",
     "posted_at": "2026-03-10T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859777500",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "China Lake, California"
-    ],
-    "description": "You will serve as an IT SPECIALIST (INFOSEC) in the Corporate Business & Analysis Group, Digital, Information Technology, Analysis & Cyber Department of NAVAIRWARCENWPNDIV CHINA LAKE.",
-    "url": "https://www.usajobs.gov/job/859777500",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -896,34 +1094,6 @@
     "remote": null
   },
   {
-    "job_id": "860123000",
-    "title": "Supervisory Information Technology Specialist (INFOSEC)",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a Supervisory Information Technology Specialist (INFOSEC), you will be for providing innovative cyber-centric intelligence support to the Department of Energy and the Nation's critical energy infrastructure. This mission includes providing Information Technology (IT) infrastructure, capabilities and technical support to the DOE Intelligence and Counterintelligence workforce.",
-    "url": "https://www.usajobs.gov/job/860123000",
-    "posted_at": "2026-03-06T07:14:53.947000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860513200",
-    "title": "IT SPECIALIST (APPSW)",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "NIWC LANT Charleston, South Carolina"
-    ],
-    "description": "You will serve as a IT SPECIALIST (APPSW) in the COMP APPS, SVC, INTEG & INFRASTRUCT (50000 of NIWC ATLANTIC. This is a RE-ADVERTISEMENT of Announcement Number:ST-12875984-26-ABD. Applicants that have previously applied NEED to re-apply to this announcement.",
-    "url": "https://www.usajobs.gov/job/860513200",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860289600",
     "title": "IT SPECIALIST (INFOSEC)",
     "organization": "Air National Guard Units",
@@ -998,20 +1168,6 @@
     "remote": null
   },
   {
-    "job_id": "859884400",
-    "title": "IT SPECIALIST (SYSADMIN)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Naval Air Station San Diego, California"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/859884400",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859877500",
     "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -1052,20 +1208,6 @@
     "url": "https://www.usajobs.gov/job/860052500",
     "posted_at": "2026-03-05T14:24:52.197000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860035900",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. The primary purpose of this position is to perform as an intermediate level trainee, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and junior examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/860035900",
-    "posted_at": "2026-03-05T13:34:29.183000",
-    "salary": "9-9",
     "grade": null,
     "remote": null
   },
@@ -1173,20 +1315,6 @@
     "remote": null
   },
   {
-    "job_id": "859617600",
-    "title": "DIRECTOR OF CONGRESSIONAL AFFAIRS",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is in the Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It is being recruited under 10 U.S.C. 1599f into the Cyber Excepted Service (CES) personnel system. Positions in the Cyber Excepted Service are positions necessary to carry out and support the mission of the United States Cyber Command. It is in the Expert Work Category Level at the Senior Work Level within the CES Occupational Structure. It is located in the DISA-JFHQ DCDC.",
-    "url": "https://www.usajobs.gov/job/859617600",
-    "posted_at": "2026-03-04T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "859566100",
     "title": "Chief Information Security Officer",
     "organization": "Office of the Chief Information Officer",
@@ -1215,91 +1343,6 @@
     "remote": null
   },
   {
-    "job_id": "858964100",
-    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Ford Island, Hawaii"
-    ],
-    "description": "This position is part of the Warfare Centers Personnel Demonstration Project. The NT-5 pay band encompasses positions equivalent to GS-13 and GS-14. You will serve as the Branch Head for the Fleet Cyber Support Branch (Code 45300) within the Fleet Readiness Department, Fleet Technical Support Division of the Naval Undersea Warfare Center Division Keyport.",
-    "url": "https://www.usajobs.gov/job/858964100",
-    "posted_at": "2026-03-03T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859257500",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana"
-    ],
-    "description": "Who may apply: Current, permanent DFAS employees in the competitive service, DoD PPP Military Spouse preference applicants, DFAS VRA employees. We may use this announcement to fill other positions in the I&T Dir. This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment. ANNOUNCEMENT EXTENDED TO 3/16/2006",
-    "url": "https://www.usajobs.gov/job/859257500",
-    "posted_at": "2026-03-02T13:45:45",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859310600",
-    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Naval Business Center, Philadelphia, Pennsylvania"
-    ],
-    "description": "You will serve as a Supervisory IT Specialist (INFOSEC) in the Information Technology Division (C/104), Operations Department (C/10) of Naval Surface Warfare Center Philadelphia Division (NSWC PHILA DIV). This position is part of the Warfare Centers Personnel Demonstration Project. The NT-6 pay band encompasses positions equivalent to GS-14 and GS-15.",
-    "url": "https://www.usajobs.gov/job/859310600",
-    "posted_at": "2026-03-02T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859310400",
-    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Naval Business Center, Philadelphia, Pennsylvania"
-    ],
-    "description": "You will serve as Manager of the Cybersecurity Branch (Code 1043), Information Technology Division (Code 104), Corporate Operations Department (Department 10), of the Naval Surface Warfare Center Philadelphia Division (NSWC PHILA DIV). This position is part of the Warfare Centers Personnel Demonstration Project. The NT-6 pay band encompasses positions equivalent to GS-14 and GS-15.",
-    "url": "https://www.usajobs.gov/job/859310400",
-    "posted_at": "2026-03-02T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859079700",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio"
-    ],
-    "description": "This job announcement uses the USA Hire Assessment to evaluate applicants. For more information, visit USA Hire Assessment.",
-    "url": "https://www.usajobs.gov/job/859079700",
-    "posted_at": "2026-03-02T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858800500",
-    "title": "Information Technology Specialist (Applications Software)",
-    "organization": "Federal Law Enforcement Training Centers",
-    "locations": [
-      "Glynco, Georgia"
-    ],
-    "description": "\"The Federal Law Enforcement Training Centers (FLETC), through strategic partnerships, prepares the federal law enforcement community to safeguard America's people, property, and institutions.\" We are a unique inter-agency organization preparing the next generation of law enforcement officers to meet our Nation's most pressing security challenges.\" Click here to learn more. An incentive may be authorized. See additional information section.",
-    "url": "https://www.usajobs.gov/job/858800500",
-    "posted_at": "2026-02-25T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "858749600",
     "title": "Supervisory IT Specialist (INFOSEC)- Direct Hire Authority",
     "organization": "Air Force Materiel Command",
@@ -1310,20 +1353,6 @@
     "url": "https://www.usajobs.gov/job/858749600",
     "posted_at": "2026-02-24T13:25:32.903000",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858733500",
-    "title": "Computer Scientist / Support Specialist",
-    "organization": "Judicial Branch - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Information Technology Office (ITO) has an opening for a Computer Scientist/Support Specialist to work in a production environment. The Center's current systems environment includes virtualization technologies, storage area networks, file share appliances, automated backup systems, secure remote connectivity, intranet, and cloud services.",
-    "url": "https://www.usajobs.gov/job/858733500",
-    "posted_at": "2026-02-24T12:36:17.890000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1428,20 +1457,6 @@
     "url": "https://www.usajobs.gov/job/860139000",
     "posted_at": "2026-02-23T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858637500",
-    "title": "Cybersecurity Principal Specialist #5356",
-    "organization": "Senate",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Senate Sergeant at Arms is seeking a Cybersecurity Principal Specialist. The complete vacancy announcement and application can be found on the United States Senate Career Page at https://sen.gov/1VNZQ. This vacancy announcement closes at 7pm EST on the closing date. Late applications will not be accepted.",
-    "url": "https://www.usajobs.gov/job/858637500",
-    "posted_at": "2026-02-23T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
