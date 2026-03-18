@@ -1,37 +1,147 @@
 [
   {
+    "job_id": "861514900",
+    "title": "Supervisory Human Resources Specialist",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "Serves as a Supervisory Human Resources Specialist for the Office of the Chief Human Capital Officer (OCHCO), responsible for leading enterprise-level human capital programs that support NASA's workforce and mission. Leads strategic initiatives, oversees program delivery, and supervises a team responsible for designing and implementing human capital services that support NASA leadership and Centers across the Agency.",
+    "url": "https://www.usajobs.gov/job/861514900",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861472300",
+    "title": "Human Resources Specialist",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "The Office of the Chief Human Capital Officer (OCHCO) is seeking high-performing Human Resources (HR) professionals to provide guidance and support on complex human capital matters supporting high-visibility human resources initiatives that impact workforce effectiveness and mission delivery. Multiple positions may be filled from this announcement and may include Employee Relations, Executive Services, Classification and Position Management, and HR Business Partner.",
+    "url": "https://www.usajobs.gov/job/861472300",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861470400",
+    "title": "Human Resources Specialist",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "The Office of the Chief Human Capital Officer (OCHCO) is seeking high-performing Human Resources (HR) professionals to serve as senior technical experts and strategic advisors, providing authoritative guidance to Center Directors, senior executives, and Agency leadership. Selections may be made in the following areas: Executive Services (focus on political appointee support); Classification & Position Management; Employee Relations; or Human Resources Business Partner lead.",
+    "url": "https://www.usajobs.gov/job/861470400",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861406300",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (AI)",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Washington, District of Columbia",
+      "Atlanta, Georgia"
+    ],
+    "description": "This role serves as a senior advisor and subject matter expert in artificial intelligence (AI), machine learning (ML), text analytics, and automation technologies. The individual is responsible for leading advanced research and investigations to identify emerging technologies and develop strategic program initiatives that align with agency-wide goals and priorities.",
+    "url": "https://www.usajobs.gov/job/861406300",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "16-16",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861337700",
+    "title": "Supervisory IT Cybersecurity Specialist (Network Services)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Bragg, North Carolina",
+      "Arlington County, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the \"How to Apply\" section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer. This vacancy may be filled at Fort Bragg, North Carolina or Arlington, Virginia based on the needs of the agency.",
+    "url": "https://www.usajobs.gov/job/861337700",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861095200",
+    "title": "Information Technology Specialist (Data Management) (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "This position serves as a Data Center Operations Specialist for the NASA Office of the Chief Information Officer (OCIO) Cloud and Computing Service Line at Ames Research Center. This position delivers Data Center Services, including the management and support of on-premises assets, resources, and the physical and virtual infrastructure required to operate enterprise services. In this role, the specialist ensures the reliability, efficiency, and overall effectiveness of Data Center Operations.",
+    "url": "https://www.usajobs.gov/job/861095200",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860886900",
+    "title": "Environmental Protection Specialist (Direct Hire)",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "As the Air Program Specialist, you will develop and manage air permits and compliance requirements supporting propulsion testing and Center operations. You will conduct emissions inventories and monitoring, prepare technical documentation, ensure compliance with the Clean Air Act, and coordinate with regulatory agencies. You will also manage air program projects, support long range environmental planning, and communicate air quality requirements to leadership, tenants, and stakeholders.",
+    "url": "https://www.usajobs.gov/job/860886900",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861354800",
     "title": "Supervisory Human Resource Specialist",
     "organization": "Department of Energy - Agency Wide",
     "locations": [
       "Golden, Colorado",
       "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
       "Cincinnati, Ohio",
       "Oak Ridge, Tennessee"
     ],
     "description": "This position is part of the Office of the Chief Human Capital Officer, within the Office of Workforce Technology and Development (OWTD) at the Department of Energy. As a Supervisory Human Resources Specialist, you will be responsible for supervising a team of Human Resources Development Specialists and Management Analysts, who perform a variety of functions in support of the agency's employee development objectives.",
     "url": "https://www.usajobs.gov/job/861354800",
-    "posted_at": "2026-03-17T00:00:00",
+    "posted_at": "2026-03-17T13:58:14.897000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -43,33 +153,83 @@
     "locations": [
       "Golden, Colorado",
       "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
       "Cincinnati, Ohio",
       "Oak Ridge, Tennessee"
     ],
     "description": "This position is part of the Office of the Chief Human Capital Officer, within the Office of Workforce Technology and Development (OWTD) at the Department of Energy. As a Supervisory Human Resources Specialist, you will be responsible for supervising a team of Human Resources Development Specialists and Management Analysts, who perform a variety of functions in support of the agency's employee development objectives.",
     "url": "https://www.usajobs.gov/job/861354800",
-    "posted_at": "2026-03-17T00:00:00",
+    "posted_at": "2026-03-17T13:58:14.897000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861475400",
+    "title": "Trial Attorney (Employment Law)",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Employment Law) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-employment-law-2",
+    "url": "https://www.usajobs.gov/job/861475400",
+    "posted_at": "2026-03-17T13:35:02.313000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861475400",
+    "title": "Trial Attorney (Employment Law)",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Employment Law) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-employment-law-2",
+    "url": "https://www.usajobs.gov/job/861475400",
+    "posted_at": "2026-03-17T13:35:02.313000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861474400",
+    "title": "IT SPECIALIST (POLICY AND PLANNING/PLCYPLN)",
+    "organization": "Organization of the Joint Chiefs of Staff",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is part of the Organization of the Joint Chiefs of Staff. The incumbent serves as an Information Technology (IT)Specialist (Policy and Planning) and provides strategy, architecture, and guidance for Joint Staff (JS) Artificial Intelligence (AI) initiatives within the Department of Defense (DoD) AI domain.",
+    "url": "https://www.usajobs.gov/job/861474400",
+    "posted_at": "2026-03-17T13:32:00.373000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861393600",
+    "title": "Budget Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Budget Analyst, you will independently manage monthly budget execution and formulation activities for EHSS, encompassing the development of AFP changes and the resolution of budget issues through corrective actions consistent with DOE and EHSS policies and federal regulations.",
+    "url": "https://www.usajobs.gov/job/861393600",
+    "posted_at": "2026-03-17T09:02:47.007000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861393600",
+    "title": "Budget Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Budget Analyst, you will independently manage monthly budget execution and formulation activities for EHSS, encompassing the development of AFP changes and the resolution of budget issues through corrective actions consistent with DOE and EHSS policies and federal regulations.",
+    "url": "https://www.usajobs.gov/job/861393600",
+    "posted_at": "2026-03-17T09:02:47.007000",
+    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -82,22 +242,22 @@
     ],
     "description": "This position is located at the Department of Veterans Affairs (VA), Veterans Health Administration (VHA), VA Medical Center (VAMC) in the Office of Health Informatics (OHI). The incumbent of this position reports to the Chief, Office of Health Informatics and independently carries out assigned duties.",
     "url": "https://www.usajobs.gov/job/861330000",
-    "posted_at": "2026-03-17T00:00:00",
+    "posted_at": "2026-03-17T07:24:36.320000",
     "salary": "13-13",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "861330000",
-    "title": "Supervisory Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
+    "job_id": "861372600",
+    "title": "Financial Management Analyst",
+    "organization": "Washington Headquarters Services",
     "locations": [
-      "Indianapolis, Indiana"
+      "Pentagon, Arlington, Virginia"
     ],
-    "description": "This position is located at the Department of Veterans Affairs (VA), Veterans Health Administration (VHA), VA Medical Center (VAMC) in the Office of Health Informatics (OHI). The incumbent of this position reports to the Chief, Office of Health Informatics and independently carries out assigned duties.",
-    "url": "https://www.usajobs.gov/job/861330000",
-    "posted_at": "2026-03-17T00:00:00",
-    "salary": "13-13",
+    "description": "This position is located within the Systems Division, Financial Management Directorate (FMD), Washington Headquarters Services (WHS). The Systems Division is responsible for performing systems support for the Office of the Secretary of Defense, Washington Headquarters Services, and WHS supported organizations. The Systems Division performs financial systems support and financial reporting to support the management of WHS supported organizations.",
+    "url": "https://www.usajobs.gov/job/861372600",
+    "posted_at": "2026-03-17T07:08:11.110000",
+    "salary": "9-12",
     "grade": null,
     "remote": null
   },
@@ -172,17 +332,15 @@
     "remote": null
   },
   {
-    "job_id": "861284700",
-    "title": "IT Cybersecurity Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
+    "job_id": "861289300",
+    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Department of the Air Force - Agency Wide",
     "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania"
+      "Lackland AFB, Texas"
     ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 New Cumberland, PA: $143,913- $187,093",
-    "url": "https://www.usajobs.gov/job/861284700",
-    "posted_at": "2026-03-16T12:43:51.093000",
+    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is: To serve as Technical Advisor to the Commander, 833d Cyberspace Operations Squadron (833 COS). Oversees and manages the execution of cyberspace policies, missions, and functions.",
+    "url": "https://www.usajobs.gov/job/861289300",
+    "posted_at": "2026-03-16T13:00:33.193000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -214,20 +372,6 @@
     "url": "https://www.usajobs.gov/job/861218500",
     "posted_at": "2026-03-16T06:26:20.333000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861164400",
-    "title": "Manager Vehicle Integration Office",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "The Manager of the Vehicle Integration Office (VIO) serves as a senior level leader within the NASA Orion Program at Johnson Space Center (JSC), responsible for ensuring the technical integration and overall integrated performance of the Orion spacecraft through all mission phases. This position reports directly to the Orion Program Manager.",
-    "url": "https://www.usajobs.gov/job/861164400",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -284,20 +428,6 @@
     "url": "https://www.usajobs.gov/job/860902000",
     "posted_at": "2026-03-16T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860899200",
-    "title": "Computer Engineer, AST, Software Systems (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As a Computer Engineer in the Office of Test Data and Information Management, an organizational element of the Engineering and Test Directorate, you will be a member of a team of highly skilled engineers responsible for the development and maintenance of software systems, applications, and solutions for a wide range of advanced aerospace data acquisition, control, and data management systems that support propulsion test activities.",
-    "url": "https://www.usajobs.gov/job/860899200",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -414,6 +544,20 @@
     "remote": null
   },
   {
+    "job_id": "861034200",
+    "title": "Building Manager",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Management, Department of Energy. As a Building Manager, you will be responsible for planning, managing, and directing all activities related to operate and maintain the Forrestal and Germantown buildings including maintenance, repair, security, safety, property accountability, and space utilization and management.",
+    "url": "https://www.usajobs.gov/job/861034200",
+    "posted_at": "2026-03-13T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861023500",
     "title": "Aerospace Engineer, AST, Aerospace Flight Systems",
     "organization": "Armstrong Flight Research Center",
@@ -428,20 +572,6 @@
     "remote": null
   },
   {
-    "job_id": "861022200",
-    "title": "Aerospace Engineer, AST - Aerospace Flight Systems (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "You will serve as a Project Manager on the Flight Hardware Projects Team in the Life Support Systems Branch in the Crew and Thermal Systems Division. You will be responsible for leading a project team and certifying life support equipment for human space flight missions.",
-    "url": "https://www.usajobs.gov/job/861022200",
-    "posted_at": "2026-03-13T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860975500",
     "title": "General Engineer, AST, Technical Management",
     "organization": "Armstrong Flight Research Center",
@@ -452,20 +582,6 @@
     "url": "https://www.usajobs.gov/job/860975500",
     "posted_at": "2026-03-13T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860975000",
-    "title": "General Attorney",
-    "organization": "Offices, Boards and Divisions",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "OGC attorneys advise JMD and Department management in areas such as appropriations, budget and financial management, agency organizational management, personnel, procurement, access to government records (FOIA and Privacy Act), security, and delegations of authority. OGC attorneys also litigate in administrative forums and assist litigating divisions and U.S. Attorney's Offices (USAOs) when JMD matters are in the federal courts.",
-    "url": "https://www.usajobs.gov/job/860975000",
-    "posted_at": "2026-03-13T00:00:00",
-    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -512,30 +628,16 @@
     "remote": null
   },
   {
-    "job_id": "860935000",
-    "title": "Physical Scientist, AST, Life Support Studies (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
+    "job_id": "860949600",
+    "title": "Supervisory Investigator",
+    "organization": "Department of Energy - Agency Wide",
     "locations": [
-      "Houston, Texas"
+      "Washington, District of Columbia"
     ],
-    "description": "The Human Health and Performance Directorate, Exploration Science Integration Office, at NASA Johnson Space Center (JSC) is currently seeking a highly skilled individual to serve as the Exploration Exercise System (EES) Functional Lead for the Biomedical Research and Environmental Sciences (BRES) Division.",
-    "url": "https://www.usajobs.gov/job/860935000",
+    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a Supervisory Investigator, you will act as the Division's designated principal in relations with members of the United States Intelligence Community except when they pertain to Strategic Intelligence Partnership Program (SIPP).",
+    "url": "https://www.usajobs.gov/job/860949600",
     "posted_at": "2026-03-13T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860884100",
-    "title": "Data/AI Strategy and Implementation Supervisor",
-    "organization": "Joint Activities",
-    "locations": [
-      "Stuttgart, Germany"
-    ],
-    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Serves as the supervisor for the Commander's Data Integration Team (CDIT), exercising the full range of supervisory duties, including planning, directing, and organizing the team's mission-focused activities.",
-    "url": "https://www.usajobs.gov/job/860884100",
-    "posted_at": "2026-03-13T00:00:00",
-    "salary": "14-14",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -596,20 +698,6 @@
     "remote": null
   },
   {
-    "job_id": "860531800",
-    "title": "Environmental Protection Specialist (Direct Hire)",
-    "organization": "Goddard Space Flight Center",
-    "locations": [
-      "Wallops Island, Virginia"
-    ],
-    "description": "As an Environmental Protection Specialist, you will advise Center management and personnel on environmental laws, policies and processes; and administer and oversee programs or projects that protect the environment, control pollution, remedy damage, and ensure compliance with laws regulations, and policies.",
-    "url": "https://www.usajobs.gov/job/860531800",
-    "posted_at": "2026-03-13T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "857945900",
     "title": "Electronics Engineer, AST, Telecommunications (Direct Hire)",
     "organization": "John Glenn Research Center at Lewis Field",
@@ -641,6 +729,21 @@
     "url": "https://www.usajobs.gov/job/860874400",
     "posted_at": "2026-03-12T08:43:50.820000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860866100",
+    "title": "Registration Program Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Boise, Idaho",
+      "Portland, Oregon"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Seattle Field Division This position(s) primary purpose is to serve as a Registration Program Specialist (RPS), which provides an serves as a key resource at the state and national levels in accordance with the states jurisdictions for all registration applicants authorized to manufacture, distribute, and prescribe controlled substances in accordance with the Controlled Substance Act (CSA).",
+    "url": "https://www.usajobs.gov/job/860866100",
+    "posted_at": "2026-03-12T08:05:03.357000",
+    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -724,21 +827,6 @@
     "remote": null
   },
   {
-    "job_id": "860598000",
-    "title": "SUPERVISORY IT SPECIALIST (ENTARCH)",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "San Diego, California",
-      "Washington Navy Yard, District of Columbia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/860598000",
-    "posted_at": "2026-03-12T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860498000",
     "title": "Security Specialist",
     "organization": "John Glenn Research Center at Lewis Field",
@@ -767,30 +855,16 @@
     "remote": null
   },
   {
-    "job_id": "860808600",
+    "job_id": "860830700",
     "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
+    "organization": "Offices, Boards and Divisions",
     "locations": [
-      "Portland, Oregon"
+      "Washington, District of Columbia"
     ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-196",
-    "url": "https://www.usajobs.gov/job/860808600",
-    "posted_at": "2026-03-11T15:18:41.670000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860808600",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-196",
-    "url": "https://www.usajobs.gov/job/860808600",
-    "posted_at": "2026-03-11T15:18:41.670000",
-    "salary": "13-15",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney, GS-0905-14/15 | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-gs-0905-1415",
+    "url": "https://www.usajobs.gov/job/860830700",
+    "posted_at": "2026-03-11T16:24:16.053000",
+    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -823,32 +897,30 @@
     "remote": null
   },
   {
-    "job_id": "860593500",
-    "title": "Contract Specialist",
-    "organization": "Department of Energy - Agency Wide",
+    "job_id": "860808600",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
     "locations": [
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
+      "Portland, Oregon"
     ],
-    "description": "This position is part of the Hydrocarbon and Geothermal Energy Office, Department of Energy. As a Contract Specialist, you will manage all aspects of the functional area of contract management, often as a team leader, including contract formation, solicitation, negotiations, cost and price analysis, award, contract administration, termination and close-out for a variety of contracts which frequently require special handling or other specialized terms and conditions.",
-    "url": "https://www.usajobs.gov/job/860593500",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-196",
+    "url": "https://www.usajobs.gov/job/860808600",
     "posted_at": "2026-03-11T00:00:00",
-    "salary": "14-14",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "860593500",
-    "title": "Contract Specialist",
-    "organization": "Department of Energy - Agency Wide",
+    "job_id": "860808600",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
     "locations": [
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
+      "Portland, Oregon"
     ],
-    "description": "This position is part of the Hydrocarbon and Geothermal Energy Office, Department of Energy. As a Contract Specialist, you will manage all aspects of the functional area of contract management, often as a team leader, including contract formation, solicitation, negotiations, cost and price analysis, award, contract administration, termination and close-out for a variety of contracts which frequently require special handling or other specialized terms and conditions.",
-    "url": "https://www.usajobs.gov/job/860593500",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-196",
+    "url": "https://www.usajobs.gov/job/860808600",
     "posted_at": "2026-03-11T00:00:00",
-    "salary": "14-14",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -867,115 +939,36 @@
     "remote": null
   },
   {
-    "job_id": "860255500",
-    "title": "Realty Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "As a Realty Specialist within the Real Estate Branch, Facilities and Real Estate Division, Office of Strategic Infrastructure, NASA Headquarters, you will manage, plan, organize, and coordinate NASA real estate transactions across the Agency. You will be responsible for supporting and leading real estate transactions through various real estate in- and out-grant instruments to include leases, Enhanced Use Leases, easements, licenses, and permits.",
-    "url": "https://www.usajobs.gov/job/860255500",
-    "posted_at": "2026-03-11T00:00:00",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860629900",
-    "title": "Trial Attorney",
+    "title": "Trial Attorney (Bankruptcy)",
     "organization": "U.S. Trustee Program",
     "locations": [
       "Dallas, Texas"
     ],
     "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-192 .",
     "url": "https://www.usajobs.gov/job/860629900",
-    "posted_at": "2026-03-10T16:43:11.513000",
+    "posted_at": "2026-03-10T00:00:00",
     "salary": "13-15",
     "grade": null,
     "remote": null
   },
   {
     "job_id": "860629900",
-    "title": "Trial Attorney",
+    "title": "Trial Attorney (Bankruptcy)",
     "organization": "U.S. Trustee Program",
     "locations": [
       "Dallas, Texas"
     ],
     "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-192 .",
     "url": "https://www.usajobs.gov/job/860629900",
-    "posted_at": "2026-03-10T16:43:11.513000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860549800",
-    "title": "TRIAL ATTORNEY",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: https://www.justice.gov/legal-careers/job/trial-attorney-209 Legal Careers | Trial Attorney | United States Department of Justice",
-    "url": "https://www.usajobs.gov/job/860549800",
-    "posted_at": "2026-03-10T12:18:51.990000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860549800",
-    "title": "TRIAL ATTORNEY",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: https://www.justice.gov/legal-careers/job/trial-attorney-209 Legal Careers | Trial Attorney | United States Department of Justice",
-    "url": "https://www.usajobs.gov/job/860549800",
-    "posted_at": "2026-03-10T12:18:51.990000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860522500",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Wilmington, Delaware"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-204",
-    "url": "https://www.usajobs.gov/job/860522500",
-    "posted_at": "2026-03-10T12:03:01.803000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860522500",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Wilmington, Delaware"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-204",
-    "url": "https://www.usajobs.gov/job/860522500",
-    "posted_at": "2026-03-10T12:03:01.803000",
+    "posted_at": "2026-03-10T00:00:00",
     "salary": "13-15",
     "grade": null,
     "remote": null
   },
   {
     "job_id": "860568700",
-    "title": "TRIAL ATTORNEY",
+    "title": "Trial Attorney (Bankruptcy)",
     "organization": "U.S. Trustee Program",
     "locations": [
       "Little Rock, Arkansas",
@@ -991,7 +984,7 @@
   },
   {
     "job_id": "860568700",
-    "title": "TRIAL ATTORNEY",
+    "title": "Trial Attorney (Bankruptcy)",
     "organization": "U.S. Trustee Program",
     "locations": [
       "Little Rock, Arkansas",
@@ -1000,6 +993,62 @@
     ],
     "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-191",
     "url": "https://www.usajobs.gov/job/860568700",
+    "posted_at": "2026-03-10T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860549800",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: https://www.justice.gov/legal-careers/job/trial-attorney-209 Legal Careers | Trial Attorney | United States Department of Justice",
+    "url": "https://www.usajobs.gov/job/860549800",
+    "posted_at": "2026-03-10T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860549800",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: https://www.justice.gov/legal-careers/job/trial-attorney-209 Legal Careers | Trial Attorney | United States Department of Justice",
+    "url": "https://www.usajobs.gov/job/860549800",
+    "posted_at": "2026-03-10T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860522500",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Wilmington, Delaware"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-204",
+    "url": "https://www.usajobs.gov/job/860522500",
+    "posted_at": "2026-03-10T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860522500",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Wilmington, Delaware"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-204",
+    "url": "https://www.usajobs.gov/job/860522500",
     "posted_at": "2026-03-10T00:00:00",
     "salary": "13-15",
     "grade": null,
@@ -1020,30 +1069,16 @@
     "remote": null
   },
   {
-    "job_id": "860436700",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Newark, New Jersey"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-199",
-    "url": "https://www.usajobs.gov/job/860436700",
-    "posted_at": "2026-03-09T16:10:22.270000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860408600",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
+    "job_id": "860348700",
+    "title": "Investigative Assistant",
+    "organization": "Drug Enforcement Administration",
     "locations": [
       "Dallas, Texas"
     ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-192",
-    "url": "https://www.usajobs.gov/job/860408600",
-    "posted_at": "2026-03-09T16:04:07.690000",
-    "salary": "11-15",
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Dallas Division. This position(s) primary purpose is designed to perform a variety of technical law enforcement support work relative to the cases being investigated by the Criminal Investigators or Diversion Investigators.",
+    "url": "https://www.usajobs.gov/job/860348700",
+    "posted_at": "2026-03-09T11:20:02.753000",
+    "salary": "6-7",
     "grade": null,
     "remote": null
   },
@@ -1077,16 +1112,30 @@
     "remote": null
   },
   {
-    "job_id": "860346700",
-    "title": "Acquisition Business Manager",
-    "organization": "Office of the Director of National Intelligence",
+    "job_id": "860436700",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
     "locations": [
-      "Bethesda, Maryland"
+      "Newark, New Jersey"
     ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/860346700",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-199",
+    "url": "https://www.usajobs.gov/job/860436700",
     "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-15",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860436700",
+    "title": "Trial Attorney (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Newark, New Jersey"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-199",
+    "url": "https://www.usajobs.gov/job/860436700",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -1101,20 +1150,6 @@
     "url": "https://www.usajobs.gov/job/860346700",
     "posted_at": "2026-03-09T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860343200",
-    "title": "Acquisition Business Manager",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/860343200",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1210,25 +1245,6 @@
     ],
     "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
     "url": "https://www.usajobs.gov/job/860200700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860199300",
-    "title": "Reactor Engineer (Modeling & Simulation) (Agency Employees Only)",
-    "organization": "Nuclear Regulatory Commission",
-    "locations": [
-      "Atlanta, Georgia",
-      "Naperville, Illinois",
-      "Rockville, Maryland",
-      "King of Prussia, Pennsylvania",
-      "Chattanooga, Tennessee",
-      "Arlington, Texas"
-    ],
-    "description": "This position is located in the Office of Nuclear Regulatory Research (RES), Division of Engineering (DE), Reactor Engineering Branch (REB). The supervisor is Raj Iyengar. This position IS subject to Confidential Financial Disclosure reporting requirements. This position IS subject to security ownership restriction reporting requirements.",
-    "url": "https://www.usajobs.gov/job/860199300",
     "posted_at": "2026-03-09T00:00:00",
     "salary": "14-14",
     "grade": null,
@@ -1390,67 +1406,6 @@
     "url": "https://www.usajobs.gov/job/859907200",
     "posted_at": "2026-03-05T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859890400",
-    "title": "Chief Information Security Officer (CISO)",
-    "organization": "Office of Inspector General",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "We are seeking a highly qualified and motivated individual to serve as the Chief Information Security Officer (CISO) and be a proactive member of our team. Location of position: GSA Office of Inspector General 1800 F Street NW Washington, D.C. 20405 We are currently filling one vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/859890400",
-    "posted_at": "2026-03-04T15:57:40.713000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859890400",
-    "title": "Chief Information Security Officer (CISO)",
-    "organization": "Office of Inspector General",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "We are seeking a highly qualified and motivated individual to serve as the Chief Information Security Officer (CISO) and be a proactive member of our team. Location of position: GSA Office of Inspector General 1800 F Street NW Washington, D.C. 20405 We are currently filling one vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/859890400",
-    "posted_at": "2026-03-04T15:57:40.713000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859371300",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/859371300",
-    "posted_at": "2026-03-01T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
