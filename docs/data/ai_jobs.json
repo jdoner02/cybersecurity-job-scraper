@@ -1,5 +1,334 @@
 [
   {
+    "job_id": "861668600",
+    "title": "Human Resources Specialist (Recruitment and Placement)",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Golden, Colorado",
+      "Cincinnati, Ohio",
+      "Oak Ridge, Tennessee"
+    ],
+    "description": "This position is part of the Office of the Chief Human Capital Officer, Department of Energy. As a Human Resources Specialist (Recruitment and Placement), you will provide technical advice and assistance in recruitment and placement to all levels of management.",
+    "url": "https://www.usajobs.gov/job/861668600",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861658800",
+    "title": "Contract Specialist (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia",
+      "Wallops Island, Virginia",
+      "Fairmont, West Virginia"
+    ],
+    "description": "The Office of Procurement (OP) is seeking Contract Specialists. Ideal candidates will have strong business and analytical skills demonstrated through academic coursework and/or work experience. Duties will vary depending on organizational needs and include procurement planning, negotiation, and contract administration tasks assigned in support of NASA programs. OP is structured to provide support to our mission partners regardless of buying location using virtual tools and capabilities.",
+    "url": "https://www.usajobs.gov/job/861658800",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "7-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861658800",
+    "title": "Contract Specialist (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia",
+      "Wallops Island, Virginia",
+      "Fairmont, West Virginia"
+    ],
+    "description": "The Office of Procurement (OP) is seeking Contract Specialists. Ideal candidates will have strong business and analytical skills demonstrated through academic coursework and/or work experience. Duties will vary depending on organizational needs and include procurement planning, negotiation, and contract administration tasks assigned in support of NASA programs. OP is structured to provide support to our mission partners regardless of buying location using virtual tools and capabilities.",
+    "url": "https://www.usajobs.gov/job/861658800",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "7-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861622200",
+    "title": "Aerospace Engineer, AST - Flight Systems Test (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "White Sands Missile Range, New Mexico"
+    ],
+    "description": "You will serve as a Project Manager in the Materials and Components Laboratory Office, NASA White Sands Test Facility to ensure the safe performance of material and component analysis and testing for NASA and other customers. Core capabilities include: Propellants and Aerospace Fluids Testing and Analysis; Oxygen Systems Testing and Analysis; Hypervelocity Impact Testing (Micrometioroid and Orbital Debris); Composite Pressure Systems Testing and Analysis; and Flight Acceptance Standard Test.",
+    "url": "https://www.usajobs.gov/job/861622200",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861600200",
+    "title": "Attorney-Adviser (General)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "About the Position: This position is located with the U.S. Cyber Command, Office of the Cyber National Mission Force at Fort Meade, MD. If you are currently serving in a permanent, competitive service appointment in the Federal service, and are selected for this position, the appointment will remove you from the competitive service while you occupy this position.",
+    "url": "https://www.usajobs.gov/job/861600200",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861580500",
+    "title": "Aerospace Engineer, AST, Environmental Control Systems (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "As an Active Thermal Control System (ATCS) Sub-System Manager (SSM) within the Crew and Thermal Systems Division, you will be responsible for sub-system management and technical expertise in the area of Active Thermal Control Systems for human space flight. You will be part of the system management team responsible for the support, oversight and communication of the readiness and operational status of several Human Space Flight Programs.",
+    "url": "https://www.usajobs.gov/job/861580500",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861556800",
+    "title": "Security Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence, Mission Support Directorate, Security Division. As a Security Specialist, you will be responsible for intelligence security oversight for the Department of Energy; ensuring a secure environment for intelligence information in support of DOE and other National Security programs and policies.",
+    "url": "https://www.usajobs.gov/job/861556800",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861538800",
+    "title": "Criminal Investigator (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "The OIG Cyber Crimes Division (CCD) conducts complex cybercrime investigations involving NASA and its resources. CCD also provides digital forensics support to criminal, civil, and administrative investigations. This includes planning and executing operations to seize, preserve, and analyze data from IT systems and digital media. Teamwork and collaboration are essential.",
+    "url": "https://www.usajobs.gov/job/861538800",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861486900",
+    "title": "Printing Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Financial Management Division, Office of Administration (FS), Fleet, Property, and Office Services Section (FSO), Office Services Unit (FSOS), Print Production Studio. This position(s) primary purpose is to be responsible for a full range of printing service for DEA for a variety of products to include correspondence, newsletters, brochures, pamphlets, and reports.",
+    "url": "https://www.usajobs.gov/job/861486900",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861337700",
+    "title": "Supervisory IT Cybersecurity Specialist (Network Services)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Bragg, North Carolina",
+      "Arlington County, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the \"How to Apply\" section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer. This vacancy may be filled at Fort Bragg, North Carolina or Arlington, Virginia based on the needs of the agency.",
+    "url": "https://www.usajobs.gov/job/861337700",
+    "posted_at": "2026-03-18T13:51:12.517000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861337700",
+    "title": "Supervisory IT Cybersecurity Specialist (Network Services)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Bragg, North Carolina",
+      "Arlington County, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the \"How to Apply\" section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer. This vacancy may be filled at Fort Bragg, North Carolina or Arlington, Virginia based on the needs of the agency.",
+    "url": "https://www.usajobs.gov/job/861337700",
+    "posted_at": "2026-03-18T13:51:12.517000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861634900",
+    "title": "Scientific Programmer (Computer Scientist)",
+    "organization": "National Telecommunications and Information Administration",
+    "locations": [
+      "Boulder, Colorado"
+    ],
+    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/861634900",
+    "posted_at": "2026-03-18T12:25:27.300000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861634400",
+    "title": "Scientific Programmer (Computer Scientist)",
+    "organization": "National Telecommunications and Information Administration",
+    "locations": [
+      "Boulder, Colorado"
+    ],
+    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/861634400",
+    "posted_at": "2026-03-18T12:24:19.100000",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861633700",
+    "title": "Scientific Programmer (Computer Scientist)",
+    "organization": "National Telecommunications and Information Administration",
+    "locations": [
+      "Boulder, Colorado"
+    ],
+    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/861633700",
+    "posted_at": "2026-03-18T12:22:37.467000",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861632800",
+    "title": "Scientific Programmer (Computer Scientist)",
+    "organization": "National Telecommunications and Information Administration",
+    "locations": [
+      "Boulder, Colorado"
+    ],
+    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/861632800",
+    "posted_at": "2026-03-18T12:20:47.910000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861592200",
+    "title": "Management and Program Analyst ",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is in the Office of the Executive Director (EX), Under Secretary for Economic Affairs (E), Department of State (DoS). This position is for a Management and Program Analyst whose responsibilities include assisting the Executive Director and Deputy Executive Director on analytical and program management support for a variety of complex mission critical activities with Bureau and Department wide impact.",
+    "url": "https://www.usajobs.gov/job/861592200",
+    "posted_at": "2026-03-18T09:57:37.163000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861592200",
+    "title": "Management and Program Analyst ",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is in the Office of the Executive Director (EX), Under Secretary for Economic Affairs (E), Department of State (DoS). This position is for a Management and Program Analyst whose responsibilities include assisting the Executive Director and Deputy Executive Director on analytical and program management support for a variety of complex mission critical activities with Bureau and Department wide impact.",
+    "url": "https://www.usajobs.gov/job/861592200",
+    "posted_at": "2026-03-18T09:57:37.163000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861588400",
+    "title": "Microelectronics Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. Comprised of 7 organizations, PC oversees IC Human Capital; Acquisition, Procurement & Facilities; Intelligence Advance Research Projects Activity; Science & Technology Group; Requirements, Cost & Effectiveness; Policy & Strategy; and Data and Partnership Interoperability.",
+    "url": "https://www.usajobs.gov/job/861588400",
+    "posted_at": "2026-03-18T09:46:08.493000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861565000",
+    "title": "IT Specialist (System Analysis)\"Product Manager\", GS-2210-15, FPL GS-15 (DH)",
+    "organization": "Federal Student Aid",
+    "locations": [
+      "San Francisco, California",
+      "Denver, Colorado",
+      "District of Columbia, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Kansas City, Missouri",
+      "Dallas, Texas",
+      "Seattle, Washington"
+    ],
+    "description": "This position is located in Federal Student Aid/Office of Student Aid Program Management /Production Management Div in Washington, DC; Atlanta, GA; Chicago, IL; Dallas, TX; Denver, CO; Kansas City, KS, San Francisco, CA; Seattle, WA. FSA directs, coordinates, and recommends policies for programs that are designed to provide financial assistance to eligible students enrolled in postsecondary educational institutions.",
+    "url": "https://www.usajobs.gov/job/861565000",
+    "posted_at": "2026-03-18T08:21:38.423000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861562900",
+    "title": "Supervisory IT Specialist (Data Management)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the \"How to Apply\" section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer.",
+    "url": "https://www.usajobs.gov/job/861562900",
+    "posted_at": "2026-03-18T08:00:34.050000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861562900",
+    "title": "Supervisory IT Specialist (Data Management)",
+    "organization": "Joint Activities",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the \"How to Apply\" section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer.",
+    "url": "https://www.usajobs.gov/job/861562900",
+    "posted_at": "2026-03-18T08:00:34.050000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861514900",
     "title": "Supervisory Human Resources Specialist",
     "organization": "National Aeronautics and Space Administration - Agency Wide",
@@ -87,21 +416,6 @@
     "remote": null
   },
   {
-    "job_id": "861337700",
-    "title": "Supervisory IT Cybersecurity Specialist (Network Services)",
-    "organization": "Joint Activities",
-    "locations": [
-      "Fort Bragg, North Carolina",
-      "Arlington County, Virginia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the \"How to Apply\" section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer. This vacancy may be filled at Fort Bragg, North Carolina or Arlington, Virginia based on the needs of the agency.",
-    "url": "https://www.usajobs.gov/job/861337700",
-    "posted_at": "2026-03-18T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "861095200",
     "title": "Information Technology Specialist (Data Management) (Direct Hire)",
     "organization": "Ames Research Center",
@@ -147,23 +461,6 @@
     "remote": null
   },
   {
-    "job_id": "861354800",
-    "title": "Supervisory Human Resource Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Golden, Colorado",
-      "Washington, District of Columbia",
-      "Cincinnati, Ohio",
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Office of the Chief Human Capital Officer, within the Office of Workforce Technology and Development (OWTD) at the Department of Energy. As a Supervisory Human Resources Specialist, you will be responsible for supervising a team of Human Resources Development Specialists and Management Analysts, who perform a variety of functions in support of the agency's employee development objectives.",
-    "url": "https://www.usajobs.gov/job/861354800",
-    "posted_at": "2026-03-17T13:58:14.897000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "861475400",
     "title": "Trial Attorney (Employment Law)",
     "organization": "U.S. Trustee Program",
@@ -188,34 +485,6 @@
     "url": "https://www.usajobs.gov/job/861475400",
     "posted_at": "2026-03-17T13:35:02.313000",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861474400",
-    "title": "IT SPECIALIST (POLICY AND PLANNING/PLCYPLN)",
-    "organization": "Organization of the Joint Chiefs of Staff",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This position is part of the Organization of the Joint Chiefs of Staff. The incumbent serves as an Information Technology (IT)Specialist (Policy and Planning) and provides strategy, architecture, and guidance for Joint Staff (JS) Artificial Intelligence (AI) initiatives within the Department of Defense (DoD) AI domain.",
-    "url": "https://www.usajobs.gov/job/861474400",
-    "posted_at": "2026-03-17T13:32:00.373000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861393600",
-    "title": "Budget Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Germantown, Maryland"
-    ],
-    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Budget Analyst, you will independently manage monthly budget execution and formulation activities for EHSS, encompassing the development of AFP changes and the resolution of budget issues through corrective actions consistent with DOE and EHSS policies and federal regulations.",
-    "url": "https://www.usajobs.gov/job/861393600",
-    "posted_at": "2026-03-17T09:02:47.007000",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -262,6 +531,20 @@
     "remote": null
   },
   {
+    "job_id": "861372600",
+    "title": "Financial Management Analyst",
+    "organization": "Washington Headquarters Services",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "This position is located within the Systems Division, Financial Management Directorate (FMD), Washington Headquarters Services (WHS). The Systems Division is responsible for performing systems support for the Office of the Secretary of Defense, Washington Headquarters Services, and WHS supported organizations. The Systems Division performs financial systems support and financial reporting to support the management of WHS supported organizations.",
+    "url": "https://www.usajobs.gov/job/861372600",
+    "posted_at": "2026-03-17T07:08:11.110000",
+    "salary": "9-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861299100",
     "title": "Aerospace Engineer, AST, Aerospace Flight Systems",
     "organization": "Lyndon B. Johnson Space Center",
@@ -270,20 +553,6 @@
     ],
     "description": "As an AST, Aerospace Flight Systems (Senior Flight Lead) for the International Space Station (ISS) Program, you will be responsible for providing leadership and support in mission planning and integration for the ISS to ensure that technical and programmatic requirements are met. You will also coordinate with commercial partners and international teams to resolve issues, manage risk, and achieve key milestones for safe and successful missions.",
     "url": "https://www.usajobs.gov/job/861299100",
-    "posted_at": "2026-03-17T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861238600",
-    "title": "Human Resources Specialist (Information Systems)",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, located in Washington, DC. Additional selections may be made for other organizational divisions and/or units within the duty location(s) listed above.",
-    "url": "https://www.usajobs.gov/job/861238600",
     "posted_at": "2026-03-17T00:00:00",
     "salary": "14-14",
     "grade": null,
@@ -346,22 +615,6 @@
     "remote": null
   },
   {
-    "job_id": "861284700",
-    "title": "IT Cybersecurity Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 New Cumberland, PA: $143,913- $187,093",
-    "url": "https://www.usajobs.gov/job/861284700",
-    "posted_at": "2026-03-16T12:43:51.093000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "861218500",
     "title": "IT Specialist (SysAdmin) - DHA",
     "organization": "Social Security Administration",
@@ -372,6 +625,52 @@
     "url": "https://www.usajobs.gov/job/861218500",
     "posted_at": "2026-03-16T06:26:20.333000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861284700",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 New Cumberland, PA: $143,913- $187,093",
+    "url": "https://www.usajobs.gov/job/861284700",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861284700",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 New Cumberland, PA: $143,913- $187,093",
+    "url": "https://www.usajobs.gov/job/861284700",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861164400",
+    "title": "Manager Vehicle Integration Office",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "The Manager of the Vehicle Integration Office (VIO) serves as a senior level leader within the NASA Orion Program at Johnson Space Center (JSC), responsible for ensuring the technical integration and overall integrated performance of the Orion spacecraft through all mission phases. This position reports directly to the Orion Program Manager.",
+    "url": "https://www.usajobs.gov/job/861164400",
+    "posted_at": "2026-03-16T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -400,76 +699,6 @@
     "url": "https://www.usajobs.gov/job/861091300",
     "posted_at": "2026-03-16T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861091300",
-    "title": "IT Cybersecurity Specialist (Defense Critical Energy Infrastructure (DCEI))",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Cybersecurity, Energy Security and Emergency Response, Department of Energy. As an IT Cybersecurity Specialist (Defense Critical Energy Infrastructure (DCEI)), you will be an expert in IT Cybersecurity Program Management within the Department of Energy (DOE). Their colleagues and superiors see them as a top authority on cybersecurity. They offer independent, expert advice, management services, and recommendations on cybersecurity matters to DOE leaders.",
-    "url": "https://www.usajobs.gov/job/861091300",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860902000",
-    "title": "Computer Engineer, AST, Software Systems (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As a Computer Engineer in the Office of Test Data and Information Management, an organizational element of the Engineering and Test Directorate, you will be a member of a team of highly skilled engineers responsible for the development and maintenance of software systems, applications, and solutions for a wide range of advanced aerospace data acquisition, control, and data management systems that support propulsion test activities.",
-    "url": "https://www.usajobs.gov/job/860902000",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860899200",
-    "title": "Computer Engineer, AST, Software Systems (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As a Computer Engineer in the Office of Test Data and Information Management, an organizational element of the Engineering and Test Directorate, you will be a member of a team of highly skilled engineers responsible for the development and maintenance of software systems, applications, and solutions for a wide range of advanced aerospace data acquisition, control, and data management systems that support propulsion test activities.",
-    "url": "https://www.usajobs.gov/job/860899200",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860891100",
-    "title": "Environmental Protection Specialist (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As a Natural Resources Manager, you will develop and implement natural resource management plans, ensure compliance with environmental laws, oversee field surveys and ecological monitoring, manage conservation projects and contractor performance, serve as a liaison with regulatory and community partners, and support long range environmental planning to sustain the organization's natural systems.",
-    "url": "https://www.usajobs.gov/job/860891100",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "9-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858657400",
-    "title": "Information Technology Program Manager/Senior Program Manager",
-    "organization": "Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation",
-    "locations": [
-      "Tucson, Arizona"
-    ],
-    "description": "This position manages the Udall Foundation Information Technology (IT) program. The incumbent oversees the day-to-day operations of the agency's IT infrastructure and uses program management techniques and practices to ensure program effectiveness. The incumbent also provides input and guidance to the Chief Operations Officer as it relates to all aspects of the IT program.",
-    "url": "https://www.usajobs.gov/job/858657400",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -512,34 +741,6 @@
     "url": "https://www.usajobs.gov/job/861047700",
     "posted_at": "2026-03-13T07:50:08.577000",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861047700",
-    "title": "Trial Attorney - Enforcement and Affirmative Litigation Branch",
-    "organization": "Offices, Boards and Divisions",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Enforcement and Affirmative Litigation Branch seeks entry-level Trial Attorneys to oversee high-impact affirmative litigation that protects public health and safety and ensures nationwide compliance with federal law. The Branch handles cutting-edge matters enforcing consumer protection statutes and challenging laws that undermine federal policy. For impactful public service, the Branch offers a frontline role in the Department's major civil enforcement initiatives.",
-    "url": "https://www.usajobs.gov/job/861047700",
-    "posted_at": "2026-03-13T07:50:08.577000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861034200",
-    "title": "Building Manager",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Management, Department of Energy. As a Building Manager, you will be responsible for planning, managing, and directing all activities related to operate and maintain the Forrestal and Germantown buildings including maintenance, repair, security, safety, property accountability, and space utilization and management.",
-    "url": "https://www.usajobs.gov/job/861034200",
-    "posted_at": "2026-03-13T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -600,6 +801,20 @@
     "remote": null
   },
   {
+    "job_id": "860975000",
+    "title": "General Attorney",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "OGC attorneys advise JMD and Department management in areas such as appropriations, budget and financial management, agency organizational management, personnel, procurement, access to government records (FOIA and Privacy Act), security, and delegations of authority. OGC attorneys also litigate in administrative forums and assist litigating divisions and U.S. Attorney's Offices (USAOs) when JMD matters are in the federal courts.",
+    "url": "https://www.usajobs.gov/job/860975000",
+    "posted_at": "2026-03-13T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "860952600",
     "title": "Engineering Technician (Direct Hire)",
     "organization": "Armstrong Flight Research Center",
@@ -610,20 +825,6 @@
     "url": "https://www.usajobs.gov/job/860952600",
     "posted_at": "2026-03-13T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860949600",
-    "title": "Supervisory Investigator",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a Supervisory Investigator, you will act as the Division's designated principal in relations with members of the United States Intelligence Community except when they pertain to Strategic Intelligence Partnership Program (SIPP).",
-    "url": "https://www.usajobs.gov/job/860949600",
-    "posted_at": "2026-03-13T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -656,16 +857,16 @@
     "remote": null
   },
   {
-    "job_id": "860870500",
-    "title": "ISS (Educational Technologist)",
-    "organization": "Department of Defense Education Activity",
+    "job_id": "860884100",
+    "title": "Data/AI Strategy and Implementation Supervisor",
+    "organization": "Joint Activities",
     "locations": [
-      "Camp Humphreys, South Korea"
+      "Stuttgart, Germany"
     ],
-    "description": "About the Position: This position is located in the Pacific West District, Camp Humphreys, Korea. This position is not covered by a bargaining unit. Federal employees in Camp Humphreys, Korea are currently entitled to receive a 20% Post Allowance (COLA) in addition to the base salary. Post Allowance is subject to change frequently.",
-    "url": "https://www.usajobs.gov/job/860870500",
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Serves as the supervisor for the Commander's Data Integration Team (CDIT), exercising the full range of supervisory duties, including planning, directing, and organizing the team's mission-focused activities.",
+    "url": "https://www.usajobs.gov/job/860884100",
     "posted_at": "2026-03-13T00:00:00",
-    "salary": "00-00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -712,27 +913,6 @@
     "remote": null
   },
   {
-    "job_id": "860874400",
-    "title": "Data Scientist (Artificial Intelligence/Machine Learning)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
-    "url": "https://www.usajobs.gov/job/860874400",
-    "posted_at": "2026-03-12T08:43:50.820000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860866100",
     "title": "Registration Program Specialist",
     "organization": "Drug Enforcement Administration",
@@ -744,35 +924,6 @@
     "url": "https://www.usajobs.gov/job/860866100",
     "posted_at": "2026-03-12T08:05:03.357000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860866100",
-    "title": "Registration Program Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Boise, Idaho",
-      "Portland, Oregon"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Seattle Field Division This position(s) primary purpose is to serve as a Registration Program Specialist (RPS), which provides an serves as a key resource at the state and national levels in accordance with the states jurisdictions for all registration applicants authorized to manufacture, distribute, and prescribe controlled substances in accordance with the Controlled Substance Act (CSA).",
-    "url": "https://www.usajobs.gov/job/860866100",
-    "posted_at": "2026-03-12T08:05:03.357000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861008200",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/861008200",
-    "posted_at": "2026-03-12T00:00:00",
-    "salary": "9-12",
     "grade": null,
     "remote": null
   },
@@ -812,35 +963,6 @@
     "remote": null
   },
   {
-    "job_id": "860598000",
-    "title": "SUPERVISORY IT SPECIALIST (ENTARCH)",
-    "organization": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-    "locations": [
-      "San Diego, California",
-      "Washington Navy Yard, District of Columbia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/860598000",
-    "posted_at": "2026-03-12T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860498000",
-    "title": "Security Specialist",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "As a Security Specialist in the Office of Protective Services, you will serve as a Special Agent, support foreign national access, provide contract oversight, and conduct security incident reviews and procedure development. You will manage dashboards, review access requests, assist with investigations and protective missions, and oversee events and tours to safeguard NASA assets.",
-    "url": "https://www.usajobs.gov/job/860498000",
-    "posted_at": "2026-03-12T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860830700",
     "title": "Trial Attorney",
     "organization": "Offices, Boards and Divisions",
@@ -883,20 +1005,6 @@
     "remote": null
   },
   {
-    "job_id": "860777300",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Marion, Illinois"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/860777300",
-    "posted_at": "2026-03-11T14:13:09.440000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860808600",
     "title": "Trial Attorney (Bankruptcy)",
     "organization": "U.S. Trustee Program",
@@ -921,20 +1029,6 @@
     "url": "https://www.usajobs.gov/job/860808600",
     "posted_at": "2026-03-11T00:00:00",
     "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860339600",
-    "title": "Aerospace Engineer, AST, Heat Transfer (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "Serves as a Thermal Protection System engineer with the Structural Engineering Division in the Thermal Design Branch. You will be responsible for performing thermal analysis and system management related to a variety of programs including Orion and Human Landing Systems (HLS). In this position you will work with the respective Program and Directorate personnel to ensure successful development and delivery of Thermal Protection Systems.",
-    "url": "https://www.usajobs.gov/job/860339600",
-    "posted_at": "2026-03-11T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1069,34 +1163,6 @@
     "remote": null
   },
   {
-    "job_id": "860348700",
-    "title": "Investigative Assistant",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Dallas, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Dallas Division. This position(s) primary purpose is designed to perform a variety of technical law enforcement support work relative to the cases being investigated by the Criminal Investigators or Diversion Investigators.",
-    "url": "https://www.usajobs.gov/job/860348700",
-    "posted_at": "2026-03-09T11:20:02.753000",
-    "salary": "6-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860348700",
-    "title": "Investigative Assistant",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Dallas, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Dallas Division. This position(s) primary purpose is designed to perform a variety of technical law enforcement support work relative to the cases being investigated by the Criminal Investigators or Diversion Investigators.",
-    "url": "https://www.usajobs.gov/job/860348700",
-    "posted_at": "2026-03-09T11:20:02.753000",
-    "salary": "6-7",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860229600",
     "title": "Cloud/Infrastructure Technician - DHA",
     "organization": "Social Security Administration",
@@ -1108,20 +1174,6 @@
     "url": "https://www.usajobs.gov/job/860229600",
     "posted_at": "2026-03-09T08:45:24.660000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860436700",
-    "title": "Trial Attorney (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Newark, New Jersey"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-199",
-    "url": "https://www.usajobs.gov/job/860436700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -1245,6 +1297,25 @@
     ],
     "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
     "url": "https://www.usajobs.gov/job/860200700",
+    "posted_at": "2026-03-09T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860199300",
+    "title": "Reactor Engineer (Modeling & Simulation) (Agency Employees Only)",
+    "organization": "Nuclear Regulatory Commission",
+    "locations": [
+      "Atlanta, Georgia",
+      "Naperville, Illinois",
+      "Rockville, Maryland",
+      "King of Prussia, Pennsylvania",
+      "Chattanooga, Tennessee",
+      "Arlington, Texas"
+    ],
+    "description": "This position is located in the Office of Nuclear Regulatory Research (RES), Division of Engineering (DE), Reactor Engineering Branch (REB). The supervisor is Raj Iyengar. This position IS subject to Confidential Financial Disclosure reporting requirements. This position IS subject to security ownership restriction reporting requirements.",
+    "url": "https://www.usajobs.gov/job/860199300",
     "posted_at": "2026-03-09T00:00:00",
     "salary": "14-14",
     "grade": null,
@@ -1452,48 +1523,6 @@
     "description": "This position is located in OED, Human Capital Management Office (HCMO). HCMO/OED is responsible for human resources, including honors program recruitment, attorney/non-attorney hiring, benefits, retirement, workers compensation, SES hiring, advice & guidance to managers on conduct, performance & discipline problems, position classification, labor relations, administration of performance management, payroll, electronic time & attendance coordination, training & personnel security.",
     "url": "https://www.usajobs.gov/job/859252600",
     "posted_at": "2026-02-27T10:03:10.413000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859252600",
-    "title": "DEPUTY CHIEF HUMAN CAPITAL OFFICER",
-    "organization": "Federal Trade Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in OED, Human Capital Management Office (HCMO). HCMO/OED is responsible for human resources, including honors program recruitment, attorney/non-attorney hiring, benefits, retirement, workers compensation, SES hiring, advice & guidance to managers on conduct, performance & discipline problems, position classification, labor relations, administration of performance management, payroll, electronic time & attendance coordination, training & personnel security.",
-    "url": "https://www.usajobs.gov/job/859252600",
-    "posted_at": "2026-02-27T10:03:10.413000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858721400",
-    "title": "Director Mission AI Campaign",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Policy & Capabilities Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. Comprised of 7 organizations, PC oversees IC Human Capital; Acquisition, Procurement & Facilities; Intelligence Advance Research Projects Activity; Science & Technology Group; Requirements, Cost & Effectiveness; Policy & Strategy; and Data and Partnership Interoperability.",
-    "url": "https://www.usajobs.gov/job/858721400",
-    "posted_at": "2026-02-24T11:51:59.537000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "858721400",
-    "title": "Director Mission AI Campaign",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Policy & Capabilities Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. Comprised of 7 organizations, PC oversees IC Human Capital; Acquisition, Procurement & Facilities; Intelligence Advance Research Projects Activity; Science & Technology Group; Requirements, Cost & Effectiveness; Policy & Strategy; and Data and Partnership Interoperability.",
-    "url": "https://www.usajobs.gov/job/858721400",
-    "posted_at": "2026-02-24T11:51:59.537000",
     "salary": "00-00",
     "grade": null,
     "remote": null
