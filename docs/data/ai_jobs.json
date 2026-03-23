@@ -1,5 +1,90 @@
 [
   {
+    "job_id": "862049400",
+    "title": "Management Analyst",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "This position is in the Office of Inspector General, Office of Audits (OA) conducting independent, objective audits, reviews, and other examinations of NASA and NASA contractor programs and projects to improve NASA operations. The OA provides a broad range of professional audit and advisory services, performs focused reviews of specific management issues, comments on NASA policies, and is responsible for oversight of NASA audits performed under contract or by other Federal agencies.",
+    "url": "https://www.usajobs.gov/job/862049400",
+    "posted_at": "2026-03-23T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861952900",
+    "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+    "organization": "Secretary of the Navy Offices (SECNAV)",
+    "locations": [
+      "Washington Navy Yard, District of Columbia"
+    ],
+    "description": "You will serve as a SUPERVISORY FINANCIAL MANAGEMENT ANALYST in the OFFICE OF THE ASSISTANT SECRETARY OF THE NAVY (FINANCIAL MANAGEMENT & COMPTROLLER), DEPARTMENT OF NAVY of ASN.",
+    "url": "https://www.usajobs.gov/job/861952900",
+    "posted_at": "2026-03-23T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861871700",
+    "title": "Supervisory Quality Assurance Specialist (Aerospace)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "As a Supervisory Quality Assurance Specialist (Branch Chief) you will serve as a senior technical and supervisory leader within the Safety and Mission Assurance Directorate at NASA AFRC, responsible for planning, directing, and evaluating the AFRC's Quality Assurance program. You will provide leadership to a multidisciplinary workforce who conduct inspections, audits, surveillance, and technical assessments supporting flight research aircraft, ground systems, and associated operations.",
+    "url": "https://www.usajobs.gov/job/861871700",
+    "posted_at": "2026-03-23T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861059100",
+    "title": "Data Scientist",
+    "organization": "National Institutes of Health",
+    "locations": [
+      "Montgomery County, Maryland"
+    ],
+    "description": "These positions are located in the Department of Health and Human Services (DHHS), National Institutes of Health (NIH), within multiple Institutes/Centers. Join one of the 27 Institutes and Centers within the NIH. As a Data Scientist you will be responsible for supporting the organization in meeting its strategic goals and in working with investigators to promote and apply computer methods and tools that advance scientific discovery and promote public health.",
+    "url": "https://www.usajobs.gov/job/861059100",
+    "posted_at": "2026-03-23T00:00:00",
+    "salary": "12-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860998700",
+    "title": "Data Scientist - Data Analyst (Direct Hire)",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Birmingham, Alabama",
+      "Los Angeles, California",
+      "Oakland, California",
+      "San Diego, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Woodlawn, Maryland",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Queens, New York",
+      "Philadelphia, Pennsylvania",
+      "Dallas, Texas"
+    ],
+    "description": "STEM position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/860998700",
+    "posted_at": "2026-03-23T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861956300",
     "title": "Software Engineer - Mid to Experienced Level (Maryland)",
     "organization": "National Security Agency/Central Security Service",
@@ -91,6 +176,20 @@
     "remote": null
   },
   {
+    "job_id": "861773700",
+    "title": "Supervisory Aircraft Pilot",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "Serves as Chief, Aircraft Pilot in the Aviation Safety Office at NASA/Johnson Space Center (JSC), Houston, Texas. Responsible for directing the overall aviation safety program for JSC and the Aircraft Operations Division. Advises and supports line management within Flight Operations Directorate on aviation, ground, and industrial safety issues. The Aviation Safety Office promotes aviation safety measures and uses all resources available to promote mishap prevention.",
+    "url": "https://www.usajobs.gov/job/861773700",
+    "posted_at": "2026-03-20T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861580400",
     "title": "Electrical Engineer (Direct Hire)",
     "organization": "Goddard Space Flight Center",
@@ -105,28 +204,14 @@
     "remote": null
   },
   {
-    "job_id": "861486700",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "George C. Marshall Space Flight Center",
+    "job_id": "861580400",
+    "title": "Electrical Engineer (Direct Hire)",
+    "organization": "Goddard Space Flight Center",
     "locations": [
-      "Huntsville, Alabama"
+      "Wallops Island, Virginia"
     ],
-    "description": "The Office of the Chief Information Officer (OCIO) at Marshall Space Flight Center (MSFC) is seeking applicants for an IT Specialist Technical Integrator. You will serve as a subject matter expert on IT services and delivery in support of the Center. You will work closely with the OCIO Agency Service Lines and in conjunction with Center customers, and within Agency guidelines to ensure effective and efficient delivery of local and Agency services in support of NASA's and MSFC's mission.",
-    "url": "https://www.usajobs.gov/job/861486700",
-    "posted_at": "2026-03-20T00:00:00",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861486700",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "George C. Marshall Space Flight Center",
-    "locations": [
-      "Huntsville, Alabama"
-    ],
-    "description": "The Office of the Chief Information Officer (OCIO) at Marshall Space Flight Center (MSFC) is seeking applicants for an IT Specialist Technical Integrator. You will serve as a subject matter expert on IT services and delivery in support of the Center. You will work closely with the OCIO Agency Service Lines and in conjunction with Center customers, and within Agency guidelines to ensure effective and efficient delivery of local and Agency services in support of NASA's and MSFC's mission.",
-    "url": "https://www.usajobs.gov/job/861486700",
+    "description": "As an electrical utility engineer with Facilities Engineering Branch at Wallops Flight Facility, you will be responsible for overseeing the electrical infrastructure. In this role, you will manage planning, design, and construction efforts required to repair and upgrade electrical infrastructure to meet the mission needs. The incumbent will also support operation and maintenance by consulting on electrical matters.",
+    "url": "https://www.usajobs.gov/job/861580400",
     "posted_at": "2026-03-20T00:00:00",
     "salary": "13-14",
     "grade": null,
@@ -574,20 +659,6 @@
     "remote": null
   },
   {
-    "job_id": "861538800",
-    "title": "Criminal Investigator (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "The OIG Cyber Crimes Division (CCD) conducts complex cybercrime investigations involving NASA and its resources. CCD also provides digital forensics support to criminal, civil, and administrative investigations. This includes planning and executing operations to seize, preserve, and analyze data from IT systems and digital media. Teamwork and collaboration are essential.",
-    "url": "https://www.usajobs.gov/job/861538800",
-    "posted_at": "2026-03-19T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "861486900",
     "title": "Printing Specialist",
     "organization": "Drug Enforcement Administration",
@@ -708,20 +779,6 @@
     "remote": null
   },
   {
-    "job_id": "861562900",
-    "title": "Supervisory IT Specialist (Data Management)",
-    "organization": "Joint Activities",
-    "locations": [
-      "Arlington County, Virginia"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the \"How to Apply\" section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer.",
-    "url": "https://www.usajobs.gov/job/861562900",
-    "posted_at": "2026-03-18T08:00:34.050000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "861592200",
     "title": "Management and Program Analyst ",
     "organization": "Department of State - Agency Wide",
@@ -818,6 +875,34 @@
     "url": "https://www.usajobs.gov/job/861095200",
     "posted_at": "2026-03-18T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861095200",
+    "title": "Information Technology Specialist (Data Management) (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "This position serves as a Data Center Operations Specialist for the NASA Office of the Chief Information Officer (OCIO) Cloud and Computing Service Line at Ames Research Center. This position delivers Data Center Services, including the management and support of on-premises assets, resources, and the physical and virtual infrastructure required to operate enterprise services. In this role, the specialist ensures the reliability, efficiency, and overall effectiveness of Data Center Operations.",
+    "url": "https://www.usajobs.gov/job/861095200",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860886900",
+    "title": "Environmental Protection Specialist (Direct Hire)",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "As the Air Program Specialist, you will develop and manage air permits and compliance requirements supporting propulsion testing and Center operations. You will conduct emissions inventories and monitoring, prepare technical documentation, ensure compliance with the Clean Air Act, and coordinate with regulatory agencies. You will also manage air program projects, support long range environmental planning, and communicate air quality requirements to leadership, tenants, and stakeholders.",
+    "url": "https://www.usajobs.gov/job/860886900",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -948,18 +1033,16 @@
     "remote": null
   },
   {
-    "job_id": "861284700",
-    "title": "IT Cybersecurity Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
+    "job_id": "861218500",
+    "title": "IT Specialist (SysAdmin) - DHA",
+    "organization": "Social Security Administration",
     "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania"
+      "Woodlawn, Maryland"
     ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 New Cumberland, PA: $143,913- $187,093",
-    "url": "https://www.usajobs.gov/job/861284700",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "14-14",
+    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/861218500",
+    "posted_at": "2026-03-16T06:26:20.333000",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1275,21 +1358,6 @@
     "remote": null
   },
   {
-    "job_id": "860229600",
-    "title": "Cloud/Infrastructure Technician - DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "IT Specialist, Cloud/Infrastructure Technician position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860229600",
-    "posted_at": "2026-03-09T08:45:24.660000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860436700",
     "title": "Trial Attorney (Bankruptcy)",
     "organization": "U.S. Trustee Program",
@@ -1346,20 +1414,6 @@
     "remote": null
   },
   {
-    "job_id": "860240500",
-    "title": "Infrastructure Engineer - DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW) Infrastructure Engineer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860240500",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860230400",
     "title": "Database Administrator-DHA",
     "organization": "Social Security Administration",
@@ -1372,39 +1426,6 @@
     ],
     "description": "IT Specialist position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Three\" do not apply.",
     "url": "https://www.usajobs.gov/job/860230400",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860230400",
-    "title": "Database Administrator-DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Three\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860230400",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860215700",
-    "title": "Mainframe/CICS Engineer -- DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860215700",
     "posted_at": "2026-03-09T00:00:00",
     "salary": "14-14",
     "grade": null,
@@ -1440,42 +1461,6 @@
     "url": "https://www.usajobs.gov/job/860204700",
     "posted_at": "2026-03-09T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860204700",
-    "title": "ServiceNow Architect",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860204700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860200700",
-    "title": "Mainframe Storage Engineer -- DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860200700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1685,6 +1670,24 @@
     ],
     "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
     "url": "https://www.usajobs.gov/job/859910400",
+    "posted_at": "2026-03-05T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "859910100",
+    "title": "Mainframe Storage Architect",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Denver, Colorado",
+      "Urbana, Maryland",
+      "Woodlawn, Maryland",
+      "Durham, North Carolina",
+      "Wilkes Barre, Pennsylvania"
+    ],
+    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/859910100",
     "posted_at": "2026-03-05T00:00:00",
     "salary": "15-15",
     "grade": null,
