@@ -304,35 +304,6 @@
     "remote": null
   },
   {
-    "job_id": "862687500",
-    "title": "Registration Program Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Melville, New York",
-      "New York, New York"
-    ],
-    "description": "This position is located in the Drug Enforcement Agency, New York Division. This positions primary purpose is to ensure compliance and registration for all entities authorized to prescribe, manufacture, and/or distribute controlled substances. The incumbents will identify and resolve discrepancies and approve or deny registration applications against established DEA licensing criteria.",
-    "url": "https://www.usajobs.gov/job/862687500",
-    "posted_at": "2026-03-26T10:50:30.640000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862673400",
-    "title": "Mission Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Los Angeles, Caifornia Field Division. This position's primary purpose is to support the Field Division General Service Unit (GSU) Chief, providing overall planning and administration of programs, oversight and leadership to GSU in support of Division leadership.",
-    "url": "https://www.usajobs.gov/job/862673400",
-    "posted_at": "2026-03-26T10:12:50.027000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862673400",
     "title": "Mission Support Specialist",
     "organization": "Drug Enforcement Administration",
@@ -1247,6 +1218,20 @@
     "remote": null
   },
   {
+    "job_id": "861634900",
+    "title": "Scientific Programmer (Computer Scientist)",
+    "organization": "National Telecommunications and Information Administration",
+    "locations": [
+      "Boulder, Colorado"
+    ],
+    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/861634900",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861634400",
     "title": "Scientific Programmer (Computer Scientist)",
     "organization": "National Telecommunications and Information Administration",
@@ -1271,6 +1256,20 @@
     "url": "https://www.usajobs.gov/job/861634400",
     "posted_at": "2026-03-18T00:00:00",
     "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861632800",
+    "title": "Scientific Programmer (Computer Scientist)",
+    "organization": "National Telecommunications and Information Administration",
+    "locations": [
+      "Boulder, Colorado"
+    ],
+    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/861632800",
+    "posted_at": "2026-03-18T00:00:00",
+    "salary": "4-4",
     "grade": null,
     "remote": null
   },

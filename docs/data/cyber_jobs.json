@@ -153,6 +153,20 @@
     "remote": null
   },
   {
+    "job_id": "862997700",
+    "title": "IT Specialist (Data Engineer)",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "This position is located in the Department of Health & Human Services, Centers for Medicare & Medicaid Services, Office of Information Technology, Enterprise Architecture & Data Group, Division of Enterprise Information Management Services. As an IT Spec (Data Mgt) referred here as an IT Specialist (Data Engineer), GS-2210-12, you will design, build, & maintain the infrastructure for collecting, storing, & transforming raw data into accessible, usable information for data scientists.",
+    "url": "https://www.usajobs.gov/job/862997700",
+    "posted_at": "2026-03-27T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "862803100",
     "title": "IT SPECIALIST (INFOSEC/NETWORK)",
     "organization": "Air Force District of Washington",
@@ -949,20 +963,6 @@
     "url": "https://www.usajobs.gov/job/860743000",
     "posted_at": "2026-03-24T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862151900",
-    "title": "Chief Information Officer",
-    "organization": "Federal Mediation and Conciliation Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located within the Federal Mediation and Conciliation Service (FMCS), Headquarters, Office of Information Technology and reports directly to the Chief Operating Officer (COO).",
-    "url": "https://www.usajobs.gov/job/862151900",
-    "posted_at": "2026-03-23T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
