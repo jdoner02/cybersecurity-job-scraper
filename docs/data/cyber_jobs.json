@@ -1,5 +1,75 @@
 [
   {
+    "job_id": "862979000",
+    "title": "IT SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "Naval Facilities Engineering Systems Command",
+    "locations": [
+      "Yokosuka, Japan"
+    ],
+    "description": "You will serve as a IT SPECIALIST (PLCYPLN/INFOSEC) ofNAVAL FAC ENGINEERING CMD FAR EAST . ***ACCESS TO MEDICAL AND DENTAL CARE IN JAPAN IS EXTREMELY LIMITED. Please see Additional Information section below.***",
+    "url": "https://www.usajobs.gov/job/862979000",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "862871000",
+    "title": "ACTIVITY PROGRAM COORDINATOR",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Ramstein, Germany"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the activity leadership for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, fitness program, and others.",
+    "url": "https://www.usajobs.gov/job/862871000",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "862802700",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Cheyenne Mountain AFB, Colorado"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA DISA - FE/IT Services Division.",
+    "url": "https://www.usajobs.gov/job/862802700",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "862730700",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "Travis AFB, California"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS)administrator, drug demand reduction program, and more.",
+    "url": "https://www.usajobs.gov/job/862730700",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "862565700",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Lackland AFB, Texas"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA - FE/Endpoint Services/ Customer Support Div.",
+    "url": "https://www.usajobs.gov/job/862565700",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "862834800",
     "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -91,20 +161,6 @@
     "remote": null
   },
   {
-    "job_id": "862851400",
-    "title": "Computer Scientist (Pathways Recent Graduate) (Honors STEM Program)",
-    "organization": "Federal Communications Commission",
-    "locations": [
-      "District of Columbia, District of Columbia"
-    ],
-    "description": "This is a Recent Graduates position in the Pathways Program. Selected candidates will be placed/appointed at various Bureaus/Offices throughout the Federal Communications Commission (FCC) in Washington, DC. Limited placements may also be available at one of the FCC's Field Office Locations in Boston, New York, Columbia, Atlanta, Miami, New Orleans, Dallas, Los Angeles, San Francisco, Portland, Denver, or Chicago.",
-    "url": "https://www.usajobs.gov/job/862851400",
-    "posted_at": "2026-03-27T09:18:13.663000",
-    "salary": "05-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862850500",
     "title": "IT Specialist (Pathways Recent Graduate) (Honors STEM Program)",
     "organization": "Federal Communications Commission",
@@ -119,26 +175,6 @@
     "remote": null
   },
   {
-    "job_id": "862829200",
-    "title": "Student Trainee (IT/Cyber)",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Washington, District of Columbia",
-      "Macon, Georgia",
-      "Kansas City, Missouri",
-      "Boyers, Pennsylvania",
-      "East Butler, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Norfolk, Virginia"
-    ],
-    "description": "The Office of Personnel Management (OPM) invites students to apply to our Intern positions. The ideal candidates are current Certificate Program, Undergraduate or Graduate students who demonstrate innovation and self-initiative. You will have an opportunity to train and develop your skills in career fields such as human resources, policy, healthcare, insurance, retirement, or information technology and have a positive impact on the people and communities that OPM serves.",
-    "url": "https://www.usajobs.gov/job/862829200",
-    "posted_at": "2026-03-27T06:28:39.380000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862769600",
     "title": "Information Technology Specialist (INFOSEC)",
     "organization": "Office of the Secretary",
@@ -149,20 +185,6 @@
     "url": "https://www.usajobs.gov/job/862769600",
     "posted_at": "2026-03-27T05:12:09.170000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862997700",
-    "title": "IT Specialist (Data Engineer)",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "This position is located in the Department of Health & Human Services, Centers for Medicare & Medicaid Services, Office of Information Technology, Enterprise Architecture & Data Group, Division of Enterprise Information Management Services. As an IT Spec (Data Mgt) referred here as an IT Specialist (Data Engineer), GS-2210-12, you will design, build, & maintain the infrastructure for collecting, storing, & transforming raw data into accessible, usable information for data scientists.",
-    "url": "https://www.usajobs.gov/job/862997700",
-    "posted_at": "2026-03-27T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -383,20 +405,6 @@
     "url": "https://www.usajobs.gov/job/862602600",
     "posted_at": "2026-03-26T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862589000",
-    "title": "TELECOMMUNICATIONS SPECIALIST",
-    "organization": "Air Combat Command",
-    "locations": [
-      "Offutt AFB, Nebraska"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. Primary purpose of this position is to provide technical advice/assistance as it pertains to the Defense Red Switch Network (DRSN); ensure site DRSN and associated system accreditations and Authority to Operate are in accordance with Risk Management Framework guidance or applicable security guidance; and serve as a manager/monitor for site DRSN telecommunications systems.",
-    "url": "https://www.usajobs.gov/job/862589000",
-    "posted_at": "2026-03-26T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -2003,20 +2011,6 @@
     "url": "https://www.usajobs.gov/job/860695000",
     "posted_at": "2026-03-16T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860614100",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is in the Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It is being recruited under 10 U.S.C. 1599f into the Cyber Excepted Service (CES) personnel system. Positions in the Cyber Excepted Service are positions necessary to carry out and support the mission of the United States Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA-RS921.",
-    "url": "https://www.usajobs.gov/job/860614100",
-    "posted_at": "2026-03-16T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
