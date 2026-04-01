@@ -1,66 +1,92 @@
 [
   {
-    "job_id": "863174100",
-    "title": "Deputy Chief Information Officer",
-    "organization": "Immigration and Customs Enforcement",
+    "job_id": "863360100",
+    "title": "Interdisciplinary General Engineer/Physical Scientist",
+    "organization": "Department of Energy - Agency Wide",
     "locations": [
-      "Washington, District of Columbia"
+      "Oak Ridge, Tennessee"
     ],
-    "description": "The Deputy Chief Information Officer (DCIO) is a Senior Executive Service position in the Office of the Chief Information Officer, Management and Administration directorate of U.S. Immigration and Customs Enforcement. The DCIO assists the Chief Information Officer in providing ICE's information technology strategic vision and ensuring alignment with Department of Homeland Security policy.",
-    "url": "https://www.usajobs.gov/job/863174100",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863174100",
-    "title": "Deputy Chief Information Officer",
-    "organization": "Immigration and Customs Enforcement",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Deputy Chief Information Officer (DCIO) is a Senior Executive Service position in the Office of the Chief Information Officer, Management and Administration directorate of U.S. Immigration and Customs Enforcement. The DCIO assists the Chief Information Officer in providing ICE's information technology strategic vision and ensuring alignment with Department of Homeland Security policy.",
-    "url": "https://www.usajobs.gov/job/863174100",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863167900",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Fort Collins, Colorado",
-      "Urbandale, Iowa"
-    ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/863167900",
-    "posted_at": "2026-03-31T00:00:00",
+    "description": "This position is part of the Office of Environmental Management - Oak Ridge Office. As an Interdisciplinary General Engineer/Physical Scientist, you will provide professional engineering or physical science expertise and support to DOE programs, projects or initiatives whose mission or responsibilities include a combination of engineering and physical science work that supports the DOE mission to maintain U.S. preeminence in engineering and scientific technology research and applications.",
+    "url": "https://www.usajobs.gov/job/863360100",
+    "posted_at": "2026-04-01T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "863167900",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
+    "job_id": "863338400",
+    "title": "Attorney-Adviser",
+    "organization": "Headquarters, NASA",
     "locations": [
-      "Fort Collins, Colorado",
-      "Urbandale, Iowa"
+      "Washington, District of Columbia"
     ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/863167900",
-    "posted_at": "2026-03-31T00:00:00",
+    "description": "You will serve as an Attorney-Adviser (Employment and General Law) in the General Law Practice Group, within the NASA Office of the General Counsel (OGC) at NASA Headquarters in Washington, D.C. You will focus on federal employment law, including providing counseling and advice to senior managers and defending judicial and administrative complaints of employment discrimination, with federal sector litigation in multiple venues. You will also perform other general law duties.",
+    "url": "https://www.usajobs.gov/job/863338400",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863330500",
+    "title": "General Engineer, AST, Technical Management",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "Serves as Chief Health and Performance Officer (CHPO) for the EVA and Human Surface Mobility Program (EHP), overseeing the integration of Human Health and Performance Directorate (HHPD) support into the design and implementation of systems, processes, and tools that enable the EHP to achieve its objectives, while also representing the Health and Medical Technical Authority.",
+    "url": "https://www.usajobs.gov/job/863330500",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863296800",
+    "title": "Mechanical Engineer, AST, Mechanical Experimental Equipment",
+    "organization": "John Glenn Research Center at Lewis Field",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "Serves as the Mechanical System Manager for Distributed Institutional Systems & Research Support Mechanical Systems at the Glenn Research Center. Responsibilities include advocacy, planning, designing, developing, operating and maintaining mechanical equipment, and components for the following systems: Central Steam Plant, Central Chiller Plants, Cooling Towers, Domestic Water, Combustion Air, Refrigerated Air, Altitude and Atmospheric Exhaust, Service Air and Lube Oil Systems.",
+    "url": "https://www.usajobs.gov/job/863296800",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863288100",
+    "title": "Management and Program Analyst",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "As a Schedule Analyst within the Strategic Business Integration Office, you will be responsible for creating schedule, cost, and risk products in support of programs and projects at Johnson Space Center. You will be responsible for the Program Integrated Master Schedule and provide guidance and recommendations on schedule related topics. You will be responsible for reporting statuses and ensuring leadership is cognizant of schedule impacts reported by vendor schedule data submissions.",
+    "url": "https://www.usajobs.gov/job/863288100",
+    "posted_at": "2026-04-01T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "863167000",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
+    "job_id": "863285700",
+    "title": "Management and Program Analyst",
+    "organization": "Executive Director, Office of Acquisition, Logistics and Construction",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Office of Acquisition and Logistics (OAL) supports America's Veterans and families by delivering acquisition, logistics, and supply chain business solutions that provide better outcomes and harness technology to assure quality support/services for the VA multi-billion dollar acquisition mission.",
+    "url": "https://www.usajobs.gov/job/863285700",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863058000",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
     "locations": [
       "Salt Lake City, Utah",
       "Seattle, Washington",
@@ -83,43 +109,39 @@
       "Portland, Oregon",
       "Austin, Texas"
     ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/863167000",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "13-13",
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/863058000",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "11-11",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "863167000",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
+    "job_id": "863372800",
+    "title": "Accountant",
+    "organization": "Defense Logistics Agency",
     "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
+      "Whitehall, Ohio",
+      "Fort Belvoir, Virginia"
     ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/863167000",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "13-13",
+    "description": "See below for important information regarding this job. Whitehall, Ohio: $131,245 - $170,624 Fort Belvoir, VA : $143,913 - $187,093",
+    "url": "https://www.usajobs.gov/job/863372800",
+    "posted_at": "2026-03-31T16:39:25.137000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863363100",
+    "title": "Engineering Technician (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Serves in a prototype and development environment supporting the fabrication, assembly, testing, and refinement of ground support equipment and spaceflight hardware. Performs multi-discipline fabrication, including computer numerical control machining, welding, sheet-metal fabrication, fluid-system fabrication, or electrical assembly, to develop hardware that supports NASA's Moon-to-Mars mission.",
+    "url": "https://www.usajobs.gov/job/863363100",
+    "posted_at": "2026-03-31T16:18:38.117000",
+    "salary": "10-12",
     "grade": null,
     "remote": null
   },
@@ -130,10 +152,114 @@
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "The Attorney Advisor position is in the Department of Program Services, Judicial Services Office, Judicial Programs Division (JPD). JPD provides subject matter expertise on legislative, legal, policy, administrative, and operational matters affecting judges and their staffs, and provides support to the Judicial Conference Committee on International Judicial Relations.",
+    "description": "The Attorney Advisor position is in the Department of Program Services, Judicial Services Office (JSO), Judicial Programs Division (JPD). JSO provides support, services, and programs addressing the administrative, governance, and policy needs of federal judges, Article III courts, territorial district courts, Court of Federal Claims, bankruptcy courts, and magistrate judges and their staffs.",
     "url": "https://www.usajobs.gov/job/863149400",
+    "posted_at": "2026-03-31T15:34:58.697000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863225400",
+    "title": "General Attorney",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "OGC attorneys advise JMD and Department management in areas such as appropriations, budget and financial management, agency organizational management, personnel, procurement, access to government records (FOIA and Privacy Act), security, and delegations of authority. OGC attorneys also litigate in administrative forums and assist litigating divisions and U.S. Attorney's Offices (USAOs) when JMD matters are in the federal courts.",
+    "url": "https://www.usajobs.gov/job/863225400",
+    "posted_at": "2026-03-31T09:38:22.590000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863225400",
+    "title": "General Attorney",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "OGC attorneys advise JMD and Department management in areas such as appropriations, budget and financial management, agency organizational management, personnel, procurement, access to government records (FOIA and Privacy Act), security, and delegations of authority. OGC attorneys also litigate in administrative forums and assist litigating divisions and U.S. Attorney's Offices (USAOs) when JMD matters are in the federal courts.",
+    "url": "https://www.usajobs.gov/job/863225400",
+    "posted_at": "2026-03-31T09:38:22.590000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863174100",
+    "title": "Deputy Chief Information Officer",
+    "organization": "Immigration and Customs Enforcement",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Deputy Chief Information Officer (DCIO) is a Senior Executive Service position in the Office of the Chief Information Officer, Management and Administration directorate of U.S. Immigration and Customs Enforcement. The DCIO assists the Chief Information Officer in providing ICE's information technology strategic vision and ensuring alignment with Department of Homeland Security policy.",
+    "url": "https://www.usajobs.gov/job/863174100",
     "posted_at": "2026-03-31T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863167900",
+    "title": "IT Specialist (Enterprise Architecture)",
+    "organization": "Food Safety and Inspection Service",
+    "locations": [
+      "Fort Collins, Colorado",
+      "Urbandale, Iowa"
+    ],
+    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
+    "url": "https://www.usajobs.gov/job/863167900",
+    "posted_at": "2026-03-31T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863167000",
+    "title": "IT Specialist (Enterprise Architecture)",
+    "organization": "Food Safety and Inspection Service",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
+    "url": "https://www.usajobs.gov/job/863167000",
+    "posted_at": "2026-03-31T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863143100",
+    "title": "General Engineer",
+    "organization": "Missile Defense Agency",
+    "locations": [
+      "Redstone Arsenal, Alabama"
+    ],
+    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: ACQDEMO",
+    "url": "https://www.usajobs.gov/job/863143100",
+    "posted_at": "2026-03-31T00:00:00",
+    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -180,6 +306,20 @@
     "remote": null
   },
   {
+    "job_id": "863100800",
+    "title": "Business Information Specialist",
+    "organization": "Export-Import Bank of the United States",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. About this agency",
+    "url": "https://www.usajobs.gov/job/863100800",
+    "posted_at": "2026-03-30T13:02:23.867000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863042600",
     "title": "Chief Artificial Intelligence Officer",
     "organization": "Federal Housing Finance Agency",
@@ -190,34 +330,6 @@
     "url": "https://www.usajobs.gov/job/863042600",
     "posted_at": "2026-03-30T12:34:04.763000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863048800",
-    "title": "Development Program (C2DP) / Cryptanalytic Computer Scientist - Entry Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA's development programs help employees enhance their skills and improve their understanding of a specific discipline. The programs are generally three years long and feature rotational tours throughout the Agency. Designed for entry to mid-level employees, development program participants are afforded the opportunity to receive tailored training, often with a cohort, and multiple assignments across Agency Directorates to develop skills and experience to ground their career at the NSA.",
-    "url": "https://www.usajobs.gov/job/863048800",
-    "posted_at": "2026-03-30T10:17:47.020000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863048800",
-    "title": "Development Program (C2DP) / Cryptanalytic Computer Scientist - Entry Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA's development programs help employees enhance their skills and improve their understanding of a specific discipline. The programs are generally three years long and feature rotational tours throughout the Agency. Designed for entry to mid-level employees, development program participants are afforded the opportunity to receive tailored training, often with a cohort, and multiple assignments across Agency Directorates to develop skills and experience to ground their career at the NSA.",
-    "url": "https://www.usajobs.gov/job/863048800",
-    "posted_at": "2026-03-30T10:17:47.020000",
-    "salary": "7-9",
     "grade": null,
     "remote": null
   },
@@ -284,16 +396,16 @@
     "remote": null
   },
   {
-    "job_id": "862944800",
-    "title": "Lead Contract Specialist",
-    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "job_id": "862912000",
+    "title": "Senior Technical Information Specialist",
+    "organization": "Drug Enforcement Administration",
     "locations": [
-      "Bay Saint Louis, Mississippi"
+      "El Paso County, Texas"
     ],
-    "description": "Seeking an individual to serve as a Lead Contract Specialist within the Grants Activities Branch of the Procurement Services Division. You will be responsible for providing leadership, oversight, and expert guidance in the administration of a diverse portfolio of Federal financial assistance instruments to a team of procurement professionals operating under the full lifecycle of grants and cooperative agreements, ensuring compliance with applicable statutes, regulations, and agency policies.",
-    "url": "https://www.usajobs.gov/job/862944800",
+    "description": "This position is located in the Drug Enforcement Administration (DEA), El Paso Intelligence Division, El Paso, Texas. The purpose of this position is to provide intelligence and support to all Federal, State, Local, and tribal law enforcement throughthe EPIC Watch, the National License Plate Reader Program, the National Seizure System, and OperationFountainhead.",
+    "url": "https://www.usajobs.gov/job/862912000",
     "posted_at": "2026-03-30T00:00:00",
-    "salary": "14-14",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -475,48 +587,6 @@
     "remote": null
   },
   {
-    "job_id": "862549000",
-    "title": "Supervisory Information Technology Specialist",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "Serves as the Chief of the Customer Engagement Office for Office of the CIO at NASA Kennedy Space Center. Leads the Center CIO Customer Engagement Office for the KSC Center CIO Office. Partners with Center Customers, OCIO Service Lines, and Agency Level Offices to ensure successful delivery of IT services to Center programs, projects, missions and mission support customers. Partners to obtain resources, identifies strategic organizational objectives and defines technical requirements.",
-    "url": "https://www.usajobs.gov/job/862549000",
-    "posted_at": "2026-03-27T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862386400",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "Ames Research Center",
-    "locations": [
-      "Moffett Field, California"
-    ],
-    "description": "As an Information Technology (IT) Specialist in the NASA Ames Research Center IT Directorate's office, you will be responsible for supporting the following duties: Service integration; customer relationships; strategic communications; Center planning committees representation; partnerships and agreements management; and other IT Specialist duties as assigned in the areas of CCIO Business Management, Customer Engagement, Service Integration and Center Delivered Services.",
-    "url": "https://www.usajobs.gov/job/862386400",
-    "posted_at": "2026-03-27T00:00:00",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862386400",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "Ames Research Center",
-    "locations": [
-      "Moffett Field, California"
-    ],
-    "description": "As an Information Technology (IT) Specialist in the NASA Ames Research Center IT Directorate's office, you will be responsible for supporting the following duties: Service integration; customer relationships; strategic communications; Center planning committees representation; partnerships and agreements management; and other IT Specialist duties as assigned in the areas of CCIO Business Management, Customer Engagement, Service Integration and Center Delivered Services.",
-    "url": "https://www.usajobs.gov/job/862386400",
-    "posted_at": "2026-03-27T00:00:00",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862796400",
     "title": "Supervisory Intelligence Research Specialist (Section Chief)",
     "organization": "Drug Enforcement Administration",
@@ -527,36 +597,6 @@
     "description": "These positions are located in the Drug Enforcement Administration (DEA) Intelligence Division in the following areas: - Intelligence Division, Office of Special Intelligence, Data Management Section (NSD) in Merrifield, VA. - Intelligence Division, Office of Special Intelligence, Investigative Support Section (NSI) in Chantilly, VA.",
     "url": "https://www.usajobs.gov/job/862796400",
     "posted_at": "2026-03-26T16:02:35.733000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862796400",
-    "title": "Supervisory Intelligence Research Specialist (Section Chief)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia",
-      "Merrifield, Virginia"
-    ],
-    "description": "These positions are located in the Drug Enforcement Administration (DEA) Intelligence Division in the following areas: - Intelligence Division, Office of Special Intelligence, Data Management Section (NSD) in Merrifield, VA. - Intelligence Division, Office of Special Intelligence, Investigative Support Section (NSI) in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/862796400",
-    "posted_at": "2026-03-26T16:02:35.733000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862792900",
-    "title": "Supervisory Intelligence Research Specialist (Section Chief)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia",
-      "Merrifield, Virginia"
-    ],
-    "description": "These positions are located in the Drug Enforcement Administration (DEA) Intelligence Division in the following areas: - Intelligence Division, Office of Special Intelligence, Data Management Section (NSD) in Merrifield, VA. - Intelligence Division, Office of Special Intelligence, Investigative Support Section (NSI) in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/862792900",
-    "posted_at": "2026-03-26T15:58:20.083000",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -607,25 +647,17 @@
     "remote": null
   },
   {
-    "job_id": "862654300",
-    "title": "DIGITAL SERVICES EXPERT (APPSW/INFOSEC)",
-    "organization": "Securities and Exchange Commission",
+    "job_id": "862687500",
+    "title": "Registration Program Specialist",
+    "organization": "Drug Enforcement Administration",
     "locations": [
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas"
+      "Melville, New York",
+      "New York, New York"
     ],
-    "description": "The Securities and Exchange Commission is seeking Digital Service Experts to join the Office of Information Technology (OIT) or Division of Economic and Risk Analysis (DERA). Ideal candidates should possess deep expertise in modern Agile software development, securing systems, customer experience, DevSecOps, user research, cloud architecture, and other related disciplines. Strong people skills in dealing with a variety of different customers will also be essential.",
-    "url": "https://www.usajobs.gov/job/862654300",
-    "posted_at": "2026-03-26T11:01:55.840000",
-    "salary": "14-14",
+    "description": "This position is located in the Drug Enforcement Agency, New York Division. This positions primary purpose is to ensure compliance and registration for all entities authorized to prescribe, manufacture, and/or distribute controlled substances. The incumbents will identify and resolve discrepancies and approve or deny registration applications against established DEA licensing criteria.",
+    "url": "https://www.usajobs.gov/job/862687500",
+    "posted_at": "2026-03-26T10:50:30.640000",
+    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -645,6 +677,52 @@
     "remote": null
   },
   {
+    "job_id": "862654300",
+    "title": "DIGITAL SERVICES EXPERT (APPSW/INFOSEC)",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas"
+    ],
+    "description": "The Securities and Exchange Commission is seeking Digital Service Experts to join the Office of Information Technology (OIT) or Division of Economic and Risk Analysis (DERA). Ideal candidates should possess deep expertise in modern Agile software development, securing systems, customer experience, DevSecOps, user research, cloud architecture, and other related disciplines. Strong people skills in dealing with a variety of different customers will also be essential.",
+    "url": "https://www.usajobs.gov/job/862654300",
+    "posted_at": "2026-03-26T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "862654300",
+    "title": "DIGITAL SERVICES EXPERT (APPSW/INFOSEC)",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas"
+    ],
+    "description": "The Securities and Exchange Commission is seeking Digital Service Experts to join the Office of Information Technology (OIT) or Division of Economic and Risk Analysis (DERA). Ideal candidates should possess deep expertise in modern Agile software development, securing systems, customer experience, DevSecOps, user research, cloud architecture, and other related disciplines. Strong people skills in dealing with a variety of different customers will also be essential.",
+    "url": "https://www.usajobs.gov/job/862654300",
+    "posted_at": "2026-03-26T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "862532300",
     "title": "Human Resources Specialist",
     "organization": "Headquarters, NASA",
@@ -655,6 +733,20 @@
     "url": "https://www.usajobs.gov/job/862532300",
     "posted_at": "2026-03-26T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "862455000",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "San Diego, California"
+    ],
+    "description": "This position is located in the DEA, San Diego Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/862455000",
+    "posted_at": "2026-03-26T00:00:00",
+    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -736,16 +828,16 @@
     "remote": null
   },
   {
-    "job_id": "862493200",
+    "job_id": "862493500",
     "title": "Deputy National Intelligence Officer for Emerging & Disruptive Technologies",
     "organization": "Office of the Director of National Intelligence",
     "locations": [
       "McLean, Virginia"
     ],
     "description": "The Office of the Director of National Intelligence (ODNI) Directorate for Mission Integration (MI) creates a consistent and holistic view of intelligence from collection to analysis and serves as the Director of National Intelligence's (DNI) principal advisor on all aspects of intelligence. MI integrates mission capabilities, informs enterprise resource and policy decisions, and ensures the delivery of timely, objective, accurate, and relevant intelligence.",
-    "url": "https://www.usajobs.gov/job/862493200",
-    "posted_at": "2026-03-25T10:55:17.093000",
-    "salary": "13-14",
+    "url": "https://www.usajobs.gov/job/862493500",
+    "posted_at": "2026-03-25T10:56:00.427000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -764,16 +856,16 @@
     "remote": null
   },
   {
-    "job_id": "862467500",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Department of the Air Force - Agency Wide",
+    "job_id": "862456000",
+    "title": "Evidence Control Specialist",
+    "organization": "Drug Enforcement Administration",
     "locations": [
-      "Lackland AFB, Texas"
+      "San Diego, California"
     ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as an experienced, Senior-skill-level defensive cyberspace operations technical expert and Cyberspace Protection Team (CPT) Mission Element crew member supporting tasked Service, Combatant Command and National Agency partners.",
-    "url": "https://www.usajobs.gov/job/862467500",
-    "posted_at": "2026-03-25T09:35:40.037000",
-    "salary": "13-13",
+    "description": "This position is located in the DEA, San Diego, California Field Division. This position(s) primary purpose is to oversee and manage the life cycle of all seized evidence which includes non-drug, drug, bulk, and highvalue seized assets for the Field Division Office (FDO), District Offices (DO), Resident Offices (RO), Posts of Duty (POD), and non-diversion/diversion evidence.",
+    "url": "https://www.usajobs.gov/job/862456000",
+    "posted_at": "2026-03-25T08:43:30.237000",
+    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -806,30 +898,16 @@
     "remote": null
   },
   {
-    "job_id": "862524000",
-    "title": "Scientific AI Metrologist",
-    "organization": "National Institute of Standards and Technology",
+    "job_id": "862453900",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
     "locations": [
-      "Gaithersburg, Maryland"
+      "San Diego, California"
     ],
-    "description": "This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
-    "url": "https://www.usajobs.gov/job/862524000",
-    "posted_at": "2026-03-25T00:00:00",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862524000",
-    "title": "Scientific AI Metrologist",
-    "organization": "National Institute of Standards and Technology",
-    "locations": [
-      "Gaithersburg, Maryland"
-    ],
-    "description": "This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
-    "url": "https://www.usajobs.gov/job/862524000",
-    "posted_at": "2026-03-25T00:00:00",
-    "salary": "3-3",
+    "description": "This position is located in the Drug Enforcement Administration (DEA), San Diego Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/862453900",
+    "posted_at": "2026-03-25T08:35:43.773000",
+    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -848,72 +926,16 @@
     "remote": null
   },
   {
-    "job_id": "862207600",
-    "title": "Aerospace Engineer, AST, Environmental Control Systems",
-    "organization": "Lyndon B. Johnson Space Center",
+    "job_id": "862308900",
+    "title": "Supervisory Intelligence Research Specialist",
+    "organization": "Department of Energy - Agency Wide",
     "locations": [
-      "Houston, Texas"
+      "Denver, Colorado"
     ],
-    "description": "As the Intravehicular Activity (IVA) Suit Lead for Commercial Crew within the Crew and Thermal Systems Division, Space Suit and Crew Survival Systems Branch, you will be responsible for systems management, project management, and technical expertise in the area of IVA launch, entry, and abort space suit systems. You will lead a team of highly skilled engineers and be recognized as an expert by programmatic and engineering management.",
-    "url": "https://www.usajobs.gov/job/862207600",
+    "description": "This position is located within the Department of Energy's (DOE) Office of Intelligence and Counterintelligence (DOE-IN), Cyber Analysis Division of the Cyber Intelligence Directorate. The Office plays a major role in defending the DOE complex against foreign penetration, including espionage, sabotage, cyber intrusion, theft of nuclear materials, and technology and intellectual property. This position is the Pursuit Branch Chief within the Cyber Special Programs Division.",
+    "url": "https://www.usajobs.gov/job/862308900",
     "posted_at": "2026-03-25T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862175100",
-    "title": "Safety and Occupational Health Manager",
-    "organization": "Armstrong Flight Research Center",
-    "locations": [
-      "Edwards AFB, California"
-    ],
-    "description": "As a Supervisory Institutional Safety Branch Chief, you will oversee a portfolio of institutional safety programs supporting facilities, construction, and operational activities. You will lead a team of safety professionals, strengthening safety culture, integrating safety into mission operations, and advancing institutional risk management to support safe and effective mission outcomes.",
-    "url": "https://www.usajobs.gov/job/862175100",
-    "posted_at": "2026-03-25T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862301500",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Murfreesboro, Tennessee"
-    ],
-    "description": "This is a full performance level, non-supervisory position, located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/862301500",
-    "posted_at": "2026-03-24T10:39:41.663000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862291200",
-    "title": "General Engineer",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA) in either of the these two offices: (1) Office of National Security Controls; or (2) Office of Nonproliferation and Foreign Policy Controls If interested, you are encouraged to apply!",
-    "url": "https://www.usajobs.gov/job/862291200",
-    "posted_at": "2026-03-24T10:12:04.153000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862286800",
-    "title": "General Engineer",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA) in either of the these two offices: (1) Office of National Security Controls; or (2) Office of Nonproliferation and Foreign Policy Controls If interested, you are encouraged to apply!",
-    "url": "https://www.usajobs.gov/job/862286800",
-    "posted_at": "2026-03-24T10:00:56.917000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -979,30 +1001,31 @@
     "remote": null
   },
   {
-    "job_id": "861790300",
-    "title": "Research Scientist / Computer Systems Researcher - Mid to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
+    "job_id": "860998700",
+    "title": "Data Scientist - Data Analyst (Direct Hire)",
+    "organization": "Social Security Administration",
     "locations": [
-      "Fort Meade, Maryland"
+      "Birmingham, Alabama",
+      "Los Angeles, California",
+      "Oakland, California",
+      "San Diego, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Woodlawn, Maryland",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Queens, New York",
+      "Philadelphia, Pennsylvania",
+      "Dallas, Texas"
     ],
-    "description": "NSA is in search of Computer Science professionals to solve complex problems, test innovative approaches and research new solutions to storing, manipulating, and presenting information. We are looking for you to apply your computer science expertise to projects that seek to create new standards for the transformation of information. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1255411",
-    "url": "https://www.usajobs.gov/job/861790300",
-    "posted_at": "2026-03-19T11:33:25.277000",
-    "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861761100",
-    "title": "Director, Office of Safety & Mission Assurance",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "The Director, Safety & Mission Assurance (S&MA) is responsible for managing and directing the safety and product assurance activities for all Agency human spaceflight activities at the Stennis Space Center (SSC), such as the International Space Station, Space Launch System, Commercial Orbital Transportation Systems, and Commercial Crew Development Programs, etc., as well as Research and Development activities, Range Management and Industrial Operations.",
-    "url": "https://www.usajobs.gov/job/861761100",
-    "posted_at": "2026-03-19T10:10:08.530000",
-    "salary": "00-00",
+    "description": "STEM position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/860998700",
+    "posted_at": "2026-03-23T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1049,6 +1072,20 @@
     "remote": null
   },
   {
+    "job_id": "861556800",
+    "title": "Security Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence, Mission Support Directorate, Security Division. As a Security Specialist, you will be responsible for intelligence security oversight for the Department of Energy; ensuring a secure environment for intelligence information in support of DOE and other National Security programs and policies.",
+    "url": "https://www.usajobs.gov/job/861556800",
+    "posted_at": "2026-03-19T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "861588400",
     "title": "Microelectronics Manager",
     "organization": "Office of the Director of National Intelligence",
@@ -1063,44 +1100,30 @@
     "remote": null
   },
   {
-    "job_id": "861634900",
-    "title": "Scientific Programmer (Computer Scientist)",
-    "organization": "National Telecommunications and Information Administration",
+    "job_id": "861588400",
+    "title": "Microelectronics Manager",
+    "organization": "Office of the Director of National Intelligence",
     "locations": [
-      "Boulder, Colorado"
+      "McLean, Virginia"
     ],
-    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
-    "url": "https://www.usajobs.gov/job/861634900",
-    "posted_at": "2026-03-18T00:00:00",
-    "salary": "4-4",
+    "description": "The Policy & Capabilities Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. Comprised of 7 organizations, PC oversees IC Human Capital; Acquisition, Procurement & Facilities; Intelligence Advance Research Projects Activity; Science & Technology Group; Requirements, Cost & Effectiveness; Policy & Strategy; and Data and Partnership Interoperability.",
+    "url": "https://www.usajobs.gov/job/861588400",
+    "posted_at": "2026-03-18T09:46:08.493000",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "861634400",
-    "title": "Scientific Programmer (Computer Scientist)",
-    "organization": "National Telecommunications and Information Administration",
+    "job_id": "861475400",
+    "title": "Trial Attorney (Employment Law)",
+    "organization": "U.S. Trustee Program",
     "locations": [
-      "Boulder, Colorado"
+      "Washington, District of Columbia"
     ],
-    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
-    "url": "https://www.usajobs.gov/job/861634400",
-    "posted_at": "2026-03-18T00:00:00",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861632800",
-    "title": "Scientific Programmer (Computer Scientist)",
-    "organization": "National Telecommunications and Information Administration",
-    "locations": [
-      "Boulder, Colorado"
-    ],
-    "description": "This vacancy is for a Scientific Programmer (Computer Scientist) in the National Telecommunications and Information Administration within the Department of Commerce.",
-    "url": "https://www.usajobs.gov/job/861632800",
-    "posted_at": "2026-03-18T00:00:00",
-    "salary": "4-4",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Employment Law) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-employment-law-2",
+    "url": "https://www.usajobs.gov/job/861475400",
+    "posted_at": "2026-03-17T13:35:02.313000",
+    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -1171,6 +1194,20 @@
     "url": "https://www.usajobs.gov/job/861047700",
     "posted_at": "2026-03-13T07:50:08.577000",
     "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "860830700",
+    "title": "Trial Attorney",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney, GS-0905-14/15 | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-gs-0905-1415",
+    "url": "https://www.usajobs.gov/job/860830700",
+    "posted_at": "2026-03-11T16:24:16.053000",
+    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -1553,39 +1590,6 @@
     "url": "https://www.usajobs.gov/job/859907200",
     "posted_at": "2026-03-05T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859371300",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/859371300",
-    "posted_at": "2026-03-01T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   }
