@@ -1,5 +1,20 @@
 [
   {
+    "job_id": "863920400",
+    "title": "Criminal Investigator",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Phoenix, Arizona",
+      "Manassas, Virginia"
+    ],
+    "description": "This vacancy is for a Criminal Investigator in the Bureau of Industry and Security within the Department of Commerce.",
+    "url": "https://www.usajobs.gov/job/863920400",
+    "posted_at": "2026-04-03T15:23:13.543000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863113300",
     "title": "SUPERVISORY IT SPECIALIST (PLCYPLN/INFOSEC)",
     "organization": "Bureau of Naval Personnel",
@@ -10,6 +25,20 @@
     "url": "https://www.usajobs.gov/job/863113300",
     "posted_at": "2026-04-03T14:55:00.177000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863793000",
+    "title": "IT Program Manager (Enterprise Architect and Information Security)",
+    "organization": "Federal Acquisition Service",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "As a IT Program Manager, you will responsible for leading program management and providing IT technical expertise necessary to ensure that FAS IT products and services meet IT solutions and security requirements in response to Government needs. Location of position: This position is located in Washington DC. We are currently filling two vacancy, but additional vacancies may be filled as needed.",
+    "url": "https://www.usajobs.gov/job/863793000",
+    "posted_at": "2026-04-03T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -168,6 +197,20 @@
     "remote": null
   },
   {
+    "job_id": "862946300",
+    "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/DATAMGT)",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "Cherry Point, North Carolina"
+    ],
+    "description": "You will serve as a SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/DATAMGT) in the Fleet Readiness Center (COMFRE) of FLTREADCEN EAST.",
+    "url": "https://www.usajobs.gov/job/862946300",
+    "posted_at": "2026-04-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863768100",
     "title": "Assistant Chief Information Officer for Infrastructure Services",
     "organization": "Offices, Boards and Divisions",
@@ -249,20 +292,6 @@
     "url": "https://www.usajobs.gov/job/863616200",
     "posted_at": "2026-04-02T09:01:27.063000",
     "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863613700",
-    "title": "Cybersecurity Engineering Development Program (CSEDP) Software Engineer - Entry Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "The Cybersecurity Engineering Development Program (CSEDP) is a U.S. Government program designed to develop participants in the evolving area of cybersecurity, while developing leadership and communication skills, to meet existing and emerging cryptographic mission demands. It is an entry level development program targeting tomorrow's cybersecurity software engineers. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1254773",
-    "url": "https://www.usajobs.gov/job/863613700",
-    "posted_at": "2026-04-02T08:50:32.920000",
-    "salary": "7-9",
     "grade": null,
     "remote": null
   },
@@ -864,41 +893,6 @@
     "remote": null
   },
   {
-    "job_id": "862834800",
-    "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA IT/IT3615.",
-    "url": "https://www.usajobs.gov/job/862834800",
-    "posted_at": "2026-03-28T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862894500",
-    "title": "IT Cybersecurity Specialist (INFOSEC)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $89,508 - $ 116,362 Columbus, OH: $93,400 - $121,422 Dayton, OH: $92,841- $120,696 Fort Belvoir, VA: $102,415- $133,142 New Cumberland, PA: $102,415- $133,142 Ogden, UT: $89,508 - $ 116,362 Philadelphia, PA: $98,630- $128,221 Richmond, VA: $93,499- $121,551",
-    "url": "https://www.usajobs.gov/job/862894500",
-    "posted_at": "2026-03-27T11:54:40.383000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862868400",
     "title": "IT Cybersecurity Specialist (INFOSEC)",
     "organization": "Patent and Trademark Office",
@@ -1013,6 +1007,20 @@
     "url": "https://www.usajobs.gov/job/862731600",
     "posted_at": "2026-03-27T00:00:00",
     "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "862715800",
+    "title": "MANAGER",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Naval Business Center, Philadelphia, Pennsylvania"
+    ],
+    "description": "You will serve as a Head of Code 521 Ship Controls, Carrier Branch Manager of NSWC PHILA DIV. .",
+    "url": "https://www.usajobs.gov/job/862715800",
+    "posted_at": "2026-03-26T12:25:39.017000",
+    "salary": "5-5",
     "grade": null,
     "remote": null
   },
@@ -1439,20 +1447,6 @@
     "url": "https://www.usajobs.gov/job/860040900",
     "posted_at": "2026-03-06T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "859750900",
-    "title": "COBOL Developer",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW) COBOL Developer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/859750900",
-    "posted_at": "2026-03-05T09:34:13.637000",
-    "salary": "14-15",
     "grade": null,
     "remote": null
   }
