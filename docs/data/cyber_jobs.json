@@ -1,16 +1,141 @@
 [
   {
-    "job_id": "863920400",
-    "title": "Criminal Investigator",
-    "organization": "Bureau of Industry and Security",
+    "job_id": "863913800",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
     "locations": [
-      "Phoenix, Arizona",
-      "Manassas, Virginia"
+      "Wright-Patterson AFB, Ohio"
     ],
-    "description": "This vacancy is for a Criminal Investigator in the Bureau of Industry and Security within the Department of Commerce.",
-    "url": "https://www.usajobs.gov/job/863920400",
-    "posted_at": "2026-04-03T15:23:13.543000",
-    "salary": "13-14",
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, Government Purchase Card (GPC) program, and others.",
+    "url": "https://www.usajobs.gov/job/863913800",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863889500",
+    "title": "Senior IT Cybersecurity Specialist, CG-2210-15",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Chief Information Officer Organization (CIOO), Office of the Chief Information Security Officer, Security Engineering and Architecture Section of the Federal Deposit Insurance Corporation and is responsible for implementing IT and cybersecurity projects, planning and policy management. Additional selections may be made from this vacancy announcement to fill similar vacancies that occur subsequent to this announcement.",
+    "url": "https://www.usajobs.gov/job/863889500",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863885300",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "United States Space Force",
+    "locations": [
+      "Schriever AFB, Colorado"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS), Government Purchase Card (GPC) program, and unit recognition program.",
+    "url": "https://www.usajobs.gov/job/863885300",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863865000",
+    "title": "Biomedical Equipment Support Specialist (Intensive Care)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Palo Alto, California"
+    ],
+    "description": "This position serves as a Biomedical Equipment Support Specialist (BESS) specialized in intensive care, high-risk, or surgical equipment within a Healthcare Technology Management (HTM) department at a VA facility Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains life-support, high-risk surgical, or intensive care medical equipment and clinical systems.",
+    "url": "https://www.usajobs.gov/job/863865000",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863860500",
+    "title": "IT SPECIALIST (APPSW)",
+    "organization": "U.S. Army Military Surface Deployment and Distribution Command",
+    "locations": [
+      "Scott AFB, Illinois"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Incumbent is an Information Technology Specialist for acquisition and contract administration of technology systems, supplies and professional and telecommunication services. Determines acquisition strategy for IT contracts using procurement methods. Located in Chicago, IL.",
+    "url": "https://www.usajobs.gov/job/863860500",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863858200",
+    "title": "Legislative Affairs Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Cybersecurity, Energy Security and Emergency Response, Department of Energy. As a Legislative Affairs Specialist, you will be providing staff expertise to Departmental officials to advise and assist them in working with Members, personal office staffs, and Committees of Congress to ensure the exchange of information between the Department and the Congress.",
+    "url": "https://www.usajobs.gov/job/863858200",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863850300",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Andersen Air Base, Guam"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and others.",
+    "url": "https://www.usajobs.gov/job/863850300",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863802500",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Force Global Strike Command",
+    "locations": [
+      "Minot AFB, North Dakota"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, and drug demand reduction program.",
+    "url": "https://www.usajobs.gov/job/863802500",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863757900",
+    "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (SECURITY)",
+    "organization": "Commander, Navy Installations Command",
+    "locations": [
+      "Bremerton, Washington"
+    ],
+    "description": "You will serve as a SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (SECURITY) in the IT Department of COMMANDER, NAVY REGION NORTHWEST.",
+    "url": "https://www.usajobs.gov/job/863757900",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863552900",
+    "title": "Program Examiner (National Security)",
+    "organization": "Office of Management and Budget",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "As a senior expert in OMB's National Security Division (Intelligence Programs Branch), the Program Examiner leads analyses on budget, legislative, and management issues for major federal programs. The incumbent supports the President in overseeing the federal budget for defense and intelligence programs, conducting special studies to guide financial management, procurement, and policy work.",
+    "url": "https://www.usajobs.gov/job/863552900",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -25,20 +150,6 @@
     "url": "https://www.usajobs.gov/job/863113300",
     "posted_at": "2026-04-03T14:55:00.177000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863793000",
-    "title": "IT Program Manager (Enterprise Architect and Information Security)",
-    "organization": "Federal Acquisition Service",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As a IT Program Manager, you will responsible for leading program management and providing IT technical expertise necessary to ensure that FAS IT products and services meet IT solutions and security requirements in response to Government needs. Location of position: This position is located in Washington DC. We are currently filling two vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/863793000",
-    "posted_at": "2026-04-03T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -193,20 +304,6 @@
     "url": "https://www.usajobs.gov/job/863578900",
     "posted_at": "2026-04-03T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862946300",
-    "title": "SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/DATAMGT)",
-    "organization": "Naval Air Systems Command",
-    "locations": [
-      "Cherry Point, North Carolina"
-    ],
-    "description": "You will serve as a SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (PLCYPLN/DATAMGT) in the Fleet Readiness Center (COMFRE) of FLTREADCEN EAST.",
-    "url": "https://www.usajobs.gov/job/862946300",
-    "posted_at": "2026-04-03T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1011,20 +1108,6 @@
     "remote": null
   },
   {
-    "job_id": "862715800",
-    "title": "MANAGER",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Naval Business Center, Philadelphia, Pennsylvania"
-    ],
-    "description": "You will serve as a Head of Code 521 Ship Controls, Carrier Branch Manager of NSWC PHILA DIV. .",
-    "url": "https://www.usajobs.gov/job/862715800",
-    "posted_at": "2026-03-26T12:25:39.017000",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862698900",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Contract Management Agency",
@@ -1054,20 +1137,6 @@
     "url": "https://www.usajobs.gov/job/862698900",
     "posted_at": "2026-03-26T11:38:15.110000",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862750100",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Defense Human Resources Activity",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This position is part of the Defense Human Resources Activity, Defense Human Resources Activity. The incumbent will be responsible for performing Information Assurance (IA) computer-related duties and administration associated with the DMDC central local area network (LAN) and wide area network (WAN) infrastructures including ensuring the efficient integration between systems as well as compatibility of related applications and systems.",
-    "url": "https://www.usajobs.gov/job/862750100",
-    "posted_at": "2026-03-26T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1307,20 +1376,6 @@
     "remote": null
   },
   {
-    "job_id": "861780400",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Dam Neck Naval Facility, Virginia Beach, Virginia"
-    ],
-    "description": "You will serve as an IT SPECIALIST (INFOSEC) in the RANGE SYSTEMS ENGINEERING of NAVAL SURFACE WARFARE CTR CORONA DIV.",
-    "url": "https://www.usajobs.gov/job/861780400",
-    "posted_at": "2026-03-23T00:00:00",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862009800",
     "title": "INTELLIGENCE OPERATIONS SPECIALIST (CYBER)",
     "organization": "Defense Threat Reduction Agency",
@@ -1387,66 +1442,6 @@
     "url": "https://www.usajobs.gov/job/860695000",
     "posted_at": "2026-03-16T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861145800",
-    "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN)",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: AcqDemo This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command. The incumbent will be responsible for ** Serves as a Cyber Operations Planner within the USTRANSCOM Command, Control, Communications and Cyber Systems Directorate.",
-    "url": "https://www.usajobs.gov/job/861145800",
-    "posted_at": "2026-03-13T13:51:26.270000",
-    "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860289600",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "Reno, Nevada"
-    ],
-    "description": "This position is for a IT SPECIALIST (INFOSEC), PD# D2178P01, part of the Nevada Air National Guard. The purpose of this position is to serve as the Base Information Assurance Manager who is the wing commander's authority and focal point for Information Assurance. Manages the communication-computer security (COMPUSEC) program, Electronic Key Management System (EKMS), Emission Security, and Information Assurance Awareness Programs.",
-    "url": "https://www.usajobs.gov/job/860289600",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860088900",
-    "title": "Attorney Advisor(International)(Public Notice Flyer)",
-    "organization": "Office of the Secretary",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Commercial Law Development Program (CLDP) of the Office of the General Counsel, U.S. Department of Commerce, is seeking an individual with exceptional analytical, organizational, and interpersonal communication skills to join our team of international technical assistance Attorney-Advisors to engage in legal reform work related to telecommunications and the information and communication technology (ICT) sector, under the Digital Connectivity and Cybersecurity Partnership (DCCP).",
-    "url": "https://www.usajobs.gov/job/860088900",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860040900",
-    "title": "Network Architect-DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist (APPSW) Network Architect positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860040900",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   }

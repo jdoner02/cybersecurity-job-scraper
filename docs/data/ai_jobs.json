@@ -1,5 +1,96 @@
 [
   {
+    "job_id": "863910200",
+    "title": "Health Physicist",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "You will serve as the Radiation Safety Officer in the Occupational Safety, Health and Medical Services Division at NASA Ames Research Center. In this role, you will collaborate with scientists and engineers whose research involves the use of radioisotopes, X-ray generating equipment, high energy lasers, and other non-ionizing radiation sources to ensure that the research can be performed safely and in compliance with applicable regulations and NASA policies.",
+    "url": "https://www.usajobs.gov/job/863910200",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863858200",
+    "title": "Legislative Affairs Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Cybersecurity, Energy Security and Emergency Response, Department of Energy. As a Legislative Affairs Specialist, you will be providing staff expertise to Departmental officials to advise and assist them in working with Members, personal office staffs, and Committees of Congress to ensure the exchange of information between the Department and the Congress.",
+    "url": "https://www.usajobs.gov/job/863858200",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863800600",
+    "title": "Human Resources Business Partner",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Golden, Colorado",
+      "Washington, District of Columbia",
+      "Cincinnati, Ohio",
+      "Oak Ridge, Tennessee"
+    ],
+    "description": "This position is part of the Department Of Energy's Office of the Chief Human Capital Office, Office of HR Operations & Client Services in the Talent Operations Division. As a Human Resources Business Partner, you will provide strategic Human Resource management expertise and support to one or more DOE organization(s). You will work closely with Program Office management providing advisory services that aid in the development of human capital (HC) strategies and programs.",
+    "url": "https://www.usajobs.gov/job/863800600",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863658200",
+    "title": "General Engineer, AST, Technical Management",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Serves as a technical leader responsible for the overall direction of payload integration, ensuring successful execution through coordination with Government and commercial partners in support of NASA's Artemis Missions.",
+    "url": "https://www.usajobs.gov/job/863658200",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863571400",
+    "title": "Environmental Engineer",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Pasadena, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "New Orleans, Louisiana",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "New York, New York",
+      "Cleveland, Ohio",
+      "Sandusky, Ohio",
+      "Houston, Texas",
+      "Palestine, Texas",
+      "Hampton, Virginia",
+      "Wallops Island, Virginia",
+      "Fairmont, West Virginia"
+    ],
+    "description": "As the Agency's senior lead for hazardous materials and risk management, you provide technical leadership, policy direction, and compliance oversight. You guide Agency risk evaluations, integrate hazardous materials requirements into mission planning, and support leadership in addressing regulatory impacts across NASA operations.",
+    "url": "https://www.usajobs.gov/job/863571400",
+    "posted_at": "2026-04-06T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863774300",
     "title": "Supervisory Intelligence Research Specialist",
     "organization": "Drug Enforcement Administration",
@@ -561,6 +652,40 @@
     "remote": null
   },
   {
+    "job_id": "863032100",
+    "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "Kansas City, Missouri",
+      "Dallas, Texas"
+    ],
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/863032100",
+    "posted_at": "2026-03-30T09:48:47.907000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863010900",
+    "title": "Attorney Advisor (Counsel), CG-0905-15",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia",
+      "Braintree, Massachusetts",
+      "Dallas, Texas"
+    ],
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/863010900",
+    "posted_at": "2026-03-30T06:34:48.410000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863010900",
     "title": "Attorney Advisor (Counsel), CG-0905-15",
     "organization": "Federal Deposit Insurance Corporation",
@@ -814,6 +939,20 @@
     "remote": null
   },
   {
+    "job_id": "861047700",
+    "title": "Trial Attorney - Enforcement and Affirmative Litigation Branch",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Enforcement and Affirmative Litigation Branch seeks entry-level Trial Attorneys to oversee high-impact affirmative litigation that protects public health and safety and ensures nationwide compliance with federal law. The Branch handles cutting-edge matters enforcing consumer protection statutes and challenging laws that undermine federal policy. For impactful public service, the Branch offers a frontline role in the Department's major civil enforcement initiatives.",
+    "url": "https://www.usajobs.gov/job/861047700",
+    "posted_at": "2026-03-13T07:50:08.577000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "860830700",
     "title": "Trial Attorney",
     "organization": "Offices, Boards and Divisions",
@@ -828,20 +967,6 @@
     "remote": null
   },
   {
-    "job_id": "860808600",
-    "title": "Trial Attorney (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Portland, Oregon"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-196",
-    "url": "https://www.usajobs.gov/job/860808600",
-    "posted_at": "2026-03-11T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860629900",
     "title": "Trial Attorney (Bankruptcy)",
     "organization": "U.S. Trustee Program",
@@ -850,22 +975,6 @@
     ],
     "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-192 .",
     "url": "https://www.usajobs.gov/job/860629900",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860568700",
-    "title": "Trial Attorney (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Little Rock, Arkansas",
-      "Kansas City, Missouri",
-      "Saint Louis, Missouri"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-191",
-    "url": "https://www.usajobs.gov/job/860568700",
     "posted_at": "2026-03-10T00:00:00",
     "salary": "13-15",
     "grade": null,
@@ -1040,39 +1149,6 @@
     "url": "https://www.usajobs.gov/job/860168700",
     "posted_at": "2026-03-09T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860057400",
-    "title": "Cloud Systems Administrator",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860057400",
-    "posted_at": "2026-03-06T09:48:45.637000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860065800",
-    "title": "ServiceNow Engineer-DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist (SYSADM) Service Now Engineer position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860065800",
-    "posted_at": "2026-03-06T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   }
