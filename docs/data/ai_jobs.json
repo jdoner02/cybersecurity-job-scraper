@@ -1,5 +1,89 @@
 [
   {
+    "job_id": "864075400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "This Program Analyst (Informatics) position is aligned under the Health Informatics service, and located at the Jesse Brown VA Medical Center, Chicago, IL Veterans Health Administration (VHA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/864075400",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863433200",
+    "title": "Accountant",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "As an Accountant with the Office of the Chief Financial Officer, you will be responsible for helping to develop financial analysis and financial reporting tools and techniques. You will assist in planning and coordinating the implementation and execution of approved policies, programs, and services related to the Agency's financial accounting.",
+    "url": "https://www.usajobs.gov/job/863433200",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864056400",
+    "title": "Supervisory Intelligence Research Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Bogota, Colombia"
+    ],
+    "description": "This position is located DEA in the Andean Division, Bogota Country Office, in Bogota, Columbia.",
+    "url": "https://www.usajobs.gov/job/864056400",
+    "posted_at": "2026-04-06T14:33:33.770000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863989400",
+    "title": "AI ENGINEER (MATHEMATICIAN)",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Division of Economic and Risk Analysis is seeking an AI Engineer (Mathematician) in the Office of Data Science (ODS). ODS leads initiatives to develop and support cutting-edge data analytics and data services for the enterprise. By providing artificial intelligence solutions and sophisticated data resources, ODS enables data-driven decisions and enhances data usability to support mission-critical activities at the SEC.",
+    "url": "https://www.usajobs.gov/job/863989400",
+    "posted_at": "2026-04-06T11:00:27.640000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863991600",
+    "title": "Personnel Security Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Personnel Security Specialist, you will review statutory, regulatory, and administrative policies associated with the personnel vetting program to determine changes required to foster improved program performance and accountability as well as to enhance compliance and operational efficiency.",
+    "url": "https://www.usajobs.gov/job/863991600",
+    "posted_at": "2026-04-06T10:37:48.537000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863970200",
+    "title": "Foreign Medical Program Manager",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the DEA, Human Resources Division, Health Services Section (HRU). This position(s) primary purpose is to assist the Chief, Medical Exams within the Health Services Section (HRU) in planning and implementing the DEA's Foreign Medical Program, to include the full cycle foreign medical process, urgent and emergent medical evacuation process, overseas hospitalization process, and provision of layette needs for overseas personnel and their families.",
+    "url": "https://www.usajobs.gov/job/863970200",
+    "posted_at": "2026-04-06T09:11:32.930000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863910200",
     "title": "Health Physicist",
     "organization": "Ames Research Center",
@@ -468,39 +552,6 @@
     "remote": null
   },
   {
-    "job_id": "863058000",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/863058000",
-    "posted_at": "2026-04-01T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "863363100",
     "title": "Engineering Technician (Direct Hire)",
     "organization": "John F. Kennedy Space Center",
@@ -529,21 +580,6 @@
     "remote": null
   },
   {
-    "job_id": "863372800",
-    "title": "Accountant",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Whitehall, Ohio",
-      "Fort Belvoir, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Whitehall, Ohio: $131,245 - $170,624 Fort Belvoir, VA : $143,913 - $187,093",
-    "url": "https://www.usajobs.gov/job/863372800",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "863174100",
     "title": "Deputy Chief Information Officer",
     "organization": "Immigration and Customs Enforcement",
@@ -558,82 +594,6 @@
     "remote": null
   },
   {
-    "job_id": "863167900",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Fort Collins, Colorado",
-      "Urbandale, Iowa"
-    ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/863167900",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863167000",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/863167000",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863143100",
-    "title": "General Engineer",
-    "organization": "Missile Defense Agency",
-    "locations": [
-      "Redstone Arsenal, Alabama"
-    ],
-    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: ACQDEMO",
-    "url": "https://www.usajobs.gov/job/863143100",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863021000",
-    "title": "Supervisory Electronics Engineer, AST, Data Hardware Systems",
-    "organization": "Armstrong Flight Research Center",
-    "locations": [
-      "Edwards AFB, California"
-    ],
-    "description": "You will serve as a Supervisory Electronics Engineer (Branch Chief) of the Simulation Engineering Branch within the Research and Engineering Directorate directing all Branch activities including the work of engineers and other branch personnel. You will lead a team of highly skilled engineers and technicians in the development and operation of highly complex and specialized simulation systems which enable Armstrong Flight Research Center to be the leader in high-risk atmospheric flight research.",
-    "url": "https://www.usajobs.gov/job/863021000",
-    "posted_at": "2026-03-31T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "863032100",
     "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
     "organization": "Federal Deposit Insurance Corporation",
@@ -648,40 +608,6 @@
     "url": "https://www.usajobs.gov/job/863032100",
     "posted_at": "2026-03-30T09:48:47.907000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863032100",
-    "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "San Francisco, California",
-      "Washington, District of Columbia",
-      "Chicago, Illinois",
-      "Kansas City, Missouri",
-      "Dallas, Texas"
-    ],
-    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
-    "url": "https://www.usajobs.gov/job/863032100",
-    "posted_at": "2026-03-30T09:48:47.907000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863010900",
-    "title": "Attorney Advisor (Counsel), CG-0905-15",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia",
-      "Braintree, Massachusetts",
-      "Dallas, Texas"
-    ],
-    "description": "The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
-    "url": "https://www.usajobs.gov/job/863010900",
-    "posted_at": "2026-03-30T06:34:48.410000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -716,20 +642,6 @@
     "remote": null
   },
   {
-    "job_id": "862988900",
-    "title": "AST - Launch and Flight Operations",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "The Test, Launch and Recovery Operations Management Branch of the Exploration Ground Systems (EGS) is responsible for test planning, integration, scheduling, implementation, and leadership of the test operations associated with Integrated Systems Verification and Validation, Flight and Ground Systems Integrated Testing, Launch and Recovery Operations for SLS, Orion and EGS programs. You will serve as a NASA Test Director (NTD) and provide direction/guidance to the team during test operations.",
-    "url": "https://www.usajobs.gov/job/862988900",
-    "posted_at": "2026-03-30T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862912000",
     "title": "Senior Technical Information Specialist",
     "organization": "Drug Enforcement Administration",
@@ -744,20 +656,6 @@
     "remote": null
   },
   {
-    "job_id": "862830800",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Omaha, Nebraska"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/862830800",
-    "posted_at": "2026-03-27T07:08:34.273000",
-    "salary": "7-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862777500",
     "title": "Attorney-Adviser",
     "organization": "Headquarters, NASA",
@@ -768,66 +666,6 @@
     "url": "https://www.usajobs.gov/job/862777500",
     "posted_at": "2026-03-27T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862796400",
-    "title": "Supervisory Intelligence Research Specialist (Section Chief)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia",
-      "Merrifield, Virginia"
-    ],
-    "description": "These positions are located in the Drug Enforcement Administration (DEA) Intelligence Division in the following areas: - Intelligence Division, Office of Special Intelligence, Data Management Section (NSD) in Merrifield, VA. - Intelligence Division, Office of Special Intelligence, Investigative Support Section (NSI) in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/862796400",
-    "posted_at": "2026-03-26T16:02:35.733000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862792900",
-    "title": "Supervisory Intelligence Research Specialist (Section Chief)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia",
-      "Merrifield, Virginia"
-    ],
-    "description": "These positions are located in the Drug Enforcement Administration (DEA) Intelligence Division in the following areas: - Intelligence Division, Office of Special Intelligence, Data Management Section (NSD) in Merrifield, VA. - Intelligence Division, Office of Special Intelligence, Investigative Support Section (NSI) in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/862792900",
-    "posted_at": "2026-03-26T15:58:20.083000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862724300",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Sacramento, California",
-      "Omaha, Nebraska"
-    ],
-    "description": "These positions are located in the Drug Enforcement Administration (DEA) in the following areas: - Omaha Division/Division Office, Office of the FIM, Omaha, NE - Sacramento Division Office, Central Valley HIDTA, Sacramento, CA",
-    "url": "https://www.usajobs.gov/job/862724300",
-    "posted_at": "2026-03-26T12:52:14.183000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862723100",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Sacramento, California",
-      "Omaha, Nebraska"
-    ],
-    "description": "These positions are located in the Drug Enforcement Administration (DEA) in the following areas: - Omaha Division/Division Office, Office of the FIM, Omaha, NE - Sacramento Division Office, Central Valley HIDTA, Sacramento, CA",
-    "url": "https://www.usajobs.gov/job/862723100",
-    "posted_at": "2026-03-26T12:47:39.350000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -921,20 +759,6 @@
     "url": "https://www.usajobs.gov/job/861218500",
     "posted_at": "2026-03-16T06:26:20.333000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861047700",
-    "title": "Trial Attorney - Enforcement and Affirmative Litigation Branch",
-    "organization": "Offices, Boards and Divisions",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Enforcement and Affirmative Litigation Branch seeks entry-level Trial Attorneys to oversee high-impact affirmative litigation that protects public health and safety and ensures nationwide compliance with federal law. The Branch handles cutting-edge matters enforcing consumer protection statutes and challenging laws that undermine federal policy. For impactful public service, the Branch offers a frontline role in the Department's major civil enforcement initiatives.",
-    "url": "https://www.usajobs.gov/job/861047700",
-    "posted_at": "2026-03-13T07:50:08.577000",
-    "salary": "11-12",
     "grade": null,
     "remote": null
   },
