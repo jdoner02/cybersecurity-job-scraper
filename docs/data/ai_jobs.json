@@ -1,5 +1,183 @@
 [
   {
+    "job_id": "864276300",
+    "title": "Chief Data Officer",
+    "organization": "Federal Aviation Administration",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Federal Aviation Administration (FAA) is where innovation meets purpose. We ensure the safety and efficiency of the nation's aerospace system, overseeing air traffic, advancing cutting-edge aviation technologies, and shaping the future of flight. Our mission is to deliver the safest, most efficient aerospace system in the world. Join a team where your work has real impact, your ideas drive progress, and your career helps keep millions moving safely every day.",
+    "url": "https://www.usajobs.gov/job/864276300",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "02-02",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864270000",
+    "title": "Management and Program Analyst",
+    "organization": "John Glenn Research Center at Lewis Field",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "As a Management and Program Analyst within the Management Integration Office, you will serve as an analyst and advisor to management, responsible for policies, procedures, schedules, resources, procurement, contract funding and contract oversight on behalf of the Facilities,Test, and Center Operations Directorate and the Neil A. Armstrong Test Facility. You will coordinate the oversight and performance of the Test Facility Operations, Maintenance, and Engineering (TFOME) contract.",
+    "url": "https://www.usajobs.gov/job/864270000",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864190500",
+    "title": "Information Technology Specialist (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "You will serve as technical advisor on Identity, Credential, and Access Management (ICAM) enterprise security architecture for NASA-wide services supporting business and mission systems. Lead coordination and integration of IT products and services under Workplace and Collaboration Services (WCS) to ensure secure, scalable ICAM infrastructure.",
+    "url": "https://www.usajobs.gov/job/864190500",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864101900",
+    "title": "General Engineer, AST, Experimental Facility Development",
+    "organization": "John Glenn Research Center at Lewis Field",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "Serves as the Controls System Manager at the Glenn Research Center. Responsibilities include advocacy, planning, designing, and developing controls systems and continuous based monitoring systems used to power and control specialized research and development facilities for the following systems: Institutional Controls, Life Safety Detection Systems, IT Security, Gas Detection Systems, Central Process Control Systems, Energy Management Control System, and aiding in developing agency standards.",
+    "url": "https://www.usajobs.gov/job/864101900",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863766500",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Fort Campbell, Kentucky"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Campbell, KY. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/863766500",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863761600",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Fort Campbell, Kentucky"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Campbell, KY. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/863761600",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863731500",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Fort Benning, Georgia"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Benning, GA. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/863731500",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863719000",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Fort Benning, Georgia"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Benning, GA. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/863719000",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864198000",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864198000",
+    "posted_at": "2026-04-07T12:43:35.273000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864198000",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864198000",
+    "posted_at": "2026-04-07T12:43:35.273000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864146000",
+    "title": "LEAD SYSTEMS ENGINEER",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Dahlgren, Virginia"
+    ],
+    "description": "You will serve as an ENGINEER/SCIENTIST - Lead Systems Engineer for Test and Evaluation of Autonomy and Artificial Intelligence Systems in the Weapons Control & Integration Department of NAVSURFWARCENDLD.",
+    "url": "https://www.usajobs.gov/job/864146000",
+    "posted_at": "2026-04-07T10:07:58.630000",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864075400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "This Program Analyst (Informatics) position is aligned under the Health Informatics service, and located at the Jesse Brown VA Medical Center, Chicago, IL Veterans Health Administration (VHA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/864075400",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864075400",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -435,6 +613,22 @@
     "remote": null
   },
   {
+    "job_id": "863412300",
+    "title": "Management Analyst",
+    "organization": "Citizenship and Immigration Services",
+    "locations": [
+      "Camp Springs, Maryland",
+      "Bloomington, Minnesota",
+      "Williston, Vermont"
+    ],
+    "description": "Protect your homeland and defend your culture. Join USCIS, America's frontline defense against illegal foreign infiltration and fraud. As a Management Analyst, you will assist in administering a variety of programs, policies and procedures, provide advice, guidance, and instruction concerning administrative programs that include complex and sensitive issues, and provide excellent customer service.",
+    "url": "https://www.usajobs.gov/job/863412300",
+    "posted_at": "2026-04-01T08:02:32.183000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863360100",
     "title": "Interdisciplinary General Engineer/Physical Scientist",
     "organization": "Department of Energy - Agency Wide",
@@ -463,58 +657,35 @@
     "remote": null
   },
   {
-    "job_id": "863330500",
-    "title": "General Engineer, AST, Technical Management",
-    "organization": "Lyndon B. Johnson Space Center",
+    "job_id": "863058000",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
     "locations": [
-      "Houston, Texas"
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
     ],
-    "description": "Serves as Chief Health and Performance Officer (CHPO) for the EVA and Human Surface Mobility Program (EHP), overseeing the integration of Human Health and Performance Directorate (HHPD) support into the design and implementation of systems, processes, and tools that enable the EHP to achieve its objectives, while also representing the Health and Medical Technical Authority.",
-    "url": "https://www.usajobs.gov/job/863330500",
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/863058000",
     "posted_at": "2026-04-01T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863296800",
-    "title": "Mechanical Engineer, AST, Mechanical Experimental Equipment",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "Serves as the Mechanical System Manager for Distributed Institutional Systems & Research Support Mechanical Systems at the Glenn Research Center. Responsibilities include advocacy, planning, designing, developing, operating and maintaining mechanical equipment, and components for the following systems: Central Steam Plant, Central Chiller Plants, Cooling Towers, Domestic Water, Combustion Air, Refrigerated Air, Altitude and Atmospheric Exhaust, Service Air and Lube Oil Systems.",
-    "url": "https://www.usajobs.gov/job/863296800",
-    "posted_at": "2026-04-01T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863288100",
-    "title": "Management and Program Analyst",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "As a Schedule Analyst within the Strategic Business Integration Office, you will be responsible for creating schedule, cost, and risk products in support of programs and projects at Johnson Space Center. You will be responsible for the Program Integrated Master Schedule and provide guidance and recommendations on schedule related topics. You will be responsible for reporting statuses and ensuring leadership is cognizant of schedule impacts reported by vendor schedule data submissions.",
-    "url": "https://www.usajobs.gov/job/863288100",
-    "posted_at": "2026-04-01T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863285700",
-    "title": "Management and Program Analyst",
-    "organization": "Executive Director, Office of Acquisition, Logistics and Construction",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Office of Acquisition and Logistics (OAL) supports America's Veterans and families by delivering acquisition, logistics, and supply chain business solutions that provide better outcomes and harness technology to assure quality support/services for the VA multi-billion dollar acquisition mission.",
-    "url": "https://www.usajobs.gov/job/863285700",
-    "posted_at": "2026-04-01T00:00:00",
-    "salary": "13-13",
+    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -608,6 +779,40 @@
     "url": "https://www.usajobs.gov/job/863032100",
     "posted_at": "2026-03-30T09:48:47.907000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863032100",
+    "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "Kansas City, Missouri",
+      "Dallas, Texas"
+    ],
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/863032100",
+    "posted_at": "2026-03-30T09:48:47.907000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863010900",
+    "title": "Attorney Advisor (Counsel), CG-0905-15",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia",
+      "Braintree, Massachusetts",
+      "Dallas, Texas"
+    ],
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/863010900",
+    "posted_at": "2026-03-30T06:34:48.410000",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -759,6 +964,20 @@
     "url": "https://www.usajobs.gov/job/861218500",
     "posted_at": "2026-03-16T06:26:20.333000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861047700",
+    "title": "Trial Attorney - Enforcement and Affirmative Litigation Branch",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Enforcement and Affirmative Litigation Branch seeks entry-level Trial Attorneys to oversee high-impact affirmative litigation that protects public health and safety and ensures nationwide compliance with federal law. The Branch handles cutting-edge matters enforcing consumer protection statutes and challenging laws that undermine federal policy. For impactful public service, the Branch offers a frontline role in the Department's major civil enforcement initiatives.",
+    "url": "https://www.usajobs.gov/job/861047700",
+    "posted_at": "2026-03-13T07:50:08.577000",
+    "salary": "11-12",
     "grade": null,
     "remote": null
   },
