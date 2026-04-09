@@ -1,5 +1,117 @@
 [
   {
+    "job_id": "864470900",
+    "title": "General Engineer, AST - Technical Management",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "As an AST Technical Program Manager in the Office of Strategic Infrastructure, Facilities & Real Estate Division, you will lead the implementation, continuous improvement, and transformation of maintenance and operations processes agency wide. Your primary focus will be to deploy and optimize enterprise tools and procedures, collaborate across teams to ensure best practices, boost efficiency, and advance strategic goals for facilities and infrastructure across the agency.",
+    "url": "https://www.usajobs.gov/job/864470900",
+    "posted_at": "2026-04-09T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864444400",
+    "title": "Supervisory Human Resources Specialist (Employee Relations)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Human Resources Division, Employee Relations & Safety/Workers' Compensation Section, Employee Relations Unit. This position(s) primary purpose is to provide for the administration of programs related to formal and informal discipline, adverse actions, grievances, appeals, performance, rewards, etc.",
+    "url": "https://www.usajobs.gov/job/864444400",
+    "posted_at": "2026-04-09T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864415600",
+    "title": "Chief of Staff",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Legacy Management, Department of Energy. As a Chief of Staff, you will execute a wide variety of executive priorities for the Director and Deputy while directing internal processes and coordination activities relevant to the operations of the Office of Legacy Management (LM) mission.",
+    "url": "https://www.usajobs.gov/job/864415600",
+    "posted_at": "2026-04-09T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864402200",
+    "title": "General Engineer, AST, Gas and Fluid Systems",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As an AST, Gas and Fluids Engineer technical expert in the Fluids and Contract Management branch, you will be responsible for leading the planning, acquisition and control, including operational readiness and engineering support, of fluid supply equipment and facilities for cryogens, high-pressure gases, and hypergolic propellants. You will also monitor and provide technical guidance to the contracting officer representatives of the fluid contracts and contractors engaged in this work.",
+    "url": "https://www.usajobs.gov/job/864402200",
+    "posted_at": "2026-04-09T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864434100",
+    "title": "Supervisory Intelligence Research Specialist (Group Supervisor)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "San Diego, California"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration, San Diego Division Office, Intelligence Group 2 in San Diego, California.",
+    "url": "https://www.usajobs.gov/job/864434100",
+    "posted_at": "2026-04-08T15:10:13.157000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864354800",
+    "title": "Accountant",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "See below for important information regarding this job.",
+    "url": "https://www.usajobs.gov/job/864354800",
+    "posted_at": "2026-04-08T10:50:03.063000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864322100",
+    "title": "Microelectronics Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864322100",
+    "posted_at": "2026-04-08T09:02:58.410000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864322200",
+    "title": "Microelectronics Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864322200",
+    "posted_at": "2026-04-08T09:02:18.357000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864276300",
     "title": "Chief Data Officer",
     "organization": "Federal Aviation Administration",
@@ -24,30 +136,6 @@
     "url": "https://www.usajobs.gov/job/864270000",
     "posted_at": "2026-04-08T00:00:00",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864190500",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "You will serve as technical advisor on Identity, Credential, and Access Management (ICAM) enterprise security architecture for NASA-wide services supporting business and mission systems. Lead coordination and integration of IT products and services under Workplace and Collaboration Services (WCS) to ensure secure, scalable ICAM infrastructure.",
-    "url": "https://www.usajobs.gov/job/864190500",
-    "posted_at": "2026-04-08T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -136,20 +224,6 @@
     "remote": null
   },
   {
-    "job_id": "864198000",
-    "title": "IC Spectrum Lead",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
-    "url": "https://www.usajobs.gov/job/864198000",
-    "posted_at": "2026-04-07T12:43:35.273000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "864146000",
     "title": "LEAD SYSTEMS ENGINEER",
     "organization": "Naval Sea Systems Command",
@@ -164,16 +238,16 @@
     "remote": null
   },
   {
-    "job_id": "864075400",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
+    "job_id": "864310500",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
     "locations": [
-      "Chicago, Illinois"
+      "McLean, Virginia"
     ],
-    "description": "This Program Analyst (Informatics) position is aligned under the Health Informatics service, and located at the Jesse Brown VA Medical Center, Chicago, IL Veterans Health Administration (VHA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/864075400",
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864310500",
     "posted_at": "2026-04-07T00:00:00",
-    "salary": "12-12",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -527,20 +601,6 @@
     "remote": null
   },
   {
-    "job_id": "863511400",
-    "title": "Supervisory AST, Flight Systems Test",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Las Cruces, New Mexico"
-    ],
-    "description": "The Materials and Components Laboratory Office (MCLO) Manager position is a critical leadership position at White Sands Test Facility (WSTF), responsible for 5 of the 7 Core WSTF Capabilities: Oxygen Systems Testing/Analysis, Propellants & Aerospace Fluids Testing/Analysis, Hypervelocity Impact Testing, Flight Acceptance Standard Test, and Composite Pressure Systems Testing. They ensure these capabilities are available when NASA requires them, often for flight anomalies or launch constraints.",
-    "url": "https://www.usajobs.gov/job/863511400",
-    "posted_at": "2026-04-02T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862914800",
     "title": "SENIOR SCIENTIST FOR ARTIFICIAL INTELLIGENCE",
     "organization": "Office of Naval Research",
@@ -613,36 +673,6 @@
     "remote": null
   },
   {
-    "job_id": "863412300",
-    "title": "Management Analyst",
-    "organization": "Citizenship and Immigration Services",
-    "locations": [
-      "Camp Springs, Maryland",
-      "Bloomington, Minnesota",
-      "Williston, Vermont"
-    ],
-    "description": "Protect your homeland and defend your culture. Join USCIS, America's frontline defense against illegal foreign infiltration and fraud. As a Management Analyst, you will assist in administering a variety of programs, policies and procedures, provide advice, guidance, and instruction concerning administrative programs that include complex and sensitive issues, and provide excellent customer service.",
-    "url": "https://www.usajobs.gov/job/863412300",
-    "posted_at": "2026-04-01T08:02:32.183000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863360100",
-    "title": "Interdisciplinary General Engineer/Physical Scientist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Office of Environmental Management - Oak Ridge Office. As an Interdisciplinary General Engineer/Physical Scientist, you will provide professional engineering or physical science expertise and support to DOE programs, projects or initiatives whose mission or responsibilities include a combination of engineering and physical science work that supports the DOE mission to maintain U.S. preeminence in engineering and scientific technology research and applications.",
-    "url": "https://www.usajobs.gov/job/863360100",
-    "posted_at": "2026-04-01T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "863338400",
     "title": "Attorney-Adviser",
     "organization": "Headquarters, NASA",
@@ -690,53 +720,6 @@
     "remote": null
   },
   {
-    "job_id": "863058000",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/863058000",
-    "posted_at": "2026-04-01T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863363100",
-    "title": "Engineering Technician (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "Serves in a prototype and development environment supporting the fabrication, assembly, testing, and refinement of ground support equipment and spaceflight hardware. Performs multi-discipline fabrication, including computer numerical control machining, welding, sheet-metal fabrication, fluid-system fabrication, or electrical assembly, to develop hardware that supports NASA's Moon-to-Mars mission.",
-    "url": "https://www.usajobs.gov/job/863363100",
-    "posted_at": "2026-03-31T16:18:38.117000",
-    "salary": "10-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "863149400",
     "title": "Attorney Advisor",
     "organization": "Administrative Office of the U.S. Courts",
@@ -775,27 +758,9 @@
       "Kansas City, Missouri",
       "Dallas, Texas"
     ],
-    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement. *This job announcement has been extended and will now close on Friday, April 14, 2026.*",
     "url": "https://www.usajobs.gov/job/863032100",
-    "posted_at": "2026-03-30T09:48:47.907000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863032100",
-    "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "San Francisco, California",
-      "Washington, District of Columbia",
-      "Chicago, Illinois",
-      "Kansas City, Missouri",
-      "Dallas, Texas"
-    ],
-    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
-    "url": "https://www.usajobs.gov/job/863032100",
-    "posted_at": "2026-03-30T09:48:47.907000",
+    "posted_at": "2026-03-30T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -809,54 +774,10 @@
       "Braintree, Massachusetts",
       "Dallas, Texas"
     ],
-    "description": "The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "description": "This announcement has been extended to 04/17/2026. The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
     "url": "https://www.usajobs.gov/job/863010900",
-    "posted_at": "2026-03-30T06:34:48.410000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863010900",
-    "title": "Attorney Advisor (Counsel), CG-0905-15",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia",
-      "Braintree, Massachusetts",
-      "Dallas, Texas"
-    ],
-    "description": "The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
-    "url": "https://www.usajobs.gov/job/863010900",
-    "posted_at": "2026-03-30T06:34:48.410000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863042600",
-    "title": "Chief Artificial Intelligence Officer",
-    "organization": "Federal Housing Finance Agency",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is for a Chief Artificial Intelligence Officer in the Division of Housing Mission and Goals (DHMG) at the Federal Housing Finance Agency (FHFA). In this role, the incumbent will be responsible for providing Agency-wide leadership and direction relative to coordinating FHFA's use of artificial intelligence (AI).",
-    "url": "https://www.usajobs.gov/job/863042600",
     "posted_at": "2026-03-30T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862912000",
-    "title": "Senior Technical Information Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "El Paso County, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), El Paso Intelligence Division, El Paso, Texas. The purpose of this position is to provide intelligence and support to all Federal, State, Local, and tribal law enforcement throughthe EPIC Watch, the National License Plate Reader Program, the National Seizure System, and OperationFountainhead.",
-    "url": "https://www.usajobs.gov/job/862912000",
-    "posted_at": "2026-03-30T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -871,29 +792,6 @@
     "url": "https://www.usajobs.gov/job/862777500",
     "posted_at": "2026-03-27T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862654300",
-    "title": "DIGITAL SERVICES EXPERT (APPSW/INFOSEC)",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas"
-    ],
-    "description": "The Securities and Exchange Commission is seeking Digital Service Experts to join the Office of Information Technology (OIT) or Division of Economic and Risk Analysis (DERA). Ideal candidates should possess deep expertise in modern Agile software development, securing systems, customer experience, DevSecOps, user research, cloud architecture, and other related disciplines. Strong people skills in dealing with a variety of different customers will also be essential.",
-    "url": "https://www.usajobs.gov/job/862654300",
-    "posted_at": "2026-03-26T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -982,20 +880,6 @@
     "remote": null
   },
   {
-    "job_id": "861047700",
-    "title": "Trial Attorney - Enforcement and Affirmative Litigation Branch",
-    "organization": "Offices, Boards and Divisions",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Enforcement and Affirmative Litigation Branch seeks entry-level Trial Attorneys to oversee high-impact affirmative litigation that protects public health and safety and ensures nationwide compliance with federal law. The Branch handles cutting-edge matters enforcing consumer protection statutes and challenging laws that undermine federal policy. For impactful public service, the Branch offers a frontline role in the Department's major civil enforcement initiatives.",
-    "url": "https://www.usajobs.gov/job/861047700",
-    "posted_at": "2026-03-13T07:50:08.577000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "860830700",
     "title": "Trial Attorney",
     "organization": "Offices, Boards and Divisions",
@@ -1048,150 +932,6 @@
     "url": "https://www.usajobs.gov/job/860522500",
     "posted_at": "2026-03-10T00:00:00",
     "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860229600",
-    "title": "Cloud/Infrastructure Technician - DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "IT Specialist, Cloud/Infrastructure Technician position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860229600",
-    "posted_at": "2026-03-09T08:45:24.660000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860436700",
-    "title": "Trial Attorney (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Newark, New Jersey"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-199",
-    "url": "https://www.usajobs.gov/job/860436700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860240500",
-    "title": "Infrastructure Engineer - DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW) Infrastructure Engineer positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860240500",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860230400",
-    "title": "Database Administrator-DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Three\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860230400",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860215700",
-    "title": "Mainframe/CICS Engineer -- DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860215700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860204700",
-    "title": "ServiceNow Architect",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860204700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860200700",
-    "title": "Mainframe Storage Engineer -- DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860200700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860176400",
-    "title": "Network Engineer--DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Denver, Colorado",
-      "Urbana, Maryland",
-      "Woodlawn, Maryland",
-      "Durham, North Carolina",
-      "Wilkes Barre, Pennsylvania"
-    ],
-    "description": "IT Specialist Network Engineer position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860176400",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860168700",
-    "title": "UX Practitioner - DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist, UX Practitioner position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/860168700",
-    "posted_at": "2026-03-09T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   }
