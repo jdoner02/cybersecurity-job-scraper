@@ -1,5 +1,173 @@
 [
   {
+    "job_id": "864666500",
+    "title": "Supervisory Contract Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Pasadena, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia",
+      "Wallops Island, Virginia",
+      "Fairmont, West Virginia"
+    ],
+    "description": "The NASA Office of Procurement seeks Supervisory Contract Specialists to plan, direct and supervise office activities including all pre and post award aspects of the acquisition program. These positions will be responsible for leading assigned activities at one of the listed NASA locations. Provides strategic direction for a diverse group of contracts and agreements for commercial and non-commercial goods and services, while maintaining strong communications and high quality products.",
+    "url": "https://www.usajobs.gov/job/864666500",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864658000",
+    "title": "AST, Experimental Facility Development",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "You will serve as a Geospatial Program Manager within the Strategic Planning Branch of the Facilities and Real Estate Division. You will lead the development and implementation of an enterprise Geographical Information System (GIS) strategy for the NASA.",
+    "url": "https://www.usajobs.gov/job/864658000",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864653900",
+    "title": "Aerospace Engineer, AST, Research Pilot (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "The Armstrong Flight Research Center (AFRC) is seeking a highly skilled and innovative Research Pilot to support advanced aeronautics flight research and Earth science missions. The incumbent will conduct experimental and developmental flight tests, execute complex airborne science operations, and contribute to NASA's mission to advance aerospace technology and scientific discovery.",
+    "url": "https://www.usajobs.gov/job/864653900",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864610800",
+    "title": "Criminal Investigator",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "As a Criminal Investigator with the NASA Office of Inspector General, Office of Investigations, you will independently conduct complex criminal investigations of fraud, waste, abuse, and misconduct in NASA programs impacting national security, persons, and property. You will analyze evidence, prepare investigative reports, collaborate with prosecutors, testify in legal proceedings, and apply specialized investigative techniques to provide independent oversight and protect Agency resources.",
+    "url": "https://www.usajobs.gov/job/864610800",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864591900",
+    "title": "Deputy Administrator and Director, Center for Program Integrity",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "This position is located in the Center for Program Integrity (CPI), Centers for Medicare and Medicaid Services (CMS). As the Deputy Administrator and Director, Center for Program Integrity, you will provide executive leadership, direction, and oversight of CMS's program integrity efforts by proactively identifying, predicting, and preventing waste, fraud, and program abuse through advanced analytics, artificial intelligence, real-time monitoring, and emerging technologies.",
+    "url": "https://www.usajobs.gov/job/864591900",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864558700",
+    "title": "Intelligence Research Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence (IN), Emerging Technologies Intelligence Program (ETIP) (IN-14). As an Intelligence Research Specialist, you will act as the ETIP testbed coordinator and produce a variety of finished intelligence products, assessments and reports for the Foreign Intelligence (FI) area.",
+    "url": "https://www.usajobs.gov/job/864558700",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864553100",
+    "title": "Security Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Security Specialist, you will be responsible for managing the Department of Energy's research, analysis, and timely production of business and security-related Entity Vulnerability Assessments (EVAs) evaluating a company's risk indicators and assessing the resultant vulnerabilities' impact of a company.",
+    "url": "https://www.usajobs.gov/job/864553100",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864540600",
+    "title": "Intelligence Research Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence (IN), Cyber Analysis Division (IN-48) of the Cyber Intelligence Directorate (IN-40). As an Intelligence Research Specialist, you will conduct cyber threat analysis and intelligence assessments to support a variety of stakeholders in the U.S. Energy Sector and Intelligence Community (IC).",
+    "url": "https://www.usajobs.gov/job/864540600",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864464600",
+    "title": "General Engineer, AST, Technical Management",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "Serves as an IT Technical Management Specialist with the ISS Program Planning and Control Office. Ensures the integrity, availability, and security of the ISS Program's IT infrastructure. Manages IT infrastructure, oversees cybersecurity risk management, develops and monitors IT financial performance, and ensures compliance with Agency and federal IT requirements. Requires extensive coordination with NASA Headquarters, Centers, and international partners.",
+    "url": "https://www.usajobs.gov/job/864464600",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864364900",
+    "title": "Applied AI Program Coordinator & Strategic Analyst",
+    "organization": "National Institute of Standards and Technology",
+    "locations": [
+      "Boulder, Colorado",
+      "Gaithersburg, Maryland"
+    ],
+    "description": "NIST seeks an Applied AI Program Coordinator to lead research in critical technologies. This role drives AI solutions for manufacturing and cybersecurity. Key duties include strategic analysis of trustworthy AI, international technical oversight, and transitioning technologies to industry partners. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
+    "url": "https://www.usajobs.gov/job/864364900",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "4-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864273400",
+    "title": "Explosives Safety Specialist",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As an Explosives Safety Specialist at the Kennedy Space Center, you will be responsible for providing oversight of explosives, propellants, and pyrotechnic use and make recommendations on siting of new and existing facilities, programs, and projects. You will support the Explosive Safety Officer ensuring execution of explosives, propellants, and the pyrotechnics safety program to protect personnel and property from the hazards of explosives and energetic materials.",
+    "url": "https://www.usajobs.gov/job/864273400",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864470900",
     "title": "General Engineer, AST - Technical Management",
     "organization": "Headquarters, NASA",
@@ -8,8 +176,167 @@
     ],
     "description": "As an AST Technical Program Manager in the Office of Strategic Infrastructure, Facilities & Real Estate Division, you will lead the implementation, continuous improvement, and transformation of maintenance and operations processes agency wide. Your primary focus will be to deploy and optimize enterprise tools and procedures, collaborate across teams to ensure best practices, boost efficiency, and advance strategic goals for facilities and infrastructure across the agency.",
     "url": "https://www.usajobs.gov/job/864470900",
-    "posted_at": "2026-04-09T00:00:00",
+    "posted_at": "2026-04-09T17:49:39.173000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864402200",
+    "title": "General Engineer, AST, Gas and Fluid Systems",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As an AST, Gas and Fluids Engineer technical expert in the Fluids and Contract Management branch, you will be responsible for leading the planning, acquisition and control, including operational readiness and engineering support, of fluid supply equipment and facilities for cryogens, high-pressure gases, and hypergolic propellants. You will also monitor and provide technical guidance to the contracting officer representatives of the fluid contracts and contractors engaged in this work.",
+    "url": "https://www.usajobs.gov/job/864402200",
+    "posted_at": "2026-04-09T17:45:47.493000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864514300",
+    "title": "Human Resources Specialist",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Bay Saint Louis, Mississippi"
+    ],
+    "description": "The NASA Shared Services Center is seeking skilled individuals to serve as a Human Resources Specialist responsible for providing advisory services and operational support in one or more human resources functional areas. Initial selections will be made for Staffing Specialists. Assignments increase in scope, complexity, and independence based on grade level.",
+    "url": "https://www.usajobs.gov/job/864514300",
+    "posted_at": "2026-04-09T16:17:05.723000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864515900",
+    "title": "Human Resources Specialist",
+    "organization": "National Aeronautics and Space Administration - Agency Wide",
+    "locations": [
+      "Bay Saint Louis, Mississippi"
+    ],
+    "description": "The NASA Shared Services Center is seeking skilled individuals to serve as a Human Resources Specialist responsible for providing advisory services and operational support in one or more human resources functional areas. Initial selections will be made for Staffing Specialists. Assignments increase in scope, complexity, and independence based on grade level.",
+    "url": "https://www.usajobs.gov/job/864515900",
+    "posted_at": "2026-04-09T16:14:43.697000",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864618000",
+    "title": "IT Specialist , (AI)",
+    "organization": "Deputy Assistant Secretary for Information and Technology",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "The Department of Veterans Affairs (VA) seeks to significantly expand the responsible use of Artificial Intelligence (AI), including the use of Generative AI, to improve the delivery of its services and increase operational effectiveness of its mission to care for our nation's Veterans. VA has an immediate need to hire IT Specialists for AI to continue to lead the Federal Government in the responsible use of AI.",
+    "url": "https://www.usajobs.gov/job/864618000",
+    "posted_at": "2026-04-09T14:38:33.787000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864494400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "The primary purpose of this position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). This announcement is for two Program Analyst positions: Change Management Lead and FEHR Deployment Lead. See the Preferred Experience identified in the Requirements - Qualifications section below.",
+    "url": "https://www.usajobs.gov/job/864494400",
+    "posted_at": "2026-04-09T13:45:32.373000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864494400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "The primary purpose of this position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). This announcement is for two Program Analyst positions: Change Management Lead and FEHR Deployment Lead. See the Preferred Experience identified in the Requirements - Qualifications section below.",
+    "url": "https://www.usajobs.gov/job/864494400",
+    "posted_at": "2026-04-09T13:45:32.373000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864494400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "San Antonio, Texas"
+    ],
+    "description": "The primary purpose of this position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). This announcement is for two Program Analyst positions: Change Management Lead and FEHR Deployment Lead. See the Preferred Experience identified in the Requirements - Qualifications section below.",
+    "url": "https://www.usajobs.gov/job/864494400",
+    "posted_at": "2026-04-09T13:45:32.373000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864484000",
+    "title": "INFORMATION SECURITY SPECIALIST",
+    "organization": "Secretary of the Navy Offices (SECNAV)",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "You will serve as an Information Security Specialist focusing on acquisition security processes within the Information and Acquisition Protection Division of the Security Directorate, Office of the Chief of Naval Intelligence and Security (OCNI&S).",
+    "url": "https://www.usajobs.gov/job/864484000",
+    "posted_at": "2026-04-09T10:32:49.097000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864515400",
+    "title": "Trial Attorney",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Chapter 11) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-chapter-11",
+    "url": "https://www.usajobs.gov/job/864515400",
+    "posted_at": "2026-04-09T09:12:17.097000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864515400",
+    "title": "Trial Attorney",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Chapter 11) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-chapter-11",
+    "url": "https://www.usajobs.gov/job/864515400",
+    "posted_at": "2026-04-09T09:12:17.097000",
+    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -38,20 +365,6 @@
     "url": "https://www.usajobs.gov/job/864415600",
     "posted_at": "2026-04-09T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864402200",
-    "title": "General Engineer, AST, Gas and Fluid Systems",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "As an AST, Gas and Fluids Engineer technical expert in the Fluids and Contract Management branch, you will be responsible for leading the planning, acquisition and control, including operational readiness and engineering support, of fluid supply equipment and facilities for cryogens, high-pressure gases, and hypergolic propellants. You will also monitor and provide technical guidance to the contracting officer representatives of the fluid contracts and contractors engaged in this work.",
-    "url": "https://www.usajobs.gov/job/864402200",
-    "posted_at": "2026-04-09T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -94,6 +407,34 @@
     "url": "https://www.usajobs.gov/job/864322100",
     "posted_at": "2026-04-08T09:02:58.410000",
     "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864322100",
+    "title": "Microelectronics Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864322100",
+    "posted_at": "2026-04-08T09:02:58.410000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864322200",
+    "title": "Microelectronics Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864322200",
+    "posted_at": "2026-04-08T09:02:18.357000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -168,6 +509,34 @@
     "remote": null
   },
   {
+    "job_id": "863766500",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Fort Campbell, Kentucky"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Campbell, KY. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/863766500",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863766500",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Fort Campbell, Kentucky"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Campbell, KY. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/863766500",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863761600",
     "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
     "organization": "Department of Defense Education Activity",
@@ -224,6 +593,34 @@
     "remote": null
   },
   {
+    "job_id": "864198000",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864198000",
+    "posted_at": "2026-04-07T12:43:35.273000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864198000",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864198000",
+    "posted_at": "2026-04-07T12:43:35.273000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864146000",
     "title": "LEAD SYSTEMS ENGINEER",
     "organization": "Naval Sea Systems Command",
@@ -248,6 +645,62 @@
     "url": "https://www.usajobs.gov/job/864310500",
     "posted_at": "2026-04-07T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864310500",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864310500",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864310500",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864310500",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864075400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "This Program Analyst (Informatics) position is aligned under the Health Informatics service, and located at the Jesse Brown VA Medical Center, Chicago, IL Veterans Health Administration (VHA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/864075400",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864075400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "This Program Analyst (Informatics) position is aligned under the Health Informatics service, and located at the Jesse Brown VA Medical Center, Chicago, IL Veterans Health Administration (VHA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/864075400",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -318,6 +771,20 @@
     "url": "https://www.usajobs.gov/job/863991600",
     "posted_at": "2026-04-06T10:37:48.537000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863970200",
+    "title": "Foreign Medical Program Manager",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the DEA, Human Resources Division, Health Services Section (HRU). This position(s) primary purpose is to assist the Chief, Medical Exams within the Health Services Section (HRU) in planning and implementing the DEA's Foreign Medical Program, to include the full cycle foreign medical process, urgent and emergent medical evacuation process, overseas hospitalization process, and provision of layette needs for overseas personnel and their families.",
+    "url": "https://www.usajobs.gov/job/863970200",
+    "posted_at": "2026-04-06T09:11:32.930000",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -469,62 +936,32 @@
     "remote": null
   },
   {
-    "job_id": "863751900",
-    "title": "AST - Technical Management",
-    "organization": "Headquarters, NASA",
+    "job_id": "863777900",
+    "title": "CLOUD SOLUTIONS DEVELOPER/ARCHITECT",
+    "organization": "Securities and Exchange Commission",
     "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Pasadena, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "New Orleans, Louisiana",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Las Cruces, New Mexico",
-      "New York, New York",
-      "Cleveland, Ohio",
-      "Sandusky, Ohio",
-      "Houston, Texas",
-      "Palestine, Texas",
-      "Hampton, Virginia",
-      "Wallops Island, Virginia",
-      "Fairmont, West Virginia"
+      "Washington, District of Columbia"
     ],
-    "description": "As a Construction of Facilities (CoF) Portfolio Manager within the Design, Construction, and Demolition Branch, Offices of Strategic Infrastructure (OSI) Facilities and Real Estate Division (FRED), NASA Headquarters, you will support the Construction of Facilities Program. You will be responsible for enabling project execution, tracking project health, and engaging with various Centers when risks arise.",
-    "url": "https://www.usajobs.gov/job/863751900",
-    "posted_at": "2026-04-03T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863692200",
-    "title": "Supervisory Electronics Technician",
-    "organization": "Armstrong Flight Research Center",
-    "locations": [
-      "Edwards AFB, California"
-    ],
-    "description": "You will serve as a Supervisory Electronics Technician (Branch Chief) for the Avionics/Instrumentation Branch located at Armstrong Flight Research Center on Edwards Airforce Base. The position is responsible for ensuring adherence to NASA policies using branch resources and technical guidance. You will supervise a team of highly skilled technicians working on extremely complex avionics and instrumentation systems to be installed on highly modified aerospace research vehicles.",
-    "url": "https://www.usajobs.gov/job/863692200",
+    "description": "The Division of Trading and Markets, Business Solutions Office is seeking a dynamic technology expert skilled in modern cloud technologies for their Cloud Solutions Developer/Architect (Information Technology Specialist) position. This position will require the rare combination of technical excellence, strategic vision, and exceptional collaborative and communication skills.",
+    "url": "https://www.usajobs.gov/job/863777900",
     "posted_at": "2026-04-03T00:00:00",
     "salary": "14-14",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "863569200",
-    "title": "AST, Aerospace Environmental Control Techniques",
-    "organization": "Lyndon B. Johnson Space Center",
+    "job_id": "863708600",
+    "title": "UNITED STATES TRUSTEE",
+    "organization": "U.S. Trustee Program",
     "locations": [
-      "Las Cruces, New Mexico"
+      "New Orleans, Louisiana",
+      "Shreveport, Louisiana",
+      "Jackson, Mississippi"
     ],
-    "description": "The White Sands Test Facility Environmental Program Manager serves as the site's senior authority responsible for implementing, overseeing and directing compliance with a wide range of environmental statutes and regulations, including, but not limited to, air quality, drinking water, ground water cleanup and restoration operations, hazardous waste processing, toxic substances and wastewater discharges. These responsibilities are required under federal, state and local environmental regulations.",
-    "url": "https://www.usajobs.gov/job/863569200",
-    "posted_at": "2026-04-03T00:00:00",
-    "salary": "15-15",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: https://www.justice.gov/legal-careers/job/united-states-trustee-region-5 Legal Careers | United States Trustee for Region 5 | United States Department of Justice",
+    "url": "https://www.usajobs.gov/job/863708600",
+    "posted_at": "2026-04-02T15:29:39.170000",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -601,6 +1038,20 @@
     "remote": null
   },
   {
+    "job_id": "863523400",
+    "title": "Employee Assistance Program Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Executive and Staff Offices, Office of the Deputy Administrator, Employee Assistance Program Section. This position(s) primary purpose is to assist and maintain a confidential program that assists all DEA employees which may be facing various life challenges which can affect job performance, health, professional and personal well-being.",
+    "url": "https://www.usajobs.gov/job/863523400",
+    "posted_at": "2026-04-02T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "862914800",
     "title": "SENIOR SCIENTIST FOR ARTIFICIAL INTELLIGENCE",
     "organization": "Office of Naval Research",
@@ -611,6 +1062,20 @@
     "url": "https://www.usajobs.gov/job/862914800",
     "posted_at": "2026-04-02T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863502900",
+    "title": "Supervisory Attorney Advisor (Trademark)",
+    "organization": "Patent and Trademark Office",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This position is located in the Office of the Commissioner for Trademarks, Trademark Examining Operation and will serve as the Supervisory Senior Attorney for one of the law offices in the Trademark Examining Operation (TMEO). Primarily, responsibility will be in providing advice, counsel, and/or instruction to the attorney advisors in the law office(s) on the most difficult legal questions that arise during examination, as well as assisting the managing attorney with managerial matters.",
+    "url": "https://www.usajobs.gov/job/863502900",
+    "posted_at": "2026-04-01T13:01:21.507000",
+    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -657,6 +1122,52 @@
     "remote": null
   },
   {
+    "job_id": "863433400",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Centennial, Colorado"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Rocky Mountain Division Office. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/863433400",
+    "posted_at": "2026-04-01T09:33:23.520000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863412300",
+    "title": "Management Analyst",
+    "organization": "Citizenship and Immigration Services",
+    "locations": [
+      "Camp Springs, Maryland",
+      "Bloomington, Minnesota",
+      "Williston, Vermont"
+    ],
+    "description": "Protect your homeland and defend your culture. Join USCIS, America's frontline defense against illegal foreign infiltration and fraud. As a Management Analyst, you will assist in administering a variety of programs, policies and procedures, provide advice, guidance, and instruction concerning administrative programs that include complex and sensitive issues, and provide excellent customer service.",
+    "url": "https://www.usajobs.gov/job/863412300",
+    "posted_at": "2026-04-01T08:02:32.183000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863412300",
+    "title": "Management Analyst",
+    "organization": "Citizenship and Immigration Services",
+    "locations": [
+      "Camp Springs, Maryland",
+      "Bloomington, Minnesota",
+      "Williston, Vermont"
+    ],
+    "description": "Protect your homeland and defend your culture. Join USCIS, America's frontline defense against illegal foreign infiltration and fraud. As a Management Analyst, you will assist in administering a variety of programs, policies and procedures, provide advice, guidance, and instruction concerning administrative programs that include complex and sensitive issues, and provide excellent customer service.",
+    "url": "https://www.usajobs.gov/job/863412300",
+    "posted_at": "2026-04-01T08:02:32.183000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863412300",
     "title": "Management Analyst",
     "organization": "Citizenship and Immigration Services",
@@ -683,6 +1194,72 @@
     "url": "https://www.usajobs.gov/job/863338400",
     "posted_at": "2026-04-01T00:00:00",
     "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863058000",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/863058000",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863058000",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/863058000",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -766,6 +1343,42 @@
     "remote": null
   },
   {
+    "job_id": "863032100",
+    "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "Kansas City, Missouri",
+      "Dallas, Texas"
+    ],
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement. *This job announcement has been extended and will now close on Friday, April 14, 2026.*",
+    "url": "https://www.usajobs.gov/job/863032100",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863032100",
+    "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "Kansas City, Missouri",
+      "Dallas, Texas"
+    ],
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement. *This job announcement has been extended and will now close on Friday, April 14, 2026.*",
+    "url": "https://www.usajobs.gov/job/863032100",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863010900",
     "title": "Attorney Advisor (Counsel), CG-0905-15",
     "organization": "Federal Deposit Insurance Corporation",
@@ -782,44 +1395,48 @@
     "remote": null
   },
   {
-    "job_id": "862777500",
-    "title": "Attorney-Adviser",
-    "organization": "Headquarters, NASA",
+    "job_id": "863010900",
+    "title": "Attorney Advisor (Counsel), CG-0905-15",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia",
+      "Braintree, Massachusetts",
+      "Dallas, Texas"
+    ],
+    "description": "This announcement has been extended to 04/17/2026. The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/863010900",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863010900",
+    "title": "Attorney Advisor (Counsel), CG-0905-15",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "Washington, District of Columbia",
+      "Braintree, Massachusetts",
+      "Dallas, Texas"
+    ],
+    "description": "This announcement has been extended to 04/17/2026. The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/863010900",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861475400",
+    "title": "Trial Attorney (Employment Law)",
+    "organization": "U.S. Trustee Program",
     "locations": [
       "Washington, District of Columbia"
     ],
-    "description": "You will serve as an Attorney-Adviser in the Office of General Counsel (OGC), reporting to the Associate General Counsel, General Law Practice Group. You will perform legal counsel functions across all offices of OGC and NASA, advising senior management on complex and difficult legal and policy issues confronting the agency in the areas of fiscal and appropriations law.",
-    "url": "https://www.usajobs.gov/job/862777500",
-    "posted_at": "2026-03-27T00:00:00",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Employment Law) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-employment-law-2",
+    "url": "https://www.usajobs.gov/job/861475400",
+    "posted_at": "2026-03-17T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862493500",
-    "title": "Deputy National Intelligence Officer for Emerging & Disruptive Technologies",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Office of the Director of National Intelligence (ODNI) Directorate for Mission Integration (MI) creates a consistent and holistic view of intelligence from collection to analysis and serves as the Director of National Intelligence's (DNI) principal advisor on all aspects of intelligence. MI integrates mission capabilities, informs enterprise resource and policy decisions, and ensures the delivery of timely, objective, accurate, and relevant intelligence.",
-    "url": "https://www.usajobs.gov/job/862493500",
-    "posted_at": "2026-03-25T10:56:00.427000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862493200",
-    "title": "Deputy National Intelligence Officer for Emerging & Disruptive Technologies",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Office of the Director of National Intelligence (ODNI) Directorate for Mission Integration (MI) creates a consistent and holistic view of intelligence from collection to analysis and serves as the Director of National Intelligence's (DNI) principal advisor on all aspects of intelligence. MI integrates mission capabilities, informs enterprise resource and policy decisions, and ensures the delivery of timely, objective, accurate, and relevant intelligence.",
-    "url": "https://www.usajobs.gov/job/862493200",
-    "posted_at": "2026-03-25T10:55:17.093000",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -880,6 +1497,34 @@
     "remote": null
   },
   {
+    "job_id": "861047700",
+    "title": "Trial Attorney - Enforcement and Affirmative Litigation Branch",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Enforcement and Affirmative Litigation Branch seeks entry-level Trial Attorneys to oversee high-impact affirmative litigation that protects public health and safety and ensures nationwide compliance with federal law. The Branch handles cutting-edge matters enforcing consumer protection statutes and challenging laws that undermine federal policy. For impactful public service, the Branch offers a frontline role in the Department's major civil enforcement initiatives.",
+    "url": "https://www.usajobs.gov/job/861047700",
+    "posted_at": "2026-03-13T07:50:08.577000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "861047700",
+    "title": "Trial Attorney - Enforcement and Affirmative Litigation Branch",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Enforcement and Affirmative Litigation Branch seeks entry-level Trial Attorneys to oversee high-impact affirmative litigation that protects public health and safety and ensures nationwide compliance with federal law. The Branch handles cutting-edge matters enforcing consumer protection statutes and challenging laws that undermine federal policy. For impactful public service, the Branch offers a frontline role in the Department's major civil enforcement initiatives.",
+    "url": "https://www.usajobs.gov/job/861047700",
+    "posted_at": "2026-03-13T07:50:08.577000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "860830700",
     "title": "Trial Attorney",
     "organization": "Offices, Boards and Divisions",
@@ -890,48 +1535,6 @@
     "url": "https://www.usajobs.gov/job/860830700",
     "posted_at": "2026-03-11T16:24:16.053000",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860629900",
-    "title": "Trial Attorney (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Dallas, Texas"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-192 .",
-    "url": "https://www.usajobs.gov/job/860629900",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860549800",
-    "title": "Trial Attorney (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: https://www.justice.gov/legal-careers/job/trial-attorney-209 Legal Careers | Trial Attorney | United States Department of Justice",
-    "url": "https://www.usajobs.gov/job/860549800",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860522500",
-    "title": "Trial Attorney (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Wilmington, Delaware"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-204",
-    "url": "https://www.usajobs.gov/job/860522500",
-    "posted_at": "2026-03-10T00:00:00",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   }
