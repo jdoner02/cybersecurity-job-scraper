@@ -149,6 +149,20 @@
     "remote": null
   },
   {
+    "job_id": "864598300",
+    "title": "Information Technology Specialist (PLCYPLN)",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "The DoW CIO serves as Principal Staff Assistant (PSA) and advisor to the Secretary and Deputy Secretary of War for Information Technology (IT), including national security systems, and information resources management. The DOW CIO is also responsible for matters relating to, information and the DOW information environment.",
+    "url": "https://www.usajobs.gov/job/864598300",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864594700",
     "title": "IT CYBERSECURITY SPECIALIST (SYSADMIN/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -276,6 +290,20 @@
     "remote": null
   },
   {
+    "job_id": "864491300",
+    "title": "Supervisory IT Specialist",
+    "organization": "U.S. Census Bureau",
+    "locations": [
+      "Suitland, Maryland"
+    ],
+    "description": "This vacancy is for a Supervisory IT Specialist position in Multiple Divisions located at the U.S. Census Bureau Headquarters in Suitland, Maryland. The Census Bureau is accessible from the Metro Rail Green Line - Suitland Station. This Job Opportunity Announcement may be used to fill other Supervisory IT Specialist, 2210-15, positions within the Census Bureau in the same geographical location with the same qualifications and specialized experience.",
+    "url": "https://www.usajobs.gov/job/864491300",
+    "posted_at": "2026-04-09T09:10:19.500000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864513500",
     "title": "MARKET INFRASTRUCTURE/TECHNOLOGY ADVISER",
     "organization": "Securities and Exchange Commission",
@@ -329,6 +357,20 @@
     "url": "https://www.usajobs.gov/job/864441900",
     "posted_at": "2026-04-09T00:00:00",
     "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864392000",
+    "title": "Supervisory Information Technology Specialist",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Located within the Application Design and Delivery Office in the Enterprise Services Directorate of Diplomatic Technology (DT/ES/ADD), this position manages the functions and activities of ADD through subordinate supervisors and team leaders who directly supervise employees. It oversees the design and coordination of professional information technology services and serves as a senior technical resource and solutions expert.",
+    "url": "https://www.usajobs.gov/job/864392000",
+    "posted_at": "2026-04-09T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -530,6 +572,22 @@
     "url": "https://www.usajobs.gov/job/864145700",
     "posted_at": "2026-04-08T00:00:00",
     "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864127500",
+    "title": "Systems Analyst",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Woodlawn, Maryland",
+      "Philadelphia, Pennsylvania",
+      "Seattle, Washington"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Program Integrity (CPI), Data Analytics and Systems Group (DASG) As an IT Specialist (Systems Analysis) referred to here as a Systems Analyst, GS-2210-13, you will design, develop, and implement new and modernized information technology (IT) systems to detect fraud, waste, and abuse in Medicare and Medicaid.",
+    "url": "https://www.usajobs.gov/job/864127500",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1114,20 +1172,6 @@
     "remote": null
   },
   {
-    "job_id": "863218800",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Whitehall, Ohio"
-    ],
-    "description": "This position for The Defense Information Systems Agency is at Whitehall, Ohio .",
-    "url": "https://www.usajobs.gov/job/863218800",
-    "posted_at": "2026-04-01T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862917100",
     "title": "Senior Systems Engineer / Architect",
     "organization": "Defense Finance and Accounting Service",
@@ -1316,20 +1360,6 @@
     "remote": null
   },
   {
-    "job_id": "862859500",
-    "title": "IT SPECIALIST (SYSTEMS ADMINISTRATION)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Columbia, South Carolina"
-    ],
-    "description": "This is a National Guard Title 32 Excepted position for a IT SPECIALIST (SYSTEMS ADMINISTRATION), Position Description Number PDD2489P01 , and is part of the SC USPFO, South Carolina Army National Guard.",
-    "url": "https://www.usajobs.gov/job/862859500",
-    "posted_at": "2026-03-27T09:51:43.867000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "862851400",
     "title": "Computer Scientist (Pathways Recent Graduate) (Honors STEM Program)",
     "organization": "Federal Communications Commission",
@@ -1470,43 +1500,6 @@
     "description": "The Chief (Product Development Office) position is in the Administrative Office of the U.S. Courts, Department of the Chief Information Officer. The Chief (Product Development Office) leads Judiciary information technology development, modernization, security, and transformation efforts and initiatives.",
     "url": "https://www.usajobs.gov/job/860422700",
     "posted_at": "2026-03-18T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860850400",
-    "title": "Fall 2026 SEC Scholars Business Program- RO (Volunteer)",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas"
-    ],
-    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Fall 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
-    "url": "https://www.usajobs.gov/job/860850400",
-    "posted_at": "2026-03-12T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "860850100",
-    "title": "Fall 2026 SEC Scholars Business Program- HQ (Volunteer)",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Do you want to perform volunteer business operations work in a challenging yet professional environment? The SEC is actively recruiting for the Fall 2026 SEC Scholars Business Program. The program targets enrolled undergraduate/graduate students or students participating in a qualifying career/technical education program to participate in at least a ten-week program.",
-    "url": "https://www.usajobs.gov/job/860850100",
-    "posted_at": "2026-03-12T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
