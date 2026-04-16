@@ -1,15 +1,71 @@
 [
   {
-    "job_id": "865206500",
-    "title": "Program Analyst",
-    "organization": "Drug Enforcement Administration",
+    "job_id": "865315600",
+    "title": "Product Manager / Senior Product Manager",
+    "organization": "Social Security Administration",
     "locations": [
-      "Dallas, Texas"
+      "Woodlawn, Maryland"
     ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Dallas Division. This position(s) primary purpose is designed to support management of substantive programs by analyzing, developing, and evaluating criteria for existing and projected programs, policies, and procedures, which impact program objectives and personnel.",
-    "url": "https://www.usajobs.gov/job/865206500",
-    "posted_at": "2026-04-15T00:00:00",
-    "salary": "13-13",
+    "description": "IT Specialist, Project Manager and Senior Project Manager position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "url": "https://www.usajobs.gov/job/865315600",
+    "posted_at": "2026-04-16T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865268900",
+    "title": "Emergency Management Specialist (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "You will serve as the NASA Ames Research Center (ARC) Emergency Manager leading all Center emergency preparedness planning, training, and exercising for all hazards for all Ames personnel, including tenants and resident agencies. You will develop and maintain a Comprehensive Emergency Management Plan (CEMP) and Continuity of Operations Plan (COOP) and be responsible for the daily operation, readiness, and maintenance of the ARC Emergency Operations Center (EOC) facility and appointed personnel.",
+    "url": "https://www.usajobs.gov/job/865268900",
+    "posted_at": "2026-04-16T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865263500",
+    "title": "Program Manager (Data Officer)",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Office of the Chief Technology Officer (CTO), Office of the Executive Director (EX), Bureau of Diplomatic Security (DS). DS/EX/CTO provides essential Cybersecurity and Information Technology (IT) management functions in support of the Bureau's IT program. For more information about the Bureau, visit: DS",
+    "url": "https://www.usajobs.gov/job/865263500",
+    "posted_at": "2026-04-16T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865263500",
+    "title": "Program Manager (Data Officer)",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Office of the Chief Technology Officer (CTO), Office of the Executive Director (EX), Bureau of Diplomatic Security (DS). DS/EX/CTO provides essential Cybersecurity and Information Technology (IT) management functions in support of the Bureau's IT program. For more information about the Bureau, visit: DS",
+    "url": "https://www.usajobs.gov/job/865263500",
+    "posted_at": "2026-04-16T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865305600",
+    "title": "Assistant Director - Data Governance",
+    "organization": "Alcohol and Tobacco Tax and Trade Bureau",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "TTB's mission is steeped in America's history, from the time of the Whiskey Rebellion to the work of agents like Eliot Ness. We are a nationwide team dedicated to collect alcohol, tobacco, firearms, and ammunition excise taxes and ensure that alcohol beverages are labeled, advertised, and marketed by law. We rank among the top 15% of agency subcomponents in the 2024 Best Places to Work in the Federal Government.",
+    "url": "https://www.usajobs.gov/job/865305600",
+    "posted_at": "2026-04-15T12:57:23.510000",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -196,128 +252,16 @@
     "remote": null
   },
   {
-    "job_id": "864713600",
-    "title": "CBP Technician",
-    "organization": "Customs and Border Protection",
+    "job_id": "865073100",
+    "title": "Interdisciplinary General Engineer/Physical Scientist",
+    "organization": "Department of Energy - Agency Wide",
     "locations": [
-      "Saipan, Mariana Island, Northern Mariana Islands",
-      "Somerset County, Maine",
-      "Beecher Falls, Vermont",
-      "Derby Line, Vermont",
-      "Highgate Springs, Vermont",
-      "Norton, Vermont",
-      "Richford, Vermont",
-      "Norfolk, Virginia",
-      "Sterling, Virginia",
-      "Blaine, Washington",
-      "Northport, Washington",
-      "Oroville, Washington",
-      "Point Roberts, Washington",
-      "Seattle, Washington",
-      "Sumas, Washington",
-      "Mobile, Alabama",
-      "Anchorage, Alaska",
-      "Juneau, Alaska",
-      "Douglas, Arizona",
-      "Lukeville, Arizona",
-      "Nogales, Arizona",
-      "Phoenix, Arizona",
-      "San Luis, Arizona",
-      "Andrade, California",
-      "Calexico, California",
-      "Long Beach, California",
-      "Los Angeles, California",
-      "Otay, California",
-      "San Francisco, California",
-      "San Ysidro, California",
-      "Tecate, California",
-      "Denver, Colorado",
-      "Wilmington, Delaware",
-      "Cape Canaveral, Florida",
-      "Fort Lauderdale, Florida",
-      "Jacksonville, Florida",
-      "Key West, Florida",
-      "Miami, Florida",
-      "Orlando, Florida",
-      "Tampa, Florida",
-      "West Palm Beach, Florida",
-      "Atlanta, Georgia",
-      "Atlanta, Georgia",
-      "Savannah, Georgia",
-      "Honolulu, Hawaii",
-      "Eastport, Idaho",
-      "Porthill, Idaho",
-      "Chicago, Illinois",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "Louisville, Kentucky",
-      "New Orleans, Louisiana",
-      "Calais, Maine",
-      "Coburn Gore, Maine",
-      "Eastport, Maine",
-      "Fort Fairfield, Maine",
-      "Houlton, Maine",
-      "Madawaska, Maine",
-      "Van Buren, Maine",
-      "Baltimore, Maryland",
-      "Boston, Massachusetts",
-      "Detroit, Michigan",
-      "Port Huron, Michigan",
-      "Romulus, Michigan",
-      "Sault Ste. Marie, Michigan",
-      "Grand Portage, Minnesota",
-      "International Falls, Minnesota",
-      "Minneapolis, Minnesota",
-      "Gulfport, Mississippi",
-      "Saint Louis, Missouri",
-      "Browning, Montana",
-      "Raymond, Montana",
-      "Sweet Grass, Montana",
-      "Las Vegas, Nevada",
-      "Newark, New Jersey",
-      "Columbus, New Mexico",
-      "Santa Teresa, New Mexico",
-      "Alexandria Bay, New York",
-      "Buffalo, New York",
-      "Champlain, New York",
-      "Massena, New York",
-      "New York, New York",
-      "Queens, New York",
-      "Niagara Falls, New York",
-      "Rouses Point, New York",
-      "Trout River, New York",
-      "Charlotte, North Carolina",
-      "Dunseith, North Dakota",
-      "Pembina, North Dakota",
-      "Portal, North Dakota",
-      "Cincinnati, Ohio",
-      "Middleburg Heights, Ohio",
-      "Oklahoma City, Oklahoma",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Philadelphia, Pennsylvania",
-      "Pittsburgh, Pennsylvania",
-      "Charleston, South Carolina",
-      "Memphis, Tennessee",
-      "Nashville, Tennessee",
-      "Brownsville, Texas",
-      "Dallas, Texas",
-      "Dallas, Texas",
-      "Del Rio, Texas",
-      "Eagle Pass, Texas",
-      "El Paso, Texas",
-      "Fort Worth, Texas",
-      "Hidalgo, Texas",
-      "Houston, Texas",
-      "Laredo, Texas",
-      "Presidio, Texas",
-      "Rio Grande City, Texas",
-      "Roma, Texas"
+      "Idaho Falls, Idaho"
     ],
-    "description": "U.S. Customs & Border Protection (CBP): Securing America's Borders Discover a challenging and rewarding career with the sole organization responsible for securing the nation's borders from terrorism, human/drug smuggling, illegal migration, agricultural pests, and enforcing legitimate travel and trade. CBP employees demonstrate the highest level of commitment to exemplify the core values of Vigilance, Service to Country and Integrity. Learn more at https://www.cbp.gov/about",
-    "url": "https://www.usajobs.gov/job/864713600",
-    "posted_at": "2026-04-15T00:00:00",
-    "salary": "5-6",
+    "description": "This position is part of the Idaho Operations Office, Department of Energy. As an Interdisciplinary General Engineer/Physical Scientist, you will provide professional engineering or physical science expertise and support to DOE programs, projects or initiatives whose mission or responsibilities include a combination of engineering and physical science work that supports the DOE mission to maintain U.S. preeminence in engineering and scientific technology research and applications.",
+    "url": "https://www.usajobs.gov/job/865073100",
+    "posted_at": "2026-04-14T10:07:25.273000",
+    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -350,38 +294,6 @@
     "url": "https://www.usajobs.gov/job/865043000",
     "posted_at": "2026-04-14T08:17:23.173000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865043000",
-    "title": "Branch Chief (IT)",
-    "organization": "Nuclear Regulatory Commission",
-    "locations": [
-      "Atlanta, Georgia",
-      "Naperville, Illinois",
-      "Rockville, Maryland",
-      "King of Prussia, Pennsylvania",
-      "Arlington, Texas"
-    ],
-    "description": "This position is located in Office of the Chief Information Officer. The supervisor for these positions varies. This position is subject to Confidential Financial Disclosure reporting requirements. This position is not subject to security ownership restriction reporting requirements.",
-    "url": "https://www.usajobs.gov/job/865043000",
-    "posted_at": "2026-04-14T08:17:23.173000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865032200",
-    "title": "ELECTRICAL ENGINEER",
-    "organization": "Export-Import Bank of the United States",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Merit Promotion (MP) procedures vacancy number: M26-MJ-12929064-OBAF. Applicants who wish to also be considered under MP must apply to both vacancies separately. About this agency",
-    "url": "https://www.usajobs.gov/job/865032200",
-    "posted_at": "2026-04-14T06:39:40.317000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -428,16 +340,16 @@
     "remote": null
   },
   {
-    "job_id": "864913000",
-    "title": "Financial Management Specialist",
-    "organization": "Drug Enforcement Administration",
+    "job_id": "864890700",
+    "title": "Sanctions Compliance Officer",
+    "organization": "Treasury, Departmental Offices",
     "locations": [
-      "Quantico, Virginia"
+      "Washington, District of Columbia"
     ],
-    "description": "This position is located in the DEA, Operations Division, Office of Training - Academy Operations Section, Financial Management Unit (OTAF). This position(s) primary purpose is to process various types of accounting transactions in DEA/DOJ accounting system (Unified Financial Management System (UFMS)); performs analysis of financial information using queries and reports; and providing customer support.",
-    "url": "https://www.usajobs.gov/job/864913000",
+    "description": "This position is located at Departmental Offices,Terrorism and Financial Intelligence - Office of Foreign Assets Control, OFAC. As a/an Sanctions Compliance Officer, you will engage in efforts to foster implementation of Office of Foreign Assets Control (OFAC) sanctions, both within the government and in the private sector, primarily through engagement with key industries such as the banking and securities industries.",
+    "url": "https://www.usajobs.gov/job/864890700",
     "posted_at": "2026-04-14T00:00:00",
-    "salary": "9-11",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -498,6 +410,34 @@
     "remote": null
   },
   {
+    "job_id": "864977000",
+    "title": "Systems Integrator Mission AI Campaign",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864977000",
+    "posted_at": "2026-04-13T14:44:46.497000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864977500",
+    "title": "Systems Integrator Mission AI Campaign",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864977500",
+    "posted_at": "2026-04-13T14:44:10.917000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864977500",
     "title": "Systems Integrator Mission AI Campaign",
     "organization": "Office of the Director of National Intelligence",
@@ -540,6 +480,20 @@
     "remote": null
   },
   {
+    "job_id": "864877000",
+    "title": "Management and Program Analyst ",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "**This announcement has been amended to close on 4/17/2026.** This position is in the Office of the Executive Director (EX), Under Secretary for Economic Affairs (E), Department of State (DoS). This position is for a Management and Program Analyst whose responsibilities include assisting the Executive Director and Deputy Executive Director on analytical and program management support for a variety of complex mission critical activities with Bureau and Department wide impact.",
+    "url": "https://www.usajobs.gov/job/864877000",
+    "posted_at": "2026-04-13T10:07:15.347000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864881700",
     "title": "General Engineer, AST, Engineering Project Management",
     "organization": "John C. Stennis Space Center",
@@ -554,90 +508,6 @@
     "remote": null
   },
   {
-    "job_id": "864862900",
-    "title": "Systems Engineer (Hiring Event)",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Systems Engineers apply a structured approach to design, develop, implement, maintain, and optimize systems, infrastructures and processes across the lifecycle. They capture requirements and translate them into capabilities across the GEOINT enterprise. They test, verify, and validate systems and services to meet mission needs. Systems Engineers partner with multi-disciplinary stakeholders to docu",
-    "url": "https://www.usajobs.gov/job/864862900",
-    "posted_at": "2026-04-13T07:10:40.580000",
-    "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864862900",
-    "title": "Systems Engineer (Hiring Event)",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Systems Engineers apply a structured approach to design, develop, implement, maintain, and optimize systems, infrastructures and processes across the lifecycle. They capture requirements and translate them into capabilities across the GEOINT enterprise. They test, verify, and validate systems and services to meet mission needs. Systems Engineers partner with multi-disciplinary stakeholders to docu",
-    "url": "https://www.usajobs.gov/job/864862900",
-    "posted_at": "2026-04-13T07:10:40.580000",
-    "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864862800",
-    "title": "Systems Engineer (Hiring Event)",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Systems Engineers apply a structured approach to design, develop, implement, maintain, and optimize systems, infrastructures and processes across the lifecycle. They capture requirements and translate them into capabilities across the GEOINT enterprise. They test, verify, and validate systems and services to meet mission needs. Systems Engineers partner with multi-disciplinary stakeholders to docu",
-    "url": "https://www.usajobs.gov/job/864862800",
-    "posted_at": "2026-04-13T07:10:37.853000",
-    "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864862800",
-    "title": "Systems Engineer (Hiring Event)",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Systems Engineers apply a structured approach to design, develop, implement, maintain, and optimize systems, infrastructures and processes across the lifecycle. They capture requirements and translate them into capabilities across the GEOINT enterprise. They test, verify, and validate systems and services to meet mission needs. Systems Engineers partner with multi-disciplinary stakeholders to docu",
-    "url": "https://www.usajobs.gov/job/864862800",
-    "posted_at": "2026-04-13T07:10:37.853000",
-    "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864862600",
-    "title": "Program Manager (Hiring Event)",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Program Managers oversee the cost, schedule, and technical performance of acquisition, operations, and support activities, and are accountable for the overall success of the project or program. They collaborate with others to plan programs across their life cycle, lead program teams and activities, and monitor the acquisition process to ensure that work efforts achieve the outcome specified in the",
-    "url": "https://www.usajobs.gov/job/864862600",
-    "posted_at": "2026-04-13T07:10:32.637000",
-    "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864862600",
-    "title": "Program Manager (Hiring Event)",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Program Managers oversee the cost, schedule, and technical performance of acquisition, operations, and support activities, and are accountable for the overall success of the project or program. They collaborate with others to plan programs across their life cycle, lead program teams and activities, and monitor the acquisition process to ensure that work efforts achieve the outcome specified in the",
-    "url": "https://www.usajobs.gov/job/864862600",
-    "posted_at": "2026-04-13T07:10:32.637000",
-    "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "865031100",
     "title": "Cartographer (Hiring Event)",
     "organization": "National Geospatial-Intelligence Agency",
@@ -653,31 +523,44 @@
     "remote": null
   },
   {
-    "job_id": "865031100",
-    "title": "Cartographer (Hiring Event)",
+    "job_id": "864862900",
+    "title": "Systems Engineer (Hiring Event)",
     "organization": "National Geospatial-Intelligence Agency",
     "locations": [
-      "Saint Louis, Missouri",
-      "Springfield, Virginia"
+      "Saint Louis, Missouri"
     ],
-    "description": "Cartographers acquire, compile, evaluate, and review geospatial data to develop cartography products and/or data holdings in support of mission requirements for national security, military operations, and humanitarian relief. They extract, attribute, format, manipulate, and symbolize geospatial information in accordance with NGA and international standards, typically specializing in a particular c",
-    "url": "https://www.usajobs.gov/job/865031100",
+    "description": "Systems Engineers apply a structured approach to design, develop, implement, maintain, and optimize systems, infrastructures and processes across the lifecycle. They capture requirements and translate them into capabilities across the GEOINT enterprise. They test, verify, and validate systems and services to meet mission needs. Systems Engineers partner with multi-disciplinary stakeholders to docu",
+    "url": "https://www.usajobs.gov/job/864862900",
+    "posted_at": "2026-04-13T00:00:00",
+    "salary": "04-04",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864862800",
+    "title": "Systems Engineer (Hiring Event)",
+    "organization": "National Geospatial-Intelligence Agency",
+    "locations": [
+      "Saint Louis, Missouri"
+    ],
+    "description": "Systems Engineers apply a structured approach to design, develop, implement, maintain, and optimize systems, infrastructures and processes across the lifecycle. They capture requirements and translate them into capabilities across the GEOINT enterprise. They test, verify, and validate systems and services to meet mission needs. Systems Engineers partner with multi-disciplinary stakeholders to docu",
+    "url": "https://www.usajobs.gov/job/864862800",
     "posted_at": "2026-04-13T00:00:00",
     "salary": "03-03",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "864735600",
-    "title": "Administrative Officer",
-    "organization": "Drug Enforcement Administration",
+    "job_id": "864862600",
+    "title": "Program Manager (Hiring Event)",
+    "organization": "National Geospatial-Intelligence Agency",
     "locations": [
-      "Bogota, Colombia"
+      "Saint Louis, Missouri"
     ],
-    "description": "This position is located in the DEA, Bogota, Colombia Country Office. This position(s) primary purpose is to provide support and assistance to Host Nation governments in the capacity to build combat international drug trafficking and money laundering, and to ensure that activities are in kept with Host Nation laws and existing agreements.",
-    "url": "https://www.usajobs.gov/job/864735600",
+    "description": "Program Managers oversee the cost, schedule, and technical performance of acquisition, operations, and support activities, and are accountable for the overall success of the project or program. They collaborate with others to plan programs across their life cycle, lead program teams and activities, and monitor the acquisition process to ensure that work efforts achieve the outcome specified in the",
+    "url": "https://www.usajobs.gov/job/864862600",
     "posted_at": "2026-04-13T00:00:00",
-    "salary": "13-13",
+    "salary": "04-04",
     "grade": null,
     "remote": null
   },
@@ -967,16 +850,273 @@
     "remote": null
   },
   {
-    "job_id": "864714800",
-    "title": "Facility Manager",
+    "job_id": "864718000",
+    "title": "Diversion Investigator",
     "organization": "Drug Enforcement Administration",
     "locations": [
-      "El Paso, Texas"
+      "Ponce, Puerto Rico",
+      "San Juan, Puerto Rico",
+      "Tyler, Texas",
+      "Waco, Texas",
+      "Saint George, Utah",
+      "Salt Lake City, Utah",
+      "Burlington, Vermont",
+      "Arlington, Virginia",
+      "Bristol, Virginia",
+      "Chantilly, Virginia",
+      "Fairfax, Virginia",
+      "Hampton, Virginia",
+      "Lorton, Virginia",
+      "Merrifield, Virginia",
+      "Norfolk, Virginia",
+      "Quantico, Virginia",
+      "Richmond, Virginia",
+      "Roanoke, Virginia",
+      "Springfield, Virginia",
+      "Sterling, Virginia",
+      "Vienna, Virginia",
+      "Winchester, Virginia",
+      "Bellingham, Washington",
+      "Blaine, Washington",
+      "Pasco, Washington",
+      "Richland, Washington",
+      "Seattle, Washington",
+      "Spokane, Washington",
+      "Tacoma, Washington",
+      "Yakima, Washington",
+      "Charleston, West Virginia",
+      "Clarksburg, West Virginia",
+      "Wheeling, West Virginia",
+      "Green Bay, Wisconsin",
+      "Madison, Wisconsin",
+      "Milwaukee, Wisconsin",
+      "Casper, Wyoming",
+      "Cheyenne, Wyoming",
+      "Birmingham, Alabama",
+      "Huntsville, Alabama",
+      "Mobile, Alabama",
+      "Montgomery, Alabama",
+      "Anchorage, Alaska",
+      "Fairbanks, Alaska",
+      "Flagstaff, Arizona",
+      "Lake Havasu City, Arizona",
+      "Nogales, Arizona",
+      "Phoenix, Arizona",
+      "Rio Rico, Arizona",
+      "Sierra Vista, Arizona",
+      "Tucson, Arizona",
+      "Yuma, Arizona",
+      "Fayetteville, Arkansas",
+      "Fort Smith, Arkansas",
+      "Little Rock, Arkansas",
+      "Bakersfield, California",
+      "Camarillo, California",
+      "Carlsbad, California",
+      "Fresno, California",
+      "Imperial, California",
+      "Long Beach, California",
+      "Los Angeles, California",
+      "Modesto, California",
+      "Oakland, California",
+      "Redding, California",
+      "Riverside, California",
+      "Sacramento, California",
+      "San Diego, California",
+      "San Francisco, California",
+      "San Jose, California",
+      "Santa Ana, California",
+      "Santa Rosa, California",
+      "San Ysidro, California",
+      "Vista, California",
+      "Colorado Springs, Colorado",
+      "Englewood, Colorado",
+      "Glenwood Springs, Colorado",
+      "Grand Junction, Colorado",
+      "Bridgeport, Connecticut",
+      "Hartford, Connecticut",
+      "Dover, Delaware",
+      "New Castle, Delaware",
+      "Washington, District of Columbia",
+      "Altamonte Springs, Florida",
+      "Fort Lauderdale, Florida",
+      "Fort Myers, Florida",
+      "Fort Pierce, Florida",
+      "Gainesville, Florida",
+      "Homestead, Florida",
+      "Jacksonville, Florida",
+      "Key West, Florida",
+      "Miami, Florida",
+      "North Fort Myers, Florida",
+      "Orlando, Florida",
+      "Panama City, Florida",
+      "Pensacola, Florida",
+      "Plantation, Florida",
+      "Port Saint Lucie, Florida",
+      "Seminole, Florida",
+      "Tallahassee, Florida",
+      "Tampa, Florida",
+      "Titusville, Florida",
+      "West Palm Beach, Florida",
+      "Weston, Florida",
+      "Atlanta, Georgia",
+      "Augusta, Georgia",
+      "Glynco, Georgia",
+      "Hapeville, Georgia",
+      "Macon, Georgia",
+      "Rome, Georgia",
+      "Savannah, Georgia",
+      "Hilo, Hawaii",
+      "Honolulu, Hawaii",
+      "Oahu Island, Hawaii",
+      "Wailuku, Hawaii",
+      "Boise, Idaho",
+      "Carbondale, Illinois",
+      "Chicago, Illinois",
+      "Fairview Heights, Illinois",
+      "Rock Island, Illinois",
+      "Rockford, Illinois",
+      "Springfield, Illinois",
+      "Evansville, Indiana",
+      "Fort Wayne, Indiana",
+      "Indianapolis, Indiana",
+      "Merrillville, Indiana",
+      "Cedar Rapids, Iowa",
+      "Des Moines, Iowa",
+      "Sioux City, Iowa",
+      "Garden City, Kansas",
+      "Overland Park, Kansas",
+      "Topeka, Kansas",
+      "Wichita, Kansas",
+      "Lexington, Kentucky",
+      "Locust Hill, Kentucky",
+      "London, Kentucky",
+      "Louisville, Kentucky",
+      "Baton Rouge, Louisiana",
+      "Lafayette, Louisiana",
+      "Metairie, Louisiana",
+      "Monroe, Louisiana",
+      "Shreveport, Louisiana",
+      "Bangor, Maine",
+      "Portland, Maine",
+      "Baltimore, Maryland",
+      "Hagerstown, Maryland",
+      "Largo, Maryland",
+      "Salisbury, Maryland",
+      "Suitland, Maryland",
+      "Barnstable, Massachusetts",
+      "Boston, Massachusetts",
+      "Lowell, Massachusetts",
+      "New Bedford, Massachusetts",
+      "Springfield, Massachusetts",
+      "Worcester, Massachusetts",
+      "Detroit, Michigan",
+      "East Lansing, Michigan",
+      "Grand Rapids, Michigan",
+      "Kalamazoo, Michigan",
+      "Marquette, Michigan",
+      "Romulus, Michigan",
+      "Saginaw, Michigan",
+      "Minneapolis, Minnesota",
+      "Gulfport, Mississippi",
+      "Jackson, Mississippi",
+      "Oxford, Mississippi",
+      "Bridgeton, Missouri",
+      "Cape Girardeau, Missouri",
+      "Clayton, Missouri",
+      "Jefferson City, Missouri",
+      "Kansas City, Missouri",
+      "Saint Louis, Missouri",
+      "Springfield, Missouri",
+      "Billings, Montana",
+      "Missoula, Montana",
+      "North Platte, Nebraska",
+      "Omaha, Nebraska",
+      "Las Vegas, Nevada",
+      "Reno, Nevada",
+      "Manchester, New Hampshire",
+      "Portsmouth, New Hampshire",
+      "Camden, New Jersey",
+      "Fairfield, New Jersey",
+      "Maple Shade, New Jersey",
+      "Newark, New Jersey",
+      "Northfield, New Jersey",
+      "Paterson, New Jersey",
+      "Albuquerque, New Mexico",
+      "Las Cruces, New Mexico",
+      "Albany, New York",
+      "Buffalo, New York",
+      "Melville, New York",
+      "New York, New York",
+      "Plattsburgh, New York",
+      "Rochester, New York",
+      "Syracuse, New York",
+      "White Plains, New York",
+      "Asheville, North Carolina",
+      "Charlotte, North Carolina",
+      "Greensboro, North Carolina",
+      "Wilmington, North Carolina",
+      "Bismarck, North Dakota",
+      "Fargo, North Dakota",
+      "Cincinnati, Ohio",
+      "Cleveland, Ohio",
+      "Columbus, Ohio",
+      "Miamisburg, Ohio",
+      "Poland, Ohio",
+      "Toledo, Ohio",
+      "McAlester, Oklahoma",
+      "Oklahoma City, Oklahoma",
+      "Tulsa, Oklahoma",
+      "Bend, Oregon",
+      "Eugene, Oregon",
+      "Medford, Oregon",
+      "Portland, Oregon",
+      "Portland, Oregon",
+      "Salem, Oregon",
+      "Allentown, Pennsylvania",
+      "Harrisburg, Pennsylvania",
+      "McKees Rocks, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Scranton, Pennsylvania",
+      "Providence, Rhode Island",
+      "Beaufort, South Carolina",
+      "Charleston, South Carolina",
+      "Columbia, South Carolina",
+      "Florence, South Carolina",
+      "Greenville, South Carolina",
+      "Rapid City, South Dakota",
+      "Sioux Falls, South Dakota",
+      "Chattanooga, Tennessee",
+      "Donelson, Tennessee",
+      "Jackson, Tennessee",
+      "Johnson City, Tennessee",
+      "Knoxville, Tennessee",
+      "Memphis, Tennessee",
+      "Nashville, Tennessee",
+      "Alpine, Texas",
+      "Amarillo, Texas",
+      "Austin, Texas",
+      "Beaumont, Texas",
+      "Brownsville, Texas",
+      "Corpus Christi, Texas",
+      "Dallas, Texas",
+      "Del Rio, Texas",
+      "Eagle Pass, Texas",
+      "El Paso, Texas",
+      "Fort Worth, Texas",
+      "Galveston, Texas",
+      "Houston, Texas",
+      "Laredo, Texas",
+      "League City, Texas",
+      "Lubbock, Texas",
+      "McAllen, Texas",
+      "Midland, Texas",
+      "San Antonio, Texas"
     ],
-    "description": "This position is located in the DEA, El Paso Intelligence Division, El Paso, Texas. This position primary purpose is to ensure that the buildings, infrastructures, and support services operate safely, efficiently, and in alignment of organizational goals.",
-    "url": "https://www.usajobs.gov/job/864714800",
+    "description": "TOUGH WORK. VITAL MISSION. Challenge yourself! You have the power to help combat drug trafficking. Be a part of DEA! It's tough work, but a vital mission. Whatever your background or expertise, your work at DEA will be tremendously rewarding because it will have a daily impact on national security and the quality of life of all Americans. The salary listed is based on the 2026 Base Salary table and will be augmented by locality pay as authorized for the duty location of the position.",
+    "url": "https://www.usajobs.gov/job/864718000",
     "posted_at": "2026-04-13T00:00:00",
-    "salary": "11-12",
+    "salary": "7-9",
     "grade": null,
     "remote": null
   },
@@ -1009,6 +1149,20 @@
     "remote": null
   },
   {
+    "job_id": "864712800",
+    "title": "Chief Data Officer",
+    "organization": "Social Security Administration",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "The Social Security Administration (SSA) Chief Data Officer (CDO) is a senior leadership position responsible for advancing and operationalizing data management across the SSA enterprise.",
+    "url": "https://www.usajobs.gov/job/864712800",
+    "posted_at": "2026-04-13T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864681700",
     "title": "Foreign Affairs Officer",
     "organization": "Department of State - Agency Wide",
@@ -1017,20 +1171,6 @@
     ],
     "description": "This position is located in the Bureau of Cyberspace and Digital Policy, Office of Emerging and Critical Technology Policy (CDP/ECTP). CDP/ECTP formulates and coordinates U.S. foreign policy on emerging and critical technologies including artificial intelligence (AI), quantum, biotechnology, and information and communication technologies. For more information about the Bureau, visit: CDP.",
     "url": "https://www.usajobs.gov/job/864681700",
-    "posted_at": "2026-04-13T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864524800",
-    "title": "Aerospace Engineer, AST, Flight Systems Engineer (Direct Hire)",
-    "organization": "Ames Research Center",
-    "locations": [
-      "Moffett Field, California"
-    ],
-    "description": "The Spaceflight Division at Ames Research Center is seeking skilled individuals to lead and perform research, analysis, and investigations of the motion mechanics of flight vehicles under applied forces of flight vehicles in various atmospheric, planetary, celestial and space environments. Analyses and studies will result in recommendations and guidance on resolving complex problems involving mission design and operational regimens for spaceflight projects.",
-    "url": "https://www.usajobs.gov/job/864524800",
     "posted_at": "2026-04-13T00:00:00",
     "salary": "13-13",
     "grade": null,
@@ -1074,16 +1214,16 @@
     "remote": null
   },
   {
-    "job_id": "864763400",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
+    "job_id": "864726800",
+    "title": "Mission AI Campaign Staff Officer",
+    "organization": "Office of the Director of National Intelligence",
     "locations": [
-      "Alexandria, Louisiana"
+      "McLean, Virginia"
     ],
-    "description": "This position serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/864763400",
-    "posted_at": "2026-04-10T12:40:08.347000",
-    "salary": "12-12",
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864726800",
+    "posted_at": "2026-04-10T11:48:50.197000",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1126,6 +1266,20 @@
     "url": "https://www.usajobs.gov/job/864702700",
     "posted_at": "2026-04-10T09:07:01.260000",
     "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864693300",
+    "title": "Associate Chief Information Officer for Platforms",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Boyers, Pennsylvania"
+    ],
+    "description": "The Associate Chief Information Officer (ACIO) for Platforms serves as a principal advisor to the Chief Information Officer (CIO) and provides executive leadership for OPM's enterprise technology platforms and infrastructure. The incumbent is responsible for ensuring that the foundational technology capabilities required to deliver OPM's digital products and services are secure, reliable, scalable, and efficient.",
+    "url": "https://www.usajobs.gov/job/864693300",
+    "posted_at": "2026-04-10T08:19:52.770000",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1200,6 +1354,20 @@
     "remote": null
   },
   {
+    "job_id": "864558700",
+    "title": "Intelligence Research Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence (IN), Emerging Technologies Intelligence Program (ETIP) (IN-14). As an Intelligence Research Specialist, you will act as the ETIP testbed coordinator and produce a variety of finished intelligence products, assessments and reports for the Foreign Intelligence (FI) area.",
+    "url": "https://www.usajobs.gov/job/864558700",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864553100",
     "title": "Security Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -1210,6 +1378,34 @@
     "url": "https://www.usajobs.gov/job/864553100",
     "posted_at": "2026-04-10T00:00:00",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864553100",
+    "title": "Security Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Security Specialist, you will be responsible for managing the Department of Energy's research, analysis, and timely production of business and security-related Entity Vulnerability Assessments (EVAs) evaluating a company's risk indicators and assessing the resultant vulnerabilities' impact of a company.",
+    "url": "https://www.usajobs.gov/job/864553100",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864540600",
+    "title": "Intelligence Research Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence (IN), Cyber Analysis Division (IN-48) of the Cyber Intelligence Directorate (IN-40). As an Intelligence Research Specialist, you will conduct cyber threat analysis and intelligence assessments to support a variety of stakeholders in the U.S. Energy Sector and Intelligence Community (IC).",
+    "url": "https://www.usajobs.gov/job/864540600",
+    "posted_at": "2026-04-10T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1271,30 +1467,16 @@
     "remote": null
   },
   {
-    "job_id": "864470900",
-    "title": "General Engineer, AST - Technical Management",
-    "organization": "Headquarters, NASA",
+    "job_id": "864494400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
     "locations": [
-      "Washington, District of Columbia"
+      "San Antonio, Texas"
     ],
-    "description": "As an AST Technical Program Manager in the Office of Strategic Infrastructure, Facilities & Real Estate Division, you will lead the implementation, continuous improvement, and transformation of maintenance and operations processes agency wide. Your primary focus will be to deploy and optimize enterprise tools and procedures, collaborate across teams to ensure best practices, boost efficiency, and advance strategic goals for facilities and infrastructure across the agency.",
-    "url": "https://www.usajobs.gov/job/864470900",
-    "posted_at": "2026-04-09T17:49:39.173000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864402200",
-    "title": "General Engineer, AST, Gas and Fluid Systems",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "As an AST, Gas and Fluids Engineer technical expert in the Fluids and Contract Management branch, you will be responsible for leading the planning, acquisition and control, including operational readiness and engineering support, of fluid supply equipment and facilities for cryogens, high-pressure gases, and hypergolic propellants. You will also monitor and provide technical guidance to the contracting officer representatives of the fluid contracts and contractors engaged in this work.",
-    "url": "https://www.usajobs.gov/job/864402200",
-    "posted_at": "2026-04-09T17:45:47.493000",
-    "salary": "14-14",
+    "description": "The primary purpose of this position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). This announcement is for two Program Analyst positions: Change Management Lead and FEHR Deployment Lead. See the Preferred Experience identified in the Requirements - Qualifications section below.",
+    "url": "https://www.usajobs.gov/job/864494400",
+    "posted_at": "2026-04-09T13:45:32.373000",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1327,53 +1509,6 @@
     "remote": null
   },
   {
-    "job_id": "864515400",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Chapter 11) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-chapter-11",
-    "url": "https://www.usajobs.gov/job/864515400",
-    "posted_at": "2026-04-09T09:12:17.097000",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864618000",
-    "title": "IT Specialist , (AI)",
-    "organization": "Deputy Assistant Secretary for Information and Technology",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "The Department of Veterans Affairs (VA) seeks to significantly expand the responsible use of Artificial Intelligence (AI), including the use of Generative AI, to improve the delivery of its services and increase operational effectiveness of its mission to care for our nation's Veterans. VA has an immediate need to hire IT Specialists for AI to continue to lead the Federal Government in the responsible use of AI.",
-    "url": "https://www.usajobs.gov/job/864618000",
-    "posted_at": "2026-04-09T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "864444400",
     "title": "Supervisory Human Resources Specialist (Employee Relations)",
     "organization": "Drug Enforcement Administration",
@@ -1402,15 +1537,15 @@
     "remote": null
   },
   {
-    "job_id": "864354800",
-    "title": "Accountant",
-    "organization": "Defense Logistics Agency",
+    "job_id": "864434100",
+    "title": "Supervisory Intelligence Research Specialist (Group Supervisor)",
+    "organization": "Drug Enforcement Administration",
     "locations": [
-      "Fort Belvoir, Virginia"
+      "San Diego, California"
     ],
-    "description": "See below for important information regarding this job.",
-    "url": "https://www.usajobs.gov/job/864354800",
-    "posted_at": "2026-04-08T10:50:03.063000",
+    "description": "This position is located in the Drug Enforcement Administration, San Diego Division Office, Intelligence Group 2 in San Diego, California.",
+    "url": "https://www.usajobs.gov/job/864434100",
+    "posted_at": "2026-04-08T15:10:13.157000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -1426,34 +1561,6 @@
     "url": "https://www.usajobs.gov/job/864322100",
     "posted_at": "2026-04-08T09:02:58.410000",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864322100",
-    "title": "Microelectronics Manager",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
-    "url": "https://www.usajobs.gov/job/864322100",
-    "posted_at": "2026-04-08T09:02:58.410000",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864322200",
-    "title": "Microelectronics Manager",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
-    "url": "https://www.usajobs.gov/job/864322200",
-    "posted_at": "2026-04-08T09:02:18.357000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1486,6 +1593,20 @@
     "remote": null
   },
   {
+    "job_id": "864681300",
+    "title": "Associate Director for Capabilities",
+    "organization": "National Geospatial-Intelligence Agency",
+    "locations": [
+      "Springfield, Virginia"
+    ],
+    "description": "Associate Director for Capabilities",
+    "url": "https://www.usajobs.gov/job/864681300",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "03-03",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "864276300",
     "title": "Chief Data Officer",
     "organization": "Federal Aviation Administration",
@@ -1496,6 +1617,20 @@
     "url": "https://www.usajobs.gov/job/864276300",
     "posted_at": "2026-04-08T00:00:00",
     "salary": "02-02",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863766500",
+    "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
+    "organization": "Department of Defense Education Activity",
+    "locations": [
+      "Fort Campbell, Kentucky"
+    ],
+    "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Campbell, KY. Description of the Working Environment: Work is performed in an office setting.",
+    "url": "https://www.usajobs.gov/job/863766500",
+    "posted_at": "2026-04-08T00:00:00",
+    "salary": "10-10",
     "grade": null,
     "remote": null
   },
@@ -1556,14 +1691,14 @@
     "remote": null
   },
   {
-    "job_id": "863719000",
+    "job_id": "863731500",
     "title": "ISS (EDUCATIONAL TECHNOLOGIST)",
     "organization": "Department of Defense Education Activity",
     "locations": [
       "Fort Benning, Georgia"
     ],
     "description": "About the Position: This position is located at the Department of Defense Education Activity, DoDEA-Americas-Southeast, Fort Benning, GA. Description of the Working Environment: Work is performed in an office setting.",
-    "url": "https://www.usajobs.gov/job/863719000",
+    "url": "https://www.usajobs.gov/job/863731500",
     "posted_at": "2026-04-08T00:00:00",
     "salary": "10-10",
     "grade": null,
@@ -1580,6 +1715,20 @@
     "url": "https://www.usajobs.gov/job/863719000",
     "posted_at": "2026-04-08T00:00:00",
     "salary": "10-10",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "864198000",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864198000",
+    "posted_at": "2026-04-07T12:43:35.273000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1626,16 +1775,16 @@
     "remote": null
   },
   {
-    "job_id": "864056400",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
+    "job_id": "864310500",
+    "title": "IC Spectrum Lead",
+    "organization": "Office of the Director of National Intelligence",
     "locations": [
-      "Bogota, Colombia"
+      "McLean, Virginia"
     ],
-    "description": "This position is located DEA in the Andean Division, Bogota Country Office, in Bogota, Columbia.",
-    "url": "https://www.usajobs.gov/job/864056400",
-    "posted_at": "2026-04-06T14:33:33.770000",
-    "salary": "15-15",
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/864310500",
+    "posted_at": "2026-04-07T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1654,34 +1803,6 @@
     "remote": null
   },
   {
-    "job_id": "863970200",
-    "title": "Foreign Medical Program Manager",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the DEA, Human Resources Division, Health Services Section (HRU). This position(s) primary purpose is to assist the Chief, Medical Exams within the Health Services Section (HRU) in planning and implementing the DEA's Foreign Medical Program, to include the full cycle foreign medical process, urgent and emergent medical evacuation process, overseas hospitalization process, and provision of layette needs for overseas personnel and their families.",
-    "url": "https://www.usajobs.gov/job/863970200",
-    "posted_at": "2026-04-06T09:11:32.930000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863970200",
-    "title": "Foreign Medical Program Manager",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the DEA, Human Resources Division, Health Services Section (HRU). This position(s) primary purpose is to assist the Chief, Medical Exams within the Health Services Section (HRU) in planning and implementing the DEA's Foreign Medical Program, to include the full cycle foreign medical process, urgent and emergent medical evacuation process, overseas hospitalization process, and provision of layette needs for overseas personnel and their families.",
-    "url": "https://www.usajobs.gov/job/863970200",
-    "posted_at": "2026-04-06T09:11:32.930000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "863777900",
     "title": "CLOUD SOLUTIONS DEVELOPER/ARCHITECT",
     "organization": "Securities and Exchange Commission",
@@ -1692,36 +1813,6 @@
     "url": "https://www.usajobs.gov/job/863777900",
     "posted_at": "2026-04-03T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863777900",
-    "title": "CLOUD SOLUTIONS DEVELOPER/ARCHITECT",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Division of Trading and Markets, Business Solutions Office is seeking a dynamic technology expert skilled in modern cloud technologies for their Cloud Solutions Developer/Architect (Information Technology Specialist) position. This position will require the rare combination of technical excellence, strategic vision, and exceptional collaborative and communication skills.",
-    "url": "https://www.usajobs.gov/job/863777900",
-    "posted_at": "2026-04-03T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863708600",
-    "title": "UNITED STATES TRUSTEE",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "New Orleans, Louisiana",
-      "Shreveport, Louisiana",
-      "Jackson, Mississippi"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: https://www.justice.gov/legal-careers/job/united-states-trustee-region-5 Legal Careers | United States Trustee for Region 5 | United States Department of Justice",
-    "url": "https://www.usajobs.gov/job/863708600",
-    "posted_at": "2026-04-02T15:29:39.170000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1756,6 +1847,34 @@
     "remote": null
   },
   {
+    "job_id": "863624100",
+    "title": "IT Project Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "The National Counterterrorism Center (NCTC) leads the nation's effort to protect the United States from terrorism by integrating, analyzing and sharing information to drive whole-of-government action and achieve our national CT objectives.",
+    "url": "https://www.usajobs.gov/job/863624100",
+    "posted_at": "2026-04-02T09:29:26.970000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863621500",
+    "title": "IT Project Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "The National Counterterrorism Center (NCTC) leads the nation's effort to protect the United States from terrorism by integrating, analyzing and sharing information to drive whole-of-government action and achieve our national CT objectives.",
+    "url": "https://www.usajobs.gov/job/863621500",
+    "posted_at": "2026-04-02T09:18:05.977000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863621500",
     "title": "IT Project Manager",
     "organization": "Office of the Director of National Intelligence",
@@ -1780,20 +1899,6 @@
     "url": "https://www.usajobs.gov/job/862914800",
     "posted_at": "2026-04-02T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "863502900",
-    "title": "Supervisory Attorney Advisor (Trademark)",
-    "organization": "Patent and Trademark Office",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This position is located in the Office of the Commissioner for Trademarks, Trademark Examining Operation and will serve as the Supervisory Senior Attorney for one of the law offices in the Trademark Examining Operation (TMEO). Primarily, responsibility will be in providing advice, counsel, and/or instruction to the attorney advisors in the law office(s) on the most difficult legal questions that arise during examination, as well as assisting the managing attorney with managerial matters.",
-    "url": "https://www.usajobs.gov/job/863502900",
-    "posted_at": "2026-04-01T13:01:21.507000",
-    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -1845,6 +1950,39 @@
     "remote": null
   },
   {
+    "job_id": "863058000",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/863058000",
+    "posted_at": "2026-04-01T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "863149400",
     "title": "Attorney Advisor",
     "organization": "Administrative Office of the U.S. Courts",
@@ -1855,6 +1993,38 @@
     "url": "https://www.usajobs.gov/job/863149400",
     "posted_at": "2026-03-31T15:34:58.697000",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863149400",
+    "title": "Attorney Advisor",
+    "organization": "Administrative Office of the U.S. Courts",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Attorney Advisor position is in the Department of Program Services, Judicial Services Office (JSO), Judicial Programs Division (JPD). JSO provides support, services, and programs addressing the administrative, governance, and policy needs of federal judges, Article III courts, territorial district courts, Court of Federal Claims, bankruptcy courts, and magistrate judges and their staffs.",
+    "url": "https://www.usajobs.gov/job/863149400",
+    "posted_at": "2026-03-31T15:34:58.697000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "863032100",
+    "title": "Attorney Advisor (Senior Attorney), CG-0905-14",
+    "organization": "Federal Deposit Insurance Corporation",
+    "locations": [
+      "San Francisco, California",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "Kansas City, Missouri",
+      "Dallas, Texas"
+    ],
+    "description": "The Legal Division is seeking candidates to fill multiple positions in 5 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, and regional offices in Chicago, IL, Dallas, TX, Kansas City, MO, and San Francisco, CA. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement. *This job announcement has been extended and will now close on Friday, April 14, 2026.*",
+    "url": "https://www.usajobs.gov/job/863032100",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1893,16 +2063,18 @@
     "remote": null
   },
   {
-    "job_id": "861475400",
-    "title": "Trial Attorney (Employment Law)",
-    "organization": "U.S. Trustee Program",
+    "job_id": "863010900",
+    "title": "Attorney Advisor (Counsel), CG-0905-15",
+    "organization": "Federal Deposit Insurance Corporation",
     "locations": [
-      "Washington, District of Columbia"
+      "Washington, District of Columbia",
+      "Braintree, Massachusetts",
+      "Dallas, Texas"
     ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: Legal Careers | Trial Attorney (Employment Law) | United States Department of Justice https://www.justice.gov/legal-careers/job/trial-attorney-employment-law-2",
-    "url": "https://www.usajobs.gov/job/861475400",
-    "posted_at": "2026-03-17T00:00:00",
-    "salary": "14-15",
+    "description": "This announcement has been extended to 04/17/2026. The Legal Division is seeking candidates to fill multiple positions in 3 different locations. The locations are at our headquarter offices in Washington, D.C. and Arlington, VA, the Dallas, TX Regional Office, and Boston, MA Area Office. You may select up to 2 locations and specialty areas as advertised in this vacancy announcement.",
+    "url": "https://www.usajobs.gov/job/863010900",
+    "posted_at": "2026-03-30T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1917,34 +2089,6 @@
     "url": "https://www.usajobs.gov/job/861475400",
     "posted_at": "2026-03-17T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861318300",
-    "title": "PROFESSOR OF MILITARY AND SECURITY STUDIES",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Maxwell AFB, Alabama"
-    ],
-    "description": "Air University's Air Command and Staff College invites applications from qualified individuals for Professor of Military and Security Studies. Candidates will demonstrate competency in the primary field of security studies (or other related disciplines) or data science and an interdisciplinary skill set suitable for professional military education. Expertise in subfields such as artificial intelligence, data analytics, emerging technologies, or research and development are preferred.",
-    "url": "https://www.usajobs.gov/job/861318300",
-    "posted_at": "2026-03-16T14:48:20.240000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "861218500",
-    "title": "IT Specialist (SysAdmin) - DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/861218500",
-    "posted_at": "2026-03-16T06:26:20.333000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   }
