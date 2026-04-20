@@ -1,5 +1,114 @@
 [
   {
+    "job_id": "865750400",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Nellis AFB, Nevada"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as a senior systems administrator and security specialist responsible for planning and coordinating the installation, testing, modifying, upgrading, operation, and maintenance of hardware/software systems, as well as provide oversight and management of multiple security disciplines in support special access programs (SAPs).",
+    "url": "https://www.usajobs.gov/job/865750400",
+    "posted_at": "2026-04-20T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865689800",
+    "title": "Supv It Specialist (Plcypln)",
+    "organization": "Deputy Assistant Secretary for Information and Technology",
+    "locations": [
+      "Anaheim, California",
+      "Long Beach, California",
+      "Los Angeles, California",
+      "Aurora, Colorado",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Orlando, Florida",
+      "Saint Petersburg, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Hines, Illinois",
+      "Detroit, Michigan",
+      "Eatontown, New Jersey",
+      "Albany, New York",
+      "Cleveland, Ohio",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Davidson, Tennessee",
+      "Murfreesboro, Tennessee",
+      "Nashville, Tennessee",
+      "Arlington, Texas",
+      "Austin, Texas",
+      "Houston, Texas",
+      "San Antonio, Texas",
+      "Salt Lake City, Utah",
+      "Shepherdstown, West Virginia"
+    ],
+    "description": "This position is located within the Connectivity and Collaboration Services (CCS) service line under the Office of Information Technology (OIT). The primary purpose of this position is to provide management and leadership for Department wide IT telecommunications operations, resources, networks, systems and services that support the Department wide IT mission.",
+    "url": "https://www.usajobs.gov/job/865689800",
+    "posted_at": "2026-04-20T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865674300",
+    "title": "LEAD IT SPECIALIST (NETWORK/SYSADMIN)",
+    "organization": "U.S. Pacific Fleet",
+    "locations": [
+      "Yokosuka, Japan"
+    ],
+    "description": "You will serve as a LEAD IT SPECIALIST (NETWORK/SYSADMIN) in the TECHNICAL SUPPORT DIV - C109.1 of NAVAL SHIP REPAIR FACILITY. ACCESS TO MEDICAL AND DENTAL CARE IN JAPAN IS EXTREMELY LIMITED. Please see Additional Information section below.",
+    "url": "https://www.usajobs.gov/job/865674300",
+    "posted_at": "2026-04-20T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865669900",
+    "title": "IT Specialist (INFOSEC)",
+    "organization": "Naval Intelligence Activity",
+    "locations": [
+      "National Maritime Intelligence Center, Maryland"
+    ],
+    "description": "You will serve as an IT Specialist (INFOSEC) assisting Hopper Information Systems Security Manager (ISSM) as an ISSM Representative. Duties include but are not limited to assistance with IT matters, technical and otherwise, involving Cybersecurity (CS) of Hopper Enterprise IT. This position is located in Suitland, MD in the HOPPER GLOBAL COMMUNICATIONS CENTER.",
+    "url": "https://www.usajobs.gov/job/865669900",
+    "posted_at": "2026-04-20T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865612200",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Ramstein, Germany"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, fitness program, and others.",
+    "url": "https://www.usajobs.gov/job/865612200",
+    "posted_at": "2026-04-20T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "865585400",
+    "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
+    "organization": "Bureau of Naval Personnel",
+    "locations": [
+      "Annapolis, Maryland"
+    ],
+    "description": "You will serve as a SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) in the CYBER-SECURITY DEPARTMENT of NAVAL ACADEMY.",
+    "url": "https://www.usajobs.gov/job/865585400",
+    "posted_at": "2026-04-20T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "865749000",
     "title": "IT Specialist (INFOSEC)",
     "organization": "Equal Employment Opportunity Commission",
@@ -370,28 +479,6 @@
     "remote": null
   },
   {
-    "job_id": "865487200",
-    "title": "Interdisciplinary",
-    "organization": "U.S. Army Corps of Engineers",
-    "locations": [
-      "Camden, Alabama",
-      "Mobile, Alabama",
-      "Selma, Alabama",
-      "Chattahoochee, Florida",
-      "Buford, Georgia",
-      "Cartersville, Georgia",
-      "Chatsworth, Georgia",
-      "Fort Gaines, Georgia",
-      "West Point, Georgia"
-    ],
-    "description": "About the Position: Serves as the Hydropower Maintenance Program Manager under the general supervision of a Branch/Section Chief. Leads the District implementation and execution of the regional hydropower asset management strategy.",
-    "url": "https://www.usajobs.gov/job/865487200",
-    "posted_at": "2026-04-16T12:37:42.903000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "865459100",
     "title": "Supervisory IT Specialist (INFOSEC)",
     "organization": "Deputy Assistant Secretary for Information and Technology",
@@ -649,20 +736,6 @@
     "remote": null
   },
   {
-    "job_id": "865409100",
-    "title": "Biomedical Equipment Support Specialist (BESS)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Poplar Bluff, Missouri"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) within the Facilities Management Service at a John J. Pershing VA Medical Center in Poplar Bluff, MO. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/865409100",
-    "posted_at": "2026-04-15T00:00:00",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "865143000",
     "title": "Supervisory AST Technical Management",
     "organization": "John C. Stennis Space Center",
@@ -673,20 +746,6 @@
     "url": "https://www.usajobs.gov/job/865143000",
     "posted_at": "2026-04-15T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865140300",
-    "title": "IT Specialist (Customer Support)",
-    "organization": "Department of State - Agency Wide",
-    "locations": [
-      "Charleston, South Carolina"
-    ],
-    "description": "The position is located in the Bureau of the Comptroller and Global Financial Services (CGFS). This position serves as an Information Technology (IT) Specialist who ensures seamless user support by managing the office's technical projects and the maximizing the use of vital technology and software systems that allows the office staff to service tens of thousands of customers as efficiently and effectively as possible.",
-    "url": "https://www.usajobs.gov/job/865140300",
-    "posted_at": "2026-04-15T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -850,20 +909,6 @@
     "url": "https://www.usajobs.gov/job/864968100",
     "posted_at": "2026-04-13T14:18:12.627000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864886700",
-    "title": "Physical Scientist - Entry to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As an Engineering and Physical Science professional, you will use your skills to create the systems and tools that will be used to enhance the operation of intelligence. You will advise, administer and perform scientific projects, such as planning, designing, and constructing specialized equipment, and ensuring adherence to sound engineering and scientific standards and principles. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1256567",
-    "url": "https://www.usajobs.gov/job/864886700",
-    "posted_at": "2026-04-13T09:47:13.887000",
-    "salary": "7-14",
     "grade": null,
     "remote": null
   },
@@ -1165,20 +1210,6 @@
     "remote": null
   },
   {
-    "job_id": "864392000",
-    "title": "Supervisory Information Technology Specialist",
-    "organization": "Department of State - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Located within the Application Design and Delivery Office in the Enterprise Services Directorate of Diplomatic Technology (DT/ES/ADD), this position manages the functions and activities of ADD through subordinate supervisors and team leaders who directly supervise employees. It oversees the design and coordination of professional information technology services and serves as a senior technical resource and solutions expert.",
-    "url": "https://www.usajobs.gov/job/864392000",
-    "posted_at": "2026-04-09T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "864452000",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (APPSW)",
     "organization": "Naval Sea Systems Command",
@@ -1257,22 +1288,6 @@
     "url": "https://www.usajobs.gov/job/864179900",
     "posted_at": "2026-04-08T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864127500",
-    "title": "Systems Analyst",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Philadelphia, Pennsylvania",
-      "Seattle, Washington"
-    ],
-    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Program Integrity (CPI), Data Analytics and Systems Group (DASG) As an IT Specialist (Systems Analysis) referred to here as a Systems Analyst, GS-2210-13, you will design, develop, and implement new and modernized information technology (IT) systems to detect fraud, waste, and abuse in Medicare and Medicaid.",
-    "url": "https://www.usajobs.gov/job/864127500",
-    "posted_at": "2026-04-08T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
