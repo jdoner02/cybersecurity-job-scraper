@@ -1,5 +1,131 @@
 [
   {
+    "job_id": "866663900",
+    "title": "IT Cybersecurity Specialists (Infosec) - CES Recent Graduate",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "The recent graduates program targets individuals who have graduated recently from qualifying educational institutions or programs. To be eligible, applicants must apply within 2 years of degree or certificate completion, except for veterans precluded from doing so due to their military service obligations, who will have up to 6 years after degree or certificate completion. Successful applicants will be placed in a dynamic, career development program.",
+    "url": "https://www.usajobs.gov/job/866663900",
+    "posted_at": "2026-04-24T14:49:33.893000",
+    "salary": "7-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866660200",
+    "title": "Software Engineer",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
+    "url": "https://www.usajobs.gov/job/866660200",
+    "posted_at": "2026-04-24T14:35:02.357000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866479400",
+    "title": "Supervisory IT Specialist",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Naval Surface Warfare Center, Maryland"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
+    "url": "https://www.usajobs.gov/job/866479400",
+    "posted_at": "2026-04-24T14:17:36.813000",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866634300",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Richmond, Virginia"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications software.",
+    "url": "https://www.usajobs.gov/job/866634300",
+    "posted_at": "2026-04-24T12:55:58.150000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866632000",
+    "title": "IT Cybersecurity Specialist",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is to fill IT Cybersecurity Specialist positions at the Department of Commerce, Bureau of Industry and Security (BIS), within the Office of the Chief Information Officer (OCIO).",
+    "url": "https://www.usajobs.gov/job/866632000",
+    "posted_at": "2026-04-24T12:46:15.947000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866553200",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Kansas City, Missouri"
+    ],
+    "description": "The Kansas City VA Medical Center is looking for a Biomedical Equipment Support Specialist-Information Systems located within our Healthcare Technology Management unit. The BESS-Information Systems provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of networks, networked medical equipment and associated systems.",
+    "url": "https://www.usajobs.gov/job/866553200",
+    "posted_at": "2026-04-24T08:17:14.027000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866550800",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Kansas City, Missouri"
+    ],
+    "description": "The Kansas City VA Medical Center is looking for a Biomedical Equipment Support Specialist-Information Systems located within our Healthcare Technology Management unit. The BESS-Information Systems provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of networks, networked medical equipment and associated systems.",
+    "url": "https://www.usajobs.gov/job/866550800",
+    "posted_at": "2026-04-24T08:03:13.200000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866547900",
+    "title": "Information Systems Security Manager",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $185,234 New Cumberland, PA: $142,488- $185,234 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
+    "url": "https://www.usajobs.gov/job/866547900",
+    "posted_at": "2026-04-24T07:42:31.930000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "866524600",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN/INFOSEC)",
     "organization": "Naval Sea Systems Command",
@@ -174,20 +300,6 @@
     "url": "https://www.usajobs.gov/job/866353100",
     "posted_at": "2026-04-24T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866271300",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "U.S. Air Forces, Europe",
-    "locations": [
-      "Vilseck, Germany"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, Government Purchase Card (GPC) program, and more.",
-    "url": "https://www.usajobs.gov/job/866271300",
-    "posted_at": "2026-04-23T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -842,20 +954,6 @@
     "remote": null
   },
   {
-    "job_id": "865669900",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Naval Intelligence Activity",
-    "locations": [
-      "National Maritime Intelligence Center, Maryland"
-    ],
-    "description": "You will serve as an IT Specialist (INFOSEC) assisting Hopper Information Systems Security Manager (ISSM) as an ISSM Representative. Duties include but are not limited to assistance with IT matters, technical and otherwise, involving Cybersecurity (CS) of Hopper Enterprise IT. This position is located in Suitland, MD in the HOPPER GLOBAL COMMUNICATIONS CENTER.",
-    "url": "https://www.usajobs.gov/job/865669900",
-    "posted_at": "2026-04-20T11:24:09.647000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "865805300",
     "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
     "organization": "Commander, Navy Installations Command",
@@ -894,34 +992,6 @@
     "url": "https://www.usajobs.gov/job/865782200",
     "posted_at": "2026-04-20T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865750400",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
-    "organization": "Air Combat Command",
-    "locations": [
-      "Nellis AFB, Nevada"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as a senior systems administrator and security specialist responsible for planning and coordinating the installation, testing, modifying, upgrading, operation, and maintenance of hardware/software systems, as well as provide oversight and management of multiple security disciplines in support special access programs (SAPs).",
-    "url": "https://www.usajobs.gov/job/865750400",
-    "posted_at": "2026-04-20T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865612200",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "U.S. Air Forces, Europe",
-    "locations": [
-      "Ramstein, Germany"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, fitness program, and others.",
-    "url": "https://www.usajobs.gov/job/865612200",
-    "posted_at": "2026-04-20T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -1330,63 +1400,6 @@
     "url": "https://www.usajobs.gov/job/864862700",
     "posted_at": "2026-04-13T00:00:00",
     "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864819300",
-    "title": "Application Security Engineer, CG-2210-14",
-    "organization": "Federal Deposit Insurance Corporation",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "These positions are located in the Offices of the Chief Information Security Officer (OCISO) or Application Platforms and Delivery Branch (APDB), Division of Information Technology (DIT), within the Chief Information Officer Organization (CIOO) of the Federal Deposit Insurance Corporation (FDIC). Additional selections may be made from this announcement to fill similar vacancies.",
-    "url": "https://www.usajobs.gov/job/864819300",
-    "posted_at": "2026-04-13T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864801900",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Force Special Operations Command",
-    "locations": [
-      "Hurlburt Field, Florida"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, Cybersecurity Liaison, Government Travel Card program, Defense Travel System, Government Purchase Card program, and assists in organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/864801900",
-    "posted_at": "2026-04-13T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864575400",
-    "title": "ATTORNEY - CYBER AND EMERGING TECHNOLOGY",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Division of Enforcement is seeking an Attorney in the Office of Cyber and Emerging Technologies Unit (CETU) in Washington DC. In this role, you will conduct complex, fast-moving investigations being undertaken by the SEC involving cyber-related misconduct, cybersecurity registrant compliance and issuer disclosure, blockchain related fraud, and other emerging technologies issues. Develops investigative or litigation plans and adjusts as appropriate during the course of an investigation.",
-    "url": "https://www.usajobs.gov/job/864575400",
-    "posted_at": "2026-04-10T13:02:40.710000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864697400",
-    "title": "Cybersecurity Architect",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Seattle, Washington"
-    ],
-    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Information Technology (OIT), Information Security & Privacy Group (ISPG). As an IT Cybersecurity Specialist, titled here as Cybersecurity Architect, GS-2210-15, you will lead the development of comprehensive cybersecurity solutions for critical healthcare applications across the agency. This vacancy has been extended to close on 4/24/2026.",
-    "url": "https://www.usajobs.gov/job/864697400",
-    "posted_at": "2026-04-10T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
