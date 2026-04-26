@@ -77,6 +77,27 @@
     "remote": null
   },
   {
+    "job_id": "866598900",
+    "title": "Webmaster",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $106,437 - $138,370 Columbus, OH: $111,065- $144,386 Dayton, OH: $110,401- $143,523 Fort Belvoir, VA: $121,785- $158,322 New Cumberland, PA: $121,785- $158,322 Ogden, UT: $106,437 - $138,370 Philadelphia, PA: $117,284- $152,471 Richmond, VA: $111,183- $144,540",
+    "url": "https://www.usajobs.gov/job/866598900",
+    "posted_at": "2026-04-24T10:56:45.107000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "866553200",
     "title": "Biomedical Equipment Support Specialist (Information Systems)",
     "organization": "Veterans Health Administration",
@@ -772,6 +793,21 @@
     "remote": null
   },
   {
+    "job_id": "866032000",
+    "title": "Program Analyst (Director Mission Support Division)",
+    "organization": "National Nuclear Security Administration",
+    "locations": [
+      "Schenectady, New York",
+      "Pittsburgh, Pennsylvania"
+    ],
+    "description": "This position is part of the Naval Reactors Laboratory Field Office, Department of Energy. National Nuclear Security Administration Demonstration Project: This position is covered by the National Nuclear Security Administration (NNSA) Demonstration Project. The NQ-04 pay band is equivalent to the GS-15 grade levels. For more information on the NNSA Demonstration Project and Pay Band/Salary Tables, review. http://www.energy.gov/nnsa/nnsas-demo-pay-system-compared-general-schedule,",
+    "url": "https://www.usajobs.gov/job/866032000",
+    "posted_at": "2026-04-21T12:04:36.570000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "866006600",
     "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -796,20 +832,6 @@
     "url": "https://www.usajobs.gov/job/866003000",
     "posted_at": "2026-04-21T10:40:01.087000",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865994200",
-    "title": "IT Cybersecurity Specialist (CUSTSPT-INFOSEC)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-13, IT Cybersecurity Specialist (CUSTSPT-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC INFRASTRUCT SECURITY SERVICES BRANCH in Alexandria, Virginia.",
-    "url": "https://www.usajobs.gov/job/865994200",
-    "posted_at": "2026-04-21T10:06:10.583000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1288,6 +1310,20 @@
     "remote": null
   },
   {
+    "job_id": "865220800",
+    "title": "IT SPECIALIST (CUSTOMER SUPPORT)",
+    "organization": "Commander, Navy Installations Command",
+    "locations": [
+      "Norfolk, Virginia"
+    ],
+    "description": "This position is assigned to the N6Q Information Technology (IT) office, Commander Navy Region Mid-Atlantic, Fleet and Family Readiness Support Services department. The position is involved with the planning and delivery of customer support, including system configuration, troubleshooting, customer assistance, and/or training of N9 point of sale/management information systems. Naval Station Norfolk, VA",
+    "url": "https://www.usajobs.gov/job/865220800",
+    "posted_at": "2026-04-15T06:13:46.753000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "865230400",
     "title": "Information Technology Specialist (ENTARCH) - Direct Hire",
     "organization": "National Transportation Safety Board",
@@ -1386,20 +1422,6 @@
     "url": "https://www.usajobs.gov/job/864860400",
     "posted_at": "2026-04-13T06:33:36.093000",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864862700",
-    "title": "Cybersecurity Engineer (Hiring Event)",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Cybersecurity Engineers capture, refine, and translate information systems security requirements for IT systems and component products. They support the lifecycle of computer systems and/or the modification of computer applications and programs to integrate information system security protocols. They monitor security controls, assess threats and vulnerabilities, mitigate adverse impacts, and/or",
-    "url": "https://www.usajobs.gov/job/864862700",
-    "posted_at": "2026-04-13T00:00:00",
-    "salary": "03-03",
     "grade": null,
     "remote": null
   },
@@ -1540,39 +1562,6 @@
     "url": "https://www.usajobs.gov/job/862850500",
     "posted_at": "2026-03-27T09:15:23.327000",
     "salary": "05-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "862698900",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Contract Management Agency",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "See below for important information regarding this job. Additional vacancies may be filled from this announcement. DCMA Location Negotiable upon Selection. This is not a remote work position. See DCMA Location List, not all locations may be available.",
-    "url": "https://www.usajobs.gov/job/862698900",
-    "posted_at": "2026-03-26T11:38:15.110000",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   }
