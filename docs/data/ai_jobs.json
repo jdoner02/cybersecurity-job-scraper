@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "867600800",
+    "title": "Information Technology Specialist (Data Management)",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Woodlawn, Maryland"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Medicaid and CHIP Services (CMCS), Data and Systems Group, Division of Information Systems As a Information Technology Specialist (Data Management), GS-2210-14, you will serve as a technical authority and advisor for the development of analytics products using Medicaid and CHIP datasets to support internal and external data product users.",
+    "url": "https://www.usajobs.gov/job/867600800",
+    "posted_at": "2026-05-01T14:14:29.753000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867601300",
+    "title": "Security Specialist (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "The Office of Protective Services located at Ames Research Center (ARC) Moffett Field, California, is looking for a dynamic professional to join our team as an Information and Industrial Security Specialist. This role involves the protection of classified and sensitive information; identification, classification and declassification of information; development of and provision of security training and review of contractor security classification data.",
+    "url": "https://www.usajobs.gov/job/867601300",
+    "posted_at": "2026-05-01T13:05:45.440000",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867524900",
+    "title": "Computer Scientist, AST - Computer Research and Development (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "As a Computer Scientist in the Visualization group of the NASA Advanced Supercomputing Division, you will be responsible for architecting and supporting innovative high-performance computing and visualization solutions in support of various NASA missions and research and analysis in the broader research community. You will serve as an expert in the development and application of advanced visualization and data analysis techniques.",
+    "url": "https://www.usajobs.gov/job/867524900",
+    "posted_at": "2026-05-01T08:50:11.410000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "867503000",
     "title": "Management Analyst",
     "organization": "Lyndon B. Johnson Space Center",
@@ -393,20 +435,6 @@
     "remote": null
   },
   {
-    "job_id": "867319700",
-    "title": "Security Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Greenbelt, Maryland"
-    ],
-    "description": "The Office of Protective Services, Personnel Security Division, is looking for a dynamic professional to join our team as a Security Specialist (Personnel Security). This role involves reviewing and submitting background investigations to the Defense Counterintelligence and Security Agency (DCSA), adjudicating fingerprint results, managing badge authorizations, determining reciprocity, and conducting background investigation adjudications.",
-    "url": "https://www.usajobs.gov/job/867319700",
-    "posted_at": "2026-04-30T07:24:55.880000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "867315900",
     "title": "Senior Data Analyst",
     "organization": "Federal Trade Commission",
@@ -582,6 +610,20 @@
     "remote": null
   },
   {
+    "job_id": "866755200",
+    "title": "Telecommunications Specialist",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Grand Forks, North Dakota"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Information and Technology, Field Support Directorate, Northwest Central Region, located in Grand Forks, ND. Additional selections may be made beyond the total number of vacancies specified using this vacancy announcement. Further selections may also be made for additional organizational divisions and/or units within the duty location(s) listed above.",
+    "url": "https://www.usajobs.gov/job/866755200",
+    "posted_at": "2026-04-30T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "866129100",
     "title": "Information Technology Specialist (Artificial Intelligence)",
     "organization": "Customs and Border Protection",
@@ -698,20 +740,6 @@
     "remote": null
   },
   {
-    "job_id": "867048900",
-    "title": "Security Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As a Security Specialist in the Office of Protective Services, you will lead a team that manages electronic application (eAPP) initiations, ensures efficiency, compliance, and coordination with stakeholders. Serve as the primary liaison for consolidating and submitting sensitive compartmented information packages, while overseeing the preparation of specialized documentation. Develop reports and conduct analysis that inform planning and evaluation, identify challenges, and recommend solutions.",
-    "url": "https://www.usajobs.gov/job/867048900",
-    "posted_at": "2026-04-29T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "867047100",
     "title": "Management and Program Analyst",
     "organization": "Department of Energy - Agency Wide",
@@ -722,20 +750,6 @@
     "url": "https://www.usajobs.gov/job/867047100",
     "posted_at": "2026-04-29T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867033400",
-    "title": "Security Specialist (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "As a Special Agent for Kennedy Space Center's Office of Protective Services, you will conduct physical security assessments for the NASA Critical Infrastructure Protection Program, as well as conduct criminal and administrative investigations involving NASA personnel, property, and assets. You will be responsible for collaborating with other law enforcement organizations, legal counsel, and center management.",
-    "url": "https://www.usajobs.gov/job/867033400",
-    "posted_at": "2026-04-29T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -993,20 +1007,6 @@
     "remote": null
   },
   {
-    "job_id": "866769700",
-    "title": "Emergency Management Specialist (Direct Hire)",
-    "organization": "Langley Research Center",
-    "locations": [
-      "Hampton, Virginia"
-    ],
-    "description": "As the Emergency Manager, you will report to the Deputy Center Chief of Protective Services and be responsible for emergency preparedness planning, training, and exercising of all hazards for personnel (tenants and resident agencies). You will develop and maintain a Comprehensive Emergency Management Plan (CEMP) and Continuity of Operations Plan (COOP), and be responsible for the daily operation, readiness, and maintenance of the Center Emergency Operations Center (EOC) facility and personnel.",
-    "url": "https://www.usajobs.gov/job/866769700",
-    "posted_at": "2026-04-27T11:02:41.970000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "866727600",
     "title": "Management Analyst",
     "organization": "Drug Enforcement Administration",
@@ -1031,20 +1031,6 @@
     "url": "https://www.usajobs.gov/job/866486800",
     "posted_at": "2026-04-27T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866373300",
-    "title": "Statistician",
-    "organization": "Centers for Disease Control and Prevention",
-    "locations": [
-      "Atlanta, Georgia"
-    ],
-    "description": "As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov",
-    "url": "https://www.usajobs.gov/job/866373300",
-    "posted_at": "2026-04-27T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1517,25 +1503,32 @@
     "remote": null
   },
   {
-    "job_id": "866249900",
-    "title": "IT Specialist",
-    "organization": "Office of Personnel Management",
+    "job_id": "866254700",
+    "title": "Director of Systems Engineering and Integration",
+    "organization": "Headquarters, NASA",
     "locations": [
-      "San Diego, California",
+      "Sandusky County, Ohio",
+      "Hampton, Virginia",
+      "Wallops Island, Virginia",
+      "Fairmont, West Virginia",
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Pasadena, California",
       "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Baltimore, Maryland",
-      "Jackson, Mississippi",
-      "Philadelphia, Pennsylvania",
-      "Columbia, South Carolina",
-      "Dallas, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas"
+      "Kennedy Space Center, Florida",
+      "New Orleans, Louisiana",
+      "Greenbelt, Maryland",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "New York, New York",
+      "Cleveland, Ohio",
+      "Houston, Texas"
     ],
-    "description": "As an Information Technology (IT) Specialist in the Federal government, you will perform duties related to the installation and configuration of computer hardware, software, operating systems, networks, applications, and printers and scanners; providing technical support and troubleshooting issues; assisting with the maintenance of computer systems and networks; and ensuring the application of appropriate IT security measures.",
-    "url": "https://www.usajobs.gov/job/866249900",
-    "posted_at": "2026-04-22T13:16:41.440000",
-    "salary": "9-11",
+    "description": "Serves as the Director of the Systems Engineering and Integration (SE&I) Office for the Moon to Mars (M2M) Program within the Exploration Space Development Mission Directorate. The SE&I Director assists the Deputy Associate Administrator, M2M Program in the leadership and integration across the Moon to Mars Program.",
+    "url": "https://www.usajobs.gov/job/866254700",
+    "posted_at": "2026-04-23T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1591,24 +1584,16 @@
     "remote": null
   },
   {
-    "job_id": "866141000",
-    "title": "ENGINEER/SCIENTIST",
-    "organization": "Naval Sea Systems Command",
+    "job_id": "865995400",
+    "title": "Deputy Chief Human Capital Officer for Policy and Programs",
+    "organization": "Office of the Secretary of the Interior",
     "locations": [
-      "Ketchikan, Alaska",
-      "Dania, Florida",
-      "Titusville, Florida",
-      "Bayview, Idaho",
-      "Naval Surface Warfare Center, Maryland",
-      "Olney, Maryland",
-      "Memphis, Tennessee",
-      "Little Creek Amphibious Base, Virginia",
-      "Bangor, Washington"
+      "Washington, District of Columbia"
     ],
-    "description": "You will serve as a Data Science & Analytics Lab Director in the NSWCCD's data science and analytics (DSA) laboratory of CARDEROCK DIV NS. This position is part of the Warfare Centers Personnel Demonstration Project. The ND-5 pay band encompasses positions equivalent to GS-14 and GS-15.",
-    "url": "https://www.usajobs.gov/job/866141000",
-    "posted_at": "2026-04-22T00:00:00",
-    "salary": "5-5",
+    "description": "The Office of Human Capital (OHC) drives the Department of the Interior's workforce strategy, ensuring the right talent supports mission success. The position reports to the Deputy Assistant Secretary for Human Capital, Learning and Safety and Chief Human Capital Officer within the Office of Policy, Management, and Budget. This is a Category 3 SES position; minimum pay is $197,200, with final salary based on current salary and other factors. Veterans' preference does not apply to the SES.",
+    "url": "https://www.usajobs.gov/job/865995400",
+    "posted_at": "2026-04-21T10:09:53.577000",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1730,6 +1715,20 @@
     "remote": null
   },
   {
+    "job_id": "865541200",
+    "title": "Attorney Advisor",
+    "organization": "Administrative Office of the U.S. Courts",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Attorney Advisor position is in the Department of Program Services, Judicial Services Office (JSO), Judicial Programs Division. JSO provides support, services, and programs addressing the administrative, governance, and policy needs of federal judges, Article III courts, territorial district courts, Court of Federal Claims, bankruptcy courts, and magistrate judges and their staff.",
+    "url": "https://www.usajobs.gov/job/865541200",
+    "posted_at": "2026-04-17T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "865420200",
     "title": "PEGA Developer- DHA",
     "organization": "Social Security Administration",
@@ -1744,6 +1743,20 @@
     "remote": null
   },
   {
+    "job_id": "865425400",
+    "title": "IT Specialist (AI Architect)",
+    "organization": "Commodity Futures Trading Commission",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Division of Administration (DA or Division) directs the innovative internal management of the Commodity Futures Trading Commission's (CFTC or Commission) business, human resources, financial, technological, security, and strategic operational resources. The Division's role is to effectively and efficiently ensure the fulfillment of the Commission's mission through continued success in continuity of operations.",
+    "url": "https://www.usajobs.gov/job/865425400",
+    "posted_at": "2026-04-16T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "865315600",
     "title": "Product Manager / Senior Product Manager",
     "organization": "Social Security Administration",
@@ -1754,20 +1767,6 @@
     "url": "https://www.usajobs.gov/job/865315600",
     "posted_at": "2026-04-16T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865305600",
-    "title": "Assistant Director - Data Governance",
-    "organization": "Alcohol and Tobacco Tax and Trade Bureau",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "TTB's mission is steeped in America's history, from the time of the Whiskey Rebellion to the work of agents like Eliot Ness. We are a nationwide team dedicated to collect alcohol, tobacco, firearms, and ammunition excise taxes and ensure that alcohol beverages are labeled, advertised, and marketed by law. We rank among the top 15% of agency subcomponents in the 2024 Best Places to Work in the Federal Government.",
-    "url": "https://www.usajobs.gov/job/865305600",
-    "posted_at": "2026-04-15T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },

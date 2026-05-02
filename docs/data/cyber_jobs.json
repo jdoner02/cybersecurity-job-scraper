@@ -1,5 +1,193 @@
 [
   {
+    "job_id": "867547300",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Montgomery, Alabama",
+      "Denver, Colorado",
+      "Fort Meade, Maryland",
+      "Oklahoma City, Oklahoma",
+      "Chambersburg, Pennsylvania",
+      "Letterkenny Army Depot, Pennsylvania",
+      "Mechanicsburg, Pennsylvania",
+      "San Antonio, Texas",
+      "Ogden, Utah"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA HC/HC3E32.",
+    "url": "https://www.usajobs.gov/job/867547300",
+    "posted_at": "2026-05-02T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867674000",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK)",
+    "organization": "Naval Sea Systems Command",
+    "locations": [
+      "Naval Business Center, Philadelphia, Pennsylvania"
+    ],
+    "description": "You will serve as an IT CYBERSECURITY SPECIALIST (NETWORK) in the CYBERSECURE HM&E CONTROL SYSTEMS & NETWORKS DEPT within the HM&E INFORMATION NETWORKS & NAVIGATION SYSTEMS DIV of NSWC PHILA DIV.",
+    "url": "https://www.usajobs.gov/job/867674000",
+    "posted_at": "2026-05-01T18:00:53.250000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867651500",
+    "title": "Cybersecurity State Coordinator",
+    "organization": "Cybersecurity and Infrastructure Security Agency",
+    "locations": [
+      "Phoenix, Arizona",
+      "Sacramento, California",
+      "Indianapolis, Indiana",
+      "Boston, Massachusetts",
+      "Augusta, Maine",
+      "Lansing, Michigan",
+      "Saint Paul, Minnesota",
+      "Trenton, New Jersey",
+      "Carson City, Nevada",
+      "Columbus, Ohio",
+      "Columbia, South Carolina",
+      "Nashville, Tennessee",
+      "Montpelier, Vermont",
+      "Madison, Wisconsin"
+    ],
+    "description": "This announcement is issued under the Direct Hire Authority (DHA) to recruit for positions for which there is a critical hiring need. Selectee(s) will receive a career or career-conditional appointment in the competitive service and may be required to serve a one-year probationary period. Salary range listed reflects the GS base rate (not including locality pay), see the \"Additional Information\" section of the announcement for details.",
+    "url": "https://www.usajobs.gov/job/867651500",
+    "posted_at": "2026-05-01T15:56:12.517000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867610000",
+    "title": "IT Project Manager",
+    "organization": "Bonneville Power Administration",
+    "locations": [
+      "Vancouver, Washington"
+    ],
+    "description": "This position is within the Operational Technology Cyber Security Initiatives (JSI) organization of Operational Technology Cybersecurity (JS), Chief Information Office (J), at the Bonneville Power Administration (BPA). We are seeking an IT Project Manager to serve as a technical expert and strategic leader. You will manage critical technology projects, provide expert guidance, and help shape the policies influencing the agency's IT programs, ensuring our infrastructure meets future needs.",
+    "url": "https://www.usajobs.gov/job/867610000",
+    "posted_at": "2026-05-01T13:32:17.753000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867609900",
+    "title": "IT Project Manager",
+    "organization": "Bonneville Power Administration",
+    "locations": [
+      "Vancouver, Washington"
+    ],
+    "description": "This position is within the Operational Technology Cyber Security Initiatives (JSI) organization of Operational Technology Cybersecurity (JS), Chief Information Office (J), at the Bonneville Power Administration (BPA). We are seeking an IT Project Manager to serve as a technical expert and strategic leader. You will manage critical technology projects, provide expert guidance, and help shape the policies influencing the agency's IT programs, ensuring our infrastructure meets future needs.",
+    "url": "https://www.usajobs.gov/job/867609900",
+    "posted_at": "2026-05-01T13:31:57.687000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867603300",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Cybersecurity and Infrastructure Security Agency",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "The Cybersecurity and Infrastructure Security Agency (CISA) is the Nation's risk advisor, working with partners to defend against today's threats and collaborating with industry to build a more secure and resilient infrastructure for the future. Who May Be Considered: Current Cybersecurity and Infrastructure Security Agency (CISA) employees; Career Transition Assistance Program (CTAP); View common definitions of terms found in this announcement.",
+    "url": "https://www.usajobs.gov/job/867603300",
+    "posted_at": "2026-05-01T13:11:55.673000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867592900",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Cybersecurity and Infrastructure Security Agency",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "The Cybersecurity and Infrastructure Security Agency (CISA) is the Nation's risk advisor, working with partners to defend against today's threats and collaborating with industry to build a more secure and resilient infrastructure for the future. Who May Be Considered: Current Cybersecurity and Infrastructure Security Agency (CISA) employees; Career Transition Assistance Program (CTAP); View common definitions of terms found in this announcement.",
+    "url": "https://www.usajobs.gov/job/867592900",
+    "posted_at": "2026-05-01T12:34:27.773000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867582600",
+    "title": "Biomedical Equipment Support S",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Minneapolis, Minnesota"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) specialized in information systems within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. In addition to duties at the full performance level, the BESS maintains medical servers and networks, diagnostic software, virtual platforms, and clinical applications.",
+    "url": "https://www.usajobs.gov/job/867582600",
+    "posted_at": "2026-05-01T12:00:17.367000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867545500",
+    "title": "Chief Human Capital Officer",
+    "organization": "Cybersecurity and Infrastructure Security Agency",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Office of the Chief Human Capital Officer (OCHCO). The CHCO oversees all agency human resources (HR) programs and activities, ensuring the recruitment, training, development, and retention of a diverse and highly qualified workforce across all CISA offices and programs.",
+    "url": "https://www.usajobs.gov/job/867545500",
+    "posted_at": "2026-05-01T09:52:35.820000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867543500",
+    "title": "IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Deputy Assistant Secretary for Information and Technology",
+    "locations": [
+      "Washington, District of Columbia",
+      "Hines, Illinois",
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas",
+      "Eatontown, New Jersey",
+      "Albany, New York",
+      "Philadelphia, Pennsylvania",
+      "Austin, Texas",
+      "Salt Lake City, Utah",
+      "Shepherdstown, West Virginia"
+    ],
+    "description": "This position is location within the Office of Information Security (OIS), Specialized Device Cybersecurity Department (SDCD). The incumbent serves as a Department of Veterans Affairs Information Assurance/Cybersecurity Analyst. The incumbent reports to the Supervisory Information Technology Program Manager and System Security Support Director, Office of Information Security.",
+    "url": "https://www.usajobs.gov/job/867543500",
+    "posted_at": "2026-05-01T09:45:02.903000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "867493600",
     "title": "Budget Analyst",
     "organization": "Department of Energy - Agency Wide",
@@ -122,20 +310,6 @@
     "url": "https://www.usajobs.gov/job/867166300",
     "posted_at": "2026-05-01T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866969300",
-    "title": "Technical Writer-Editor",
-    "organization": "Joint Activities",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at Fort Meade, MD.",
-    "url": "https://www.usajobs.gov/job/866969300",
-    "posted_at": "2026-05-01T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -561,20 +735,6 @@
     "url": "https://www.usajobs.gov/job/867110600",
     "posted_at": "2026-04-29T07:39:10.163000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867097200",
-    "title": "COMPUTER SCIENTIST",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Naval Business Center, Philadelphia, Pennsylvania"
-    ],
-    "description": "You will serve as a computer scientist in the Cybersecure HM&E Controls Systems & Networks division of NSWC PHILA DIV.",
-    "url": "https://www.usajobs.gov/job/867097200",
-    "posted_at": "2026-04-29T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -2283,20 +2443,6 @@
     "remote": null
   },
   {
-    "job_id": "866632000",
-    "title": "IT Cybersecurity Specialist",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is to fill IT Cybersecurity Specialist positions at the Department of Commerce, Bureau of Industry and Security (BIS), within the Office of the Chief Information Officer (OCIO).",
-    "url": "https://www.usajobs.gov/job/866632000",
-    "posted_at": "2026-04-24T12:46:15.947000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "866598900",
     "title": "Webmaster",
     "organization": "Defense Logistics Agency",
@@ -2360,27 +2506,6 @@
     "remote": null
   },
   {
-    "job_id": "866547900",
-    "title": "Information Systems Security Manager",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $ 187,093 New Cumberland, PA: $142,488- $ 187,093 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/866547900",
-    "posted_at": "2026-04-24T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "866479400",
     "title": "Supervisory IT Specialist",
     "organization": "Naval Sea Systems Command",
@@ -2405,34 +2530,6 @@
     "url": "https://www.usajobs.gov/job/866367400",
     "posted_at": "2026-04-24T00:00:00",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866353100",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA J6/C4 ENTERPRISE DIRECTORATE / IT3641.",
-    "url": "https://www.usajobs.gov/job/866353100",
-    "posted_at": "2026-04-24T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866429900",
-    "title": "BIOMEDICAL EQUIPMENT SUPPORT SPECIALIST",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Wilmington, Delaware"
-    ],
-    "description": "Serves as an Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on medical devices and clinical systems under frequent supervision. Performs increasing duties independently and receives guidance and direction as needed.",
-    "url": "https://www.usajobs.gov/job/866429900",
-    "posted_at": "2026-04-23T00:00:00",
-    "salary": "5-11",
     "grade": null,
     "remote": null
   },
@@ -2535,20 +2632,6 @@
     "remote": null
   },
   {
-    "job_id": "865959700",
-    "title": "IT SPECIALIST (SYSADMIN/INFOSEC)",
-    "organization": "United States Fleet Forces Command",
-    "locations": [
-      "Naval Shipyard, Portsmouth, Virginia"
-    ],
-    "description": "You will serve as an IT SPECIALIST (SYSADMIN/INFOSEC) in the Windows/IIS/Web Applications Support Branch (10914), IT Infrastructure & Operations Division (1091), Information Technology & Cybersecurity (ITACS) Office (109) of NORFOLK NAVAL SHIPYARD.",
-    "url": "https://www.usajobs.gov/job/865959700",
-    "posted_at": "2026-04-22T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "865832400",
     "title": "SUPERVISORY IT PROGRAM MANAGER (PLCYPLN/SYSANALYSIS)",
     "organization": "Department of the Air Force - Agency Wide",
@@ -2647,66 +2730,16 @@
     "remote": null
   },
   {
-    "job_id": "865626200",
-    "title": "IT Specialist (Security) GS-2210-14, FPL14 (DH)",
-    "organization": "Federal Student Aid",
+    "job_id": "865515400",
+    "title": "IT Cybersecurity Specialist",
+    "organization": "U.S. Tax Court",
     "locations": [
-      "San Francisco, California",
-      "Denver, Colorado",
-      "District of Columbia, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York County, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas",
-      "Seattle, Washington"
+      "Washington, District of Columbia"
     ],
-    "description": "This position is in the U.S. Department of Education (ED), Federal Student Aid (FSA). As an IT Specialist (Security), you will serve as the Information System Owner who is the first-line communications expert, determination, problem solutioning, and recommendations resolving IT systems, security, cybersecurity, and privacy issues.",
-    "url": "https://www.usajobs.gov/job/865626200",
-    "posted_at": "2026-04-17T09:35:07.580000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865623600",
-    "title": "IT Specialist (Security) GS-2210-14, FPL14 (Term Appt NTE 2 Years) (DH)",
-    "organization": "Federal Student Aid",
-    "locations": [
-      "San Francisco, California",
-      "Denver, Colorado",
-      "District of Columbia, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York County, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas",
-      "Seattle, Washington"
-    ],
-    "description": "This position is in the U.S. Department of Education (ED), Federal Student Aid (FSA). As an IT Specialist (Security), you will serve as the Information System Owner who is the first-line communications expert, determination, problem solutioning, and recommendations resolving IT systems, security, cybersecurity, and privacy issues.",
-    "url": "https://www.usajobs.gov/job/865623600",
-    "posted_at": "2026-04-17T09:27:02.960000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865577100",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Cleveland, Ohio",
-      "Columbus, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/865577100",
-    "posted_at": "2026-04-17T00:00:00",
-    "salary": "13-13",
+    "description": "Serves as the Cybersecurity Lead for the U.S. Tax Court, responsible for designing, implementing, and maintaining enterprise cybersecurity solutions and managing the Court's information security and risk management program. Provides expert security engineering support across on-premises and cloud environments, ensures compliance with federal cybersecurity requirements, and is on the front line protecting the Court's information services.",
+    "url": "https://www.usajobs.gov/job/865515400",
+    "posted_at": "2026-04-16T00:00:00",
+    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -2721,20 +2754,6 @@
     "url": "https://www.usajobs.gov/job/865166600",
     "posted_at": "2026-04-14T15:00:39.907000",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "864667200",
-    "title": "Senior Information Technology Specialist (Cyber Incident Response Analyst II)",
-    "organization": "Supreme Court of the United States",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This is a full-time position with the Office of Information Technology at the Supreme Court of the United States in Washington, D.C. Closing Date: Friday, 05/01/2026, 11:59 PM ET Please note that this vacancy has a limit of 200 applicants. The job opportunity announcement will automatically close if that limit is reached prior to the closing date.",
-    "url": "https://www.usajobs.gov/job/864667200",
-    "posted_at": "2026-04-10T00:00:00",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
