@@ -14,20 +14,6 @@
     "remote": null
   },
   {
-    "job_id": "868622100",
-    "title": "Diagnostic Radiologic Technologist (PACS)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "The Picture Archiving and Communication System (PACS) Technologist is responsible for the management, maintenance, and support of the PACS, Voice Recognition System, Computer-Aided Detection (CAD), all imaging-related Artificial Intelligence (AI) applications, imaging-related health informatics, the importing and exporting of all medical imaging data, and the Radiology package in the Veterans Health Information Systems and Technology Architecture (VistA) at VA St. Louis Healthcare System.",
-    "url": "https://www.usajobs.gov/job/868622100",
-    "posted_at": "2026-05-08T15:22:55.143000",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868612800",
     "title": "STUDENT TRAINEE (AI/ML RESEARCH PROGRAM SUPPORT)",
     "organization": "Secretary of the Navy Offices (SECNAV)",
@@ -134,6 +120,20 @@
     "remote": null
   },
   {
+    "job_id": "868313900",
+    "title": "Management and Program Analyst",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "This position is Commercial Portfolio Manager, serving as Contracting Officer's Representative for numerous contracts. Manages a diverse portfolio, including IDIQ contracts, Space Act Agreements, and other mechanisms as required. Operates with broad, high-level direction, and is expected to exercise sound judgement while ensuring that management is aware of potential issues. Works with CEO-level commercial partners to advance NASA's goal of a commercial economy in LEO.",
+    "url": "https://www.usajobs.gov/job/868313900",
+    "posted_at": "2026-05-08T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "868293100",
     "title": "Supervisory Intelligence Research Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -158,30 +158,6 @@
     "url": "https://www.usajobs.gov/job/868260600",
     "posted_at": "2026-05-08T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868218400",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "As a SaaS Product Owner within the Office of the Chief Information Officer, Application & Platform Services service line, you will be responsible for ensuring the continuity of NASA's Low Code No Code products, supporting platform governance and oversight for technologies such as Salesforce and ServiceNow. You will work alongside Civil Servants and contractors to align on platform-related initiatives, leveraging their expertise and ensuring cohesive project execution.",
-    "url": "https://www.usajobs.gov/job/868218400",
-    "posted_at": "2026-05-08T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -543,6 +519,20 @@
     "url": "https://www.usajobs.gov/job/867873000",
     "posted_at": "2026-05-06T00:00:00",
     "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867872900",
+    "title": "Management and Program Analyst (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "You will serve as a senior Management and Program Analyst technical expert responsible for planning and managing complex analytical and administrative functions for major program level, Mission Directorate-level, or Center Organization initiatives. You will provide high level advice to agency leadership, negotiate solutions on sensitive program issues, and develop innovative concepts, methods, or approaches that shape mission execution.",
+    "url": "https://www.usajobs.gov/job/867872900",
+    "posted_at": "2026-05-06T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1027,20 +1017,6 @@
     "remote": null
   },
   {
-    "job_id": "867406800",
-    "title": "Registration Program Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Boston, Massachusetts"
-    ],
-    "description": "This position is located in the DEA, New England Field Division. This positions primary purpose is to ensure compliance and registration for all entities authorized to prescribe, manufacture, and/or distribute controlled substances. The incumbents will identify and resolve discrepancies and approve or deny registration applications against established DEA licensing criteria.",
-    "url": "https://www.usajobs.gov/job/867406800",
-    "posted_at": "2026-04-30T12:32:07.830000",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "867315900",
     "title": "Senior Data Analyst",
     "organization": "Federal Trade Commission",
@@ -1206,20 +1182,6 @@
     "url": "https://www.usajobs.gov/job/867167800",
     "posted_at": "2026-04-29T11:14:47.523000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867890100",
-    "title": "Systems Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a System Engineer, you will apply your expertise to develop and improve systems and tools that enable intelligence operations, upholding rigorous engineering and scientific standards. With opportunities spanning cybersecurity, engineering, computer science, and more, you will utilize your skills to drive innovation and make a meaningful impact in protecting the nation.",
-    "url": "https://www.usajobs.gov/job/867890100",
-    "posted_at": "2026-04-29T00:00:00",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
@@ -1677,6 +1639,34 @@
     ],
     "description": "The Senior Scientist for Lunar Exploration within the Science Mission Directorate serves as the principal advisor to the Deputy Associate Administrator for Exploration and Lunar Discovery and Exploration Program, on all science-related aspects of NASA's lunar science and exploration initiatives; advises on the scientific strategy for the exploration of Earth's Moon; and works with programmatic management to ensure the implementation of the science content is optimized.",
     "url": "https://www.usajobs.gov/job/866144800",
+    "posted_at": "2026-04-22T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866144800",
+    "title": "Senior Scientist for Lunar Exploration",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Senior Scientist for Lunar Exploration within the Science Mission Directorate serves as the principal advisor to the Deputy Associate Administrator for Exploration and Lunar Discovery and Exploration Program, on all science-related aspects of NASA's lunar science and exploration initiatives; advises on the scientific strategy for the exploration of Earth's Moon; and works with programmatic management to ensure the implementation of the science content is optimized.",
+    "url": "https://www.usajobs.gov/job/866144800",
+    "posted_at": "2026-04-22T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866144700",
+    "title": "Senior Scientist for Lunar Exploration",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Senior Scientist for Lunar Exploration within the Science Mission Directorate serves as the principal advisor to the Deputy Associate Administrator for Exploration and Lunar Discovery and Exploration Program, on all science-related aspects of NASA's lunar science and exploration initiatives; advises on the scientific strategy for the exploration of Earth's Moon; and works with programmatic management to ensure the implementation of the science content is optimized.",
+    "url": "https://www.usajobs.gov/job/866144700",
     "posted_at": "2026-04-22T00:00:00",
     "salary": "00-00",
     "grade": null,
