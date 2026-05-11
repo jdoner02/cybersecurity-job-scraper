@@ -1,5 +1,94 @@
 [
   {
+    "job_id": "868585800",
+    "title": "Aerospace Engineer, AST, Research Pilot (Direct Hire)",
+    "organization": "Langley Research Center",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "You will serve as an Aerospace Engineer/Research Pilot in the Research Services Directorate which involves the piloting of aircraft (and/or Uninhabited Aerial Systems(UASs)) used in research, development, and test programs; planning/evaluating test parameters; performing flight and/or ground simulations of advanced missions and aircraft; participating with project engineers and scientists responsible for development, design, testing, evaluation, and reporting on new aircraft or aircraft systems.",
+    "url": "https://www.usajobs.gov/job/868585800",
+    "posted_at": "2026-05-11T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868498600",
+    "title": "Logistics Management Specialist",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "You will serve as the Supply and Equipment Management Officer (SEMO) in the Logistics Management Division of the Center Operations Directorate.",
+    "url": "https://www.usajobs.gov/job/868498600",
+    "posted_at": "2026-05-11T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868415500",
+    "title": "Human Resources Specialist (Compliance)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is located in the Human Resources Division Oversight and Advisory Services Section (HRQ). HRQ is responsible for the development of HR program management accountability policy and interpretations; compliance audits, HR programs evaluations, consistency reviews and reporting; program improvement assessments, metrics reporting and analysis; and serves as an advisor and consultant to HR leadership and stakeholders on DEA program accountability, oversight, and evaluation activities.",
+    "url": "https://www.usajobs.gov/job/868415500",
+    "posted_at": "2026-05-11T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868181400",
+    "title": "Fire Protection Engineer (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Serves as Fire Protection Engineer (FPE) in the KSC Protective Services Office. The FPE assists the Authority Having Jurisdiction in the management of KSC's Fire Protection Program, playing a vital role in protection of people, assets, and property of NASA, contractors, and Commercial partners. Ensures the requirements of the National Fire Protection Association, Florida Fire Prevention Code, and/or the NASA Safety Standard for Fire Protection (NASA -STD-8719.11) are met.",
+    "url": "https://www.usajobs.gov/job/868181400",
+    "posted_at": "2026-05-11T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867450400",
+    "title": "General Engineer, AST, Experimental Facility Development (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "As an AST, Experimental Facility Development (Lab Manager) with the Applied Manufacturing Division, you will be responsible for policies, procedures, operations schedules, resources, procurement, funding, and facility requirements for the Engineering Evaluation Laboratory. You will lead a team of highly skilled test engineers in the execution of spaceflight hardware acceptance and qualification testing and pursue opportunities for collaboration and funding.",
+    "url": "https://www.usajobs.gov/job/867450400",
+    "posted_at": "2026-05-11T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "868622100",
     "title": "Diagnostic Radiologic Technologist (PACS)",
     "organization": "Veterans Health Administration",
@@ -102,20 +191,6 @@
     "url": "https://www.usajobs.gov/job/868470900",
     "posted_at": "2026-05-08T06:51:39.180000",
     "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868313900",
-    "title": "Management and Program Analyst",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "This position is Commercial Portfolio Manager, serving as Contracting Officer's Representative for numerous contracts. Manages a diverse portfolio, including IDIQ contracts, Space Act Agreements, and other mechanisms as required. Operates with broad, high-level direction, and is expected to exercise sound judgement while ensuring that management is aware of potential issues. Works with CEO-level commercial partners to advance NASA's goal of a commercial economy in LEO.",
-    "url": "https://www.usajobs.gov/job/868313900",
-    "posted_at": "2026-05-08T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -537,16 +612,16 @@
     "remote": null
   },
   {
-    "job_id": "867872900",
+    "job_id": "867872400",
     "title": "Management and Program Analyst (Direct Hire)",
     "organization": "George C. Marshall Space Flight Center",
     "locations": [
       "Huntsville, Alabama"
     ],
-    "description": "You will serve as a senior Management and Program Analyst technical expert responsible for planning and managing complex analytical and administrative functions for major program level, Mission Directorate-level, or Center Organization initiatives. You will provide high level advice to agency leadership, negotiate solutions on sensitive program issues, and develop innovative concepts, methods, or approaches that shape mission execution.",
-    "url": "https://www.usajobs.gov/job/867872900",
+    "description": "You will serve as a Senior Management and Program Analyst supporting major projects, programs, Mission Directorates, or organizational initiatives. You will independently lead complex analyses, develop new methods or approaches, interpret agency policy and directives, and provide authoritative recommendations that enhance mission performance and organizational effectiveness.",
+    "url": "https://www.usajobs.gov/job/867872400",
     "posted_at": "2026-05-06T00:00:00",
-    "salary": "15-15",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -561,6 +636,20 @@
     "url": "https://www.usajobs.gov/job/867872400",
     "posted_at": "2026-05-06T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867872200",
+    "title": "Management and Program Analyst (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "You will serve as a Management and Program Analyst leading analytical reviews, assessing program and organizational performance, and providing data-driven recommendations that support mission needs. You will apply qualitative and quantitative methods, develop reports and briefings, and contribute to planning and improvement efforts across projects, programs, or organizational activities.",
+    "url": "https://www.usajobs.gov/job/867872200",
+    "posted_at": "2026-05-06T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -937,49 +1026,6 @@
     "url": "https://www.usajobs.gov/job/867459800",
     "posted_at": "2026-05-01T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867443700",
-    "title": "Financial Management Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "description": "This position is located in the DEA, Los Angeles Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
-    "url": "https://www.usajobs.gov/job/867443700",
-    "posted_at": "2026-05-01T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867441100",
-    "title": "Mission & Operations Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Camarillo, California",
-      "Reno, Nevada"
-    ],
-    "description": "This position is located in the DEA, Los Angeles Field Division, in Camarillo, California and Reno, Nevada. This position(s) primary purpose is to support the Outlying Office (OO) related to Business Operations and administrative aspects of Law Enforcement Operations.",
-    "url": "https://www.usajobs.gov/job/867441100",
-    "posted_at": "2026-05-01T00:00:00",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867389000",
-    "title": "Accountant",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "description": "This position is located in the DEA, Los Angeles, CA Field Division Office. This position(s) primary purpose is to accurately report the financial position of Division business activities for various internal and external stakeholders - including taxpayers, auditors, legislators, DEA executives, DEA financial managers, and others who may have a vested interest in the agency's financial activity.",
-    "url": "https://www.usajobs.gov/job/867389000",
-    "posted_at": "2026-05-01T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -1639,34 +1685,6 @@
     ],
     "description": "The Senior Scientist for Lunar Exploration within the Science Mission Directorate serves as the principal advisor to the Deputy Associate Administrator for Exploration and Lunar Discovery and Exploration Program, on all science-related aspects of NASA's lunar science and exploration initiatives; advises on the scientific strategy for the exploration of Earth's Moon; and works with programmatic management to ensure the implementation of the science content is optimized.",
     "url": "https://www.usajobs.gov/job/866144800",
-    "posted_at": "2026-04-22T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866144800",
-    "title": "Senior Scientist for Lunar Exploration",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Senior Scientist for Lunar Exploration within the Science Mission Directorate serves as the principal advisor to the Deputy Associate Administrator for Exploration and Lunar Discovery and Exploration Program, on all science-related aspects of NASA's lunar science and exploration initiatives; advises on the scientific strategy for the exploration of Earth's Moon; and works with programmatic management to ensure the implementation of the science content is optimized.",
-    "url": "https://www.usajobs.gov/job/866144800",
-    "posted_at": "2026-04-22T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866144700",
-    "title": "Senior Scientist for Lunar Exploration",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Senior Scientist for Lunar Exploration within the Science Mission Directorate serves as the principal advisor to the Deputy Associate Administrator for Exploration and Lunar Discovery and Exploration Program, on all science-related aspects of NASA's lunar science and exploration initiatives; advises on the scientific strategy for the exploration of Earth's Moon; and works with programmatic management to ensure the implementation of the science content is optimized.",
-    "url": "https://www.usajobs.gov/job/866144700",
     "posted_at": "2026-04-22T00:00:00",
     "salary": "00-00",
     "grade": null,
