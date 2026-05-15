@@ -1,5 +1,402 @@
 [
   {
+    "job_id": "869467400",
+    "title": "Public Notice - Facilities Operations/Management (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Vandenberg AFB, California",
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-09/11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/869467400",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "9-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869467300",
+    "title": "Public Notice - Engineering Technician (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Vandenberg AFB, California",
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Positions advertised are in various organizations and locations with Kennedy Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-10/11/12 levels).",
+    "url": "https://www.usajobs.gov/job/869467300",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "10-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869467100",
+    "title": "Public Notice - Engineering (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Decatur, Alabama",
+      "Hawthorne, California",
+      "Vandenberg AFB, California",
+      "Kennedy Space Center, Florida",
+      "McLennan County, Texas"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-0801, 0819, 0830, 0850, 0855, 0861 at the GS-11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/869467100",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869466800",
+    "title": "Public Notice - Information Technology Specialist (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Vandenberg AFB, California",
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-2210 at the GS-09/11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/869466800",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "9-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869466600",
+    "title": "Public Notice - Administrative / Management (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Vandenberg AFB, California",
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-0301, 0343, 0346 at the GS-09/11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/869466600",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "9-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869414600",
+    "title": "Information Technology Specialist (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "As a Systems, Applications, and Products in Data Processing (SAP) Technical Subject Matter Expert, you will be responsible for SAP technical design and configuration, ensuring compliant financial processes, audit readiness, and system integrity. You will oversee Advanced Business Application Programing (ABAP) development, manage year-end processing, and guide cross-functional teams through full lifecycle delivery as we move to the SAP S/4 High Performance Analytic Appliance (HANA) environment.",
+    "url": "https://www.usajobs.gov/job/869414600",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869402100",
+    "title": "Information Technology Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Intelligence and Counterintelligence, Department of Energy. As a Information Technology Specialist, you will support the Department of Energy Counterintelligence (CI) mission, you will provide Information Technology (IT) expertise to DOE CI mission activities, including investigations, awareness, analysis, insider threat, cyber forensics, and more benefitting DOE elements at headquarters, field offices, and the national laboratories.",
+    "url": "https://www.usajobs.gov/job/869402100",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869340500",
+    "title": "COMPUTER SCIENTIST",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana",
+      "Limestone, Maine",
+      "Rome, New York",
+      "Cleveland, Ohio",
+      "Whitehall, Ohio"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/869340500",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869323800",
+    "title": "Senior Data Scientist",
+    "organization": "Federal Acquisition Service",
+    "locations": [
+      "San Francisco, California",
+      "Lakewood, Colorado",
+      "District of Columbia, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "San Antonio, Texas",
+      "Norfolk, Virginia",
+      "Tacoma, Washington"
+    ],
+    "description": "As a Senior Data Scientist, you will apply expert knowledge of data science and quantitative analytical methods to organize, analyze, interpret, and derive meaningful insight from structured and unstructured data in support of real-world problem solving. Location of position: Federal Acquisition Service (FAS), Office of Acquisition Solution Development. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
+    "url": "https://www.usajobs.gov/job/869323800",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869322900",
+    "title": "Senior Software Engineer",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Macon, Georgia"
+    ],
+    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
+    "url": "https://www.usajobs.gov/job/869322900",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869322300",
+    "title": "Applications Software Engineer",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Macon, Georgia"
+    ],
+    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
+    "url": "https://www.usajobs.gov/job/869322300",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869316300",
+    "title": "Electrical Engineer, AST, Electrical Systems (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "As an Electrical Engineer, you will perform professional engineering work involving the design, analysis, testing, and compliance assessment of Flight Termination Systems (FTS) in support of NASA's research, test, and development activities. You will be responsible for developing, evaluating, and/or establishing technical requirements for the application and integration of low voltage, electro-mechanical systems into aerospace vehicles (primarily on unmanned aircraft systems).",
+    "url": "https://www.usajobs.gov/job/869316300",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869290000",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA EMERGING TECHNOLOGY DIRECTORATE - REQS AND PROJECT ENGINEERING SUPPORT DIVISION.",
+    "url": "https://www.usajobs.gov/job/869290000",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869236600",
+    "title": "Security Specialist (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "As a Physical Security Specialist performing the duties of the Center's Physical Security Program Manager, Facility Security Manager (FSM), Anti-Terrorism Officer (ATO), Critical Infrastructure Assurance Officer (CIAO), and assisting the Chief, Protective Services in the overall management and administration of the AFRC Protective Services Program, you will be responsible for establishing, revising, or reviewing policies, procedures, and meeting mission objectives.",
+    "url": "https://www.usajobs.gov/job/869236600",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869164900",
+    "title": "Physical Scientist, AST, Science Program Management (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "NASA's Science Mission Directorate (SMD) engages the nation's science community, sponsors scientific research, and develops and deploys satellites and probes in collaboration with NASA's partners around the world to answer fundamental questions requiring the view from and into space. The Biological and Physical Sciences Division within SMD is seeking a qualified individual to serve as the Fundamental Physics Program Scientist.",
+    "url": "https://www.usajobs.gov/job/869164900",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869134600",
+    "title": "Program Officer, Chief of Protective Services",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Redstone Arsenal, Alabama"
+    ],
+    "description": "As the Chief of Protective Services (CPS), you will be responsible for providing supervision, direction and oversight of the administration, planning, design, organization, services, operation, review, and analysis of security and law enforcement, emergency management, and fire services.",
+    "url": "https://www.usajobs.gov/job/869134600",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868989200",
+    "title": "Engineering Technician (Direct Hire)",
+    "organization": "John C. Stennis Space Center",
+    "locations": [
+      "Stennis Space Center, Mississippi"
+    ],
+    "description": "You will serve as Engineering Technician for the Engineering Division within the Engineering and Test Directorate. You will use your 3D modeling skills to generate 3D models as well as perform the checking function on 3D and 2D drawings to ensure modeling and drafting standards are met. You will use your knowledge of Creo, AutoCAD, Windchill, and specialized elements within those tools to define best practices. You will work with NASA Centers on Agency initiatives for Model Based Engineering.",
+    "url": "https://www.usajobs.gov/job/868989200",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868969500",
+    "title": "Security Specialist (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "You will serve as a security specialist responsible for the planning, integration, and oversight of a comprehensive Center-level security program supporting critical spaceflight, research, and engineering missions at NASA's Marshall Space Flight Center (MSFC).",
+    "url": "https://www.usajobs.gov/job/868969500",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868932400",
+    "title": "Digital Modernization & Data Volunteer",
+    "organization": "Department of State - Agency Wide",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "Make an impact while you learn. The Semester of Service Program offers students a volunteer project-based opportunity to support Federal missions, gaining hands-on experience & valuable career-ready skills. Students must be enrolled at least half-time in an accredited trade school, technical or vocational institute, junior college, college, university, or other accredited educational institution, & participation must be with the permission of the institution at which the student is enrolled.",
+    "url": "https://www.usajobs.gov/job/868932400",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "NA-NA",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869382300",
+    "title": "Program Integrator (Data Analytics)",
+    "organization": "Defense Contract Management Agency",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "See below for important information regarding this job. Additional vacancies may be filled from this announcement. DCMA Location Negotiable upon Selection. This job will close when we have received 150 applications, which may be sooner than the closing date. This is not a remote work position. See DCMA Location List, not all locations may be available.",
+    "url": "https://www.usajobs.gov/job/869382300",
+    "posted_at": "2026-05-14T13:31:27.387000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869314400",
+    "title": "IT SPECIALIST (ARTIFICIAL INTELLIGENCE)",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Information Technology,OIT, Enterprise Architecture and Data Group. As a IT SPECIALIST (ARTIFICIAL INTELLIGENCE), GS-2210-14, you will function as the organization's foremost subject matter expert and thought leader, directing comprehensive AI/ML platform engineering initiatives.",
+    "url": "https://www.usajobs.gov/job/869314400",
+    "posted_at": "2026-05-14T10:37:18.257000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868905500",
+    "title": "Budget Analyst (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Las Cruces, New Mexico",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "As a Senior Budget Analyst, you will serve as a subject-matter expert and a point-of-contact assigned to the Office of the Chief Financial Officer. You will interface and integrate across the Center with responsibility for budget formulation, execution, and integration of multiple program and/or project elements (e.g. engineering directorate, mission support, project support).",
+    "url": "https://www.usajobs.gov/job/868905500",
+    "posted_at": "2026-05-14T09:05:43.857000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869280000",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), San Francisco, CA Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/869280000",
+    "posted_at": "2026-05-14T07:40:10.247000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "869252000",
     "title": "Information Technology Specialist (Direct Hire)",
     "organization": "Lyndon B. Johnson Space Center",
@@ -274,31 +671,6 @@
     "remote": null
   },
   {
-    "job_id": "868905500",
-    "title": "Budget Analyst (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Las Cruces, New Mexico",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "As a Senior Budget Analyst, you will serve as a subject-matter expert and a point-of-contact assigned to the Office of the Chief Financial Officer. You will interface and integrate across the Center with responsibility for budget formulation, execution, and integration of multiple program and/or project elements (e.g. engineering directorate, mission support, project support).",
-    "url": "https://www.usajobs.gov/job/868905500",
-    "posted_at": "2026-05-14T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868897600",
     "title": "Budget Analyst (Direct Hire)",
     "organization": "Lyndon B. Johnson Space Center",
@@ -380,20 +752,6 @@
     "remote": null
   },
   {
-    "job_id": "869144100",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Murfreesboro, Tennessee"
-    ],
-    "description": "The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/869144100",
-    "posted_at": "2026-05-13T11:59:37.797000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869035100",
     "title": "Planetary Defense Officer",
     "organization": "Headquarters, NASA",
@@ -404,55 +762,6 @@
     "url": "https://www.usajobs.gov/job/869035100",
     "posted_at": "2026-05-13T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869020700",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is in the Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The employee serves as a senior Enterprise Architect in the Office of the Chief Technology Officer.",
-    "url": "https://www.usajobs.gov/job/869020700",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869019800",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Fort Collins, Colorado",
-      "Urbandale, Iowa",
-      "Raleigh, North Carolina"
-    ],
-    "description": "This position is in the Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The employee serves as a senior Enterprise Architect in the Office of the Chief Technology Officer.",
-    "url": "https://www.usajobs.gov/job/869019800",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -471,48 +780,6 @@
     "remote": null
   },
   {
-    "job_id": "868972200",
-    "title": "Vice Deputy Director for Regional Operations and Force Management",
-    "organization": "Organization of the Joint Chiefs of Staff",
-    "locations": [
-      "Norfolk, Virginia"
-    ],
-    "description": "This position is located in the Joint Staff, Director of Operations and is the Vice Deputy Director for Regional Operations and Force Management, Norfolk, reporting directly to the Deputy Director for Regional Operations, military 0-7.",
-    "url": "https://www.usajobs.gov/job/868972200",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868960500",
-    "title": "Fiscal Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "This position is located in the DEA, Human Resources Division, Office of Training, Academy Operations Section, Financial Management Unit (OTAF). This position(s) primary purpose is to approve invoices and voucher for payment in a highly automated financial management and acquisition system; performs analysis of financial information using queries and reports; provides customer support; validates accounting data, reconciles accounts; and analyzes accounting processes.",
-    "url": "https://www.usajobs.gov/job/868960500",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868936200",
-    "title": "Public Affairs Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Grand Junction, Colorado"
-    ],
-    "description": "This position is part of the Office of Legacy Management, Department of Energy. As a Public Affairs Specialist, you will support public affairs efforts including suggesting stories, writing, editing, and working with media representatives and key partners to build relationships in environmental stewardship initiatives.",
-    "url": "https://www.usajobs.gov/job/868936200",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868792200",
     "title": "Research Structural Engineer",
     "organization": "National Institute of Standards and Technology",
@@ -527,20 +794,6 @@
     "remote": null
   },
   {
-    "job_id": "868739200",
-    "title": "Legal Curriculum & Content Developer",
-    "organization": "Department of State - Agency Wide",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "Make an impact while you learn. The Semester of Service Program offers students a volunteer project-based opportunity to support Federal missions, gaining hands-on experience & valuable career-ready skills. Students must be enrolled at least half-time in an accredited trade school, technical or vocational institute, junior college, college, university, or other accredited educational institution, & participation must be with the permission of the institution at which the student is enrolled.",
-    "url": "https://www.usajobs.gov/job/868739200",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "NA-NA",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868368700",
     "title": "SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST",
     "organization": "Naval Air Systems Command",
@@ -551,20 +804,6 @@
     "url": "https://www.usajobs.gov/job/868368700",
     "posted_at": "2026-05-13T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869046000",
-    "title": "Senior Technical Advisor - Executive Records and Information Management Program",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "District of Columbia, District of Columbia"
-    ],
-    "description": "The U.S. Secret Service is seeking a results driven Senior Technical Advisor to carry out the overall planning and oversight of the agency-wide records and information management programs.",
-    "url": "https://www.usajobs.gov/job/869046000",
-    "posted_at": "2026-05-12T17:44:29.853000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -778,25 +1017,6 @@
     "remote": null
   },
   {
-    "job_id": "868819900",
-    "title": "Student Trainee (Financial Administration)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Louisville, Kentucky",
-      "Metairie, Louisiana",
-      "Bedford, Massachusetts",
-      "San Juan, Puerto Rico",
-      "Arlington, Virginia",
-      "Lorton, Virginia"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Office of Operations Management, Information Systems Division, Southeast Region 2, Office of Training, and Northeast Region. These position(s) primary purpose is to provide daily financial and administrative to support HQ and field offices.",
-    "url": "https://www.usajobs.gov/job/868819900",
-    "posted_at": "2026-05-11T16:20:34.830000",
-    "salary": "3-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868819500",
     "title": "Student Trainee (Administrative and Office Support)",
     "organization": "Drug Enforcement Administration",
@@ -812,47 +1032,6 @@
     "url": "https://www.usajobs.gov/job/868819500",
     "posted_at": "2026-05-11T16:17:29.717000",
     "salary": "3-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868819200",
-    "title": "Student Trainee (Administrative and Office Support)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Mobile, Alabama",
-      "Washington, District of Columbia",
-      "Jacksonville, Florida",
-      "Tampa, Florida",
-      "Weston, Florida",
-      "Chicago, Illinois",
-      "Detroit, Michigan",
-      "Flint, Michigan",
-      "Cape Girardeau, Missouri",
-      "Saint Louis, Missouri",
-      "Springfield, Missouri",
-      "Gulfport, Mississippi",
-      "Charlotte, North Carolina",
-      "Raleigh, North Carolina",
-      "Wilmington, North Carolina",
-      "Omaha, Nebraska",
-      "Newark, New Jersey",
-      "New York, New York",
-      "Westchester County, New York",
-      "Philadelphia, Pennsylvania",
-      "Scranton, Pennsylvania",
-      "San Juan, Puerto Rico",
-      "Columbia, South Carolina",
-      "Fort Worth, Texas",
-      "Waco, Texas",
-      "Arlington, Virginia",
-      "Lorton, Virginia",
-      "Green Bay, Wisconsin"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA, Southcentral Region, Southeast Region 2, Northeast Region, and Midwest Regions and in the Office of Training, Office of Investigative Technology, Associate Administrator's Office, Inspections Division, and Aviation Division. These position(s) primary purpose is to provide clerical and administrative support to the field and HQ offices.",
-    "url": "https://www.usajobs.gov/job/868819200",
-    "posted_at": "2026-05-11T16:16:15.423000",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -928,6 +1107,47 @@
     "url": "https://www.usajobs.gov/job/868687900",
     "posted_at": "2026-05-11T09:13:37.273000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868819200",
+    "title": "Student Trainee (Administrative and Office Support)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Mobile, Alabama",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Tampa, Florida",
+      "Weston, Florida",
+      "Chicago, Illinois",
+      "Detroit, Michigan",
+      "Flint, Michigan",
+      "Cape Girardeau, Missouri",
+      "Saint Louis, Missouri",
+      "Springfield, Missouri",
+      "Gulfport, Mississippi",
+      "Charlotte, North Carolina",
+      "Raleigh, North Carolina",
+      "Wilmington, North Carolina",
+      "Omaha, Nebraska",
+      "Newark, New Jersey",
+      "New York, New York",
+      "Westchester County, New York",
+      "Philadelphia, Pennsylvania",
+      "Scranton, Pennsylvania",
+      "San Juan, Puerto Rico",
+      "Columbia, South Carolina",
+      "Fort Worth, Texas",
+      "Waco, Texas",
+      "Arlington, Virginia",
+      "Lorton, Virginia",
+      "Green Bay, Wisconsin"
+    ],
+    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA, Southcentral Region, Southeast Region 2, Northeast Region, and Midwest Regions and in the Office of Training, Office of Investigative Technology, Associate Administrator's Office, Inspections Division, and Aviation Division. These position(s) primary purpose is to provide clerical and administrative support to the field and HQ offices.",
+    "url": "https://www.usajobs.gov/job/868819200",
+    "posted_at": "2026-05-11T00:00:00",
+    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -1021,20 +1241,6 @@
     "remote": null
   },
   {
-    "job_id": "868612800",
-    "title": "STUDENT TRAINEE (AI/ML RESEARCH PROGRAM SUPPORT)",
-    "organization": "Secretary of the Navy Offices (SECNAV)",
-    "locations": [
-      "Pentagon, Arlington, Virginia"
-    ],
-    "description": "This is a DON Pathways Internship Program position. You will serve as a Student Trainee (AI/ML Research Program Support) in the Office of the ASN EI-E WASHINGTON DC (Office of the Assistant Secretary of the Navy for Energy, Installations, end Environment (OASN (E&IE). This internship is temporary not to exceed one year. This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants.",
-    "url": "https://www.usajobs.gov/job/868612800",
-    "posted_at": "2026-05-08T14:54:42.227000",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868565200",
     "title": "Director - Applied Epidemiology Staff",
     "organization": "Food Safety and Inspection Service",
@@ -1099,16 +1305,16 @@
     "remote": null
   },
   {
-    "job_id": "868313900",
-    "title": "Management and Program Analyst",
-    "organization": "Lyndon B. Johnson Space Center",
+    "job_id": "868612800",
+    "title": "STUDENT TRAINEE (AI/ML RESEARCH PROGRAM SUPPORT)",
+    "organization": "Secretary of the Navy Offices (SECNAV)",
     "locations": [
-      "Houston, Texas"
+      "Pentagon, Arlington, Virginia"
     ],
-    "description": "This position is Commercial Portfolio Manager, serving as Contracting Officer's Representative for numerous contracts. Manages a diverse portfolio, including IDIQ contracts, Space Act Agreements, and other mechanisms as required. Operates with broad, high-level direction, and is expected to exercise sound judgement while ensuring that management is aware of potential issues. Works with CEO-level commercial partners to advance NASA's goal of a commercial economy in LEO.",
-    "url": "https://www.usajobs.gov/job/868313900",
+    "description": "This is a DON Pathways Internship Program position. You will serve as a Student Trainee (AI/ML Research Program Support) in the Office of the ASN EI-E WASHINGTON DC (Office of the Assistant Secretary of the Navy for Energy, Installations, end Environment (OASN (E&IE). This internship is temporary not to exceed one year. This Job Opportunity Announcement is using an additional online assessment tool to evaluate applicants.",
+    "url": "https://www.usajobs.gov/job/868612800",
     "posted_at": "2026-05-08T00:00:00",
-    "salary": "14-14",
+    "salary": "7-7",
     "grade": null,
     "remote": null
   },
@@ -1123,34 +1329,6 @@
     "url": "https://www.usajobs.gov/job/868293100",
     "posted_at": "2026-05-08T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868260600",
-    "title": "Information Technology Specialist",
-    "organization": "George C. Marshall Space Flight Center",
-    "locations": [
-      "Redstone Arsenal, Alabama"
-    ],
-    "description": "You will serve as the Marshall Space Flight Center (MSFC) IT Chief Engineer providing strategic mentorship and technical guidance to ensure the successful delivery of diverse IT projects. You will foster a supportive culture of knowledge sharing and cross-boundary teamwork to support the overarching enterprise and to satisfy mission needs while improving service delivery, advancing highly technical interchanges, and enabling effective collaboration across stakeholders.",
-    "url": "https://www.usajobs.gov/job/868260600",
-    "posted_at": "2026-05-08T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868423400",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "description": "The Program Analyst (Health Informatics) position is located at the medical centers within the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of this role is to enhance the quality, efficiency, and effectiveness of health care by integrating clinical and information processes essential for the successful adoption and use of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/868423400",
-    "posted_at": "2026-05-07T15:55:05.223000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1201,20 +1379,6 @@
     "remote": null
   },
   {
-    "job_id": "868207800",
-    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1256809",
-    "url": "https://www.usajobs.gov/job/868207800",
-    "posted_at": "2026-05-06T16:10:35.243000",
-    "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868099100",
     "title": "Supervisory Human Resources Specialist (Information Systems)",
     "organization": "Defense Contract Audit Agency",
@@ -1239,21 +1403,6 @@
     "url": "https://www.usajobs.gov/job/868068100",
     "posted_at": "2026-05-06T08:29:31.400000",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868145900",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Leavenworth, Kansas",
-      "Topeka, Kansas"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/868145900",
-    "posted_at": "2026-05-06T00:00:00",
-    "salary": "5-12",
     "grade": null,
     "remote": null
   },
@@ -1328,20 +1477,6 @@
     "remote": null
   },
   {
-    "job_id": "868020000",
-    "title": "Supervisory General Attorney (Labor)",
-    "organization": "Office of the Solicitor",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Department of Labor, Office of the Solicitor (SOL), Division of Management and Administrative Legal Services (MALS). We are seeking a FOIA and Info Law attorney to serve as DOL's senior advisor on legal issues related to the Freedom of Information Act, Privacy Act, and other related information law statutes and the protection and handling of personal, private, controlled unclassified, or proprietary information-with the potential to damage the public's trust.",
-    "url": "https://www.usajobs.gov/job/868020000",
-    "posted_at": "2026-05-05T16:02:17.967000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "867863300",
     "title": "Cost Analyst",
     "organization": "Office of the Director of National Intelligence",
@@ -1385,109 +1520,6 @@
     "url": "https://www.usajobs.gov/job/867782600",
     "posted_at": "2026-05-04T13:45:00.440000",
     "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867852100",
-    "title": "Trial Attorney (Enforcement and Affirmative Litigation)",
-    "organization": "Offices, Boards and Divisions",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "The Enforcement and Affirmative Litigation Branch seeks Trial Attorneys to oversee high-impact affirmative litigation that ensures nationwide compliance with federal law. The Branch offers a frontline role in the Department's major civil enforcement initiatives. Well-qualified candidates may be eligible for a signing bonus of up to $25,000, with priority given to applicants in D.C., Raleigh, San Francisco, Dallas, and N.Y.C. However, strong applicants from any location are encouraged to apply.",
-    "url": "https://www.usajobs.gov/job/867852100",
-    "posted_at": "2026-05-04T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867851200",
-    "title": "Trial Attorney (Enforcement and Affirmative Litigation)",
-    "organization": "Offices, Boards and Divisions",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Enforcement and Affirmative Litigation Branch seeks Trial Attorneys to oversee high-impact affirmative litigation that ensures nationwide compliance with federal law. The Branch offers a frontline role in the Department's major civil enforcement initiatives. Well-qualified candidates may be eligible for a signing bonus of up to $25,000 depending on qualifications, education, and other factors. All recipients of a signing bonus are required to fulfill a service obligation.",
-    "url": "https://www.usajobs.gov/job/867851200",
-    "posted_at": "2026-05-04T00:00:00",
-    "salary": "11-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867485200",
-    "title": "Management and Program Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Management, Department of Energy. As a Management and Program Analyst, you will serve as a technical expert for the Foreign Travel Management System (FTMS) and Foreign Travel policy. You will work with the Office Director in overseeing the official passports and visas program. The role also involves serving as the FTMS Coordinator, offering knowledge of the system's features and requirements to all DOE users.",
-    "url": "https://www.usajobs.gov/job/867485200",
-    "posted_at": "2026-05-04T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867459800",
-    "title": "Chief Project Management and Systems Engineer Division",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "Incumbent serves as the Chief of the Project Management and Systems Engineering (PM & SE) Division and reports to the Director of Engineering at Johnson Space Center (JSC). Provides overall management and leadership for human rated spacecraft design and development, vehicle systems definition and integration, overall vehicle testing and verification, vehicle sustaining engineering, logistics and maintenance, and development, delivery, and sustained operation of flight hardware.",
-    "url": "https://www.usajobs.gov/job/867459800",
-    "posted_at": "2026-05-01T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867276900",
-    "title": "Supervisory Information Technology Specialist (Policy and Planning)",
-    "organization": "Federal Law Enforcement Training Centers",
-    "locations": [
-      "Glynco, Georgia"
-    ],
-    "description": "The Federal Law Enforcement Training Centers (FLETC) is looking for a talented Chief Information Officer/Assistant Director at FLETC's headquarters location in Glynco, Georgia. This position provides component-level strategic leadership for the direction, planning, management, and coordination of the component's information technology (IT), IT systems/program management, cybersecurity, information and technology accessibility, information resource management, and IT acquisition management.",
-    "url": "https://www.usajobs.gov/job/867276900",
-    "posted_at": "2026-04-30T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867188700",
-    "title": "Director, Center for Infrastructure Systems and Technology",
-    "organization": "Office of the Secretary of Transportation",
-    "locations": [
-      "Cambridge, Massachusetts"
-    ],
-    "description": "This position leads and oversees the Center for Infrastructure Systems and Technology within the Department of Transportation's Office of the Assistant Secretary for Research and Technology (OST-R), John A. Volpe National Transportation Center (Volpe), located in Cambridge, MA. The position is comprised of seven technical divisions with a combined federal staffing of more than 103 employees, a portfolio of 166 projects, and annual obligations of over $81million, on average.",
-    "url": "https://www.usajobs.gov/job/867188700",
-    "posted_at": "2026-04-30T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1780,20 +1812,6 @@
     "url": "https://www.usajobs.gov/job/866361900",
     "posted_at": "2026-04-27T00:00:00",
     "salary": "06-06",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866367400",
-    "title": "Research Highway Engineer - DIRECT HIRE",
-    "organization": "Federal Highway Administration",
-    "locations": [
-      "McLean, Virginia"
-    ],
-    "description": "This position is in the Office of Research, Development, and Technology at the Turner-Fairbank Highway Research Center in McLean, Virginia. This position serves as a Communications Engineer on the Safety Design and Operations Team specializing in highway engineering research related to wireless technologies for Connected Vehicles and the application of communications to support the safe operation of emerging technologies such as automated vehicles, digital infrastructure, and AI.",
-    "url": "https://www.usajobs.gov/job/866367400",
-    "posted_at": "2026-04-24T00:00:00",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
