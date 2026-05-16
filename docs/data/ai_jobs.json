@@ -1,31 +1,15 @@
 [
   {
-    "job_id": "869467400",
-    "title": "Public Notice - Facilities Operations/Management (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
+    "job_id": "869515000",
+    "title": "Computer Science & Engineering Professionals - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
     "locations": [
-      "Vandenberg AFB, California",
-      "Kennedy Space Center, Florida"
+      "Fort Meade, Maryland"
     ],
-    "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-09/11/12/13/14/15 levels).",
-    "url": "https://www.usajobs.gov/job/869467400",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "9-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869467300",
-    "title": "Public Notice - Engineering Technician (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Vandenberg AFB, California",
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "Positions advertised are in various organizations and locations with Kennedy Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-10/11/12 levels).",
-    "url": "https://www.usajobs.gov/job/869467300",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "10-12",
+    "description": "NSA is in search of experienced Computer Science and Engineering professionals to solve complex problems, test innovative approaches, and research new solutions. If you want to develop technologies and tools to help protect national security interests, join our team as part of the world's most advanced team of computer science and engineering professionals!",
+    "url": "https://www.usajobs.gov/job/869515000",
+    "posted_at": "2026-05-15T10:09:45.353000",
+    "salary": "11-15",
     "grade": null,
     "remote": null
   },
@@ -42,8 +26,23 @@
     ],
     "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-0801, 0819, 0830, 0850, 0855, 0861 at the GS-11/12/13/14/15 levels).",
     "url": "https://www.usajobs.gov/job/869467100",
-    "posted_at": "2026-05-15T00:00:00",
+    "posted_at": "2026-05-15T09:29:09.060000",
     "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869467400",
+    "title": "Public Notice - Facilities Operations/Management (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Vandenberg AFB, California",
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-09/11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/869467400",
+    "posted_at": "2026-05-15T05:39:23.003000",
+    "salary": "9-15",
     "grade": null,
     "remote": null
   },
@@ -57,8 +56,23 @@
     ],
     "description": "Positions advertised are in various organizations at Kennedy Space Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-2210 at the GS-09/11/12/13/14/15 levels).",
     "url": "https://www.usajobs.gov/job/869466800",
-    "posted_at": "2026-05-15T00:00:00",
+    "posted_at": "2026-05-15T05:38:09.723000",
     "salary": "9-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869467300",
+    "title": "Public Notice - Engineering Technician (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Vandenberg AFB, California",
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "Positions advertised are in various organizations and locations with Kennedy Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-10/11/12 levels).",
+    "url": "https://www.usajobs.gov/job/869467300",
+    "posted_at": "2026-05-15T05:36:35.263000",
+    "salary": "10-12",
     "grade": null,
     "remote": null
   },
@@ -74,6 +88,20 @@
     "url": "https://www.usajobs.gov/job/869466600",
     "posted_at": "2026-05-15T00:00:00",
     "salary": "9-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869435200",
+    "title": "Evidence Custodian",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Los Angeles, California"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Los Angeles Field Division. This position(s) primary purpose is to receive, document, store, and dispose of non-drug evidence, drug evidence, bulk drug evidence, and/or stockpiles for a Field Office.",
+    "url": "https://www.usajobs.gov/job/869435200",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "7-8",
     "grade": null,
     "remote": null
   },
@@ -98,6 +126,20 @@
     "url": "https://www.usajobs.gov/job/869414600",
     "posted_at": "2026-05-15T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869405000",
+    "title": "Operations Research Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Office of Cybersecurity, Energy Security and Emergency Response, Department of Energy. As a Operations Research Analyst, you will provide expert analysis and technically authoritative guidance to originate and perform mathematical, statistical, economic, and/or other analysis projects pertaining to the energy sector, an energy sub-sector, scientific research, and/or national security, and to maintain and enhance models for use in simulation studies.",
+    "url": "https://www.usajobs.gov/job/869405000",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -213,6 +255,22 @@
     "url": "https://www.usajobs.gov/job/869290000",
     "posted_at": "2026-05-15T00:00:00",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869277600",
+    "title": "Data Scientist",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Washington, District of Columbia",
+      "Indianapolis, Indiana",
+      "Minneapolis, Minnesota"
+    ],
+    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Enterprise Services, Office of Human Resources Management, People Analytics Division, in the following locations: Indianapolis, IN Minneapolis, MN Washington D.C.",
+    "url": "https://www.usajobs.gov/job/869277600",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "9-9",
     "grade": null,
     "remote": null
   },
@@ -344,20 +402,6 @@
     "remote": null
   },
   {
-    "job_id": "869314400",
-    "title": "IT SPECIALIST (ARTIFICIAL INTELLIGENCE)",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Information Technology,OIT, Enterprise Architecture and Data Group. As a IT SPECIALIST (ARTIFICIAL INTELLIGENCE), GS-2210-14, you will function as the organization's foremost subject matter expert and thought leader, directing comprehensive AI/ML platform engineering initiatives.",
-    "url": "https://www.usajobs.gov/job/869314400",
-    "posted_at": "2026-05-14T10:37:18.257000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868905500",
     "title": "Budget Analyst (Direct Hire)",
     "organization": "Lyndon B. Johnson Space Center",
@@ -383,6 +427,20 @@
     "remote": null
   },
   {
+    "job_id": "869286800",
+    "title": "Associate General Counsel",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Lead. Innovate. Influence. As an Associate General Counsel in OPM's Office of the General Counsel, you'll steer a Division within OGC that advises OPM leadership on mission critical matters-from internal operations to governmentwide programs serving 8 million+ Federal employees, retirees, and families. Openings: General Law; Policy and Rulemaking; Litigation, Employment and Labor Relations.",
+    "url": "https://www.usajobs.gov/job/869286800",
+    "posted_at": "2026-05-14T08:28:58.140000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "869280000",
     "title": "Financial Management Specialist",
     "organization": "Drug Enforcement Administration",
@@ -393,6 +451,20 @@
     "url": "https://www.usajobs.gov/job/869280000",
     "posted_at": "2026-05-14T07:40:10.247000",
     "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869314400",
+    "title": "IT SPECIALIST (ARTIFICIAL INTELLIGENCE)",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Information Technology,OIT, Enterprise Architecture and Data Group. As a IT SPECIALIST (ARTIFICIAL INTELLIGENCE), GS-2210-14, you will function as the organization's foremost subject matter expert and thought leader, directing comprehensive AI/ML platform engineering initiatives.",
+    "url": "https://www.usajobs.gov/job/869314400",
+    "posted_at": "2026-05-14T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -766,6 +838,55 @@
     "remote": null
   },
   {
+    "job_id": "869020700",
+    "title": "IT Specialist (Enterprise Architecture)",
+    "organization": "Food Safety and Inspection Service",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is in the Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The employee serves as a senior Enterprise Architect in the Office of the Chief Technology Officer.",
+    "url": "https://www.usajobs.gov/job/869020700",
+    "posted_at": "2026-05-13T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869019800",
+    "title": "IT Specialist (Enterprise Architecture)",
+    "organization": "Food Safety and Inspection Service",
+    "locations": [
+      "Fort Collins, Colorado",
+      "Urbandale, Iowa",
+      "Raleigh, North Carolina"
+    ],
+    "description": "This position is in the Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The employee serves as a senior Enterprise Architect in the Office of the Chief Technology Officer.",
+    "url": "https://www.usajobs.gov/job/869019800",
+    "posted_at": "2026-05-13T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "868988400",
     "title": "Mission and Operations Support Specialist",
     "organization": "Drug Enforcement Administration",
@@ -776,6 +897,34 @@
     "url": "https://www.usajobs.gov/job/868988400",
     "posted_at": "2026-05-13T00:00:00",
     "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868960500",
+    "title": "Fiscal Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the DEA, Human Resources Division, Office of Training, Academy Operations Section, Financial Management Unit (OTAF). This position(s) primary purpose is to approve invoices and voucher for payment in a highly automated financial management and acquisition system; performs analysis of financial information using queries and reports; provides customer support; validates accounting data, reconciles accounts; and analyzes accounting processes.",
+    "url": "https://www.usajobs.gov/job/868960500",
+    "posted_at": "2026-05-13T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868936200",
+    "title": "Public Affairs Specialist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Grand Junction, Colorado"
+    ],
+    "description": "This position is part of the Office of Legacy Management, Department of Energy. As a Public Affairs Specialist, you will support public affairs efforts including suggesting stories, writing, editing, and working with media representatives and key partners to build relationships in environmental stewardship initiatives.",
+    "url": "https://www.usajobs.gov/job/868936200",
+    "posted_at": "2026-05-13T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -794,16 +943,16 @@
     "remote": null
   },
   {
-    "job_id": "868368700",
-    "title": "SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST",
-    "organization": "Naval Air Systems Command",
+    "job_id": "869046000",
+    "title": "Senior Technical Advisor - Executive Records and Information Management Program",
+    "organization": "U.S. Secret Service",
     "locations": [
-      "Patuxent River, Maryland"
+      "District of Columbia, District of Columbia"
     ],
-    "description": "You will serve as a SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST in the READINESS & FLEET ANALYTICS DIVISION, LOGISTICS DEPARTMENT of NAVAIRWARCENAC DIV.",
-    "url": "https://www.usajobs.gov/job/868368700",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "4-4",
+    "description": "The U.S. Secret Service is seeking a results driven Senior Technical Advisor to carry out the overall planning and oversight of the agency-wide records and information management programs.",
+    "url": "https://www.usajobs.gov/job/869046000",
+    "posted_at": "2026-05-12T17:44:29.853000",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1017,58 +1166,6 @@
     "remote": null
   },
   {
-    "job_id": "868819500",
-    "title": "Student Trainee (Administrative and Office Support)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Pleasanton, California",
-      "Miami, Florida",
-      "Chicago, Illinois",
-      "Dallas, Texas",
-      "Richmond, Virginia",
-      "Sterling, Virginia"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Science and Special Operations Division. These position(s) primary purpose is to provide clerical and administrative support to the field offices. There are positions available in the following offices: Pleasanton, CA, Miami, FL, Chicago, IL, Dallas, TX, Dulles, VA, and Richmond, VA.",
-    "url": "https://www.usajobs.gov/job/868819500",
-    "posted_at": "2026-05-11T16:17:29.717000",
-    "salary": "3-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868818800",
-    "title": "Student Trainee (Management and Program Analyst)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Bedford, Massachusetts",
-      "Fort Worth, Texas",
-      "San Antonio, Texas",
-      "Arlington, Virginia",
-      "Lorton, Virginia"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administrator (DEA), Southcentral Region, Northeast Region, Office of Training, Office of Operations Management, Office of Investigative Technology, Office of Chief Counsel, Office of Congressional and Public Affairs, and Aviation Division. This position(s) primary purpose is to provide management functions and program operations support to HQ and field offices.",
-    "url": "https://www.usajobs.gov/job/868818800",
-    "posted_at": "2026-05-11T16:15:03.707000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868816800",
-    "title": "Student Trainee (Information Technology)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia",
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administrator (DEA), Office of Investigative Technology and Information Systems Division. These position(s) primary purpose is to provide information technology support services to the HQ and field offices.",
-    "url": "https://www.usajobs.gov/job/868816800",
-    "posted_at": "2026-05-11T16:07:17.377000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868762600",
     "title": "Information Technology Specialist",
     "organization": "Bureau of Industry and Security",
@@ -1097,61 +1194,6 @@
     "remote": null
   },
   {
-    "job_id": "868687900",
-    "title": "Explosives Safety Specialist",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "As Explosives Safety Manager in the Institutional Safety Division within the Safety and Mission Assurance Directorate, you will be responsible for Johnson Space Center (JSC) training and technical matters associated with explosive and pyrotechnic safety requirements.",
-    "url": "https://www.usajobs.gov/job/868687900",
-    "posted_at": "2026-05-11T09:13:37.273000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868819200",
-    "title": "Student Trainee (Administrative and Office Support)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Mobile, Alabama",
-      "Washington, District of Columbia",
-      "Jacksonville, Florida",
-      "Tampa, Florida",
-      "Weston, Florida",
-      "Chicago, Illinois",
-      "Detroit, Michigan",
-      "Flint, Michigan",
-      "Cape Girardeau, Missouri",
-      "Saint Louis, Missouri",
-      "Springfield, Missouri",
-      "Gulfport, Mississippi",
-      "Charlotte, North Carolina",
-      "Raleigh, North Carolina",
-      "Wilmington, North Carolina",
-      "Omaha, Nebraska",
-      "Newark, New Jersey",
-      "New York, New York",
-      "Westchester County, New York",
-      "Philadelphia, Pennsylvania",
-      "Scranton, Pennsylvania",
-      "San Juan, Puerto Rico",
-      "Columbia, South Carolina",
-      "Fort Worth, Texas",
-      "Waco, Texas",
-      "Arlington, Virginia",
-      "Lorton, Virginia",
-      "Green Bay, Wisconsin"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA, Southcentral Region, Southeast Region 2, Northeast Region, and Midwest Regions and in the Office of Training, Office of Investigative Technology, Associate Administrator's Office, Inspections Division, and Aviation Division. These position(s) primary purpose is to provide clerical and administrative support to the field and HQ offices.",
-    "url": "https://www.usajobs.gov/job/868819200",
-    "posted_at": "2026-05-11T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868682700",
     "title": "Business Operations Program Manager",
     "organization": "National Institute of Standards and Technology",
@@ -1176,20 +1218,6 @@
     "url": "https://www.usajobs.gov/job/868585800",
     "posted_at": "2026-05-11T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868498600",
-    "title": "Logistics Management Specialist",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "You will serve as the Supply and Equipment Management Officer (SEMO) in the Logistics Management Division of the Center Operations Directorate.",
-    "url": "https://www.usajobs.gov/job/868498600",
-    "posted_at": "2026-05-11T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1241,21 +1269,6 @@
     "remote": null
   },
   {
-    "job_id": "868565200",
-    "title": "Director - Applied Epidemiology Staff",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Athens, Georgia",
-      "Atlanta, Georgia"
-    ],
-    "description": "We are hiring a Director for the Applied Epidemiology Staff to lead national food safety programs. In this senior role, you will report to OPHS leadership and oversee critical investigations into zoonotic and food hazards to actively prevent foodborne illnesses. You will guide farm-to-table risk assessments and antimicrobial resistance monitoring to ensure the safety of our nation's meat, poultry, Siluriformes, and processed egg products.",
-    "url": "https://www.usajobs.gov/job/868565200",
-    "posted_at": "2026-05-08T12:46:55.370000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868474300",
     "title": "Mission Support Specialist",
     "organization": "Drug Enforcement Administration",
@@ -1266,27 +1279,6 @@
     "url": "https://www.usajobs.gov/job/868474300",
     "posted_at": "2026-05-08T07:32:14.360000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868471500",
-    "title": "Data Architect",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
-    "url": "https://www.usajobs.gov/job/868471500",
-    "posted_at": "2026-05-08T06:57:12.800000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1393,20 +1385,6 @@
     "remote": null
   },
   {
-    "job_id": "868068100",
-    "title": "SUPPLY MANAGEMENT SPECIALIST",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "This position is located in the DEA, Operations Division (OC), Academy Operations Section, Logistics and Acquisition Support Unit. This position(s) primary purpose is to assist the Support Services Supervisor in developing, reviewing, evaluating, recommending, and implementing an effective supply management program within DEA Headquarters and foreign office locations. In addition, the different training programs require a broad range of specialized and technical equipment.",
-    "url": "https://www.usajobs.gov/job/868068100",
-    "posted_at": "2026-05-06T08:29:31.400000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868085300",
     "title": "AI Engineer",
     "organization": "Federal Bureau of Investigation",
@@ -1417,20 +1395,6 @@
     "url": "https://www.usajobs.gov/job/868085300",
     "posted_at": "2026-05-06T00:00:00",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868053500",
-    "title": "Data Trust & Safety Division Director",
-    "organization": "Office of the Chief Information Officer",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As a Data Trust & Safety Division Director, you will be responsible for directing a staff of senior and journeyman specialists to provide expertise in the program area of data governance. Location of position: Washington, D.C. Division/Office: Office of Innovation/Data Trust & Safety Division Street Address: 1800F ST NW Washington DC We are currently filling one vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/868053500",
-    "posted_at": "2026-05-06T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1459,20 +1423,6 @@
     "url": "https://www.usajobs.gov/job/867912000",
     "posted_at": "2026-05-06T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867887300",
-    "title": "Program Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "description": "This position is located in the DEA, Special Operations Division (SOD), Bilateral Investigations Unit. This position(s) primary purpose is to provide a broad spectrum of mission critical resources to support and serve as the primary conduit between the DEA offices and HQ components.",
-    "url": "https://www.usajobs.gov/job/867887300",
-    "posted_at": "2026-05-06T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -1520,6 +1470,67 @@
     "url": "https://www.usajobs.gov/job/867782600",
     "posted_at": "2026-05-04T13:45:00.440000",
     "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867852100",
+    "title": "Trial Attorney (Enforcement and Affirmative Litigation)",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "The Enforcement and Affirmative Litigation Branch seeks Trial Attorneys to oversee high-impact affirmative litigation that ensures nationwide compliance with federal law. The Branch offers a frontline role in the Department's major civil enforcement initiatives. Well-qualified candidates may be eligible for a signing bonus of up to $25,000, with priority given to applicants in D.C., Raleigh, San Francisco, Dallas, and N.Y.C. However, strong applicants from any location are encouraged to apply.",
+    "url": "https://www.usajobs.gov/job/867852100",
+    "posted_at": "2026-05-04T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867851200",
+    "title": "Trial Attorney (Enforcement and Affirmative Litigation)",
+    "organization": "Offices, Boards and Divisions",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Enforcement and Affirmative Litigation Branch seeks Trial Attorneys to oversee high-impact affirmative litigation that ensures nationwide compliance with federal law. The Branch offers a frontline role in the Department's major civil enforcement initiatives. Well-qualified candidates may be eligible for a signing bonus of up to $25,000 depending on qualifications, education, and other factors. All recipients of a signing bonus are required to fulfill a service obligation.",
+    "url": "https://www.usajobs.gov/job/867851200",
+    "posted_at": "2026-05-04T00:00:00",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "867188700",
+    "title": "Director, Center for Infrastructure Systems and Technology",
+    "organization": "Office of the Secretary of Transportation",
+    "locations": [
+      "Cambridge, Massachusetts"
+    ],
+    "description": "This position leads and oversees the Center for Infrastructure Systems and Technology within the Department of Transportation's Office of the Assistant Secretary for Research and Technology (OST-R), John A. Volpe National Transportation Center (Volpe), located in Cambridge, MA. The position is comprised of seven technical divisions with a combined federal staffing of more than 103 employees, a portfolio of 166 projects, and annual obligations of over $81million, on average.",
+    "url": "https://www.usajobs.gov/job/867188700",
+    "posted_at": "2026-04-30T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1863,20 +1874,6 @@
     "url": "https://www.usajobs.gov/job/865315600",
     "posted_at": "2026-04-16T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865155700",
-    "title": "IT Specialist (Enterprise Data Architect) - DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist Enterprise Data Architect position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/865155700",
-    "posted_at": "2026-04-15T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   }
