@@ -158,6 +158,20 @@
     "remote": null
   },
   {
+    "job_id": "869385400",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "description": "This Program Analyst (Informatics) position is aligned under the Health Informatics service, and located at the Jesse Brown VA Medical Center, Chicago, IL Veterans Health Administration (VHA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/869385400",
+    "posted_at": "2026-05-15T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "869340500",
     "title": "COMPUTER SCIENTIST",
     "organization": "Defense Finance and Accounting Service",
@@ -351,20 +365,6 @@
     "url": "https://www.usajobs.gov/job/868969500",
     "posted_at": "2026-05-15T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868932400",
-    "title": "Digital Modernization & Data Volunteer",
-    "organization": "Department of State - Agency Wide",
-    "locations": [
-      "Anywhere in the U.S. (remote job), United States"
-    ],
-    "description": "Make an impact while you learn. The Semester of Service Program offers students a volunteer project-based opportunity to support Federal missions, gaining hands-on experience & valuable career-ready skills. Students must be enrolled at least half-time in an accredited trade school, technical or vocational institute, junior college, college, university, or other accredited educational institution, & participation must be with the permission of the institution at which the student is enrolled.",
-    "url": "https://www.usajobs.gov/job/868932400",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "NA-NA",
     "grade": null,
     "remote": null
   },
@@ -820,6 +820,20 @@
     "url": "https://www.usajobs.gov/job/869128300",
     "posted_at": "2026-05-13T12:40:42.167000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869144100",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Murfreesboro, Tennessee"
+    ],
+    "description": "The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/869144100",
+    "posted_at": "2026-05-13T11:59:37.797000",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1427,6 +1441,20 @@
     "remote": null
   },
   {
+    "job_id": "868020000",
+    "title": "Supervisory General Attorney (Labor)",
+    "organization": "Office of the Solicitor",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Department of Labor, Office of the Solicitor (SOL), Division of Management and Administrative Legal Services (MALS). We are seeking a FOIA and Info Law attorney to serve as DOL's senior advisor on legal issues related to the Freedom of Information Act, Privacy Act, and other related information law statutes and the protection and handling of personal, private, controlled unclassified, or proprietary information-with the potential to damage the public's trust.",
+    "url": "https://www.usajobs.gov/job/868020000",
+    "posted_at": "2026-05-05T16:02:17.967000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "867863300",
     "title": "Cost Analyst",
     "organization": "Office of the Director of National Intelligence",
@@ -1846,34 +1874,6 @@
     "url": "https://www.usajobs.gov/job/866249900",
     "posted_at": "2026-04-22T13:16:41.440000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865420200",
-    "title": "PEGA Developer- DHA",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist (APPSW), PEGA Developer position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/865420200",
-    "posted_at": "2026-04-16T09:07:20.343000",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "865315600",
-    "title": "Product Manager / Senior Product Manager",
-    "organization": "Social Security Administration",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "IT Specialist, Project Manager and Senior Project Manager position(s) are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "url": "https://www.usajobs.gov/job/865315600",
-    "posted_at": "2026-04-16T00:00:00",
-    "salary": "14-15",
     "grade": null,
     "remote": null
   }
