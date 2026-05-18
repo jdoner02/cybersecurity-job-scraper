@@ -1,5 +1,85 @@
 [
   {
+    "job_id": "869571200",
+    "title": "Security Specialist (Direct Hire)",
+    "organization": "John Glenn Research Center at Lewis Field",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "As a Security Specialist within the Office of Protective Services, you will serve as a Team Lead, Special Agent and oversee the Emergency Medical Services program for compliance. You will be responsible for contract oversight, conducting security assessments, coordinating training, and managing security systems. You will support investigations and protective missions to ensure the safety and security of NASA personnel, facilities, and assets",
+    "url": "https://www.usajobs.gov/job/869571200",
+    "posted_at": "2026-05-18T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869507500",
+    "title": "Information Technology Specialist",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "As the Enterprise Architect for Research Systems, you will serve as the senior technical authority for the IT peer-review and financial systems that underpin the Agency's scientific discoveries. You will lead the agency-wide modernization of legacy infrastructure, designing scalable cloud architectures tailored to the scientific research community. You will translate complex statutory mandates and scientific peer review methodologies into viable technical solutions.",
+    "url": "https://www.usajobs.gov/job/869507500",
+    "posted_at": "2026-05-18T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869294100",
+    "title": "General Engineer, AST - Engineering Project Management",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "The Command, Control Communications (C3) division of the Exploration Ground Systems program is seeking a Deputy Project Manager and an Integrated Product Team (IPT) Lead who will execute the full range of ground systems project management and communication operation duties for the assigned projects within the respective Program C3 Office.",
+    "url": "https://www.usajobs.gov/job/869294100",
+    "posted_at": "2026-05-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869217600",
+    "title": "Aerospace Engineer, AST - Fluid Systems Test (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "As an AST Fluid Systems Test engineer in the Exploration Systems and Operations Division, Environmental and Life Support Systems Branch, you will develop and execute tests and operations of fluid ground support and spacecraft systems for which the branch is responsible. You will conduct test, operations, and surveillance activities, ensure system performance and work execution meets all requirements, and provide technical insight into troubleshooting and problem resolution efforts",
+    "url": "https://www.usajobs.gov/job/869217600",
+    "posted_at": "2026-05-18T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869139500",
+    "title": "AST, Liquid Propulsion Systems",
+    "organization": "John Glenn Research Center at Lewis Field",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "The Chemical and Thermal Propulsion Systems Branch, Propulsion Division, Research & Engineering Directorate is filling the following positions supporting Orion European Service Module Propulsion: European Service Module Engines Lead European Service Module Propulsion Subsystem Components Lead European Service Module Propulsion Integration Lead These positions involve leading the development, design, analysis, test and operation of space propulsion systems for human rated aerospace vehicles.",
+    "url": "https://www.usajobs.gov/job/869139500",
+    "posted_at": "2026-05-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "869515000",
     "title": "Computer Science & Engineering Professionals - Mid to Expert Level (Maryland)",
     "organization": "National Security Agency/Central Security Service",
@@ -154,20 +234,6 @@
     "url": "https://www.usajobs.gov/job/869402100",
     "posted_at": "2026-05-15T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869385400",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Chicago, Illinois"
-    ],
-    "description": "This Program Analyst (Informatics) position is aligned under the Health Informatics service, and located at the Jesse Brown VA Medical Center, Chicago, IL Veterans Health Administration (VHA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/869385400",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -824,20 +890,6 @@
     "remote": null
   },
   {
-    "job_id": "869144100",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Murfreesboro, Tennessee"
-    ],
-    "description": "The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/869144100",
-    "posted_at": "2026-05-13T11:59:37.797000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869035100",
     "title": "Planetary Defense Officer",
     "organization": "Headquarters, NASA",
@@ -1283,34 +1335,6 @@
     "remote": null
   },
   {
-    "job_id": "868474300",
-    "title": "Mission Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "description": "This position is located in the DEA, Los Angeles, California Field Division. This position's primary purpose is to assist leadership in the performance of administrative, human resource liaison, internal control, logistics to include fleet, personal property (accountable and non-accountable) and supply management, quality assurance, Records Management, and Task for Officer (TFO) Management.",
-    "url": "https://www.usajobs.gov/job/868474300",
-    "posted_at": "2026-05-08T07:32:14.360000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868470900",
-    "title": "Mission Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "description": "This position is located in the DEA, San Francisco California, Field Division. This position's primary purpose is to support the Field Division General Service Unit (GSU) Chief, providing overall planning and administration of programs, oversight and leadership to GSU in support of Division leadership.",
-    "url": "https://www.usajobs.gov/job/868470900",
-    "posted_at": "2026-05-08T06:51:39.180000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868612800",
     "title": "STUDENT TRAINEE (AI/ML RESEARCH PROGRAM SUPPORT)",
     "organization": "Secretary of the Navy Offices (SECNAV)",
@@ -1436,20 +1460,6 @@
     "description": "This position is part of the Department of Energy's Office Intelligence and Counterintelligence (IN). As a Supervisory Intelligence Research Specialist, you will oversee intelligence-related contingency planning, continuity of government activities, secure communications, and emergency operations for a 24/7 Intelligence Operations Center (IC), ensuring secure access to national security information for DOE stakeholders.",
     "url": "https://www.usajobs.gov/job/867912000",
     "posted_at": "2026-05-06T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868020000",
-    "title": "Supervisory General Attorney (Labor)",
-    "organization": "Office of the Solicitor",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Department of Labor, Office of the Solicitor (SOL), Division of Management and Administrative Legal Services (MALS). We are seeking a FOIA and Info Law attorney to serve as DOL's senior advisor on legal issues related to the Freedom of Information Act, Privacy Act, and other related information law statutes and the protection and handling of personal, private, controlled unclassified, or proprietary information-with the potential to damage the public's trust.",
-    "url": "https://www.usajobs.gov/job/868020000",
-    "posted_at": "2026-05-05T16:02:17.967000",
     "salary": "15-15",
     "grade": null,
     "remote": null
