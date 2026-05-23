@@ -1,5 +1,132 @@
 [
   {
+    "job_id": "870487700",
+    "title": "General Engineer",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA) in either of the these two offices: (1) Office of National Security Controls; or (2) Office of Nonproliferation and Foreign Policy Controls If interested, you are encouraged to apply!",
+    "url": "https://www.usajobs.gov/job/870487700",
+    "posted_at": "2026-05-22T18:58:08.870000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870487200",
+    "title": "General Engineer",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA) in either of the these two offices: (1) Office of National Security Controls; or (2) Office of Nonproliferation and Foreign Policy Controls If interested, you are encouraged to apply!",
+    "url": "https://www.usajobs.gov/job/870487200",
+    "posted_at": "2026-05-22T18:21:59.997000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870330000",
+    "title": "AST - Aerospace Flight Systems",
+    "organization": "John Glenn Research Center at Lewis Field",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "As a Space Reactors Lead System Engineer, you will lead systems engineering for NASA's lunar reactor and space nuclear systems, directing multidisciplinary teams across NASA, industry, and government agencies. You will develop and tailor systems engineering approaches to integrate complex aerospace systems, including space fission systems, while working closely with program management, engineering leads, and contractors to define requirements, interfaces, and verification plans.",
+    "url": "https://www.usajobs.gov/job/870330000",
+    "posted_at": "2026-05-22T13:10:52.413000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870435900",
+    "title": "Administrative Support Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Fort Worth, Texas"
+    ],
+    "description": "This position is located in the DEA, Operations Support Division, Aviation Division This position(s) primary purpose is to serve as the principle technical advisor to the Administrative Officer and liaison representative to the Center by providing advice, assistance, procedural guidance, and customer service to employees, supervisors in the broad range of personnel management.",
+    "url": "https://www.usajobs.gov/job/870435900",
+    "posted_at": "2026-05-22T12:28:08.827000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870429700",
+    "title": "Facility Operations Specialist (Recent Graduate)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Operations Division, Office of Training. The Recent Graduates Program offers dynamic, 1 to 2-year opportunities that give early career talent the chance to support key facility operations functions through focused administrative and technical work. Selectees will learn and contribute to essential facility operations functions, ensure process accuracy, and apply their organizational skills in a mission-driven environment.",
+    "url": "https://www.usajobs.gov/job/870429700",
+    "posted_at": "2026-05-22T12:01:01.503000",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870421700",
+    "title": "Business Operations Specialist (Recent Graduate)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Londonderry, New Hampshire",
+      "Lorton, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Forensic Laboratories. The Recent Graduates Program offers dynamic, 1 to 2-year program opportunities that give early career talent the chance to support key Foreign Science (FS) program functions through focused administrative and technical work. Selectees will learn and contribute to essential FS operations by providing liaison, administrative, and financial support services.",
+    "url": "https://www.usajobs.gov/job/870421700",
+    "posted_at": "2026-05-22T12:00:15.037000",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870393000",
+    "title": "Aerospace Engineer, AST, Experimental Facility Development",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "The AST, Experimental Facility Development Engineer serves as a technical expert in the Electrical/Mechanical Systems Branch in the Spaceport Integration Directorate and leads oversight of systems maintenance and engineering of KSC assigned facility systems. Provides guidance to troubleshoot issues, ensure preventative maintenance is completed, plans for system upgrades, and provides technical review of design and construction to repair, modify, or upgrade of facility systems.",
+    "url": "https://www.usajobs.gov/job/870393000",
+    "posted_at": "2026-05-22T09:39:09.380000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870376600",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Weston, Florida"
+    ],
+    "description": "This position is located in the DEA, Miami Field Division This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/870376600",
+    "posted_at": "2026-05-22T08:04:57.127000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870376000",
+    "title": "Mission Support Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Weston, Florida"
+    ],
+    "description": "This position is located in the DEA, Miami Field Division. This position(s) primary purpose is to exercise, independent judgment and discretion in assisting in the preparation and processing of confidential employee matters. The incumbent will also maintain and coordinate the administrative support program in the Business Operations Section by initiating and ensuring effective communication, coordination, and follow-up action with other Divisions and Headquarters Program Offices within DEA.",
+    "url": "https://www.usajobs.gov/job/870376000",
+    "posted_at": "2026-05-22T08:03:16.980000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870360600",
     "title": "IT SPECIALIST (AI)",
     "organization": "Centers for Medicare & Medicaid Services",
@@ -38,20 +165,6 @@
     "url": "https://www.usajobs.gov/job/870337300",
     "posted_at": "2026-05-22T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870330000",
-    "title": "AST - Aerospace Flight Systems",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "As a Space Reactors Lead System Engineer, you will lead systems engineering for NASA's lunar reactor and space nuclear systems, directing multidisciplinary teams across NASA, industry, and government agencies. You will develop and tailor systems engineering approaches to integrate complex aerospace systems, including space fission systems, while working closely with program management, engineering leads, and contractors to define requirements, interfaces, and verification plans.",
-    "url": "https://www.usajobs.gov/job/870330000",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -223,6 +336,33 @@
     "remote": null
   },
   {
+    "job_id": "870239100",
+    "title": "Senior Data Scientist",
+    "organization": "Federal Acquisition Service",
+    "locations": [
+      "San Francisco, California",
+      "Lakewood, Colorado",
+      "District of Columbia, District of Columbia",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "San Antonio, Texas",
+      "Norfolk, Virginia",
+      "Tacoma, Washington"
+    ],
+    "description": "As a Senior Data Scientist, you will apply expert knowledge of data science and quantitative analytical methods to organize, analyze, interpret, and derive meaningful insight from structured and unstructured data in support of real-world problem solving. Location of position: Federal Acquisition Service (FAS), Office of Acquisition Solution Development. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
+    "url": "https://www.usajobs.gov/job/870239100",
+    "posted_at": "2026-05-21T10:57:05.690000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870238600",
     "title": "Personnel Security Specialist",
     "organization": "Drug Enforcement Administration",
@@ -353,6 +493,20 @@
     "url": "https://www.usajobs.gov/job/870136500",
     "posted_at": "2026-05-21T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870053500",
+    "title": "Attorney Advisor (General)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administrator (DEA), Office of Chief Counsel. This position primary purpose is to provide legal advice and support to DEA management and field offices worldwide. CC attorneys coordinate with DEA investigative personnel, provide legal training, and respond to requests for assistance from DEA Division Counsel. Department of Justice (DOJ) agencies post experienced attorney job announcements on the DOJ Careers page.",
+    "url": "https://www.usajobs.gov/job/870053500",
+    "posted_at": "2026-05-21T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1210,78 +1364,17 @@
     "remote": null
   },
   {
-    "job_id": "869551200",
-    "title": "Intelligence Research Specialist",
-    "organization": "Customs and Border Protection",
+    "job_id": "869827400",
+    "title": "EO/IR Modeling Scientist",
+    "organization": "National Geospatial-Intelligence Agency",
     "locations": [
-      "Chicago, Illinois"
+      "Dayton, Ohio",
+      "Springfield, Virginia"
     ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Field Operations, Chicago Field Office, Border Security Division, located in Chicago, IL.",
-    "url": "https://www.usajobs.gov/job/869551200",
+    "description": "R&D Scientists conduct research and apply expertise in one or more academic disciplines to advance GEOINT. They manage R&D programs and advance science partnerships, facilitating interdisciplinary collaboration to further scientific inquiry and integrate technology. R&D Scientists provide technical guidance and oversight, communicate results, and advise management on new and evolving technology. T",
+    "url": "https://www.usajobs.gov/job/869827400",
     "posted_at": "2026-05-18T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869507500",
-    "title": "Information Technology Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "As the Enterprise Architect for Research Systems, you will serve as the senior technical authority for the IT peer-review and financial systems that underpin the Agency's scientific discoveries. You will lead the agency-wide modernization of legacy infrastructure, designing scalable cloud architectures tailored to the scientific research community. You will translate complex statutory mandates and scientific peer review methodologies into viable technical solutions.",
-    "url": "https://www.usajobs.gov/job/869507500",
-    "posted_at": "2026-05-18T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869507500",
-    "title": "Information Technology Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "As the Enterprise Architect for Research Systems, you will serve as the senior technical authority for the IT peer-review and financial systems that underpin the Agency's scientific discoveries. You will lead the agency-wide modernization of legacy infrastructure, designing scalable cloud architectures tailored to the scientific research community. You will translate complex statutory mandates and scientific peer review methodologies into viable technical solutions.",
-    "url": "https://www.usajobs.gov/job/869507500",
-    "posted_at": "2026-05-18T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869294100",
-    "title": "General Engineer, AST - Engineering Project Management",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "The Command, Control Communications (C3) division of the Exploration Ground Systems program is seeking a Deputy Project Manager and an Integrated Product Team (IPT) Lead who will execute the full range of ground systems project management and communication operation duties for the assigned projects within the respective Program C3 Office.",
-    "url": "https://www.usajobs.gov/job/869294100",
-    "posted_at": "2026-05-18T00:00:00",
-    "salary": "14-14",
+    "salary": "04-04",
     "grade": null,
     "remote": null
   },
@@ -1296,6 +1389,20 @@
     "url": "https://www.usajobs.gov/job/869139500",
     "posted_at": "2026-05-18T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869515000",
+    "title": "Computer Science & Engineering Professionals - Mid to Expert Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "NSA is in search of experienced Computer Science and Engineering professionals to solve complex problems, test innovative approaches, and research new solutions. If you want to develop technologies and tools to help protect national security interests, join our team as part of the world's most advanced team of computer science and engineering professionals!",
+    "url": "https://www.usajobs.gov/job/869515000",
+    "posted_at": "2026-05-15T10:09:45.353000",
+    "salary": "11-15",
     "grade": null,
     "remote": null
   },
@@ -1390,62 +1497,6 @@
     "url": "https://www.usajobs.gov/job/869340500",
     "posted_at": "2026-05-15T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869322900",
-    "title": "Senior Software Engineer",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Macon, Georgia"
-    ],
-    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
-    "url": "https://www.usajobs.gov/job/869322900",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869322900",
-    "title": "Senior Software Engineer",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Macon, Georgia"
-    ],
-    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
-    "url": "https://www.usajobs.gov/job/869322900",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869322300",
-    "title": "Applications Software Engineer",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Macon, Georgia"
-    ],
-    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
-    "url": "https://www.usajobs.gov/job/869322300",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869322300",
-    "title": "Applications Software Engineer",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Macon, Georgia"
-    ],
-    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
-    "url": "https://www.usajobs.gov/job/869322300",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1567,20 +1618,6 @@
     "remote": null
   },
   {
-    "job_id": "868988400",
-    "title": "Mission and Operations Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Cheyenne, Wyoming"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Rocky Mountain Field Division, Cheyenne Resident Office. This position's primary purpose is to support the Outlying Office (OO) related to Business Operations and administrative aspects of Law Enforcement Operations.",
-    "url": "https://www.usajobs.gov/job/868988400",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868972200",
     "title": "Vice Deputy Director for Regional Operations and Force Management",
     "organization": "Organization of the Joint Chiefs of Staff",
@@ -1591,20 +1628,6 @@
     "url": "https://www.usajobs.gov/job/868972200",
     "posted_at": "2026-05-13T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868960500",
-    "title": "Fiscal Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "This position is located in the DEA, Human Resources Division, Office of Training, Academy Operations Section, Financial Management Unit (OTAF). This position(s) primary purpose is to approve invoices and voucher for payment in a highly automated financial management and acquisition system; performs analysis of financial information using queries and reports; provides customer support; validates accounting data, reconciles accounts; and analyzes accounting processes.",
-    "url": "https://www.usajobs.gov/job/868960500",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -1661,34 +1684,6 @@
     "url": "https://www.usajobs.gov/job/868682700",
     "posted_at": "2026-05-11T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868585800",
-    "title": "Aerospace Engineer, AST, Research Pilot (Direct Hire)",
-    "organization": "Langley Research Center",
-    "locations": [
-      "Hampton, Virginia"
-    ],
-    "description": "You will serve as an Aerospace Engineer/Research Pilot in the Research Services Directorate which involves the piloting of aircraft (and/or Uninhabited Aerial Systems(UASs)) used in research, development, and test programs; planning/evaluating test parameters; performing flight and/or ground simulations of advanced missions and aircraft; participating with project engineers and scientists responsible for development, design, testing, evaluation, and reporting on new aircraft or aircraft systems.",
-    "url": "https://www.usajobs.gov/job/868585800",
-    "posted_at": "2026-05-11T00:00:00",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868585800",
-    "title": "Aerospace Engineer, AST, Research Pilot (Direct Hire)",
-    "organization": "Langley Research Center",
-    "locations": [
-      "Hampton, Virginia"
-    ],
-    "description": "You will serve as an Aerospace Engineer/Research Pilot in the Research Services Directorate which involves the piloting of aircraft (and/or Uninhabited Aerial Systems(UASs)) used in research, development, and test programs; planning/evaluating test parameters; performing flight and/or ground simulations of advanced missions and aircraft; participating with project engineers and scientists responsible for development, design, testing, evaluation, and reporting on new aircraft or aircraft systems.",
-    "url": "https://www.usajobs.gov/job/868585800",
-    "posted_at": "2026-05-11T00:00:00",
-    "salary": "14-15",
     "grade": null,
     "remote": null
   },
