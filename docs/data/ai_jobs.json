@@ -127,6 +127,20 @@
     "remote": null
   },
   {
+    "job_id": "870376000",
+    "title": "Mission Support Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Weston, Florida"
+    ],
+    "description": "This position is located in the DEA, Miami Field Division. This position(s) primary purpose is to exercise, independent judgment and discretion in assisting in the preparation and processing of confidential employee matters. The incumbent will also maintain and coordinate the administrative support program in the Business Operations Section by initiating and ensuring effective communication, coordination, and follow-up action with other Divisions and Headquarters Program Offices within DEA.",
+    "url": "https://www.usajobs.gov/job/870376000",
+    "posted_at": "2026-05-22T08:03:16.980000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870360600",
     "title": "IT SPECIALIST (AI)",
     "organization": "Centers for Medicare & Medicaid Services",
@@ -235,20 +249,6 @@
     "url": "https://www.usajobs.gov/job/870211900",
     "posted_at": "2026-05-22T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870118700",
-    "title": "Public Notice - Engineering Technician (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As an Engineering Technician, you will be an integral member of the team responsible for performing propulsion test activities at Stennis Space Center. Your skills will be highly utilized to fabricate, install, activate and operate technical systems necessary for the successful achievement of the goals of the Center, NASA and our commercial partners. Positions advertised are in various organizations and grade levels at Stennis Space Center.",
-    "url": "https://www.usajobs.gov/job/870118700",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -723,6 +723,36 @@
     "remote": null
   },
   {
+    "job_id": "870113900",
+    "title": "Trial Attorney",
+    "organization": "U.S. Trustee Program",
+    "locations": [
+      "Los Angeles, California",
+      "Riverside, California",
+      "Santa Ana, California",
+      "Miami, Florida",
+      "Tampa, Florida",
+      "Chicago, Illinois",
+      "Peoria, Illinois",
+      "Indianapolis, Indiana",
+      "South Bend, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Baltimore, Maryland",
+      "Greenbelt, Maryland",
+      "Kings, New York",
+      "New York, New York",
+      "Cleveland, Ohio",
+      "Austin, Texas"
+    ],
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: U.S. Trustee Program | Attorneys | United States Department of Justice https://www.justice.gov/ust/careers/attorneys",
+    "url": "https://www.usajobs.gov/job/870113900",
+    "posted_at": "2026-05-20T14:07:58.960000",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870087100",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -899,6 +929,20 @@
     "url": "https://www.usajobs.gov/job/869675400",
     "posted_at": "2026-05-20T00:00:00",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869945300",
+    "title": "Program Analyst",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the DEA, This position is located in the Department of Justice, Drug Enforcement Administration, Operations Division, Office of Domestic Operations, Cyber Support Section (ODV). This position(s) primary purpose is to provides programmatic and administrative support, vision and strategic planning relating to cyber and digital asset investigations; recommends new programs and evaluate existing programs that impact the ODV section.",
+    "url": "https://www.usajobs.gov/job/869945300",
+    "posted_at": "2026-05-19T14:40:41.060000",
+    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -1445,30 +1489,6 @@
     "remote": null
   },
   {
-    "job_id": "869414600",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "As a Systems, Applications, and Products in Data Processing (SAP) Technical Subject Matter Expert, you will be responsible for SAP technical design and configuration, ensuring compliant financial processes, audit readiness, and system integrity. You will oversee Advanced Business Application Programing (ABAP) development, manage year-end processing, and guide cross-functional teams through full lifecycle delivery as we move to the SAP S/4 High Performance Analytic Appliance (HANA) environment.",
-    "url": "https://www.usajobs.gov/job/869414600",
-    "posted_at": "2026-05-15T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869402100",
     "title": "Information Technology Specialist",
     "organization": "Department of Energy - Agency Wide",
@@ -1544,20 +1564,6 @@
     "url": "https://www.usajobs.gov/job/869286800",
     "posted_at": "2026-05-14T08:28:58.140000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869280000",
-    "title": "Financial Management Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), San Francisco, CA Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
-    "url": "https://www.usajobs.gov/job/869280000",
-    "posted_at": "2026-05-14T07:40:10.247000",
-    "salary": "7-9",
     "grade": null,
     "remote": null
   },
