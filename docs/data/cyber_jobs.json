@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "870463900",
+    "title": "IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA - Joint Interoperability Test Command (JITC) - QUALITY CONTROL BRANCH (JT9D3).",
+    "url": "https://www.usajobs.gov/job/870463900",
+    "posted_at": "2026-05-25T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870478200",
     "title": "Cyber Security Specialist, SSC/Det 5 (OBN)",
     "organization": "Space Systems Command",
@@ -985,20 +999,6 @@
     "remote": null
   },
   {
-    "job_id": "869551300",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Scott AFB, Illinois"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA Infrastructure and Services Divison.",
-    "url": "https://www.usajobs.gov/job/869551300",
-    "posted_at": "2026-05-16T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869595300",
     "title": "IT Cybersecurity Specialist (INFOSEC)",
     "organization": "Cybersecurity and Infrastructure Security Agency",
@@ -1242,20 +1242,6 @@
     "remote": null
   },
   {
-    "job_id": "869119000",
-    "title": "IT Cybersecurity Specialist (INFOSEC) Direct Hire Authority",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-13, IT Cybersecurity Specialist (INFOSEC) Direct Hire Authority located in the Department of Homeland Security, U.S. Coast Guard, OPERATING LOCATION-CGCC TECHNICAL MANAGEMENT BRANCH-ALEXANDRIA VA in ALEXANDRIA, Virginia.",
-    "url": "https://www.usajobs.gov/job/869119000",
-    "posted_at": "2026-05-14T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "868466200",
     "title": "GENERAL ENGINEER",
     "organization": "Naval Facilities Engineering Systems Command",
@@ -1482,6 +1468,20 @@
     "url": "https://www.usajobs.gov/job/866957100",
     "posted_at": "2026-04-29T00:00:00",
     "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "866953900",
+    "title": "SUPV IT SPECIALIST (POLICY AND PLANNING)",
+    "organization": "Army National Guard Units",
+    "locations": [
+      "Colchester, Vermont"
+    ],
+    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a Supervisory IT Specialist, Position Description Number D2467P01 and is part of the Information Management /G6 of the Vermont Army National Guard.",
+    "url": "https://www.usajobs.gov/job/866953900",
+    "posted_at": "2026-04-28T11:43:12.693000",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
