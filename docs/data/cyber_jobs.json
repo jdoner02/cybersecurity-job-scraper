@@ -1,5 +1,538 @@
 [
   {
+    "job_id": "870632000",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (APPSW/OS)",
+    "organization": "Naval Education and Training Command",
+    "locations": [
+      "Millington, Tennessee"
+    ],
+    "description": "You will serve as an INFORMATION TECHNOLOGY SPECIALIST (APPSW/OS) in the Information Technology Department of NVRECRUITNGCMD.",
+    "url": "https://www.usajobs.gov/job/870632000",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870623200",
+    "title": "Biomedical Equipment Support Specialist (Information Systems)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Birmingham, Alabama"
+    ],
+    "description": "The Biomedical Equipment Support Specialist provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment. Biomedical support requires the application of engineering and mechanical concepts and methodology to provide lifecycle management and technical support of equipment utilized in the practice of medicine, and to improve care provided by staff throughout VA.",
+    "url": "https://www.usajobs.gov/job/870623200",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870591100",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Huachuca, Arizona"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA JITC / JTA1.",
+    "url": "https://www.usajobs.gov/job/870591100",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870575600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Seymour Johnson AFB, North Carolina"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator and others.",
+    "url": "https://www.usajobs.gov/job/870575600",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870556900",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Army National Guard Units",
+    "locations": [
+      "Indiantown Gap, Pennsylvania"
+    ],
+    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a IT CYBERSECURITY SPECIALIST (INFOSEC), Position Description Number D2524P01 and is part of the PA Deputy Chief of Staff G6, National Guard. 1 or more Position(s) may be hired against this Announcement.",
+    "url": "https://www.usajobs.gov/job/870556900",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870545600",
+    "title": "ADMINISTRATIVE PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "McChord AFB, Washington"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: to serve as the primary point of contact to the group commander or senior air reserve technician (ART) for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), government travel card (GTC) program, Defense Travel System (DTS) administrator and more.",
+    "url": "https://www.usajobs.gov/job/870545600",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870516200",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA DCDC.",
+    "url": "https://www.usajobs.gov/job/870516200",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870452400",
+    "title": "IT Program Manager (INFOSEC)",
+    "organization": "Government National Mortgage Association (Ginnie Mae)",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This position is located at Department of Housing and Urban Development, Government National Mortgage Association Ginnie Mae. Washington D.C. is a potential duty location for this position; however, the Washington D.C. office is expected to relocate to Alexandria, Virginia. Selectees may be required to report initially to Washington, D.C and later report to Alexandria, Virginia.",
+    "url": "https://www.usajobs.gov/job/870452400",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870391500",
+    "title": "IT Specialist (INFOSEC) Cybersecurity Auditor",
+    "organization": "Office of Inspector General",
+    "locations": [
+      "San Diego, California",
+      "Baltimore, Maryland"
+    ],
+    "description": "This position is located in the Department of Health and Human Services, Office of Inspector General, Office of Audit Services. The salary for this position will be adjusted based on the duty location. View the Office of Personnel Management (OPM) 2026 General Schedule (GS) Locality Pay Tables. Resumes must be no more than 2-pages in length.",
+    "url": "https://www.usajobs.gov/job/870391500",
+    "posted_at": "2026-05-27T00:00:00",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870614100",
+    "title": "Information Technology Specialist (Applications Software)",
+    "organization": "Internal Revenue Service",
+    "locations": [
+      "Fresno, California",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Chamblee, Georgia",
+      "Chamblee, Georgia",
+      "Covington, Kentucky",
+      "Lanham, Maryland",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "Saint Louis, Missouri",
+      "Charlotte, North Carolina",
+      "Holtsville, New York",
+      "Philadelphia, Pennsylvania",
+      "Guaynabo, Puerto Rico",
+      "San Juan, Puerto Rico",
+      "Memphis, Tennessee",
+      "Austin, Texas",
+      "Austin, Texas",
+      "Farmers Branch, Texas",
+      "Ogden, Utah",
+      "Kearneysville, West Virginia"
+    ],
+    "description": "WHAT IS IT-Taxpayer Services/Online Accounts? A description of the business units can be found at: https://www.jobs.irs.gov/about/who/business-divisions Position(s) are to be filled in the following area(s): IT - Taxpayer Services / Online Accounts Consider each location carefully when applying. If you are selected for a location, that location will become your official post of duty. REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS",
+    "url": "https://www.usajobs.gov/job/870614100",
+    "posted_at": "2026-05-26T15:58:44.137000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870594000",
+    "title": "SUPERVISORY IT SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "Defense Commissary Agency",
+    "locations": [
+      "Fort Lee, Virginia"
+    ],
+    "description": "Serves as the Supervisory Information Technology Specialist (PLCYPLN/INFOSEC) GS-2210-15, serving as the Chief of the Technology Enhancement Division and Agency Chief Technology Officer (CTO) at Defense Commissary Agency (DeCA) HQ, Fort Lee, VA. This position is a temporary promotion not to exceed one year. Read the entire announcement before starting the application process.",
+    "url": "https://www.usajobs.gov/job/870594000",
+    "posted_at": "2026-05-26T14:31:14.653000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870586400",
+    "title": "Supervisory IT Cybersecurity Specialist (INFOSEC)",
+    "organization": "Cybersecurity and Infrastructure Security Agency",
+    "locations": [
+      "Pensacola, Florida",
+      "Arlington, Virginia"
+    ],
+    "description": "This announcement is issued under the Direct Hire Authority (DHA) to recruit for positions for which there is a critical hiring need. Selectee(s) will receive a career or career-conditional appointment in the competitive service and may be required to serve a one-year probationary period.",
+    "url": "https://www.usajobs.gov/job/870586400",
+    "posted_at": "2026-05-26T14:00:55.350000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870525300",
+    "title": "IT CYBERSECURITY SPECIALIST (PLCYPLN/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA.",
+    "url": "https://www.usajobs.gov/job/870525300",
+    "posted_at": "2026-05-26T09:50:08.337000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870505900",
+    "title": "IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This vacancy is for a GS-2210-13, IT Cybersecurity Specialist (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC INFRASTRUCT SECURITY SERVICES BRANCH in ALEXANDRIA, Virginia.",
+    "url": "https://www.usajobs.gov/job/870505900",
+    "posted_at": "2026-05-26T09:30:21.327000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870511800",
+    "title": "IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Kearneysville, West Virginia"
+    ],
+    "description": "This vacancy is for a GS-2210-14, IT Cybersecurity Specialist (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC Infrastructure Services Division, Boundary Protection Services in KEARNEYSVILLE, West Virginia.",
+    "url": "https://www.usajobs.gov/job/870511800",
+    "posted_at": "2026-05-26T08:26:51.010000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870509500",
+    "title": "Supervisory Financial Operations Specialist (Branch Chief)",
+    "organization": "Office of the Assistant Secretary for Administration and Management",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "The Office of the Chief Information Officer (OCIO) serves as the IT hub of the U.S. Department of Labor. We develop, maintain and protect IT solutions and data across our 27 agencies to enable mission outcomes through technology and service. OCIO continually enhances federal IT and digital capability with a focus on cybersecurity and customer experience to serve America's wage earners, job seekers and retirees.",
+    "url": "https://www.usajobs.gov/job/870509500",
+    "posted_at": "2026-05-26T08:16:28.203000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870504800",
+    "title": "Privacy Act Specialist",
+    "organization": "Railroad Retirement Board",
+    "locations": [
+      "Birmingham, Alabama",
+      "Little Rock, Arkansas",
+      "Mesa, Arizona",
+      "Covina, California",
+      "Oakland, California",
+      "Roseville, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Des Moines, Iowa",
+      "Chicago, Illinois",
+      "Decatur, Illinois",
+      "Joliet, Illinois",
+      "Indianapolis, Indiana",
+      "Kansas City, Kansas",
+      "Wichita, Kansas",
+      "Louisville, Kentucky",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Baltimore, Maryland",
+      "Detroit, Michigan",
+      "Duluth, Minnesota",
+      "Saint Paul, Minnesota",
+      "Saint Louis, Missouri",
+      "Billings, Montana",
+      "Charlotte, North Carolina",
+      "Fargo, North Dakota",
+      "Omaha, Nebraska",
+      "Newark, New Jersey",
+      "Albuquerque, New Mexico",
+      "Albany, New York",
+      "Buffalo, New York",
+      "Central Islip, New York",
+      "New York, New York",
+      "Cincinnati, Ohio",
+      "Cleveland, Ohio",
+      "Portland, Oregon",
+      "Altoona, Pennsylvania",
+      "Harrisburg, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Scranton, Pennsylvania",
+      "Nashville, Tennessee",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "Salt Lake City, Utah",
+      "Richmond, Virginia",
+      "Roanoke, Virginia",
+      "Seattle, Washington",
+      "Spokane, Washington",
+      "Milwaukee, Wisconsin",
+      "Huntington, West Virginia"
+    ],
+    "description": "This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for assisting the Chief Privacy Officer in the planning, implementation, and maintenance of the agency's privacy and safeguarding programs. This job announcement may be used to fill one or more vacancies. This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.",
+    "url": "https://www.usajobs.gov/job/870504800",
+    "posted_at": "2026-05-26T07:44:23.190000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870503200",
+    "title": "Privacy Act Specialist",
+    "organization": "Railroad Retirement Board",
+    "locations": [
+      "Birmingham, Alabama",
+      "Little Rock, Arkansas",
+      "Mesa, Arizona",
+      "Covina, California",
+      "Oakland, California",
+      "Roseville, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Des Moines, Iowa",
+      "Chicago, Illinois",
+      "Decatur, Illinois",
+      "Joliet, Illinois",
+      "Indianapolis, Indiana",
+      "Kansas City, Kansas",
+      "Wichita, Kansas",
+      "Louisville, Kentucky",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Baltimore, Maryland",
+      "Detroit, Michigan",
+      "Duluth, Minnesota",
+      "Saint Paul, Minnesota",
+      "Saint Louis, Missouri",
+      "Billings, Montana",
+      "Charlotte, North Carolina",
+      "Fargo, North Dakota",
+      "Omaha, Nebraska",
+      "Newark, New Jersey",
+      "Albuquerque, New Mexico",
+      "Albany, New York",
+      "Buffalo, New York",
+      "Central Islip, New York",
+      "New York, New York",
+      "Cincinnati, Ohio",
+      "Cleveland, Ohio",
+      "Portland, Oregon",
+      "Altoona, Pennsylvania",
+      "Harrisburg, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Scranton, Pennsylvania",
+      "Nashville, Tennessee",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "Salt Lake City, Utah",
+      "Richmond, Virginia",
+      "Roanoke, Virginia",
+      "Seattle, Washington",
+      "Spokane, Washington",
+      "Milwaukee, Wisconsin",
+      "Huntington, West Virginia"
+    ],
+    "description": "This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for assisting the Chief Privacy Officer in the planning, implementation, and maintenance of the agency's privacy and safeguarding programs. This job announcement may be used to fill one or more vacancies. This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.",
+    "url": "https://www.usajobs.gov/job/870503200",
+    "posted_at": "2026-05-26T07:20:10.977000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870502400",
+    "title": "Azure Architect",
+    "organization": "Railroad Retirement Board",
+    "locations": [
+      "Birmingham, Alabama",
+      "Little Rock, Arkansas",
+      "Mesa, Arizona",
+      "Covina, California",
+      "Oakland, California",
+      "Roseville, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Des Moines, Iowa",
+      "Chicago, Illinois",
+      "Decatur, Illinois",
+      "Joliet, Illinois",
+      "Indianapolis, Indiana",
+      "Kansas City, Kansas",
+      "Wichita, Kansas",
+      "Louisville, Kentucky",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Baltimore, Maryland",
+      "Detroit, Michigan",
+      "Duluth, Minnesota",
+      "Saint Paul, Minnesota",
+      "Saint Louis, Missouri",
+      "Billings, Montana",
+      "Charlotte, North Carolina",
+      "Fargo, North Dakota",
+      "Omaha, Nebraska",
+      "Newark, New Jersey",
+      "Albuquerque, New Mexico",
+      "Albany, New York",
+      "Buffalo, New York",
+      "Central Islip, New York",
+      "New York, New York",
+      "Cincinnati, Ohio",
+      "Cleveland, Ohio",
+      "Portland, Oregon",
+      "Altoona, Pennsylvania",
+      "Harrisburg, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Scranton, Pennsylvania",
+      "Nashville, Tennessee",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "Salt Lake City, Utah",
+      "Richmond, Virginia",
+      "Roanoke, Virginia",
+      "Seattle, Washington",
+      "Spokane, Washington",
+      "Milwaukee, Wisconsin",
+      "Huntington, West Virginia"
+    ],
+    "description": "This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for the design, development, implementation, and optimization of cloud-based solutions within Microsoft Azure. This job announcement may be used to fill one or more vacancies. This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.",
+    "url": "https://www.usajobs.gov/job/870502400",
+    "posted_at": "2026-05-26T07:11:05.610000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870502200",
+    "title": "Azure Architect",
+    "organization": "Railroad Retirement Board",
+    "locations": [
+      "Birmingham, Alabama",
+      "Little Rock, Arkansas",
+      "Mesa, Arizona",
+      "Covina, California",
+      "Oakland, California",
+      "Roseville, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Des Moines, Iowa",
+      "Chicago, Illinois",
+      "Decatur, Illinois",
+      "Joliet, Illinois",
+      "Indianapolis, Indiana",
+      "Kansas City, Kansas",
+      "Wichita, Kansas",
+      "Louisville, Kentucky",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Baltimore, Maryland",
+      "Detroit, Michigan",
+      "Duluth, Minnesota",
+      "Saint Paul, Minnesota",
+      "Saint Louis, Missouri",
+      "Billings, Montana",
+      "Charlotte, North Carolina",
+      "Fargo, North Dakota",
+      "Omaha, Nebraska",
+      "Newark, New Jersey",
+      "Albuquerque, New Mexico",
+      "Albany, New York",
+      "Buffalo, New York",
+      "Central Islip, New York",
+      "New York, New York",
+      "Cincinnati, Ohio",
+      "Cleveland, Ohio",
+      "Portland, Oregon",
+      "Altoona, Pennsylvania",
+      "Harrisburg, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Scranton, Pennsylvania",
+      "Nashville, Tennessee",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "Salt Lake City, Utah",
+      "Richmond, Virginia",
+      "Roanoke, Virginia",
+      "Seattle, Washington",
+      "Spokane, Washington",
+      "Milwaukee, Wisconsin",
+      "Huntington, West Virginia"
+    ],
+    "description": "This position is located in the Railroad Retirement Board's Bureau of Information Services. The incumbent will be responsible for the design, development, implementation, and optimization of cloud-based solutions within Microsoft Azure. This job announcement may be used to fill one or more vacancies. This is a bargaining unit position. This position is represented by the Council of AFGE Locals in the Board.",
+    "url": "https://www.usajobs.gov/job/870502200",
+    "posted_at": "2026-05-26T07:10:42.063000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870498200",
     "title": "Marketing Manager Digital Media",
     "organization": "Pacific Air Forces",
@@ -70,6 +603,26 @@
     "url": "https://www.usajobs.gov/job/870374400",
     "posted_at": "2026-05-22T07:40:20.917000",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870368100",
+    "title": "Cybersecurity Specialist",
+    "organization": "DHS Headquarters",
+    "locations": [
+      "Chandler, Arizona",
+      "Washington, District of Columbia",
+      "Pensacola, Florida",
+      "Idaho Falls, Idaho",
+      "Stennis Space Center, Mississippi",
+      "Arlington, Virginia",
+      "Springfield, Virginia"
+    ],
+    "description": "The Department of Homeland Security (DHS) is recruiting entry-level professionals to support a range of work across our diverse cybersecurity missions. These individuals will serve across the Department, including supporting several specialized programs to protect the Nation's information technology infrastructure.",
+    "url": "https://www.usajobs.gov/job/870368100",
+    "posted_at": "2026-05-22T00:00:00",
+    "salary": "1-1",
     "grade": null,
     "remote": null
   },
@@ -204,20 +757,6 @@
     "remote": null
   },
   {
-    "job_id": "870228400",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "The Biomedical Equipment Support Specialist (BESS) provides clinical and administrative support to staff, patients, and administrators for all matters of concern relating to the facility wide lifecycle management of medical equipment. Biomedical support requires the application of engineering and mechanical concepts and methodology to provide lifecycle management and technical support of diagnostic, therapeutic devices, monitoring, and other equipment utilized throughout VA",
-    "url": "https://www.usajobs.gov/job/870228400",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870205100",
     "title": "SUPV IT CYBERSECURITY SPECIALIST (PLCYPLN/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -228,20 +767,6 @@
     "url": "https://www.usajobs.gov/job/870205100",
     "posted_at": "2026-05-22T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870125900",
-    "title": "IT Specialist (SYSADMIN/ INFOSEC)",
-    "organization": "Military Treatment Facilities under DHA",
-    "locations": [
-      "Bremerton, Washington"
-    ],
-    "description": "About the Position: This position is within the US Naval Hospital Bremerton, Directorate of Resource Management, Information Management Division in Bremerton, Kitsap County Washington. A recruitment or relocation incentive may be authorized. Salary negotiation may be available for those candidates who are new to Federal service. Non-Federal work experience may be creditable for leave purposes.",
-    "url": "https://www.usajobs.gov/job/870125900",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -344,20 +869,6 @@
     "remote": null
   },
   {
-    "job_id": "870155700",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "The Networks and Telecommunication Services (NaTS) Service Line is seeking to fill an Information Technology Specialist position. Serves as a senior specialist under the Integrated Network and Infrastructure Office and is responsible for planning, development, installation, operations, and maintenance in support of communications systems and facilities.",
-    "url": "https://www.usajobs.gov/job/870155700",
-    "posted_at": "2026-05-21T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870097000",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Mobility Command",
@@ -380,20 +891,6 @@
     ],
     "description": "These are TEMPORARY, INTERMITTENT positions located in the Overseas Support Services Branch, Bureau of Diplomatic Security. The incumbent serves as a General Engineer responsible for the authoritative security engineering services involving technical security countermeasures inspections and investigations, physical and technical security, inspection of structural modifications, maintenance, and installation of complex security equipment systems.",
     "url": "https://www.usajobs.gov/job/870095200",
-    "posted_at": "2026-05-21T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870057300",
-    "title": "Supervisory IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-14, Supervisory IT Cybersecurity Specialist (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC INFRASTRUCTURE SERVICES DIVISION in ALEXANDRIA, Virginia.",
-    "url": "https://www.usajobs.gov/job/870057300",
     "posted_at": "2026-05-21T00:00:00",
     "salary": "14-14",
     "grade": null,
@@ -491,40 +988,6 @@
     "remote": null
   },
   {
-    "job_id": "870046000",
-    "title": "It Spec (Infosec/Network)",
-    "organization": "Electronic Health Record Modernization",
-    "locations": [
-      "Washington, District of Columbia",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "The incumbent of this position IT Specialist (NETWORK/INFOSEC) is located in the Office of Technology, for the Department of Veterans Affairs (VA) Electronic Health Record Modernization Integration Office (EHRM-IO), within the Office of the Deputy Secretary of VA (DEPSECVA). This position manages the VA EHRM-IO cybersecurity infrastructure protection and information management components while providing expert direction and oversight to manage numerous DoD/VA EHRM projects and program functions.",
-    "url": "https://www.usajobs.gov/job/870046000",
-    "posted_at": "2026-05-20T10:22:22.790000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870043900",
     "title": "IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
     "organization": "U.S. Coast Guard",
@@ -535,20 +998,6 @@
     "url": "https://www.usajobs.gov/job/870043900",
     "posted_at": "2026-05-20T10:04:48.067000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869816000",
-    "title": "IT Specialist (INFOSEC)",
-    "organization": "Office of the Secretary",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is for an IT Specialist (INFOSEC) in the Office of the Secretary within the Department of Commerce. P",
-    "url": "https://www.usajobs.gov/job/869816000",
-    "posted_at": "2026-05-20T06:39:23.163000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -581,20 +1030,6 @@
     "remote": null
   },
   {
-    "job_id": "869949500",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Headquarters, Air Force Reserve Command",
-    "locations": [
-      "March AFB, California"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program.",
-    "url": "https://www.usajobs.gov/job/869949500",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869944000",
     "title": "ENGR OR SCI",
     "organization": "Naval Sea Systems Command",
@@ -605,20 +1040,6 @@
     "url": "https://www.usajobs.gov/job/869944000",
     "posted_at": "2026-05-20T00:00:00",
     "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869929800",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Force Global Strike Command",
-    "locations": [
-      "Kirtland AFB, New Mexico"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, fitness program, and others",
-    "url": "https://www.usajobs.gov/job/869929800",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "7-7",
     "grade": null,
     "remote": null
   },
@@ -676,30 +1097,6 @@
     "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Information Technology (OIT). As an Information Technology Specialist (Data Management), GS-2210-13, you will serve as a Data Engineer responsible for designing, building, and maintaining the infrastructure for collecting, storing, and transforming raw data into accessible, usable information for data scientists, analysts, and other stakeholders across CMS.",
     "url": "https://www.usajobs.gov/job/869732300",
     "posted_at": "2026-05-20T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869904900",
-    "title": "IT Specialist (INFOSEC), GS-2210-13 FPL 13 (Direct Hire)",
-    "organization": "Federal Student Aid",
-    "locations": [
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas",
-      "Seattle, Washington"
-    ],
-    "description": "This position is located in the U.S. Department of Education (ED) Office of Federal Student Aid (FSA). FSA is a Principal Office of the United States Department of Education responsible for awarding billions of dollars in federal student aid funds. Our vision is to be the most trusted and reliable source of student financial aid, information, and services in the nation.",
-    "url": "https://www.usajobs.gov/job/869904900",
-    "posted_at": "2026-05-19T12:24:10.357000",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -775,71 +1172,6 @@
     "remote": null
   },
   {
-    "job_id": "869819100",
-    "title": "SUPV IT CYBERSECURITY SPECIALIST (PLCYPLN/INFOSEC)",
-    "organization": "Defense Information Systems Agency",
-    "locations": [
-      "Montgomery, Alabama",
-      "Denver, Colorado",
-      "Fort Meade, Maryland",
-      "Columbus, Ohio",
-      "Oklahoma City, Oklahoma",
-      "Chambersburg, Pennsylvania",
-      "Mechanicsburg, Pennsylvania",
-      "San Antonio, Texas",
-      "Ogden, Utah",
-      "Arlington, Virginia"
-    ],
-    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Supervision/Management Work Category at the Expert Work Level within the CES Occupational Structure. It is located in the DISA - Hosting and Compute Center.",
-    "url": "https://www.usajobs.gov/job/869819100",
-    "posted_at": "2026-05-19T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869807800",
-    "title": "Information Technology Specialist (Information Security)",
-    "organization": "HQDA Field Operating Agencies and Staff Support Agencies",
-    "locations": [
-      "Fort Leavenworth, Kansas"
-    ],
-    "description": "About the Position: Serves as the Information Technology Security Assistant, Information Management Officer (IMO),and team member of the Cybersecurity Program for the Army Corrections Brigade (ACB) and United States Army Corrections Command (ACC). For more information about the United States Disciplinary Barracks (USDB), a maximum security prison facility, visit: https://home.army.mil/leavenworth/units-tenants/army-corrections-command",
-    "url": "https://www.usajobs.gov/job/869807800",
-    "posted_at": "2026-05-19T00:00:00",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869794200",
-    "title": "Administrative Services Specialist",
-    "organization": "Office of the Assistant Secretary for Administration and Management",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Office of the Chief Information Officer (OCIO) serves as the IT hub of the U.S. Department of Labor. We develop, maintain and protect IT solutions and data across our 27 agencies to enable mission outcomes through technology and service. OCIO continually enhances federal IT and digital capability with a focus on cybersecurity and customer experience to serve America's wage earners, job seekers and retirees.",
-    "url": "https://www.usajobs.gov/job/869794200",
-    "posted_at": "2026-05-19T00:00:00",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869761700",
-    "title": "Supervisory IT Project Manager (Policy and Planning)",
-    "organization": "U.S. Army Intelligence and Security Command",
-    "locations": [
-      "Charlottesville, Virginia"
-    ],
-    "description": "About the Position: This position is in the Defense Civilian Intelligence Personnel System (DCIPS). Employees occupying DCIPS positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the National Ground Intelligence Center, Information Technology Directorate, IT Business Division, Charlottesville, VA 22911.",
-    "url": "https://www.usajobs.gov/job/869761700",
-    "posted_at": "2026-05-19T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869689300",
     "title": "IT SPECIALIST (PLCYPLN/INFOSEC)",
     "organization": "Department of the Air Force - Agency Wide",
@@ -854,20 +1186,6 @@
     "remote": null
   },
   {
-    "job_id": "869680300",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Kadena Air Base Okinawa, Japan"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. Primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison, GTC program, DTS administrator, drug demand reduction program. **Salary ranges include local market supplements.**",
-    "url": "https://www.usajobs.gov/job/869680300",
-    "posted_at": "2026-05-19T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869657300",
     "title": "SUPV IT CYBERSECURITY SPECIALIST (PLCYPLN)",
     "organization": "Defense Information Systems Agency",
@@ -878,20 +1196,6 @@
     "url": "https://www.usajobs.gov/job/869657300",
     "posted_at": "2026-05-19T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869663200",
-    "title": "IT CYBERSECURITY SPECIALIST (Risk Management Framework (RMF) Lead)",
-    "organization": "Naval Facilities Engineering Systems Command",
-    "locations": [
-      "Port Hueneme, California"
-    ],
-    "description": "You will serve as an IT Cybersecurity Specialist in the Information Systems Division of NAVAL FACILITIES ENGINEERING AND EXPEDITIONARY WARFARE CENTER. This position is part of the Naval Facilities Engineering and Expeditionary Warfare Center (EXWC) Personnel Demonstration Project. The NT-03 pay band encompasses positions equivalent to GS-12 through GS-14. The position has a control point equivalent to the GS-13 Step 10 grade.",
-    "url": "https://www.usajobs.gov/job/869663200",
-    "posted_at": "2026-05-18T07:57:21.370000",
-    "salary": "3-3",
     "grade": null,
     "remote": null
   },
@@ -921,20 +1225,6 @@
     "url": "https://www.usajobs.gov/job/869793600",
     "posted_at": "2026-05-18T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869768800",
-    "title": "IT Cybersecurity Specialist",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is for an IT Cybersecurity Specialist in the Technology Advisory Division, Office of lnformation and Communications Technology and Services (OICTS), Office of the Under Secretary (OUS), Bureau of Industry and Security (BIS) within the Department of Commerce.",
-    "url": "https://www.usajobs.gov/job/869768800",
-    "posted_at": "2026-05-18T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1258,20 +1548,6 @@
     "remote": null
   },
   {
-    "job_id": "869159400",
-    "title": "Biomedical Equipment Support Specialist",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Fargo, North Dakota"
-    ],
-    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
-    "url": "https://www.usajobs.gov/job/869159400",
-    "posted_at": "2026-05-13T12:42:37.447000",
-    "salary": "5-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869177500",
     "title": "Computer Engineer (Cybersecurity)",
     "organization": "Bureau of Industry and Security",
@@ -1372,52 +1648,6 @@
     "remote": null
   },
   {
-    "job_id": "868408900",
-    "title": "IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
-    "organization": "Defense Finance and Accounting Service",
-    "locations": [
-      "Indianapolis, Indiana",
-      "Limestone, Maine",
-      "Rome, New York",
-      "Cleveland, Ohio",
-      "Whitehall, Ohio"
-    ],
-    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
-    "url": "https://www.usajobs.gov/job/868408900",
-    "posted_at": "2026-05-08T00:00:00",
-    "salary": "7-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868250600",
-    "title": "Forensic Computer Analyst",
-    "organization": "U.S. Postal Service",
-    "locations": [
-      "Atlanta, Georgia"
-    ],
-    "description": "Come join the U.S. Postal Service! The successful candidate conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
-    "url": "https://www.usajobs.gov/job/868250600",
-    "posted_at": "2026-05-07T07:43:13.047000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868250000",
-    "title": "Forensic Computer Analyst",
-    "organization": "U.S. Postal Service",
-    "locations": [
-      "Denver, Colorado"
-    ],
-    "description": "Come join the U.S. Postal Service! The successful candidate conducts forensic analyses of digital and other multimedia evidence utilizing appropriate scientific methodologies, forensic techniques, and quality assurance practices in support of criminal and administrative investigations.",
-    "url": "https://www.usajobs.gov/job/868250000",
-    "posted_at": "2026-05-07T07:37:12.490000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "867654700",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC) TITLE 5",
     "organization": "Army National Guard Units",
@@ -1470,20 +1700,6 @@
     "url": "https://www.usajobs.gov/job/866957100",
     "posted_at": "2026-04-29T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866953900",
-    "title": "SUPV IT SPECIALIST (POLICY AND PLANNING)",
-    "organization": "Army National Guard Units",
-    "locations": [
-      "Colchester, Vermont"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for a Supervisory IT Specialist, Position Description Number D2467P01 and is part of the Information Management /G6 of the Vermont Army National Guard.",
-    "url": "https://www.usajobs.gov/job/866953900",
-    "posted_at": "2026-04-28T11:43:12.693000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
