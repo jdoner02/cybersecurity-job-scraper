@@ -1,5 +1,328 @@
 [
   {
+    "job_id": "870787900",
+    "title": "Supply Management Officer",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Redstone Arsenal, Alabama"
+    ],
+    "description": "As the Supply and Equipment Management Officer (SEMO) responsible for managing/controlling MSFC's property management program including institutional, expendable, supply storage, warehouse facilities, and industrial property assets furnished on MSFC contracts.",
+    "url": "https://www.usajobs.gov/job/870787900",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870489900",
+    "title": "Physicist, AST, Electronics of Materials (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "In this role, you will support mission critical avionics by selecting, analyzing, qualifying, and troubleshooting Electrical, Electronic, and Electromagnetic (EEE) parts to meet NASA reliability, radiation, derating, and environmental requirements. You will provide detailed technical guidance, evaluate test and screening data, mitigate obsolescence and supply chain risks, and collaborate across programs to ensure compliant, robust, and flight ready hardware performance.",
+    "url": "https://www.usajobs.gov/job/870489900",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870480700",
+    "title": "AST - Aerospace Flight Systems, Aerospace Engineer (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "The Cargo Mission Manager (CMM) with the Mission Integration and Operations Office ensures end-to-end integration, verification, and safe delivery of cargo required to sustain ISS operations, crew health, technology, and research objectives. You will directly support mission-essential services by coordinating cargo readiness, resolving technical issues, and enabling real-time decision-making across spacecraft providers, engineering teams, and operations personnel.",
+    "url": "https://www.usajobs.gov/job/870480700",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870427200",
+    "title": "Data Scientist",
+    "organization": "National Institutes of Health",
+    "locations": [
+      "Montgomery County, Maryland"
+    ],
+    "description": "Join one of the 24 Institutes and Centers within the NIH that awards extramural grants! Extramural grants account for approximately 80 percent of NIH's budget and are awarded to investigators at more than 2,500 universities, medical schools, and other research organizations around the world. To learn more about the grants process, types of grant programs, and the peer review process, visit: Office of Extramural Research.",
+    "url": "https://www.usajobs.gov/job/870427200",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870427200",
+    "title": "Data Scientist",
+    "organization": "National Institutes of Health",
+    "locations": [
+      "Montgomery County, Maryland"
+    ],
+    "description": "Join one of the 24 Institutes and Centers within the NIH that awards extramural grants! Extramural grants account for approximately 80 percent of NIH's budget and are awarded to investigators at more than 2,500 universities, medical schools, and other research organizations around the world. To learn more about the grants process, types of grant programs, and the peer review process, visit: Office of Extramural Research.",
+    "url": "https://www.usajobs.gov/job/870427200",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870410700",
+    "title": "Physical Scientist, AST, Science Program Management (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "NASA is seeking a dynamic Program Manager to lead and coordinate research and applications programs based on satellite and aircraft-based remote sensing within the Earth Sciences Division. The position involves managing and integrating activities across the Earth Action and Research and Analysis (recently renamed Earth System Science Research) portfolios. This role will focus one of the following national challenges: critical minerals, wildland fires, or agriculture.",
+    "url": "https://www.usajobs.gov/job/870410700",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870305800",
+    "title": "General Engineer - AST, Engineer Program Management (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "As a Program Executive (PE), you will be responsible for providing leadership and coordination in support of NASA's High-End Computing Capability (HECC) Portfolio. You will provide oversight, coordination, management, planning, monitoring, and implementation of HECC as a NASA-wide capability. You will develop strategies for sustainable data science and computing organizations, ensuring robust services, infrastructure, data governance, and capability development that support NASA's mission.",
+    "url": "https://www.usajobs.gov/job/870305800",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870765300",
+    "title": "Senior Advisor Congressional Affairs",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Senior Advisor Congressional Affairs, you will be responsible for all Office of Energy Dominance Financing (EDF) interactions with Congress, federal, state, and local elected officials, and other government agencies, including correspondence and oversight.",
+    "url": "https://www.usajobs.gov/job/870765300",
+    "posted_at": "2026-05-27T15:23:37.473000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870765300",
+    "title": "Senior Advisor Congressional Affairs",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Senior Advisor Congressional Affairs, you will be responsible for all Office of Energy Dominance Financing (EDF) interactions with Congress, federal, state, and local elected officials, and other government agencies, including correspondence and oversight.",
+    "url": "https://www.usajobs.gov/job/870765300",
+    "posted_at": "2026-05-27T15:23:37.473000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870718400",
+    "title": "Data Scientist -  AI Engineer",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "The United States Postal Service, Office of Inspector General is seeking a highly qualified applicant to fill our Data Scientist - AI Engineer position in the Research and Insights Solution Center located in Arlington, Virginia. Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/870718400",
+    "posted_at": "2026-05-27T12:33:06.110000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870717900",
+    "title": "Data Scientist - AI Engineer",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED. This announcement provides the opportunity for a reassignment/promotion to Data Scientist - AI Engineer position in the Research and Insights Solution Center located in Arlington, Virginia.",
+    "url": "https://www.usajobs.gov/job/870717900",
+    "posted_at": "2026-05-27T12:31:23.580000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870695600",
+    "title": "Information Technology Specialist (Software Engineer)",
+    "organization": "Internal Revenue Service",
+    "locations": [
+      "Fresno, California",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Chamblee, Georgia",
+      "Chamblee, Georgia",
+      "Covington, Kentucky",
+      "Lanham, Maryland",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "Saint Louis, Missouri",
+      "Charlotte, North Carolina",
+      "Holtsville, New York",
+      "Philadelphia, Pennsylvania",
+      "Guaynabo, Puerto Rico",
+      "San Juan, Puerto Rico",
+      "Memphis, Tennessee",
+      "Austin, Texas",
+      "Austin, Texas",
+      "Farmers Branch, Texas",
+      "Ogden, Utah",
+      "Kearneysville, West Virginia"
+    ],
+    "description": "WHAT IS INFORMATION TECHNOLOGY? A description of the business units can be found at: https://www.jobs.irs.gov/about/who/business-divisions Position(s) are to be filled in the following area(s): IT - Taxpayer Services / Online Accounts Consider each location carefully when applying. If you are selected for a location, that location will become your official post of duty. REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS",
+    "url": "https://www.usajobs.gov/job/870695600",
+    "posted_at": "2026-05-27T11:04:29.500000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870695600",
+    "title": "Information Technology Specialist (Software Engineer)",
+    "organization": "Internal Revenue Service",
+    "locations": [
+      "Fresno, California",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Chamblee, Georgia",
+      "Chamblee, Georgia",
+      "Covington, Kentucky",
+      "Lanham, Maryland",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "Saint Louis, Missouri",
+      "Charlotte, North Carolina",
+      "Holtsville, New York",
+      "Philadelphia, Pennsylvania",
+      "Guaynabo, Puerto Rico",
+      "San Juan, Puerto Rico",
+      "Memphis, Tennessee",
+      "Austin, Texas",
+      "Austin, Texas",
+      "Farmers Branch, Texas",
+      "Ogden, Utah",
+      "Kearneysville, West Virginia"
+    ],
+    "description": "WHAT IS INFORMATION TECHNOLOGY? A description of the business units can be found at: https://www.jobs.irs.gov/about/who/business-divisions Position(s) are to be filled in the following area(s): IT - Taxpayer Services / Online Accounts Consider each location carefully when applying. If you are selected for a location, that location will become your official post of duty. REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS",
+    "url": "https://www.usajobs.gov/job/870695600",
+    "posted_at": "2026-05-27T11:04:29.500000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870525900",
+    "title": "Supv General Engineer",
+    "organization": "Missile Defense Agency",
+    "locations": [
+      "Dahlgren, Virginia"
+    ],
+    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: ACQDEMO",
+    "url": "https://www.usajobs.gov/job/870525900",
+    "posted_at": "2026-05-27T10:23:14.130000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870669900",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Metairie, Louisiana"
+    ],
+    "description": "This position is located in the DEA, New Orleans Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/870669900",
+    "posted_at": "2026-05-27T09:29:52.390000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870669900",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Metairie, Louisiana"
+    ],
+    "description": "This position is located in the DEA, New Orleans Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/870669900",
+    "posted_at": "2026-05-27T09:29:52.390000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870657700",
+    "title": "Mission and Operations Support Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Jacksonville, Florida",
+      "Tampa, Florida"
+    ],
+    "description": "This position is located in the DEA, Tampa Field Division and Jacksonville District Office. This position(s) primary purpose is to support the Outlying Office (OO) related to GSU and FPU level BOS activities involving: administrative, human resource liaison, fleet management, personal property (accountable and non-accountable) management, security (personnel, physical, and information/communication), inspections/internal control, logistics, TFO management, Imprest, and records management.",
+    "url": "https://www.usajobs.gov/job/870657700",
+    "posted_at": "2026-05-27T08:33:45.827000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870654300",
+    "title": "Supervisory Contract Price/Cost Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the National Energy Technology Laboratory (NETL). As a Supervisory Contract Price/Cost Analyst, you will be responsible for ensuring the financial integrity of the Laboratory's financial assistance management and control processes, including the expert analysis, interpretation of audit reports, development of government positions, and finalization of indirect cost rate agreements for financial assistance recipients and, to a lesser extent, contracts.",
+    "url": "https://www.usajobs.gov/job/870654300",
+    "posted_at": "2026-05-27T08:20:38.173000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870654300",
+    "title": "Supervisory Contract Price/Cost Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the National Energy Technology Laboratory (NETL). As a Supervisory Contract Price/Cost Analyst, you will be responsible for ensuring the financial integrity of the Laboratory's financial assistance management and control processes, including the expert analysis, interpretation of audit reports, development of government positions, and finalization of indirect cost rate agreements for financial assistance recipients and, to a lesser extent, contracts.",
+    "url": "https://www.usajobs.gov/job/870654300",
+    "posted_at": "2026-05-27T08:20:38.173000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870644100",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Alexandria, Louisiana"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/870644100",
+    "posted_at": "2026-05-27T07:01:54.267000",
+    "salary": "5-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870625500",
     "title": "Director, Environmental Management Division",
     "organization": "Headquarters, NASA",
@@ -44,44 +367,16 @@
     "remote": null
   },
   {
-    "job_id": "870525900",
-    "title": "Supv General Engineer",
-    "organization": "Missile Defense Agency",
+    "job_id": "870561700",
+    "title": "Human Resources Specialist (Recruitment and Placement)",
+    "organization": "Drug Enforcement Administration",
     "locations": [
-      "Dahlgren, Virginia"
+      "Arlington, Virginia"
     ],
-    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: ACQDEMO",
-    "url": "https://www.usajobs.gov/job/870525900",
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Human Resources Division (HRD), Diversion Staffing Unit (HRAD). This position(s) primary purpose is to provide specialized strategic and tactical services to recruit positions across the Agency and integrate efforts to develop and execute recruitment and retention incentives and strategies.",
+    "url": "https://www.usajobs.gov/job/870561700",
     "posted_at": "2026-05-27T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870525900",
-    "title": "Supv General Engineer",
-    "organization": "Missile Defense Agency",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: ACQDEMO",
-    "url": "https://www.usajobs.gov/job/870525900",
-    "posted_at": "2026-05-27T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870227600",
-    "title": "General Engineer, AST, Experimental Facility Development (Direct Hire)",
-    "organization": "Langley Research Center",
-    "locations": [
-      "Hampton, Virginia"
-    ],
-    "description": "The Facility Systems Engineer will serve in the Subsonic, Transonic, Supersonic, or Hypersonic Testing Branch providing engineering leadership to sustain/enhance the operational capability of the branches facilities and systems. The position is responsible for developing/implementing modifications to enhance the operating performance, reliability, maintainability, efficiency and capability of Subsonic, Transonic, Supersonic, or Hypersonic Testing Branch facilities.",
-    "url": "https://www.usajobs.gov/job/870227600",
-    "posted_at": "2026-05-27T00:00:00",
-    "salary": "14-14",
+    "salary": "9-12",
     "grade": null,
     "remote": null
   },
@@ -114,16 +409,16 @@
     "remote": null
   },
   {
-    "job_id": "870514400",
-    "title": "SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY",
-    "organization": "Air Force Elements, U.S. Strategic Command",
+    "job_id": "870557900",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
     "locations": [
-      "Dahlgren, Virginia"
+      "West Haven, Connecticut"
     ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to develop, modify, secure, and automate software, analytical methodologies, and processes; and advance computing technologies using state-of-the-art industry best practices",
-    "url": "https://www.usajobs.gov/job/870514400",
-    "posted_at": "2026-05-26T08:48:46.907000",
-    "salary": "2-2",
+    "description": "Position is located in the Digital Health Office VA Connecticut Medical Centers, Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration. This is a 40 hours per week full-time position.",
+    "url": "https://www.usajobs.gov/job/870557900",
+    "posted_at": "2026-05-26T12:06:16.387000",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -262,16 +557,16 @@
     "remote": null
   },
   {
-    "job_id": "870487200",
+    "job_id": "870487700",
     "title": "General Engineer",
     "organization": "Bureau of Industry and Security",
     "locations": [
       "Washington, District of Columbia"
     ],
     "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA) in either of the these two offices: (1) Office of National Security Controls; or (2) Office of Nonproliferation and Foreign Policy Controls If interested, you are encouraged to apply!",
-    "url": "https://www.usajobs.gov/job/870487200",
-    "posted_at": "2026-05-22T18:21:59.997000",
-    "salary": "13-13",
+    "url": "https://www.usajobs.gov/job/870487700",
+    "posted_at": "2026-05-22T18:58:08.870000",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -286,20 +581,6 @@
     "url": "https://www.usajobs.gov/job/870487200",
     "posted_at": "2026-05-22T18:21:59.997000",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870330000",
-    "title": "AST - Aerospace Flight Systems",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "As a Space Reactors Lead System Engineer, you will lead systems engineering for NASA's lunar reactor and space nuclear systems, directing multidisciplinary teams across NASA, industry, and government agencies. You will develop and tailor systems engineering approaches to integrate complex aerospace systems, including space fission systems, while working closely with program management, engineering leads, and contractors to define requirements, interfaces, and verification plans.",
-    "url": "https://www.usajobs.gov/job/870330000",
-    "posted_at": "2026-05-22T13:10:52.413000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -346,16 +627,15 @@
     "remote": null
   },
   {
-    "job_id": "870421700",
-    "title": "Business Operations Specialist (Recent Graduate)",
+    "job_id": "870429700",
+    "title": "Facility Operations Specialist (Recent Graduate)",
     "organization": "Drug Enforcement Administration",
     "locations": [
-      "Londonderry, New Hampshire",
-      "Lorton, Virginia"
+      "Quantico, Virginia"
     ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Forensic Laboratories. The Recent Graduates Program offers dynamic, 1 to 2-year program opportunities that give early career talent the chance to support key Foreign Science (FS) program functions through focused administrative and technical work. Selectees will learn and contribute to essential FS operations by providing liaison, administrative, and financial support services.",
-    "url": "https://www.usajobs.gov/job/870421700",
-    "posted_at": "2026-05-22T12:00:15.037000",
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Operations Division, Office of Training. The Recent Graduates Program offers dynamic, 1 to 2-year opportunities that give early career talent the chance to support key facility operations functions through focused administrative and technical work. Selectees will learn and contribute to essential facility operations functions, ensure process accuracy, and apply their organizational skills in a mission-driven environment.",
+    "url": "https://www.usajobs.gov/job/870429700",
+    "posted_at": "2026-05-22T12:01:01.503000",
     "salary": "9-9",
     "grade": null,
     "remote": null
@@ -389,6 +669,20 @@
     "remote": null
   },
   {
+    "job_id": "870376600",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Weston, Florida"
+    ],
+    "description": "This position is located in the DEA, Miami Field Division This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/870376600",
+    "posted_at": "2026-05-22T08:04:57.127000",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870376000",
     "title": "Mission Support Specialist",
     "organization": "Drug Enforcement Administration",
@@ -399,34 +693,6 @@
     "url": "https://www.usajobs.gov/job/870376000",
     "posted_at": "2026-05-22T08:03:16.980000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870360600",
-    "title": "IT SPECIALIST (AI)",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Woodlawn, Maryland"
-    ],
-    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Information Technology,(OIT), Enterprise Systems Solutions Group (ESSG). As a IT SPECIALIST (AI), GS-2210-14, you will serve as a technical lead that uses Artificial Intelligence (AI) to deliver business outcomes from ideation through deployments and serve as a technical expert in the design and development of systems.",
-    "url": "https://www.usajobs.gov/job/870360600",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870337300",
-    "title": "AST - Electrical Power Systems, Electrical Engineer (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "You will serve as an Electrical Engineer responsible for defining, designing, integrating, and evaluating spacecraft Electrical Power Distribution and Control (EPDC) systems and interfaces. You will provide technical expertise in power systems, hardware development, testing, verification, anomaly resolution, and mission integration activities.",
-    "url": "https://www.usajobs.gov/job/870337300",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -473,6 +739,20 @@
     "remote": null
   },
   {
+    "job_id": "870299000",
+    "title": "IT Specialist (Network Services)",
+    "organization": "Bureau of Economic Analysis",
+    "locations": [
+      "Suitland, Maryland"
+    ],
+    "description": "This vacancy is for an IT Specialist (Network Services) position in the Office of the Chief Information Officer located at the Bureau of Economic Analysis. This Job Opportunity Announcement may be used to fill other IT Specialist (Network Services), ZP-2210-4, positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.",
+    "url": "https://www.usajobs.gov/job/870299000",
+    "posted_at": "2026-05-22T00:00:00",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870285300",
     "title": "Chief Technology Officer",
     "organization": "Drug Enforcement Administration",
@@ -483,6 +763,20 @@
     "url": "https://www.usajobs.gov/job/870285300",
     "posted_at": "2026-05-22T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870250200",
+    "title": "Interdisciplinary",
+    "organization": "Office of the Secretary of Defense",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Office of the Secretary of Defense, Chief Digital Artificial Intelligence Office (CDAO), Executive Decisions Support Branch in the Business Analytics and Insights Division of the CDAO Business Analytics Directorate. * Announcement Extended due to approved request from agency.",
+    "url": "https://www.usajobs.gov/job/870250200",
+    "posted_at": "2026-05-22T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -640,38 +934,6 @@
     "remote": null
   },
   {
-    "job_id": "870154300",
-    "title": "Grants Management Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Albany, Oregon",
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the Office of Fossil Energy and Carbon Management - National Energy Technology Laboratory, Department of Energy. As a Grants Management Specialist, you will manage all aspects of the functional area of financial assistance management, including award, solicitation, negotiations, cost and price analysis, award, administration, termination, and close-out for a variety of assistance agreements.",
-    "url": "https://www.usajobs.gov/job/870154300",
-    "posted_at": "2026-05-21T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870154300",
-    "title": "Grants Management Specialist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Albany, Oregon",
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the Office of Fossil Energy and Carbon Management - National Energy Technology Laboratory, Department of Energy. As a Grants Management Specialist, you will manage all aspects of the functional area of financial assistance management, including award, solicitation, negotiations, cost and price analysis, award, administration, termination, and close-out for a variety of assistance agreements.",
-    "url": "https://www.usajobs.gov/job/870154300",
-    "posted_at": "2026-05-21T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870136500",
     "title": "Chief Artificial Intelligence Officer/Chief Science and Technology Advisor",
     "organization": "Offices, Boards and Divisions",
@@ -696,20 +958,6 @@
     "url": "https://www.usajobs.gov/job/870053500",
     "posted_at": "2026-05-21T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868774000",
-    "title": "General Engineer, AST - Payload Processing Operations (Direct Hire)",
-    "organization": "John F. Kennedy Space Center",
-    "locations": [
-      "Kennedy Space Center, Florida"
-    ],
-    "description": "Serve as a Flow and Crew & Service Module Lead with the Orion Program, for Orion Productions Operations (OPO). You will be responsible for insight and oversight of Orion spacecraft assembly, integration, and production (AI&P) operations in support of a specific Artemis mission. You will manage the internal OPO certification of flight readiness process for the as-built spacecraft and perform assessments of spacecraft technical, and schedule risk and AI&P performance.",
-    "url": "https://www.usajobs.gov/job/868774000",
-    "posted_at": "2026-05-21T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -786,20 +1034,6 @@
     "remote": null
   },
   {
-    "job_id": "870087100",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Altoona, Pennsylvania"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/870087100",
-    "posted_at": "2026-05-20T12:40:27.643000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870078200",
     "title": "Business Development Specialist (Export Finance & Global Business Development)",
     "organization": "Export-Import Bank of the United States",
@@ -809,34 +1043,6 @@
     "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Delegated Examining (DE) procedures vacancy number: D26-MJ-12958196-CCO. Applicants who wish to also be considered under DE must apply to both vacancies separately. About this agency",
     "url": "https://www.usajobs.gov/job/870078200",
     "posted_at": "2026-05-20T12:12:05.517000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870078200",
-    "title": "Business Development Specialist (Export Finance & Global Business Development)",
-    "organization": "Export-Import Bank of the United States",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Delegated Examining (DE) procedures vacancy number: D26-MJ-12958196-CCO. Applicants who wish to also be considered under DE must apply to both vacancies separately. About this agency",
-    "url": "https://www.usajobs.gov/job/870078200",
-    "posted_at": "2026-05-20T12:12:05.517000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870078000",
-    "title": "Business Development Specialist (Export Finance & Global Business Development)",
-    "organization": "Export-Import Bank of the United States",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Merit Promotion (MP) procedures vacancy number: M26-MJ-12958197-CCO. Applicants who wish to also be considered under MP must apply to both vacancies separately. About this agency",
-    "url": "https://www.usajobs.gov/job/870078000",
-    "posted_at": "2026-05-20T12:11:26.727000",
     "salary": "11-12",
     "grade": null,
     "remote": null
@@ -866,34 +1072,6 @@
     "url": "https://www.usajobs.gov/job/870017100",
     "posted_at": "2026-05-20T08:14:06.573000",
     "salary": "7-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870017100",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Saint Cloud, Minnesota"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/870017100",
-    "posted_at": "2026-05-20T08:14:06.573000",
-    "salary": "7-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869998100",
-    "title": "Program Documentation and AI Integration",
-    "organization": "Agricultural Marketing Service",
-    "locations": [
-      "Kansas City, Missouri"
-    ],
-    "description": "Make an impact while you learn. The Semester of Service Program offers students a volunteer project-based opportunity to support real Federal missions, gaining hands-on experience and valuable career-ready skills. Students must be enrolled not less than half-time in an accredited trade school, technical or vocational institute, junior college, college, university, or other accredited educational institution. With this project, you'll support an AI based project.",
-    "url": "https://www.usajobs.gov/job/869998100",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -980,48 +1158,6 @@
     "remote": null
   },
   {
-    "job_id": "869675600",
-    "title": "General Engineer, AST, Technical Resources Management",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "As the Space Reactors Lead Contracting Officer's Representative/Agreements Manager, you will lead acquisition planning and execution activities supporting space fission system missions. You will coordinate procurement, legal, and technical stakeholders to support timely acquisitions, contractor performance, and mission objectives while ensuring alignment with NASA and Department of Energy acquisition policies and regulations.",
-    "url": "https://www.usajobs.gov/job/869675600",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869675600",
-    "title": "General Engineer, AST, Technical Resources Management",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "As the Space Reactors Lead Contracting Officer's Representative/Agreements Manager, you will lead acquisition planning and execution activities supporting space fission system missions. You will coordinate procurement, legal, and technical stakeholders to support timely acquisitions, contractor performance, and mission objectives while ensuring alignment with NASA and Department of Energy acquisition policies and regulations.",
-    "url": "https://www.usajobs.gov/job/869675600",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869675400",
-    "title": "General Engineer, AST, Technical Resources Management",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "As the Space Reactors Nuclear Launch Authorization Manager, you will serve as NASA's principal lead for regulatory procedures supporting space nuclear reactor launch authorization and NEPA compliance. You will facilitate launch authorization activities for space fission systems in accordance with National Presidential Memorandum-20 and the National Environmental Policy Act (NEPA), while supporting Federal radiological response and recovery planning activities.",
-    "url": "https://www.usajobs.gov/job/869675400",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869945300",
     "title": "Program Analyst",
     "organization": "Drug Enforcement Administration",
@@ -1092,15 +1228,15 @@
     "remote": null
   },
   {
-    "job_id": "869828300",
-    "title": "Acquisition Program Manager",
-    "organization": "Office of the Director of National Intelligence",
+    "job_id": "869746100",
+    "title": "Supervisory Attorney Advisor",
+    "organization": "Office of Personnel Management",
     "locations": [
-      "McLean, Virginia"
+      "Washington, District of Columbia"
     ],
-    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
-    "url": "https://www.usajobs.gov/job/869828300",
-    "posted_at": "2026-05-19T06:58:29.607000",
+    "description": "The Office of General Counsel (OGC) seeks a highly qualified and experienced attorney to serve as a Supervisory Attorney Advisor. In this role, the incumbent acts as a senior legal advisor to agency leadership and provides supervisory and managerial oversight of attorneys delivering legal counsel and services across a broad range of internal and governmentwide programs affecting more than 8 million Federal employees, retirees, and family members.",
+    "url": "https://www.usajobs.gov/job/869746100",
+    "posted_at": "2026-05-18T13:35:58.347000",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -1406,20 +1542,6 @@
     "remote": null
   },
   {
-    "job_id": "869139500",
-    "title": "AST, Liquid Propulsion Systems",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Cleveland, Ohio"
-    ],
-    "description": "The Chemical and Thermal Propulsion Systems Branch, Propulsion Division, Research & Engineering Directorate is filling the following positions supporting Orion European Service Module Propulsion: European Service Module Engines Lead European Service Module Propulsion Subsystem Components Lead European Service Module Propulsion Integration Lead These positions involve leading the development, design, analysis, test and operation of space propulsion systems for human rated aerospace vehicles.",
-    "url": "https://www.usajobs.gov/job/869139500",
-    "posted_at": "2026-05-18T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869515000",
     "title": "Computer Science & Engineering Professionals - Mid to Expert Level (Maryland)",
     "organization": "National Security Agency/Central Security Service",
@@ -1494,6 +1616,20 @@
     "remote": null
   },
   {
+    "job_id": "869655600",
+    "title": "Deputy Chief Financial Executive",
+    "organization": "National Geospatial-Intelligence Agency",
+    "locations": [
+      "Springfield, Virginia"
+    ],
+    "description": "Deputy Chief Financial Executive",
+    "url": "https://www.usajobs.gov/job/869655600",
+    "posted_at": "2026-05-14T00:00:00",
+    "salary": "02-02",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "869128300",
     "title": "Operations Research Analyst/Computer Scientist/Data Scientist",
     "organization": "Air Force Elements, U.S. Transportation Command",
@@ -1504,62 +1640,6 @@
     "url": "https://www.usajobs.gov/job/869128300",
     "posted_at": "2026-05-13T12:40:42.167000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869035100",
-    "title": "Planetary Defense Officer",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "NASA's Planetary Science Division, within the Science Mission Directorate, leads robotic exploration across the solar system-excluding the Sun and Earth-to advance understanding of planetary formation, evolution, and the potential for life. The Division also includes NASA's Planetary Defense Coordination Office, which oversees efforts to detect, track, and characterize asteroids and comets that may pose a threat to Earth.",
-    "url": "https://www.usajobs.gov/job/869035100",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868972200",
-    "title": "Vice Deputy Director for Regional Operations and Force Management",
-    "organization": "Organization of the Joint Chiefs of Staff",
-    "locations": [
-      "Norfolk, Virginia"
-    ],
-    "description": "This position is located in the Joint Staff, Director of Operations and is the Vice Deputy Director for Regional Operations and Force Management, Norfolk, reporting directly to the Deputy Director for Regional Operations, military 0-7.",
-    "url": "https://www.usajobs.gov/job/868972200",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868972200",
-    "title": "Vice Deputy Director for Regional Operations and Force Management",
-    "organization": "Organization of the Joint Chiefs of Staff",
-    "locations": [
-      "Norfolk, Virginia"
-    ],
-    "description": "This position is located in the Joint Staff, Director of Operations and is the Vice Deputy Director for Regional Operations and Force Management, Norfolk, reporting directly to the Deputy Director for Regional Operations, military 0-7.",
-    "url": "https://www.usajobs.gov/job/868972200",
-    "posted_at": "2026-05-13T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869046000",
-    "title": "Senior Technical Advisor - Executive Records and Information Management Program",
-    "organization": "U.S. Secret Service",
-    "locations": [
-      "District of Columbia, District of Columbia"
-    ],
-    "description": "The U.S. Secret Service is seeking a results driven Senior Technical Advisor to carry out the overall planning and oversight of the agency-wide records and information management programs.",
-    "url": "https://www.usajobs.gov/job/869046000",
-    "posted_at": "2026-05-12T17:44:29.853000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -1588,20 +1668,6 @@
     "url": "https://www.usajobs.gov/job/868772700",
     "posted_at": "2026-05-12T00:00:00",
     "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868020000",
-    "title": "Supervisory General Attorney (Labor)",
-    "organization": "Office of the Solicitor",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Department of Labor, Office of the Solicitor (SOL), Division of Management and Administrative Legal Services (MALS). We are seeking a FOIA and Info Law attorney to serve as DOL's senior advisor on legal issues related to the Freedom of Information Act, Privacy Act, and other related information law statutes and the protection and handling of personal, private, controlled unclassified, or proprietary information-with the potential to damage the public's trust.",
-    "url": "https://www.usajobs.gov/job/868020000",
-    "posted_at": "2026-05-05T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1766,39 +1832,6 @@
     "remote": null
   },
   {
-    "job_id": "867111400",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/867111400",
-    "posted_at": "2026-05-01T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "867188700",
     "title": "Director, Center for Infrastructure Systems and Technology",
     "organization": "Office of the Secretary of Transportation",
@@ -1823,284 +1856,6 @@
     "url": "https://www.usajobs.gov/job/867188700",
     "posted_at": "2026-04-30T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "866361900",
-    "title": "Foreign Service Office Management Specialist (FS 9017)",
-    "organization": "Department of State - Agency Wide",
-    "locations": [
-      "Montevideo, Uruguay",
-      "Toshkent, Uzbekistan",
-      "Vatican City, Vatican City",
-      "Caracas, Venezuela",
-      "Hanoi, Vietnam",
-      "Ho Chi Minh City, Vietnam",
-      "San'A, Yemen",
-      "Lusaka, Zambia",
-      "Harare, Zimbabwe",
-      "Kabul, Afghanistan",
-      "Tirane, Albania",
-      "Algiers, Algeria",
-      "Luanda, Angola",
-      "Buenos Aires, Argentina",
-      "Yerevan, Armenia",
-      "Canberra, Australia",
-      "Melbourne, Australia",
-      "Perth, Australia",
-      "Sydney, Australia",
-      "Vienna, Austria",
-      "Baku, Azerbaijan",
-      "Nassau, Bahamas",
-      "Manama, Bahrain",
-      "Dhaka, Bangladesh",
-      "Bridgetown, Barbados",
-      "Minsk, Belarus",
-      "Brussels, Belgium",
-      "Belmopan, Belize",
-      "Cotonou, Benin",
-      "Hamilton, Bermuda",
-      "La Paz, Bolivia",
-      "Banja Luka, Bosnia and Herzegovina",
-      "Mostar, Bosnia and Herzegovina",
-      "Sarajevo, Bosnia and Herzegovina",
-      "Gaborone, Botswana",
-      "Brasilia, Brazil",
-      "Recife, Pernambuco, Brazil",
-      "Rio De Janeiro, Brazil",
-      "Sao Paulo, Brazil",
-      "Bandar Seri Begawan, Brunei",
-      "Sofia, Bulgaria",
-      "Ouagadougou, Burkina Faso",
-      "Rangoon, Burma",
-      "Bujumbura, Burundi",
-      "Phnom Penh, Cambodia",
-      "Douala, Cameroon",
-      "Yaounde, Cameroon",
-      "Calgary, Canada",
-      "Halifax, Canada",
-      "Montreal, Canada",
-      "Ottawa, Canada",
-      "Quebec, Canada",
-      "Toronto, Canada",
-      "Vancouver, Canada",
-      "Winnipeg, Canada",
-      "Praia, Cape Verde",
-      "Bangui, Central African Republic",
-      "Ndjamena, Chad",
-      "Santiago, Chile",
-      "Beijing, China",
-      "Chengdu, China",
-      "Guangzhou, China",
-      "Shanghai, China",
-      "Shenyang, China",
-      "Wuhan, China",
-      "Bogota, Colombia",
-      "Cartagena, Colombia",
-      "Brazzaville, Congo",
-      "Kinshasa, Congo (DRC)",
-      "San Jose, Costa Rica",
-      "Abidjan, Cote D'Ivoire",
-      "Zagreb, Croatia",
-      "Havana, Cuba",
-      "Nicosia, Cyprus",
-      "Prague, Czech Republic",
-      "Damascus, Syria",
-      "Copenhagen, Denmark",
-      "Ali Sabih, Djibouti",
-      "Djibouti, Djibouti",
-      "Santo Domingo, Dominican Republic",
-      "Dili, Timor-Leste",
-      "Guayaquil, Ecuador",
-      "Quito, Ecuador",
-      "Alexandria, Egypt",
-      "Cairo, Egypt",
-      "San Salvador, El Salvador",
-      "Malabo, Equatorial Guinea",
-      "Asmara, Eritrea",
-      "Tallinn, Estonia",
-      "Addis Ababa, Ethiopia",
-      "Suva, Viti Levu, Fiji",
-      "Helsinki, Finland",
-      "Bordeaux, France",
-      "Lyon, France",
-      "Marseille, France",
-      "Paris, France",
-      "Rennes, France",
-      "Strasbourg, France",
-      "Toulouse, France",
-      "Libreville, Gabon",
-      "Banjul, Gambia, The",
-      "Tbilisi, Republic of Georgia",
-      "Berlin, Germany",
-      "Dusseldorf, Germany",
-      "Frankfurt, Germany",
-      "Hamburg, Germany",
-      "Leipzig, Germany",
-      "Munich, Germany",
-      "Accra, Ghana",
-      "Athens, Greece",
-      "Thessaloniki, Greece",
-      "Saint Georges, Grenada",
-      "Guatemala City, Guatemala",
-      "Conakry, Guinea",
-      "Georgetown, Guyana",
-      "Port-Au-Prince, Haiti",
-      "Tegucigalpa, Honduras",
-      "Hong Kong, Hong Kong",
-      "Budapest, Hungary",
-      "Reykjavik, Iceland",
-      "Calcutta, India",
-      "Chennai, India",
-      "Hyderabad, India",
-      "Mumbai, India",
-      "New Delhi, India",
-      "Jakarta, Java, Indonesia",
-      "Medan, Sumatra, Indonesia",
-      "Surabaya, Indonesia",
-      "Baghdad, Iraq",
-      "Kirkuk, Iraq",
-      "Dublin, Ireland",
-      "Jerusalem, Israel",
-      "Tel Aviv, Israel",
-      "Florence, Italy",
-      "Milan, Italy",
-      "Naples, Italy",
-      "Rome, Italy",
-      "Kingston, Jamaica",
-      "Fukuoka, Japan",
-      "Nagoya, Japan",
-      "Naha, Okinawa, Japan",
-      "Osaka, Japan",
-      "Sapporo, Japan",
-      "Tokyo, Japan",
-      "Amman, Jordan",
-      "Almaty, Kazakhstan",
-      "Astana, Kazakhstan",
-      "Nairobi, Kenya",
-      "Seoul, South Korea",
-      "Pristina, Kosovo",
-      "Kuwait City, Kuwait",
-      "Bishkek, Kyrgyzstan",
-      "Vientiane, Laos",
-      "Riga, Latvia",
-      "Beirut, Lebanon",
-      "Maseru, Lesotho",
-      "Monrovia, Liberia",
-      "Tripoli, Libya",
-      "Vilnius, Lithuania",
-      "Luxembourg, Luxembourg",
-      "Skopje, North Macedonia",
-      "Antananarivo, Madagascar",
-      "Lilongwe, Malawi",
-      "Kuala Lumpur, Malaysia",
-      "Bamako, Mali",
-      "Valletta, Malta",
-      "Majuro Atoll, Marshall Islands",
-      "Nouakchott, Mauritania",
-      "Port Louis, Mauritius",
-      "Ciudad Juarez, Mexico",
-      "Guadalajara, Mexico",
-      "Hermosillo, Mexico",
-      "Matamoros, Mexico",
-      "Merida, Mexico",
-      "Mexico City, Mexico",
-      "Monterrey, Mexico",
-      "Nogales, Mexico",
-      "Nuevo Laredo, Mexico",
-      "Tijuana, Mexico",
-      "Kolonia, Micronesia (FSM)",
-      "Chisinau, Moldova",
-      "Ulaanbaatar, Mongolia",
-      "Podgorica, Montenegro",
-      "Casablanca, Morocco",
-      "Rabat, Morocco",
-      "Maputo, Mozambique",
-      "Windhoek, Namibia",
-      "Kathmandu, Nepal",
-      "Amsterdam, Netherlands",
-      "The Hague, Netherlands",
-      "Curacao, Netherlands Antilles",
-      "Auckland, New Zealand",
-      "Wellington, New Zealand",
-      "Managua, Nicaragua",
-      "Niamey, Niger",
-      "Abuja, Nigeria",
-      "Lagos, Nigeria",
-      "Oslo, Norway",
-      "Muscat, Oman",
-      "Islamabad, Pakistan",
-      "Karachi, Pakistan",
-      "Lahore, Pakistan",
-      "Peshawar, Pakistan",
-      "Koror, Caroline Island, Palau",
-      "Panama City, Panama",
-      "Port Moresby, Papua New Guinea",
-      "Asuncion, Paraguay",
-      "Lima, Peru",
-      "Manila, Philippines",
-      "Krakow, Poland",
-      "Warsaw, Poland",
-      "Lisbon, Portugal",
-      "Ponta Delgada, Portugal",
-      "Doha, Qatar",
-      "Bucharest, Romania",
-      "Moscow, Russia",
-      "Saint Petersburg, Russia",
-      "Vladivostok, Russia",
-      "Yekaterinburg, Russia",
-      "Kigali, Rwanda",
-      "Apia, Samoa",
-      "Singapore, Singapore",
-      "Dhahran, Saudi Arabia",
-      "Riyadh, Saudi Arabia",
-      "Dakar, Senegal",
-      "Freetown, Sierra Leone",
-      "Bratislava, Slovakia",
-      "Ljubljana, Slovenia",
-      "Muqdisho, Somalia",
-      "Capetown, South Africa",
-      "Durban, South Africa",
-      "Johannesburg, South Africa",
-      "Pretoria, South Africa",
-      "Barcelona, Spain",
-      "Madrid, Spain",
-      "Colombo, Sri Lanka",
-      "Juba, Sudan",
-      "Khartoum, Sudan",
-      "Paramaribo, Suriname",
-      "Mbabane, Eswatini",
-      "Stockholm, Sweden",
-      "Geneva, Switzerland",
-      "Dushanbe, Tajikistan",
-      "Dar Es Salaam, Tanzania",
-      "Bangkok, Thailand",
-      "Chiang Mai, Thailand",
-      "Lome, Togo",
-      "Port of Spain, Trinidad and Tobago",
-      "Tunis, Tunisia",
-      "Adana, Turkey",
-      "Ankara, Turkey",
-      "Gaziantep, Turkey",
-      "Istanbul, Turkey",
-      "Asqabat, Turkmenistan",
-      "Kampala, Uganda",
-      "Kiev, Ukraine",
-      "Abu Dhabi, United Arab Emirates",
-      "Dubai, United Arab Emirates",
-      "Belfast, United Kingdom",
-      "Edinburgh, United Kingdom",
-      "London, United Kingdom",
-      "District of Columbia, District of Columbia",
-      "Fort Lauderdale, Florida",
-      "New York, New York",
-      "Belgrade, Serbia"
-    ],
-    "description": "The U.S. Department of State is developing a rank-ordered list of eligible hires for a limited number of Foreign Service Office Management Specialist (OMS) positions. Learn more about Foreign Service careers at https://careers.state.gov. There is more to joining the Foreign Service than just the base salary. Refer to the Benefits section for more information on total compensation.",
-    "url": "https://www.usajobs.gov/job/866361900",
-    "posted_at": "2026-04-27T00:00:00",
-    "salary": "06-06",
     "grade": null,
     "remote": null
   }
