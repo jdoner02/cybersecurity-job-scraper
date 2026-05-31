@@ -310,6 +310,81 @@
     "remote": null
   },
   {
+    "job_id": "870523100",
+    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+    "organization": "Air Force Global Strike Command",
+    "locations": [
+      "Ellsworth AFB, South Dakota"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve as the Advanced Program Office Information Assurance Specialist assigned as the wing commander's authority and focal point for Information Assurance. Manages the communication-computer security program, Communications Security Responsibility Officer, Emission Security, and Information Assurance Awareness Programs.",
+    "url": "https://www.usajobs.gov/job/870523100",
+    "posted_at": "2026-05-28T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870790000",
+    "title": "IT Specialist",
+    "organization": "Deputy Assistant Secretary for Information and Technology",
+    "locations": [
+      "Anaheim, California",
+      "Long Beach, California",
+      "Los Angeles, California",
+      "Oakland, California",
+      "San Francisco, California",
+      "Aurora, Colorado",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Orlando, Florida",
+      "Saint Petersburg, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Hines, Illinois",
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas",
+      "Detroit, Michigan",
+      "Eatontown, New Jersey",
+      "Albany, New York",
+      "Cleveland, Ohio",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Davidson, Tennessee",
+      "Murfreesboro, Tennessee",
+      "Nashville, Tennessee",
+      "Austin, Texas",
+      "Houston, Texas",
+      "San Antonio, Texas",
+      "Salt Lake City, Utah",
+      "Martinsburg, West Virginia",
+      "Shepherdstown, West Virginia"
+    ],
+    "description": "This position is located in Department of Veterans Affairs (VA), Office of Information and Technology (OIT) serving as an IT Specialist providing central engineering services and develops the technical framework promoting one technology vision across VA, supporting system optimization, integration, and interoperability throughout the enterprise.",
+    "url": "https://www.usajobs.gov/job/870790000",
+    "posted_at": "2026-05-27T17:22:12.307000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870766300",
     "title": "Biomedical Equipment Support Specialist Information (Information Systems)",
     "organization": "Veterans Health Administration",
@@ -778,34 +853,6 @@
     "remote": null
   },
   {
-    "job_id": "870505900",
-    "title": "IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-13, IT Cybersecurity Specialist (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC INFRASTRUCT SECURITY SERVICES BRANCH in ALEXANDRIA, Virginia.",
-    "url": "https://www.usajobs.gov/job/870505900",
-    "posted_at": "2026-05-26T09:30:21.327000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870511800",
-    "title": "IT Cybersecurity Specialist (PLCYPLN-INFOSEC)",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Kearneysville, West Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-14, IT Cybersecurity Specialist (PLCYPLN-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, C5ISC Infrastructure Services Division, Boundary Protection Services in KEARNEYSVILLE, West Virginia.",
-    "url": "https://www.usajobs.gov/job/870511800",
-    "posted_at": "2026-05-26T08:26:51.010000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870509500",
     "title": "Supervisory Financial Operations Specialist (Branch Chief)",
     "organization": "Office of the Assistant Secretary for Administration and Management",
@@ -1210,6 +1257,20 @@
     "remote": null
   },
   {
+    "job_id": "870487200",
+    "title": "General Engineer",
+    "organization": "Bureau of Industry and Security",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA) in either of the these two offices: (1) Office of National Security Controls; or (2) Office of Nonproliferation and Foreign Policy Controls If interested, you are encouraged to apply!",
+    "url": "https://www.usajobs.gov/job/870487200",
+    "posted_at": "2026-05-22T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870269500",
     "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -1434,6 +1495,22 @@
     "remote": null
   },
   {
+    "job_id": "869151300",
+    "title": "Supervisory Management & Program Analyst",
+    "organization": "Federal Aviation Administration",
+    "locations": [
+      "Washington, District of Columbia",
+      "Atlantic City, New Jersey",
+      "Oklahoma City, Oklahoma"
+    ],
+    "description": "The Supervisory Management & Program Analyst will manage the Software Delivery Facilitation Service Branch within the IT Enterprise Software Management Division of the Office of Information and Technology, Strategy and Performance Service.",
+    "url": "https://www.usajobs.gov/job/869151300",
+    "posted_at": "2026-05-20T00:00:00",
+    "salary": "J-J",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "869863200",
     "title": "Director, Office of Continuity and Security Management",
     "organization": "National Credit Union Administration",
@@ -1514,6 +1591,20 @@
     "url": "https://www.usajobs.gov/job/869746100",
     "posted_at": "2026-05-18T13:35:58.347000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "869719800",
+    "title": "Quantum Algorithm Architect - Experienced to Expert Level (MD)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Quantum Algorithm Architect at NSA, your creativity & that of your team is essential to investigating and implementing effective technical solutions for our Nation. Your efforts will drive global impacts that may include saving the lives of U.S. and allied soldiers, providing U.S. policy and decision makers with critical, timely intelligence, ensuring the continued safety of U.S. citizens and residents by thwarting foreign adversaries, and defending vital networks. https://www.lps.umd.edu",
+    "url": "https://www.usajobs.gov/job/869719800",
+    "posted_at": "2026-05-18T12:07:03.223000",
+    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -1746,48 +1837,6 @@
     "url": "https://www.usajobs.gov/job/867654700",
     "posted_at": "2026-05-06T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867338000",
-    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
-    "organization": "Air National Guard Units",
-    "locations": [
-      "South Burlington, Vermont"
-    ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 32 EXCEPTED SERVICE POSITION. This National Guard position is for an IT Cybersecurity Specialist, Position Description Number D2791000 and is part of the 158th Mission Support Group of the Vermont Air National Guard. This position is also advertised to Active Guard Reserve Airmen under announcement number MVA-26-17.",
-    "url": "https://www.usajobs.gov/job/867338000",
-    "posted_at": "2026-04-30T09:01:54.500000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867188700",
-    "title": "Director, Center for Infrastructure Systems and Technology",
-    "organization": "Office of the Secretary of Transportation",
-    "locations": [
-      "Cambridge, Massachusetts"
-    ],
-    "description": "This position leads and oversees the Center for Infrastructure Systems and Technology within the Department of Transportation's Office of the Assistant Secretary for Research and Technology (OST-R), John A. Volpe National Transportation Center (Volpe), located in Cambridge, MA. The position is comprised of seven technical divisions with a combined federal staffing of more than 103 employees, a portfolio of 166 projects, and annual obligations of over $81million, on average.",
-    "url": "https://www.usajobs.gov/job/867188700",
-    "posted_at": "2026-04-30T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "867135700",
-    "title": "SUPERVISORY ACQUISITION PROGRAM MANAGEMENT SPECIALIST - DIRECT HIRE AUTHORITY",
-    "organization": "Air Force Materiel Command",
-    "locations": [
-      "Wright-Patterson AFB, Ohio"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to plan and direct the activities of a Branch level organization. To serve as a first-level supervisor, planning, directing, organizing and exercising leadership over nonsupervisory employees assigned to the Enterprise Technology Branch.",
-    "url": "https://www.usajobs.gov/job/867135700",
-    "posted_at": "2026-04-30T00:00:00",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   }
