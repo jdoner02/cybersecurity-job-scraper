@@ -1,21 +1,141 @@
 [
   {
-    "job_id": "871051400",
-    "title": "IT Project Manager (APPSW)",
-    "organization": "Defense Logistics Agency",
+    "job_id": "871155000",
+    "title": "PROGRAM ANALYST",
+    "organization": "Air Combat Command",
     "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
+      "Nellis AFB, Nevada"
     ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $106,437 - $138,370 Columbus, OH: $111,065- $144,386 Dayton, OH: $110,401- $143,523 Fort Belvoir, VA: $121,785- $158,322 New Cumberland, PA: $121,785- $158,322 Ogden, UT: $106,437 - $138,370 Philadelphia, PA: $117,284- $152,471 Richmond, VA: $111,183- $144,54",
-    "url": "https://www.usajobs.gov/job/871051400",
-    "posted_at": "2026-05-29T11:40:19.940000",
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information.",
+    "url": "https://www.usajobs.gov/job/871155000",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871123300",
+    "title": "IT Specialist (Security)",
+    "organization": "Missile Defense Agency",
+    "locations": [
+      "Redstone Arsenal, Alabama",
+      "Schriever AFB, Colorado"
+    ],
+    "description": "This position is part of the Department of Defense (DoD), Missile Defense Agency (MDA). The incumbent will be responsible for serving as the Information System Security Officer (ISSO)/ Vulnerability Analyst for operational assets of a programs/projects/elements Salary Ranges are the following unless statutory/regulatory rates prevail. For the Schriever AFB, CO Location: $91,870 to $142,022 For the Redstone Arsenal, AL Location: $93,216 to $144,102",
+    "url": "https://www.usajobs.gov/job/871123300",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "3-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871110300",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "U.S. Air Forces, Europe",
+    "locations": [
+      "Ramstein, Germany"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/871110300",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871102900",
+    "title": "IT Cybersecurity Specialist (CUSTSPT-INFOSEC)",
+    "organization": "U.S. Coast Guard",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This vacancy is for a GS-2210-13, IT Cybersecurity Specialist (CUSTSPT-INFOSEC) located in the Department of Homeland Security, U.S. Coast Guard, Asset Logistics Division (ALD), Internal Controls & Software Management Branch (ICSM), Software Acquisition Section (SAS) in Alexandria, VA.",
+    "url": "https://www.usajobs.gov/job/871102900",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871097600",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
+    "locations": [
+      "McConnell AFB, Kansas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and others.",
+    "url": "https://www.usajobs.gov/job/871097600",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871084900",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Moody AFB, Georgia"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and others.",
+    "url": "https://www.usajobs.gov/job/871084900",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871064400",
+    "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
+    "organization": "Defense Finance and Accounting Service",
+    "locations": [
+      "Indianapolis, Indiana"
+    ],
+    "description": "Defense Finance and Accounting Services (DFAS) mission is to lead the Department of Defense (DoD) in finance and accounting by ensuring the delivery of efficient, exceptional quality pay and financial information.",
+    "url": "https://www.usajobs.gov/job/871064400",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871062800",
+    "title": "ACTIVITY PROGRAM COORDINATOR",
+    "organization": "United States Space Force",
+    "locations": [
+      "Buckley AFB, Colorado"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the activity leadership for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program, and others.",
+    "url": "https://www.usajobs.gov/job/871062800",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870811700",
+    "title": "IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the DISA DBC/CYBER DEVELOPMENT DIRECTORATE.",
+    "url": "https://www.usajobs.gov/job/870811700",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871157600",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is located in Defense Information Systems Agency, DISA at Fort Meade.",
+    "url": "https://www.usajobs.gov/job/871157600",
+    "posted_at": "2026-05-31T14:18:32.063000",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -310,81 +430,6 @@
     "remote": null
   },
   {
-    "job_id": "870523100",
-    "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
-    "organization": "Air Force Global Strike Command",
-    "locations": [
-      "Ellsworth AFB, South Dakota"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve as the Advanced Program Office Information Assurance Specialist assigned as the wing commander's authority and focal point for Information Assurance. Manages the communication-computer security program, Communications Security Responsibility Officer, Emission Security, and Information Assurance Awareness Programs.",
-    "url": "https://www.usajobs.gov/job/870523100",
-    "posted_at": "2026-05-28T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870790000",
-    "title": "IT Specialist",
-    "organization": "Deputy Assistant Secretary for Information and Technology",
-    "locations": [
-      "Anaheim, California",
-      "Long Beach, California",
-      "Los Angeles, California",
-      "Oakland, California",
-      "San Francisco, California",
-      "Aurora, Colorado",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Orlando, Florida",
-      "Saint Petersburg, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Hines, Illinois",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
-      "Detroit, Michigan",
-      "Eatontown, New Jersey",
-      "Albany, New York",
-      "Cleveland, Ohio",
-      "Philadelphia, Pennsylvania",
-      "Pittsburgh, Pennsylvania",
-      "Davidson, Tennessee",
-      "Murfreesboro, Tennessee",
-      "Nashville, Tennessee",
-      "Austin, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas",
-      "Salt Lake City, Utah",
-      "Martinsburg, West Virginia",
-      "Shepherdstown, West Virginia"
-    ],
-    "description": "This position is located in Department of Veterans Affairs (VA), Office of Information and Technology (OIT) serving as an IT Specialist providing central engineering services and develops the technical framework promoting one technology vision across VA, supporting system optimization, integration, and interoperability throughout the enterprise.",
-    "url": "https://www.usajobs.gov/job/870790000",
-    "posted_at": "2026-05-27T17:22:12.307000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870766300",
     "title": "Biomedical Equipment Support Specialist Information (Information Systems)",
     "organization": "Veterans Health Administration",
@@ -584,21 +629,6 @@
     "remote": null
   },
   {
-    "job_id": "870641700",
-    "title": "Director, Marketplace Information Technology Group",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Bethesda, Maryland",
-      "Woodlawn, Maryland"
-    ],
-    "description": "This position is located in the Marketplace Information Technology Group (MITG) within the Center for Consumer Information and Insurance Oversight (CCIIO). As the Director, Marketplace Information Technology Group, you will provide executive leadership and direction in support of the Healthcare system initiatives, and lead the development, implementation, and maintenance of the CCIIO information technology supporting the Patient Protection and Affordable Care Act and the No Surprises Act.",
-    "url": "https://www.usajobs.gov/job/870641700",
-    "posted_at": "2026-05-27T06:30:18.550000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870632000",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (APPSW/OS)",
     "organization": "Naval Education and Training Command",
@@ -707,22 +737,6 @@
     "url": "https://www.usajobs.gov/job/870516200",
     "posted_at": "2026-05-27T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870515500",
-    "title": "Supervisory IT Specialist (Security)",
-    "organization": "Federal Aviation Administration",
-    "locations": [
-      "Washington, District of Columbia",
-      "Atlantic City, New Jersey",
-      "Oklahoma City, Oklahoma"
-    ],
-    "description": "The incumbent of this position will serve as a Supervisory IT Specialist for the Chief Privacy Office (AIS-010).",
-    "url": "https://www.usajobs.gov/job/870515500",
-    "posted_at": "2026-05-27T00:00:00",
-    "salary": "K-K",
     "grade": null,
     "remote": null
   },
@@ -1187,30 +1201,6 @@
     "remote": null
   },
   {
-    "job_id": "870400400",
-    "title": "Supvy IT Spec (SYS ANAL) \"Cloud Infrastructure Engineer' GS-2210-15 FPL GS-15 (DH)",
-    "organization": "Federal Student Aid",
-    "locations": [
-      "San Francisco, California",
-      "Denver, Colorado",
-      "District of Columbia, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas",
-      "Seattle, Washington"
-    ],
-    "description": "These positions located in the Federal Student Aid (FSA), Chief Technology Office Technology Operations Division. FSA is modernizing the systems that serve over 17 million students and power more than $120 billion in financial aid each year. We are building a team of senior platform and reliability engineers to strengthen the technical foundation of one of the federal government's highest-impact digital ecosystems.",
-    "url": "https://www.usajobs.gov/job/870400400",
-    "posted_at": "2026-05-26T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870299500",
     "title": "LEAD IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC)",
     "organization": "Defense Finance and Accounting Service",
@@ -1252,20 +1242,6 @@
     "description": "Excel as a Traditional Reviewer on DCSA's Cyber Operational Readiness Assessment (CORA) Team. Conduct advanced security assessments using STIGs, provide expert analysis, and strengthen national cyber defense. Build specialized expertise, shape solutions to complex risks, and advance your career as a Cyber Mission Enabler.",
     "url": "https://www.usajobs.gov/job/870374400",
     "posted_at": "2026-05-22T07:40:20.917000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870487200",
-    "title": "General Engineer",
-    "organization": "Bureau of Industry and Security",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This vacancy is to fill multiple General Engineer positions at the Department of Commerce, in the Bureau of Industry and Security (BIS), within the Export Administration (EA) in either of the these two offices: (1) Office of National Security Controls; or (2) Office of Nonproliferation and Foreign Policy Controls If interested, you are encouraged to apply!",
-    "url": "https://www.usajobs.gov/job/870487200",
-    "posted_at": "2026-05-22T00:00:00",
     "salary": "13-13",
     "grade": null,
     "remote": null
@@ -1495,22 +1471,6 @@
     "remote": null
   },
   {
-    "job_id": "869151300",
-    "title": "Supervisory Management & Program Analyst",
-    "organization": "Federal Aviation Administration",
-    "locations": [
-      "Washington, District of Columbia",
-      "Atlantic City, New Jersey",
-      "Oklahoma City, Oklahoma"
-    ],
-    "description": "The Supervisory Management & Program Analyst will manage the Software Delivery Facilitation Service Branch within the IT Enterprise Software Management Division of the Office of Information and Technology, Strategy and Performance Service.",
-    "url": "https://www.usajobs.gov/job/869151300",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "J-J",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869863200",
     "title": "Director, Office of Continuity and Security Management",
     "organization": "National Credit Union Administration",
@@ -1595,20 +1555,6 @@
     "remote": null
   },
   {
-    "job_id": "869719800",
-    "title": "Quantum Algorithm Architect - Experienced to Expert Level (MD)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Quantum Algorithm Architect at NSA, your creativity & that of your team is essential to investigating and implementing effective technical solutions for our Nation. Your efforts will drive global impacts that may include saving the lives of U.S. and allied soldiers, providing U.S. policy and decision makers with critical, timely intelligence, ensuring the continued safety of U.S. citizens and residents by thwarting foreign adversaries, and defending vital networks. https://www.lps.umd.edu",
-    "url": "https://www.usajobs.gov/job/869719800",
-    "posted_at": "2026-05-18T12:07:03.223000",
-    "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "869827400",
     "title": "EO/IR Modeling Scientist",
     "organization": "National Geospatial-Intelligence Agency",
@@ -1620,20 +1566,6 @@
     "url": "https://www.usajobs.gov/job/869827400",
     "posted_at": "2026-05-18T00:00:00",
     "salary": "04-04",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869515000",
-    "title": "Computer Science & Engineering Professionals - Mid to Expert Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "NSA is in search of experienced Computer Science and Engineering professionals to solve complex problems, test innovative approaches, and research new solutions. If you want to develop technologies and tools to help protect national security interests, join our team as part of the world's most advanced team of computer science and engineering professionals!",
-    "url": "https://www.usajobs.gov/job/869515000",
-    "posted_at": "2026-05-15T10:09:45.353000",
-    "salary": "11-15",
     "grade": null,
     "remote": null
   },
