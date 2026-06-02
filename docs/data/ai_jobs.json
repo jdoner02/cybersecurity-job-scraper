@@ -1,5 +1,119 @@
 [
   {
+    "job_id": "870957300",
+    "title": "Supervisory AST, Experimental Facilities Techniques",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "You will serve as the Deputy Director for the Mission Operations Directorate providing management and direction over: experimental facilities and equipment; design/development of procedures, techniques, and methods of equipment operation; design of facility modifications to meet test requirements; analysis, validation, and storage of test data.",
+    "url": "https://www.usajobs.gov/job/870957300",
+    "posted_at": "2026-06-02T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871289100",
+    "title": "Director of Data and Future Technology Division, NSIC S9",
+    "organization": "United States Space Force Forces",
+    "locations": [
+      "Wright-Patterson AFB, Ohio"
+    ],
+    "description": "Do not email applications. To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
+    "url": "https://www.usajobs.gov/job/871289100",
+    "posted_at": "2026-06-01T16:16:53.630000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871280000",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Los Angeles, California"
+    ],
+    "description": "The Program Analyst (Health Informatics) position is located at the medical centers within the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of this role is to enhance the quality, efficiency, and effectiveness of health care by integrating clinical and information processes essential for the successful adoption and use of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/871280000",
+    "posted_at": "2026-06-01T15:46:34.390000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871232700",
+    "title": "R&D Program Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/871232700",
+    "posted_at": "2026-06-01T12:44:43.860000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871196700",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Saint Louis, Missouri"
+    ],
+    "description": "Program Analyst (Health Informatics) improve the qualify, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/871196700",
+    "posted_at": "2026-06-01T10:15:47.417000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870888200",
+    "title": "Information Technology Specialist (Data Scientist) (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Washington, District of Columbia",
+      "Greenbelt, Maryland"
+    ],
+    "description": "As a Data Systems Engineer with NASA's Earth Science Division, you will serve as the division's principal systems engineering expert supporting large-scale modernization and consolidation of Earth science data systems and its representative for Science Mission Directorate (SMD) cloud infrastructure efforts. You will provide independent technical leadership, architectural guidance, and strategic oversight in direct support of NASA's Earth science data and Open Science mission objectives.",
+    "url": "https://www.usajobs.gov/job/870888200",
+    "posted_at": "2026-06-01T09:31:42.333000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871169600",
+    "title": "General Engineer",
+    "organization": "Missile Defense Agency",
+    "locations": [
+      "Redstone Arsenal, Alabama",
+      "Schriever AFB, Colorado"
+    ],
+    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: ACQDEMO Salary: $129,096.00 to $197,200.00 / Per Year, Includes locality of 20.15% locality unless statutory rates prevail (Schriever AFB, CO) Salary: $130,987.00 to $197,200.00 / Per Year, includes locality of 21.91% locality unless statutory rates prevail (Redstone Arsenal, AL",
+    "url": "https://www.usajobs.gov/job/871169600",
+    "posted_at": "2026-06-01T07:42:02.803000",
+    "salary": "4-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871163200",
+    "title": "Corporate Policy Officer and Communications Security (COMSEC) Auditor - Experienced Level)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "Policy underpins all of NSA/CSS and the U.S. Signals Intelligence enterprise. NSA/CSS is looking for individuals with experience in researching laws and policy spanning the U.S. Government, including the Department of War and Office of Director of National Intelligence issuances.",
+    "url": "https://www.usajobs.gov/job/871163200",
+    "posted_at": "2026-06-01T06:25:55.260000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "871153800",
     "title": "Facility Operations Specialist (Recent Graduate)",
     "organization": "Drug Enforcement Administration",
@@ -106,54 +220,6 @@
     "remote": null
   },
   {
-    "job_id": "870902700",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/870902700",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870888200",
-    "title": "Information Technology Specialist (Data Scientist) (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia",
-      "Greenbelt, Maryland"
-    ],
-    "description": "As a Data Systems Engineer with NASA's Earth Science Division, you will serve as the division's principal systems engineering expert supporting large-scale modernization and consolidation of Earth science data systems and its representative for Science Mission Directorate cloud infrastructure efforts. You will provide independent technical leadership, architectural guidance, and strategic oversight in direct support of NASA's Earth science data and Open Science mission objectives.",
-    "url": "https://www.usajobs.gov/job/870888200",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870733500",
     "title": "General Engineer, Supervisory AST, Engineering Program Management",
     "organization": "George C. Marshall Space Flight Center",
@@ -222,20 +288,6 @@
     "url": "https://www.usajobs.gov/job/871032400",
     "posted_at": "2026-05-29T10:41:46.670000",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871002100",
-    "title": "BUDGET ANALYST",
-    "organization": "Air Force Civilian Career Training",
-    "locations": [
-      "Hurlburt Field, Florida"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to provide developmental experience designed to broaden the skills and/or enhance the leadership perspective of an identified high-potential, mid-level manager; it is not a continuing position, assignment duration is NTE 36 months.",
-    "url": "https://www.usajobs.gov/job/871002100",
-    "posted_at": "2026-05-29T08:40:17.043000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -380,34 +432,6 @@
     "remote": null
   },
   {
-    "job_id": "870480700",
-    "title": "AST - Aerospace Flight Systems, Aerospace Engineer (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "The Cargo Mission Manager (CMM) with the Mission Integration and Operations Office ensures end-to-end integration, verification, and safe delivery of cargo required to sustain ISS operations, crew health, technology, and research objectives. You will directly support mission-essential services by coordinating cargo readiness, resolving technical issues, and enabling real-time decision-making across spacecraft providers, engineering teams, and operations personnel.",
-    "url": "https://www.usajobs.gov/job/870480700",
-    "posted_at": "2026-05-28T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870427200",
-    "title": "Data Scientist",
-    "organization": "National Institutes of Health",
-    "locations": [
-      "Montgomery County, Maryland"
-    ],
-    "description": "Join one of the 24 Institutes and Centers within the NIH that awards extramural grants! Extramural grants account for approximately 80 percent of NIH's budget and are awarded to investigators at more than 2,500 universities, medical schools, and other research organizations around the world. To learn more about the grants process, types of grant programs, and the peer review process, visit: Office of Extramural Research.",
-    "url": "https://www.usajobs.gov/job/870427200",
-    "posted_at": "2026-05-28T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870410700",
     "title": "Physical Scientist, AST, Science Program Management (Direct Hire)",
     "organization": "Headquarters, NASA",
@@ -418,20 +442,6 @@
     "url": "https://www.usajobs.gov/job/870410700",
     "posted_at": "2026-05-28T00:00:00",
     "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870305800",
-    "title": "General Engineer - AST, Engineer Program Management (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As a Program Executive (PE), you will be responsible for providing leadership and coordination in support of NASA's High-End Computing Capability (HECC) Portfolio. You will provide oversight, coordination, management, planning, monitoring, and implementation of HECC as a NASA-wide capability. You will develop strategies for sustainable data science and computing organizations, ensuring robust services, infrastructure, data governance, and capability development that support NASA's mission.",
-    "url": "https://www.usajobs.gov/job/870305800",
-    "posted_at": "2026-05-28T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -642,84 +652,6 @@
     "remote": null
   },
   {
-    "job_id": "870514400",
-    "title": "SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY",
-    "organization": "Air Force Elements, U.S. Strategic Command",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to develop, modify, secure, and automate software, analytical methodologies, and processes; and advance computing technologies using state-of-the-art industry best practices",
-    "url": "https://www.usajobs.gov/job/870514400",
-    "posted_at": "2026-05-26T08:48:46.907000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870444500",
-    "title": "Physical Scientist, AST, Science Project Management",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Cleveland, Ohio",
-      "Houston, Texas"
-    ],
-    "description": "As NASA's Human Research Program (HRP) Lead for Exploration Programs you will be responsible for strategic developments to ensure: HRP's applied research data are directly informing all Human Spaceflight Programs and HRP's knowledge gaps are driving MoonBase mission objectives. The position requires close coordination and influence across all levels of JSC, HSMD, SMD and International Partners.",
-    "url": "https://www.usajobs.gov/job/870444500",
-    "posted_at": "2026-05-26T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870413000",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Fort Collins, Colorado",
-      "Urbandale, Iowa",
-      "Raleigh, North Carolina"
-    ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/870413000",
-    "posted_at": "2026-05-26T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870412000",
-    "title": "IT Specialist (Enterprise Architecture)",
-    "organization": "Food Safety and Inspection Service",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is located in Office of the Chief Information Officer (OCIO), Office of the Chief Technology Officer. OCIO provides information technology (IT) planning and design, application development, systems administration, telecommunications, security, information management and IT customer support for FSIS. The incumbent serves as an IT Specialist (Enterprise Architecture) within a Branch of OCIO.",
-    "url": "https://www.usajobs.gov/job/870412000",
-    "posted_at": "2026-05-26T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870355600",
     "title": "Management and Program Analyst",
     "organization": "Department of Energy - Agency Wide",
@@ -730,48 +662,6 @@
     "url": "https://www.usajobs.gov/job/870355600",
     "posted_at": "2026-05-26T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870435900",
-    "title": "Administrative Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Fort Worth, Texas"
-    ],
-    "description": "This position is located in the DEA, Operations Support Division, Aviation Division This position(s) primary purpose is to serve as the principle technical advisor to the Administrative Officer and liaison representative to the Center by providing advice, assistance, procedural guidance, and customer service to employees, supervisors in the broad range of personnel management.",
-    "url": "https://www.usajobs.gov/job/870435900",
-    "posted_at": "2026-05-22T12:28:08.827000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870376600",
-    "title": "Financial Management Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Weston, Florida"
-    ],
-    "description": "This position is located in the DEA, Miami Field Division This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
-    "url": "https://www.usajobs.gov/job/870376600",
-    "posted_at": "2026-05-22T08:04:57.127000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870376000",
-    "title": "Mission Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Weston, Florida"
-    ],
-    "description": "This position is located in the DEA, Miami Field Division. This position(s) primary purpose is to exercise, independent judgment and discretion in assisting in the preparation and processing of confidential employee matters. The incumbent will also maintain and coordinate the administrative support program in the Business Operations Section by initiating and ensuring effective communication, coordination, and follow-up action with other Divisions and Headquarters Program Offices within DEA.",
-    "url": "https://www.usajobs.gov/job/870376000",
-    "posted_at": "2026-05-22T08:03:16.980000",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -804,20 +694,6 @@
     "remote": null
   },
   {
-    "job_id": "870337300",
-    "title": "AST - Electrical Power Systems, Electrical Engineer (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "You will serve as an Electrical Engineer responsible for defining, designing, integrating, and evaluating spacecraft Electrical Power Distribution and Control (EPDC) systems and interfaces. You will provide technical expertise in power systems, hardware development, testing, verification, anomaly resolution, and mission integration activities.",
-    "url": "https://www.usajobs.gov/job/870337300",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870299000",
     "title": "IT Specialist (Network Services)",
     "organization": "Bureau of Economic Analysis",
@@ -842,33 +718,6 @@
     "url": "https://www.usajobs.gov/job/870285300",
     "posted_at": "2026-05-22T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870239100",
-    "title": "Senior Data Scientist",
-    "organization": "Federal Acquisition Service",
-    "locations": [
-      "San Francisco, California",
-      "Lakewood, Colorado",
-      "District of Columbia, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas",
-      "Norfolk, Virginia",
-      "Tacoma, Washington"
-    ],
-    "description": "As a Senior Data Scientist, you will apply expert knowledge of data science and quantitative analytical methods to organize, analyze, interpret, and derive meaningful insight from structured and unstructured data in support of real-world problem solving. Location of position: Federal Acquisition Service (FAS), Office of Acquisition Solution Development. We are currently filling one vacancy, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/870239100",
-    "posted_at": "2026-05-21T10:57:05.690000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -955,35 +804,6 @@
     "url": "https://www.usajobs.gov/job/870078000",
     "posted_at": "2026-05-20T12:11:26.727000",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869927700",
-    "title": "Administrative Officer",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Bangkok, Thailand"
-    ],
-    "description": "This position is located in the DEA, Bangkok, Thailand Country Office. This position(s) primary purpose is to provide support and assistance to Host Nation governments in the capacity to build combat international drug trafficking and money laundering, and to ensure that activities are in kept with Host Nation laws and existing agreements.",
-    "url": "https://www.usajobs.gov/job/869927700",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869925100",
-    "title": "Program Analyst",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Bogota, Colombia",
-      "Bangkok, Thailand"
-    ],
-    "description": "These positions are located in the DEA, Bogota, Colombia Country Office and the Bangkok, Thailand Country Office. This position primary purposes is to enforce the controlled substances laws and regulations of the United States and bring to the criminal and civil justice system of the United States.",
-    "url": "https://www.usajobs.gov/job/869925100",
-    "posted_at": "2026-05-20T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -1083,34 +903,6 @@
     "url": "https://www.usajobs.gov/job/868772700",
     "posted_at": "2026-05-12T00:00:00",
     "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868020000",
-    "title": "Supervisory General Attorney (Labor)",
-    "organization": "Office of the Solicitor",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Department of Labor, Office of the Solicitor (SOL), Division of Management and Administrative Legal Services (MALS). We are seeking a FOIA and Info Law attorney to serve as DOL's senior advisor on legal issues related to the Freedom of Information Act, Privacy Act, and other related information law statutes and the protection and handling of personal, private, controlled unclassified, or proprietary information-with the potential to damage the public's trust.",
-    "url": "https://www.usajobs.gov/job/868020000",
-    "posted_at": "2026-05-05T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868020000",
-    "title": "Supervisory General Attorney (Labor)",
-    "organization": "Office of the Solicitor",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Department of Labor, Office of the Solicitor (SOL), Division of Management and Administrative Legal Services (MALS). We are seeking a FOIA and Info Law attorney to serve as DOL's senior advisor on legal issues related to the Freedom of Information Act, Privacy Act, and other related information law statutes and the protection and handling of personal, private, controlled unclassified, or proprietary information-with the potential to damage the public's trust.",
-    "url": "https://www.usajobs.gov/job/868020000",
-    "posted_at": "2026-05-05T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
