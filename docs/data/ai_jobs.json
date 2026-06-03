@@ -1,5 +1,221 @@
 [
   {
+    "job_id": "871486500",
+    "title": "Senior Software Engineer",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
+    "url": "https://www.usajobs.gov/job/871486500",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871486000",
+    "title": "Application Software Engineer",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
+    "url": "https://www.usajobs.gov/job/871486000",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871475600",
+    "title": "Accountant",
+    "organization": "Farm Production and Conservation (FPAC) Business Center",
+    "locations": [
+      "Kansas City, Missouri",
+      "Raleigh, North Carolina",
+      "Fort Worth, Texas"
+    ],
+    "description": "This position is located in the Farm Production and Conservation (FPAC) Business Center (BC), Chief Financial Operations Office (CFOO), Financial Management Division, (FMD). This announcement will fill multiple accounting positions in FMD.",
+    "url": "https://www.usajobs.gov/job/871475600",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871475000",
+    "title": "Accountant",
+    "organization": "Farm Production and Conservation (FPAC) Business Center",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is located in the Farm Production and Conservation (FPAC) Business Center (BC), Chief Financial Operations Office (CFOO), Financial Management Division, (FMD). This announcement will fill multiple accounting positions in FMD.",
+    "url": "https://www.usajobs.gov/job/871475000",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871342700",
+    "title": "IT Program Manager (ENTARCH)",
+    "organization": "U.S. Joint Counter",
+    "locations": [
+      "Alexandria, Virginia"
+    ],
+    "description": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service. About the Position: Serves as the Senior Data Engineer and technical authority on data systems, software development, and the application of Artificial Intelligence (AI) and Machine Learning (ML) for the US ARMY JOINT COUNTER-UAS OFFICE EXECUTIVE DIVISION.",
+    "url": "https://www.usajobs.gov/job/871342700",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871309200",
+    "title": "Facility Operations Specialist (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "As a Facility Operations Specialist at Armstrong Flight Research Center, you will oversee facility operations and maintenance to ensure safe and reliable mission support. You will manage contractor performance, electrical projects, and compliance activities while guiding investigations and corrective actions. Aligns maintenance strategies with budget, assesses site needs, and coordinates with stakeholders to deliver prioritized, technically sound operational support.",
+    "url": "https://www.usajobs.gov/job/871309200",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871249500",
+    "title": "Lead Management and Program Analyst",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "Leads management and program analysis activities to support mission objectives. Oversees planning, evaluation, and improvement of organizational programs and processes. Provides data-driven insights, coordinates cross-functional efforts, and advises leadership on performance, efficiency, and compliance to enhance program effectiveness across the organization.",
+    "url": "https://www.usajobs.gov/job/871249500",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871247500",
+    "title": "Information Technology Specialist (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "As an Information Technology Specialist with NASA's Office of the Chief Data and AI Officer, you will help deliver high-impact data and artificial intelligence solutions that advance NASA's mission. You will partner with customers across the agency to design, build, and operate data products using cloud data platforms, application programming interface management, and workload identity technologies, while collaborating across platform, governance, and communications functions.",
+    "url": "https://www.usajobs.gov/job/871247500",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870925400",
+    "title": "Emergency Management Specialist (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "As an Emergency Management Specialist with the AFRC Office of Protective Services, you will support emergency management and continuity of operations programs through planning, training, exercises, emergency preparedness activities, and program evaluations. You will assist with maintaining emergency plans, procedures, and emergency response capabilities to ensure compliance with Agency and Federal requirements.",
+    "url": "https://www.usajobs.gov/job/870925400",
+    "posted_at": "2026-06-03T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871451500",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Altoona, Pennsylvania"
+    ],
+    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/871451500",
+    "posted_at": "2026-06-02T15:44:20.687000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871432700",
+    "title": "Medical Records Technician (Coder)",
+    "organization": "Indian Health Service",
+    "locations": [
+      "Kyle, South Dakota",
+      "Pine Ridge, South Dakota"
+    ],
+    "description": "Provide accurate impatient and specialty medical coding by reviewing clinical documentation. Assign accurate diagnostic and procedural codes in accordance with coding guidelines for billing, quality reporting and reimbursement. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021). Incentive authorized up to 25% of base pay Recruitment Incentive - New appointees Relocation Incentive - Current federal employees",
+    "url": "https://www.usajobs.gov/job/871432700",
+    "posted_at": "2026-06-02T14:56:31.110000",
+    "salary": "8-8",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871385300",
+    "title": "Mission and Operations Support Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Billings, Montana",
+      "Cheyenne, Wyoming"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Rocky Mountain Field Division, in the Billings Resident Office and Cheyenne Resident Office. This position's primary purpose is to support the Outlying Office (OO) related to Business Operations and administrative aspects of Law Enforcement Operations.",
+    "url": "https://www.usajobs.gov/job/871385300",
+    "posted_at": "2026-06-02T12:10:29.507000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871378500",
+    "title": "Offensive Cybersecurity Operator",
+    "organization": "Cybersecurity and Infrastructure Security Agency",
+    "locations": [
+      "Pensacola, Florida",
+      "Arlington, Virginia"
+    ],
+    "description": "This announcement is issued under the Direct Hire Authority (DHA) to recruit for positions for which there is a critical hiring need. Selectee(s) will receive a career or career-conditional appointment in the competitive service and may be required to serve a one-year probationary period. The official title of this position is Information Technology Cybersecurity Specialist (INFOSEC) GS-2210-13/14.",
+    "url": "https://www.usajobs.gov/job/871378500",
+    "posted_at": "2026-06-02T11:44:46.353000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870957300",
     "title": "Supervisory AST, Experimental Facilities Techniques",
     "organization": "Armstrong Flight Research Center",
@@ -9,20 +225,6 @@
     "description": "You will serve as the Deputy Director for the Mission Operations Directorate providing management and direction over: experimental facilities and equipment; design/development of procedures, techniques, and methods of equipment operation; design of facility modifications to meet test requirements; analysis, validation, and storage of test data.",
     "url": "https://www.usajobs.gov/job/870957300",
     "posted_at": "2026-06-02T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871289100",
-    "title": "Director of Data and Future Technology Division, NSIC S9",
-    "organization": "United States Space Force Forces",
-    "locations": [
-      "Wright-Patterson AFB, Ohio"
-    ],
-    "description": "Do not email applications. To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
-    "url": "https://www.usajobs.gov/job/871289100",
-    "posted_at": "2026-06-01T16:16:53.630000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -38,20 +240,6 @@
     "url": "https://www.usajobs.gov/job/871280000",
     "posted_at": "2026-06-01T15:46:34.390000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871232700",
-    "title": "R&D Program Manager",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/871232700",
-    "posted_at": "2026-06-01T12:44:43.860000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -110,6 +298,62 @@
     "url": "https://www.usajobs.gov/job/871163200",
     "posted_at": "2026-06-01T06:25:55.260000",
     "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871418700",
+    "title": "R&D Program Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/871418700",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871418700",
+    "title": "R&D Program Manager",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/871418700",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871289100",
+    "title": "Director of Data and Future Technology Division, NSIC S9",
+    "organization": "United States Space Force Forces",
+    "locations": [
+      "Wright-Patterson AFB, Ohio"
+    ],
+    "description": "Do not email applications. To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
+    "url": "https://www.usajobs.gov/job/871289100",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871289100",
+    "title": "Director of Data and Future Technology Division, NSIC S9",
+    "organization": "United States Space Force Forces",
+    "locations": [
+      "Wright-Patterson AFB, Ohio"
+    ],
+    "description": "Do not email applications. To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
+    "url": "https://www.usajobs.gov/job/871289100",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -183,6 +427,39 @@
     "url": "https://www.usajobs.gov/job/871005600",
     "posted_at": "2026-06-01T00:00:00",
     "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870902700",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/870902700",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "11-11",
     "grade": null,
     "remote": null
   },
@@ -306,6 +583,20 @@
     "remote": null
   },
   {
+    "job_id": "871002100",
+    "title": "BUDGET ANALYST",
+    "organization": "Air Force Civilian Career Training",
+    "locations": [
+      "Hurlburt Field, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to provide developmental experience designed to broaden the skills and/or enhance the leadership perspective of an identified high-potential, mid-level manager; it is not a continuing position, assignment duration is NTE 36 months.",
+    "url": "https://www.usajobs.gov/job/871002100",
+    "posted_at": "2026-05-29T08:40:17.043000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "870976600",
     "title": "AI Software Engineer",
     "organization": "Office of Personnel Management",
@@ -330,22 +621,6 @@
     "url": "https://www.usajobs.gov/job/870976400",
     "posted_at": "2026-05-29T00:00:00",
     "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870958200",
-    "title": "Information Technology Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Hampton, Virginia"
-    ],
-    "description": "Office of the Chief Information Officer is seeking several Customer Engagement & Service Integration positions to provide sustained, mission aligned support across NASA centers. These roles are integrators between Centers & OCIO services, ensuring customer requirements are captured, communicated, & translated into actionable IT delivery. They lead essential functions such as requirements analysis, service integration, technical coordination, & oversight of activities for diverse stakeholders.",
-    "url": "https://www.usajobs.gov/job/870958200",
-    "posted_at": "2026-05-29T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -376,30 +651,6 @@
     "url": "https://www.usajobs.gov/job/870841600",
     "posted_at": "2026-05-29T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870399600",
-    "title": "Physical Scientist, AST, Science Program Management (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "The Heliophysics Division leads the study of the Sun's impact on the space environment at Earth and across the solar system, including space weather to safeguard infrastructure and enable exploration. NASA is developing cutting edge capability to predict risks from solar radiation and geomagnetic storms. NASA seeks an AST, Space Weather Program Scientist and an AI/Data Program Scientist to lead research and missions characterizing hazards in space and securing our future among the stars.",
-    "url": "https://www.usajobs.gov/job/870399600",
-    "posted_at": "2026-05-29T00:00:00",
-    "salary": "14-15",
     "grade": null,
     "remote": null
   },
@@ -488,40 +739,6 @@
     "remote": null
   },
   {
-    "job_id": "870695600",
-    "title": "Information Technology Specialist (Software Engineer)",
-    "organization": "Internal Revenue Service",
-    "locations": [
-      "Fresno, California",
-      "Washington, District of Columbia",
-      "Jacksonville, Florida",
-      "Chamblee, Georgia",
-      "Chamblee, Georgia",
-      "Covington, Kentucky",
-      "Lanham, Maryland",
-      "Detroit, Michigan",
-      "Kansas City, Missouri",
-      "Saint Louis, Missouri",
-      "Charlotte, North Carolina",
-      "Holtsville, New York",
-      "Philadelphia, Pennsylvania",
-      "Guaynabo, Puerto Rico",
-      "San Juan, Puerto Rico",
-      "Memphis, Tennessee",
-      "Austin, Texas",
-      "Austin, Texas",
-      "Farmers Branch, Texas",
-      "Ogden, Utah",
-      "Kearneysville, West Virginia"
-    ],
-    "description": "WHAT IS INFORMATION TECHNOLOGY? A description of the business units can be found at: https://www.jobs.irs.gov/about/who/business-divisions Position(s) are to be filled in the following area(s): IT - Taxpayer Services / Online Accounts Consider each location carefully when applying. If you are selected for a location, that location will become your official post of duty. REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS",
-    "url": "https://www.usajobs.gov/job/870695600",
-    "posted_at": "2026-05-27T11:04:29.500000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870525900",
     "title": "Supv General Engineer",
     "organization": "Missile Defense Agency",
@@ -561,21 +778,6 @@
     "url": "https://www.usajobs.gov/job/870657700",
     "posted_at": "2026-05-27T08:33:45.827000",
     "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870654300",
-    "title": "Supervisory Contract Price/Cost Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Pittsburgh, Pennsylvania",
-      "Morgantown, West Virginia"
-    ],
-    "description": "This position is part of the National Energy Technology Laboratory (NETL). As a Supervisory Contract Price/Cost Analyst, you will be responsible for ensuring the financial integrity of the Laboratory's financial assistance management and control processes, including the expert analysis, interpretation of audit reports, development of government positions, and finalization of indirect cost rate agreements for financial assistance recipients and, to a lesser extent, contracts.",
-    "url": "https://www.usajobs.gov/job/870654300",
-    "posted_at": "2026-05-27T08:20:38.173000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -646,7 +848,7 @@
     ],
     "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to develop, modify, secure, and automate software, analytical methodologies, and processes; and advance computing technologies using state-of-the-art industry best practices",
     "url": "https://www.usajobs.gov/job/870514400",
-    "posted_at": "2026-05-26T08:48:46.907000",
+    "posted_at": "2026-05-26T00:00:00",
     "salary": "2-2",
     "grade": null,
     "remote": null
@@ -690,20 +892,6 @@
     "url": "https://www.usajobs.gov/job/870487200",
     "posted_at": "2026-05-22T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870299000",
-    "title": "IT Specialist (Network Services)",
-    "organization": "Bureau of Economic Analysis",
-    "locations": [
-      "Suitland, Maryland"
-    ],
-    "description": "This vacancy is for an IT Specialist (Network Services) position in the Office of the Chief Information Officer located at the Bureau of Economic Analysis. This Job Opportunity Announcement may be used to fill other IT Specialist (Network Services), ZP-2210-4, positions within the Bureau of Economic Analysis in the same geographical location with the same qualifications and specialized experience.",
-    "url": "https://www.usajobs.gov/job/870299000",
-    "posted_at": "2026-05-22T00:00:00",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -889,20 +1077,6 @@
     "url": "https://www.usajobs.gov/job/869286800",
     "posted_at": "2026-05-14T08:28:58.140000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868772700",
-    "title": "DISTINGUISHED SCIENTIST/ENGINEER FOR NAVAL DATA SCIENCES",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "You will serve as Distinguished Scientist/Engineer for Naval Data Sciences for the Naval Surface Warfare Center Dahlgren Division (NSWCDD).",
-    "url": "https://www.usajobs.gov/job/868772700",
-    "posted_at": "2026-05-12T00:00:00",
-    "salary": "6-6",
     "grade": null,
     "remote": null
   },
