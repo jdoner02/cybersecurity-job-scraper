@@ -1,15 +1,179 @@
 [
   {
-    "job_id": "871838600",
-    "title": "Safety Engineer",
-    "organization": "Department of Energy - Agency Wide",
+    "job_id": "871993900",
+    "title": "Lead Information Technology Specialist (APPSW) Software Engineer",
+    "organization": "Internal Revenue Service",
     "locations": [
-      "Germantown, Maryland"
+      "Fresno, California",
+      "Washington, District of Columbia",
+      "Jacksonville, Florida",
+      "Chamblee, Georgia",
+      "Chamblee, Georgia",
+      "Fairview Heights, Illinois",
+      "Covington, Kentucky",
+      "Lanham, Maryland",
+      "Detroit, Michigan",
+      "Kansas City, Missouri",
+      "Saint Louis, Missouri",
+      "Holtsville, New York",
+      "Philadelphia, Pennsylvania",
+      "Guaynabo, Puerto Rico",
+      "San Juan, Puerto Rico",
+      "Memphis, Tennessee",
+      "Austin, Texas",
+      "Austin, Texas",
+      "Farmers Branch, Texas",
+      "Ogden, Utah",
+      "Kearneysville, West Virginia"
     ],
-    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy. As a Safety Engineer, you will serve as a technical advisor and expert in safety engineering with responsibility for providing expertise in the areas of standards development.",
-    "url": "https://www.usajobs.gov/job/871838600",
-    "posted_at": "2026-06-05T00:00:00",
+    "description": "WHAT IS Information Technology Division-Tax Processing 35-41? A description of the business units can be found at: https://www.jobs.irs.gov/about/who/business-divisions Position(s) are to be filled in the following area(s): IT - Tax Processing - Consider each location carefully when applying. If you are selected for a location, that location will become your official post of duty. REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS",
+    "url": "https://www.usajobs.gov/job/871993900",
+    "posted_at": "2026-06-05T14:50:24.733000",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871956200",
+    "title": "Chief Information Officer",
+    "organization": "Office of the Chief Information Officer",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Chief Information Officer (CIO) serves as the agency's senior executive for information resources management, information technology (IT), cybersecurity, enterprise architecture, digital services, data operations, and technology modernization. The CIO also provides leadership for the planning, acquisition, security, operation, and performance of IT resources and ensures that technology investments support the Department's mission. ***This position may be detailed to another Federal agency",
+    "url": "https://www.usajobs.gov/job/871956200",
+    "posted_at": "2026-06-05T12:50:31.307000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871896900",
+    "title": "Clinical Laboratory Scientist",
+    "organization": "Indian Health Service",
+    "locations": [
+      "Camp Verde, Arizona",
+      "Chinle, Arizona",
+      "Cibecue, Arizona",
+      "Inscription House, Arizona",
+      "Kayenta, Arizona",
+      "Maricopa, Arizona",
+      "McNary, Arizona",
+      "Parker, Arizona",
+      "Peach Springs, Arizona",
+      "Phoenix, Arizona",
+      "Pinon, Arizona",
+      "Polacca, Arizona",
+      "Red Mesa, Arizona",
+      "Sacaton, Arizona",
+      "Supai, Arizona",
+      "Tsaile, Arizona",
+      "Whiteriver, Arizona",
+      "Davis, California",
+      "Havasu Lake, California",
+      "Hemet, California",
+      "Riverside, California",
+      "Winterhaven, California",
+      "Towaoc, Colorado",
+      "Fort Hall, Idaho",
+      "Lawrence, Kansas",
+      "Mashpee, Massachusetts",
+      "Cass Lake, Minnesota",
+      "Naytahwaush, Minnesota",
+      "Ogema, Minnesota",
+      "Ponemah, Minnesota",
+      "Ponsford, Minnesota",
+      "Red Lake, Minnesota",
+      "Browning, Montana",
+      "Crow Agency, Montana",
+      "Harlem, Montana",
+      "Hays, Montana",
+      "Heart Butte, Montana",
+      "Lame Deer, Montana",
+      "Lodge Grass, Montana",
+      "Poplar, Montana",
+      "Pryor, Montana",
+      "Wolf Point, Montana",
+      "Cherokee, North Carolina",
+      "Belcourt, North Dakota",
+      "Cannon Ball, North Dakota",
+      "Fort Yates, North Dakota",
+      "Winnebago, Nebraska",
+      "Acoma, New Mexico",
+      "Albuquerque, New Mexico",
+      "Bernalillo, New Mexico",
+      "Bloomfield, New Mexico",
+      "Cochiti Pueblo, New Mexico",
+      "Crownpoint, New Mexico",
+      "Cuba, New Mexico",
+      "Dulce, New Mexico",
+      "Espanola, New Mexico",
+      "Gallup, New Mexico",
+      "Mescalero, New Mexico",
+      "San Felipe Pueblo, New Mexico",
+      "San Fidel, New Mexico",
+      "Sanostee, New Mexico",
+      "Santa Ana Pueblo, New Mexico",
+      "Santa Fe, New Mexico",
+      "Shiprock, New Mexico",
+      "Taos, New Mexico",
+      "Thoreau, New Mexico",
+      "Toadlena, New Mexico",
+      "Tohatchi, New Mexico",
+      "Zia Indian Reservation, New Mexico",
+      "Zuni, New Mexico",
+      "Elko, Nevada",
+      "Moapa, Nevada",
+      "Wadsworth, Nevada",
+      "Lockport, New York",
+      "Manlius, New York",
+      "Anadarko, Oklahoma",
+      "Carnegie, Oklahoma",
+      "Clinton, Oklahoma",
+      "El Reno, Oklahoma",
+      "Lawton, Oklahoma",
+      "Pawnee, Oklahoma",
+      "Watonga, Oklahoma",
+      "Wewoka, Oklahoma",
+      "Salem, Oregon",
+      "Warm Springs, Oregon",
+      "Rock Hill, South Carolina",
+      "Bullhead, South Dakota",
+      "Eagle Butte, South Dakota",
+      "Fort Thompson, South Dakota",
+      "Kyle, South Dakota",
+      "Lower Brule, South Dakota",
+      "Manderson, South Dakota",
+      "Martin, South Dakota",
+      "McLaughlin, South Dakota",
+      "Mobridge, South Dakota",
+      "Pine Ridge, South Dakota",
+      "Rosebud, South Dakota",
+      "Sisseton, South Dakota",
+      "Wagner, South Dakota",
+      "Wakpala, South Dakota",
+      "Wanblee, South Dakota",
+      "Fort Duchesne, Utah",
+      "Aylett, Virginia",
+      "Charles City, Virginia",
+      "Indian Neck, Virginia",
+      "Madison Heights, Virginia",
+      "Providence Forge, Virginia",
+      "Richmond, Virginia",
+      "Suffolk, Virginia",
+      "Auburn, Washington",
+      "Forks, Washington",
+      "Nespelem, Washington",
+      "Spokane, Washington",
+      "Toppenish, Washington",
+      "Wapato, Washington",
+      "Wellpinit, Washington",
+      "White Swan, Washington"
+    ],
+    "description": "Make a difference where it matters most! Join the Indian Health Service as a Clinical Laboratory Scientist providing vital, life-saving diagnostics to American Indian communities. Advance your career, enjoy competitive benefits, and be part of a mission that transforms lives every day. Apply today! A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
+    "url": "https://www.usajobs.gov/job/871896900",
+    "posted_at": "2026-06-05T09:20:07.753000",
+    "salary": "7-11",
     "grade": null,
     "remote": null
   },
@@ -52,20 +216,6 @@
     "url": "https://www.usajobs.gov/job/871754500",
     "posted_at": "2026-06-05T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871723400",
-    "title": "Electrical Engineer, AST, Electrical Experimental Equipment (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "You will serve as an AST, Electrical Engineer, for the Test Operations branch of the Engineering and test Directorate at Stennis Space Center in Mississippi, you will be involved in the planning, designing, and developing of electrical equipment and systems used to operate and control specialized research and development facilities, equipment, and process systems",
-    "url": "https://www.usajobs.gov/job/871723400",
-    "posted_at": "2026-06-05T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -156,20 +306,6 @@
     "remote": null
   },
   {
-    "job_id": "868801600",
-    "title": "Supervisory Human Resources Specialist",
-    "organization": "Administrative Office of the U.S. Courts",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Supervisory Human Resources Specialist position is in the Administrative Office of the U.S. Courts (AO), Department of Administrative Services, Human Resources Office (HRO), Policy and Strategic Initiative Division, Workforce Strategic Planning Branch. HRO provides human resource program leadership, services, and solutions to enable the U.S. courts and the AO to define, recruit, manage, compensate, reward, develop, and retain a highly skilled workforce.",
-    "url": "https://www.usajobs.gov/job/868801600",
-    "posted_at": "2026-06-05T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871686900",
     "title": "AI/ML Engineer",
     "organization": "Consumer Product Safety Commission",
@@ -179,22 +315,6 @@
     "description": "As an Al/ML Engineer in CPSC's Analytics Center of Excellence, you advance the agency's mission by developing Al-enabled capabilities that accelerate all elements of CPSC's mission from risk detection, to enforcing regulations, and all manners of decision-making. You collaborate with program offices, support cloud native modernization, and provide insight on various highly technical Al/ML projects while balancing long term data strategy with rapid response needs.",
     "url": "https://www.usajobs.gov/job/871686900",
     "posted_at": "2026-06-04T08:16:25.170000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871684100",
-    "title": "Accountant",
-    "organization": "Farm Production and Conservation (FPAC) Business Center",
-    "locations": [
-      "Kansas City, Missouri",
-      "Raleigh, North Carolina",
-      "Fort Worth, Texas"
-    ],
-    "description": "This position is located in the Farm Production and Conservation (FPAC) Business Center (BC), Chief Financial Operations Office (CFOO), Financial Management Division, (FMD). This announcement will fill multiple accounting positions in FMD.",
-    "url": "https://www.usajobs.gov/job/871684100",
-    "posted_at": "2026-06-04T07:59:13.710000",
     "salary": "11-12",
     "grade": null,
     "remote": null
@@ -230,16 +350,17 @@
     "remote": null
   },
   {
-    "job_id": "871668600",
-    "title": "Marketing and Digital Advertising Specialist",
-    "organization": "Air Combat Command",
+    "job_id": "871959700",
+    "title": "Paralegal Specialist (Bankruptcy)",
+    "organization": "U.S. Trustee Program",
     "locations": [
-      "Tyndall AFB, Florida"
+      "San Diego, California",
+      "Houston, Texas"
     ],
-    "description": "About the position: This position is Non-appropriated Fund (NAF) and will be assigned to the Marketing Department located on Tyndall AFB, FL.",
-    "url": "https://www.usajobs.gov/job/871668600",
+    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: U.S. Trustee Program | Paralegal Recruitment U.S. Trustee Program | Paralegal Recruitment (justice.gov)",
+    "url": "https://www.usajobs.gov/job/871959700",
     "posted_at": "2026-06-04T00:00:00",
-    "salary": "3-3",
+    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -254,20 +375,6 @@
     "url": "https://www.usajobs.gov/job/871668600",
     "posted_at": "2026-06-04T00:00:00",
     "salary": "3-3",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871656200",
-    "title": "Public Notice - Quality Assurance (Aerospace) (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "Serves as Quality Assurance (QA)/safety specialist for fabrication, assembly, and operation of propulsion test facility support systems. Develops and reviews QA/safety procedures; conducts inspections and audits for compliance; monitors materials, calibration, nonconformances, and trends affecting test readiness; identifies hazards and implements required controls, conducts root cause analysis, develops corrective actions, and provides safety guidance to the workforce.",
-    "url": "https://www.usajobs.gov/job/871656200",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -302,20 +409,6 @@
     "remote": null
   },
   {
-    "job_id": "871620600",
-    "title": "Chief of Staff, Office of Inspector General",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the National Aeronautics and Space Administration (NASA), Office of Inspector General (OIG). The NASA OIG is an independent audit and investigative organization that conducts objective oversight of NASA programs and operations and independently reports to the Administrator, Congress, and the public to further the Agency's accomplishment of its mission. The OIG's mission is to prevent and detect fraud, waste and abuse in NASA programs and operations.",
-    "url": "https://www.usajobs.gov/job/871620600",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871618200",
     "title": "Aerospace Engineer, AST, Structural Mechanics (Direct Hire)",
     "organization": "Langley Research Center",
@@ -326,20 +419,6 @@
     "url": "https://www.usajobs.gov/job/871618200",
     "posted_at": "2026-06-04T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871608100",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "San Antonio, Texas"
-    ],
-    "description": "The Program Analyst (Informatics) position is responsible for improving the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). The incumbent uses knowledge to adapt IT systems to drive management of the health system toward effectiveness and efficiency.",
-    "url": "https://www.usajobs.gov/job/871608100",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -388,20 +467,6 @@
     "remote": null
   },
   {
-    "job_id": "871583600",
-    "title": "Management and Program Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Cybersecurity, Energy Security and Emergency Response, Department of Energy. As a Management and Program Analyst, you will support CESER's procurement and contract activities by helping staff prepare purchase requests, tracking contract funding and contractor performance, and recommending ways to improve acquisition processes.",
-    "url": "https://www.usajobs.gov/job/871583600",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871523100",
     "title": "Facilities Technical Project Manager",
     "organization": "Department of Energy - Agency Wide",
@@ -412,20 +477,6 @@
     "url": "https://www.usajobs.gov/job/871523100",
     "posted_at": "2026-06-04T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871515200",
-    "title": "Public Notice - Engineering Technician (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As an Engineering Technician, you will be an integral member of the team responsible for performing propulsion test activities at Stennis Space Center. Your skills will be highly utilized to fabricate, install, activate and operate technical systems necessary for the successful achievement of the goals of the Center, NASA and our commercial partners. Positions advertised are in various organizations and grade levels at Stennis Space Center.",
-    "url": "https://www.usajobs.gov/job/871515200",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -588,266 +639,6 @@
     "remote": null
   },
   {
-    "job_id": "871528500",
-    "title": "X-Ray Technologist (CT)",
-    "organization": "Indian Health Service",
-    "locations": [
-      "Camp Verde, Arizona",
-      "Chinle, Arizona",
-      "Cibecue, Arizona",
-      "Inscription House, Arizona",
-      "Kayenta, Arizona",
-      "Maricopa, Arizona",
-      "McNary, Arizona",
-      "Parker, Arizona",
-      "Peach Springs, Arizona",
-      "Phoenix, Arizona",
-      "Pinon, Arizona",
-      "Polacca, Arizona",
-      "Red Mesa, Arizona",
-      "Sacaton, Arizona",
-      "Supai, Arizona",
-      "Tsaile, Arizona",
-      "Whiteriver, Arizona",
-      "Davis, California",
-      "Havasu Lake, California",
-      "Hemet, California",
-      "Riverside, California",
-      "Winterhaven, California",
-      "Towaoc, Colorado",
-      "Fort Hall, Idaho",
-      "Lawrence, Kansas",
-      "Mashpee, Massachusetts",
-      "Cass Lake, Minnesota",
-      "Naytahwaush, Minnesota",
-      "Ogema, Minnesota",
-      "Ponemah, Minnesota",
-      "Ponsford, Minnesota",
-      "Red Lake, Minnesota",
-      "Browning, Montana",
-      "Crow Agency, Montana",
-      "Harlem, Montana",
-      "Hays, Montana",
-      "Heart Butte, Montana",
-      "Lame Deer, Montana",
-      "Lodge Grass, Montana",
-      "Poplar, Montana",
-      "Pryor, Montana",
-      "Wolf Point, Montana",
-      "Cherokee, North Carolina",
-      "Belcourt, North Dakota",
-      "Cannon Ball, North Dakota",
-      "Fort Yates, North Dakota",
-      "Winnebago, Nebraska",
-      "Acoma, New Mexico",
-      "Albuquerque, New Mexico",
-      "Bernalillo, New Mexico",
-      "Bloomfield, New Mexico",
-      "Cochiti Pueblo, New Mexico",
-      "Crownpoint, New Mexico",
-      "Cuba, New Mexico",
-      "Dulce, New Mexico",
-      "Espanola, New Mexico",
-      "Gallup, New Mexico",
-      "Mescalero, New Mexico",
-      "San Felipe Pueblo, New Mexico",
-      "San Fidel, New Mexico",
-      "Sanostee, New Mexico",
-      "Santa Ana Pueblo, New Mexico",
-      "Santa Fe, New Mexico",
-      "Shiprock, New Mexico",
-      "Taos, New Mexico",
-      "Thoreau, New Mexico",
-      "Toadlena, New Mexico",
-      "Tohatchi, New Mexico",
-      "Zia Indian Reservation, New Mexico",
-      "Zuni, New Mexico",
-      "Elko, Nevada",
-      "Moapa, Nevada",
-      "Wadsworth, Nevada",
-      "Lockport, New York",
-      "Manlius, New York",
-      "Anadarko, Oklahoma",
-      "Carnegie, Oklahoma",
-      "Clinton, Oklahoma",
-      "El Reno, Oklahoma",
-      "Lawton, Oklahoma",
-      "Pawnee, Oklahoma",
-      "Watonga, Oklahoma",
-      "Wewoka, Oklahoma",
-      "Salem, Oregon",
-      "Warm Springs, Oregon",
-      "Rock Hill, South Carolina",
-      "Bullhead, South Dakota",
-      "Eagle Butte, South Dakota",
-      "Fort Thompson, South Dakota",
-      "Kyle, South Dakota",
-      "Lower Brule, South Dakota",
-      "Manderson, South Dakota",
-      "Martin, South Dakota",
-      "McLaughlin, South Dakota",
-      "Mobridge, South Dakota",
-      "Pine Ridge, South Dakota",
-      "Rosebud, South Dakota",
-      "Sisseton, South Dakota",
-      "Wagner, South Dakota",
-      "Wakpala, South Dakota",
-      "Wanblee, South Dakota",
-      "Fort Duchesne, Utah",
-      "Aylett, Virginia",
-      "Charles City, Virginia",
-      "Indian Neck, Virginia",
-      "Madison Heights, Virginia",
-      "Providence Forge, Virginia",
-      "Richmond, Virginia",
-      "Suffolk, Virginia",
-      "Auburn, Washington",
-      "Forks, Washington",
-      "Nespelem, Washington",
-      "Spokane, Washington",
-      "Toppenish, Washington",
-      "Wapato, Washington",
-      "Wellpinit, Washington",
-      "White Swan, Washington"
-    ],
-    "description": "Join the Indian Health Service as a X-Ray Technologist (CT) (Diagnostic Radiologic Technologist) and provide essential imaging services in a mission-driven healthcare environment. Perform CT and diagnostic radiology procedures, support trauma and emergency care, and help deliver quality patient care to American Indian communities. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
-    "url": "https://www.usajobs.gov/job/871528500",
-    "posted_at": "2026-06-03T10:03:46.240000",
-    "salary": "8-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871526200",
-    "title": "X-Ray Technologist",
-    "organization": "Indian Health Service",
-    "locations": [
-      "Camp Verde, Arizona",
-      "Chinle, Arizona",
-      "Cibecue, Arizona",
-      "Inscription House, Arizona",
-      "Kayenta, Arizona",
-      "Maricopa, Arizona",
-      "McNary, Arizona",
-      "Parker, Arizona",
-      "Peach Springs, Arizona",
-      "Phoenix, Arizona",
-      "Pinon, Arizona",
-      "Polacca, Arizona",
-      "Red Mesa, Arizona",
-      "Sacaton, Arizona",
-      "Supai, Arizona",
-      "Tsaile, Arizona",
-      "Whiteriver, Arizona",
-      "Davis, California",
-      "Havasu Lake, California",
-      "Hemet, California",
-      "Riverside, California",
-      "Winterhaven, California",
-      "Towaoc, Colorado",
-      "Fort Hall, Idaho",
-      "Lawrence, Kansas",
-      "Mashpee, Massachusetts",
-      "Cass Lake, Minnesota",
-      "Naytahwaush, Minnesota",
-      "Ogema, Minnesota",
-      "Ponemah, Minnesota",
-      "Ponsford, Minnesota",
-      "Red Lake, Minnesota",
-      "Browning, Montana",
-      "Crow Agency, Montana",
-      "Harlem, Montana",
-      "Hays, Montana",
-      "Heart Butte, Montana",
-      "Lame Deer, Montana",
-      "Lodge Grass, Montana",
-      "Poplar, Montana",
-      "Pryor, Montana",
-      "Wolf Point, Montana",
-      "Cherokee, North Carolina",
-      "Belcourt, North Dakota",
-      "Cannon Ball, North Dakota",
-      "Fort Yates, North Dakota",
-      "Winnebago, Nebraska",
-      "Acoma, New Mexico",
-      "Albuquerque, New Mexico",
-      "Bernalillo, New Mexico",
-      "Bloomfield, New Mexico",
-      "Cochiti Pueblo, New Mexico",
-      "Crownpoint, New Mexico",
-      "Cuba, New Mexico",
-      "Dulce, New Mexico",
-      "Espanola, New Mexico",
-      "Gallup, New Mexico",
-      "Mescalero, New Mexico",
-      "San Felipe Pueblo, New Mexico",
-      "San Fidel, New Mexico",
-      "Sanostee, New Mexico",
-      "Santa Ana Pueblo, New Mexico",
-      "Santa Fe, New Mexico",
-      "Shiprock, New Mexico",
-      "Taos, New Mexico",
-      "Thoreau, New Mexico",
-      "Toadlena, New Mexico",
-      "Tohatchi, New Mexico",
-      "Zia Indian Reservation, New Mexico",
-      "Zuni, New Mexico",
-      "Elko, Nevada",
-      "Moapa, Nevada",
-      "Wadsworth, Nevada",
-      "Lockport, New York",
-      "Manlius, New York",
-      "Anadarko, Oklahoma",
-      "Carnegie, Oklahoma",
-      "Clinton, Oklahoma",
-      "El Reno, Oklahoma",
-      "Lawton, Oklahoma",
-      "Pawnee, Oklahoma",
-      "Watonga, Oklahoma",
-      "Wewoka, Oklahoma",
-      "Salem, Oregon",
-      "Warm Springs, Oregon",
-      "Rock Hill, South Carolina",
-      "Bullhead, South Dakota",
-      "Eagle Butte, South Dakota",
-      "Fort Thompson, South Dakota",
-      "Kyle, South Dakota",
-      "Lower Brule, South Dakota",
-      "Manderson, South Dakota",
-      "Martin, South Dakota",
-      "McLaughlin, South Dakota",
-      "Mobridge, South Dakota",
-      "Pine Ridge, South Dakota",
-      "Rosebud, South Dakota",
-      "Sisseton, South Dakota",
-      "Wagner, South Dakota",
-      "Wakpala, South Dakota",
-      "Wanblee, South Dakota",
-      "Fort Duchesne, Utah",
-      "Aylett, Virginia",
-      "Charles City, Virginia",
-      "Indian Neck, Virginia",
-      "Madison Heights, Virginia",
-      "Providence Forge, Virginia",
-      "Richmond, Virginia",
-      "Suffolk, Virginia",
-      "Auburn, Washington",
-      "Forks, Washington",
-      "Nespelem, Washington",
-      "Spokane, Washington",
-      "Toppenish, Washington",
-      "Wapato, Washington",
-      "Wellpinit, Washington",
-      "White Swan, Washington"
-    ],
-    "description": "Join our team as an X-Ray Technologist (Diagnostic Radiologic Technologist) and provide high-quality diagnostic imaging that supports physicians in diagnosing and treating patients. We are seeking skilled, compassionate professionals dedicated to patient care, safety, and excellence in radiologic services. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
-    "url": "https://www.usajobs.gov/job/871526200",
-    "posted_at": "2026-06-03T09:57:22.380000",
-    "salary": "6-8",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871526200",
     "title": "X-Ray Technologist",
     "organization": "Indian Health Service",
@@ -995,20 +786,6 @@
     "remote": null
   },
   {
-    "job_id": "871508000",
-    "title": "Supervisory Personnel Security Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Inspection Division, Office of Security Programs. This position(s) primary purpose is to serve as the Unit Chief and is responsible for implementing the functions, and exercising the authority of, the Personnel Security Section Chief or the Suitability Section Chief, and the Deputy Chief Inspector for the Office of Security Programs in administering the security regulations.",
-    "url": "https://www.usajobs.gov/job/871508000",
-    "posted_at": "2026-06-03T08:52:58.557000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871490700",
     "title": "Information Technology Specialist (APPSW), AI Software Engineer, GS-2210-15, FPL 15 (Direct Hire)",
     "organization": "Federal Student Aid",
@@ -1049,50 +826,6 @@
     "url": "https://www.usajobs.gov/job/871490700",
     "posted_at": "2026-06-03T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871486500",
-    "title": "Senior Software Engineer",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
-    "url": "https://www.usajobs.gov/job/871486500",
-    "posted_at": "2026-06-03T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871486000",
-    "title": "Application Software Engineer",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As an IT Specialist (Applications Software) with the US Office of Personnel Management, Products and Data Engineering Divisions, you will serve as a senior software engineer responsible for designing, developing, integrating, modernizing, and sustaining enterprise application systems and services that support OPM mission requirements.",
-    "url": "https://www.usajobs.gov/job/871486000",
-    "posted_at": "2026-06-03T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871475600",
-    "title": "Accountant",
-    "organization": "Farm Production and Conservation (FPAC) Business Center",
-    "locations": [
-      "Kansas City, Missouri",
-      "Raleigh, North Carolina",
-      "Fort Worth, Texas"
-    ],
-    "description": "This position is located in the Farm Production and Conservation (FPAC) Business Center (BC), Chief Financial Operations Office (CFOO), Financial Management Division, (FMD). This announcement will fill multiple accounting positions in FMD.",
-    "url": "https://www.usajobs.gov/job/871475600",
-    "posted_at": "2026-06-03T00:00:00",
-    "salary": "11-12",
     "grade": null,
     "remote": null
   },
@@ -1155,20 +888,6 @@
     "remote": null
   },
   {
-    "job_id": "870925400",
-    "title": "Emergency Management Specialist (Direct Hire)",
-    "organization": "Armstrong Flight Research Center",
-    "locations": [
-      "Edwards AFB, California"
-    ],
-    "description": "As an Emergency Management Specialist with the AFRC Office of Protective Services, you will support emergency management and continuity of operations programs through planning, training, exercises, emergency preparedness activities, and program evaluations. You will assist with maintaining emergency plans, procedures, and emergency response capabilities to ensure compliance with Agency and Federal requirements.",
-    "url": "https://www.usajobs.gov/job/870925400",
-    "posted_at": "2026-06-03T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871451500",
     "title": "Program Analyst (Informatics)",
     "organization": "Veterans Health Administration",
@@ -1179,35 +898,6 @@
     "url": "https://www.usajobs.gov/job/871451500",
     "posted_at": "2026-06-02T15:44:20.687000",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871451500",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Altoona, Pennsylvania"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/871451500",
-    "posted_at": "2026-06-02T15:44:20.687000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871432700",
-    "title": "Medical Records Technician (Coder)",
-    "organization": "Indian Health Service",
-    "locations": [
-      "Kyle, South Dakota",
-      "Pine Ridge, South Dakota"
-    ],
-    "description": "Provide accurate impatient and specialty medical coding by reviewing clinical documentation. Assign accurate diagnostic and procedural codes in accordance with coding guidelines for billing, quality reporting and reimbursement. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021). Incentive authorized up to 25% of base pay Recruitment Incentive - New appointees Relocation Incentive - Current federal employees",
-    "url": "https://www.usajobs.gov/job/871432700",
-    "posted_at": "2026-06-02T14:56:31.110000",
-    "salary": "8-8",
     "grade": null,
     "remote": null
   },
@@ -1285,20 +975,6 @@
     "remote": null
   },
   {
-    "job_id": "871280000",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Los Angeles, California"
-    ],
-    "description": "The Program Analyst (Health Informatics) position is located at the medical centers within the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of this role is to enhance the quality, efficiency, and effectiveness of health care by integrating clinical and information processes essential for the successful adoption and use of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/871280000",
-    "posted_at": "2026-06-01T15:46:34.390000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871169600",
     "title": "General Engineer",
     "organization": "Missile Defense Agency",
@@ -1342,34 +1018,6 @@
     "remote": null
   },
   {
-    "job_id": "871418700",
-    "title": "R&D Program Manager",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/871418700",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871289100",
-    "title": "Director of Data and Future Technology Division, NSIC S9",
-    "organization": "United States Space Force Forces",
-    "locations": [
-      "Wright-Patterson AFB, Ohio"
-    ],
-    "description": "Do not email applications. To submit your resume for this Direct Hire opportunity click here. For additional information on other USSF direct hire opportunities visit the Air Force Civilian Careers Space Force website and follow USSF on LinkedIn.",
-    "url": "https://www.usajobs.gov/job/871289100",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871289100",
     "title": "Director of Data and Future Technology Division, NSIC S9",
     "organization": "United States Space Force Forces",
@@ -1394,107 +1042,6 @@
     "url": "https://www.usajobs.gov/job/871196700",
     "posted_at": "2026-06-01T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871196700",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Program Analyst (Health Informatics) improve the qualify, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/871196700",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871153800",
-    "title": "Facility Operations Specialist (Recent Graduate)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Operations Division, Office of Training. The Recent Graduates Program offers dynamic, 1 to 2-year opportunities that give early career talent the chance to support key facility operations functions through focused administrative and technical work. Selectees will learn and contribute to essential facility operations functions, ensure process accuracy, and apply their organizational skills in a mission-driven environment.",
-    "url": "https://www.usajobs.gov/job/871153800",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871153600",
-    "title": "Student Trainee (Financial Administration)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Saint Louis, Missouri",
-      "Quantico, Virginia"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Office of Training and St. Louis Division. These position(s) primary purpose is to provide daily financial and administrative support to field offices.",
-    "url": "https://www.usajobs.gov/job/871153600",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "3-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871153500",
-    "title": "Student Trainee (Administrative and Office Support)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Minneapolis, Minnesota",
-      "McAllen, Texas",
-      "Quantico, Virginia"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Office of Training, Midwest Region, and Southern Region. These position(s) primary purpose is to provide clerical and administrative support to the field offices. These are positions available in the following offices: Quantico, VA, Minneapolis, MN, and McAllen, TX.",
-    "url": "https://www.usajobs.gov/job/871153500",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "3-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871108900",
-    "title": "Human Resources Assistant",
-    "organization": "NASA Shared Services Center",
-    "locations": [
-      "Bay Saint Louis, Mississippi"
-    ],
-    "description": "This position is located at the NASA Shared Services Center (NSSC), Agency Services Branch (ASB). You will serve as a Human Resources Assistant, and will be responsible for serving as a resource on employee training and education requests, and learning and development vendor purchasing transactions.",
-    "url": "https://www.usajobs.gov/job/871108900",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871108900",
-    "title": "Human Resources Assistant",
-    "organization": "NASA Shared Services Center",
-    "locations": [
-      "Bay Saint Louis, Mississippi"
-    ],
-    "description": "This position is located at the NASA Shared Services Center (NSSC), Agency Services Branch (ASB). You will serve as a Human Resources Assistant, and will be responsible for serving as a resource on employee training and education requests, and learning and development vendor purchasing transactions.",
-    "url": "https://www.usajobs.gov/job/871108900",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871005600",
-    "title": "Attorney Advisor (General)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "Department of Justice (DOJ) agencies post experienced attorney job announcements on the DOJ Careers page. The DOJ typically hires hundreds of attorneys each year.",
-    "url": "https://www.usajobs.gov/job/871005600",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   },
@@ -1532,97 +1079,6 @@
     "remote": null
   },
   {
-    "job_id": "870902700",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/870902700",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870733500",
-    "title": "General Engineer, Supervisory AST, Engineering Program Management",
-    "organization": "George C. Marshall Space Flight Center",
-    "locations": [
-      "Huntsville, Alabama"
-    ],
-    "description": "As a Supervisory Engineering Program Manager within the Environmental Engineering and Occupational Health Office, you will lead, plan, execute, and oversee environmental programs for NASA Marshall Space Flight Center and Michoud Assembly Facility. You will manage budget and risk, oversee projects and contractors, advise leadership on technical, engineering, schedule, and resource matters, and represent the agency to internal and external stakeholders to support mission success.",
-    "url": "https://www.usajobs.gov/job/870733500",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870720100",
-    "title": "DATA SCIENTIST",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Chula Vista, California"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, U.S. Border Patrol, San Diego Sector, Mission Readiness Operations Division, located in Chula Vista, CA. Additional selections may be made for other organizational divisions and/or units within the duty location(s) listed above.",
-    "url": "https://www.usajobs.gov/job/870720100",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870714800",
-    "title": "Health Scientist (Data Science)",
-    "organization": "National Institutes of Health",
-    "locations": [
-      "Montgomery County, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "If you are an exceptionally talented, knowledgeable, and motivated individual with experience in providing laboratory assistance to one or more senior investigators, performing various laboratory experiments in support of research programs, AND you want to play a significant role in a dynamic organization, then consider joining the NIH!",
-    "url": "https://www.usajobs.gov/job/870714800",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870699000",
-    "title": "Health Scientist (Data Science)",
-    "organization": "National Institutes of Health",
-    "locations": [
-      "Montgomery County, Maryland",
-      "Durham, North Carolina"
-    ],
-    "description": "If you are an exceptionally talented, knowledgeable, and motivated individual with experience in providing laboratory assistance to one or more senior investigators, performing various laboratory experiments in support of research programs, AND you want to play a significant role in a dynamic organization, then consider joining the NIH!",
-    "url": "https://www.usajobs.gov/job/870699000",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871032400",
     "title": "Nurse (Quality Improvement Coordinator)",
     "organization": "Indian Health Service",
@@ -1633,34 +1089,6 @@
     "url": "https://www.usajobs.gov/job/871032400",
     "posted_at": "2026-05-29T10:41:46.670000",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871032400",
-    "title": "Nurse (Quality Improvement Coordinator)",
-    "organization": "Indian Health Service",
-    "locations": [
-      "Gallup, New Mexico"
-    ],
-    "description": "This position is located in the Division of Quality Management at the Gallup Indian Medical Center in Gallup, NM. The primary purpose of this position is serving as Quality Performance Improvement Coordinator for Gallup Service Unit. Collaborates with all departments of the service unit to maintain standards of patient care and provides consultation and guidance to the healthcare teams related to performance improvement.",
-    "url": "https://www.usajobs.gov/job/871032400",
-    "posted_at": "2026-05-29T10:41:46.670000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871002100",
-    "title": "BUDGET ANALYST",
-    "organization": "Air Force Civilian Career Training",
-    "locations": [
-      "Hurlburt Field, Florida"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to provide developmental experience designed to broaden the skills and/or enhance the leadership perspective of an identified high-potential, mid-level manager; it is not a continuing position, assignment duration is NTE 36 months.",
-    "url": "https://www.usajobs.gov/job/871002100",
-    "posted_at": "2026-05-29T08:40:17.043000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1735,49 +1163,6 @@
     "remote": null
   },
   {
-    "job_id": "870525900",
-    "title": "Supv General Engineer",
-    "organization": "Missile Defense Agency",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "The position(s) covered by this vacancy announcement is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo). For more information please see: ACQDEMO",
-    "url": "https://www.usajobs.gov/job/870525900",
-    "posted_at": "2026-05-27T10:23:14.130000",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870669900",
-    "title": "Financial Management Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Metairie, Louisiana"
-    ],
-    "description": "This position is located in the DEA, New Orleans Field Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
-    "url": "https://www.usajobs.gov/job/870669900",
-    "posted_at": "2026-05-27T09:29:52.390000",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870657700",
-    "title": "Mission and Operations Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Jacksonville, Florida",
-      "Tampa, Florida"
-    ],
-    "description": "This position is located in the DEA, Tampa Field Division and Jacksonville District Office. This position(s) primary purpose is to support the Outlying Office (OO) related to GSU and FPU level BOS activities involving: administrative, human resource liaison, fleet management, personal property (accountable and non-accountable) management, security (personnel, physical, and information/communication), inspections/internal control, logistics, TFO management, Imprest, and records management.",
-    "url": "https://www.usajobs.gov/job/870657700",
-    "posted_at": "2026-05-27T08:33:45.827000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870625500",
     "title": "Director, Environmental Management Division",
     "organization": "Headquarters, NASA",
@@ -1808,20 +1193,6 @@
     "remote": null
   },
   {
-    "job_id": "870557900",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "West Haven, Connecticut"
-    ],
-    "description": "Position is located in the Digital Health Office VA Connecticut Medical Centers, Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration. This is a 40 hours per week full-time position.",
-    "url": "https://www.usajobs.gov/job/870557900",
-    "posted_at": "2026-05-26T12:06:16.387000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870514400",
     "title": "SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY",
     "organization": "Air Force Elements, U.S. Strategic Command",
@@ -1832,34 +1203,6 @@
     "url": "https://www.usajobs.gov/job/870514400",
     "posted_at": "2026-05-26T00:00:00",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870514400",
-    "title": "SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY",
-    "organization": "Air Force Elements, U.S. Strategic Command",
-    "locations": [
-      "Dahlgren, Virginia"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to develop, modify, secure, and automate software, analytical methodologies, and processes; and advance computing technologies using state-of-the-art industry best practices",
-    "url": "https://www.usajobs.gov/job/870514400",
-    "posted_at": "2026-05-26T00:00:00",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870355600",
-    "title": "Management and Program Analyst",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Office of Project Management, Department of Energy. As a Management and Program Analyst, you will develop and implement professional development programs in project and program management, aligning with PM's role in establishing and implementing DOE's project management policies. This role supports the Project Management Career Development Program (PMCDP), a statutorily required education and certification program for acquisition and project management workforce.",
-    "url": "https://www.usajobs.gov/job/870355600",
-    "posted_at": "2026-05-26T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -2001,21 +1344,7 @@
     ],
     "description": "Lead. Innovate. Influence. As an Associate General Counsel in OPM's Office of the General Counsel, you'll steer a Division within OGC that advises OPM leadership on mission critical matters-from internal operations to governmentwide programs serving 8 million+ Federal employees, retirees, and families. Openings: General Law; Policy and Rulemaking; Litigation, Employment and Labor Relations.",
     "url": "https://www.usajobs.gov/job/869286800",
-    "posted_at": "2026-05-14T08:28:58.140000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869286800",
-    "title": "Associate General Counsel",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Lead. Innovate. Influence. As an Associate General Counsel in OPM's Office of the General Counsel, you'll steer a Division within OGC that advises OPM leadership on mission critical matters-from internal operations to governmentwide programs serving 8 million+ Federal employees, retirees, and families. Openings: General Law; Policy and Rulemaking; Litigation, Employment and Labor Relations.",
-    "url": "https://www.usajobs.gov/job/869286800",
-    "posted_at": "2026-05-14T08:28:58.140000",
+    "posted_at": "2026-05-14T00:00:00",
     "salary": "00-00",
     "grade": null,
     "remote": null
