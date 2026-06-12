@@ -1,43 +1,450 @@
 [
   {
-    "job_id": "872641500",
-    "title": "Program Analyst",
-    "organization": "Drug Enforcement Administration",
+    "job_id": "872828000",
+    "title": "Program Specialist",
+    "organization": "Headquarters, NASA",
     "locations": [
-      "Arlington, Virginia"
+      "Washington, District of Columbia"
     ],
-    "description": "The positions are located in the, Diversion Control Division,Drug & Chemical Evaluation Section (DOE), Targeting & Special Projects Section (DOI), Registration & Business Operations Section (DRR), Regulatory Section (DRG), Import/Export Section (DRI), Diversion Technology Section (DRT), Diversion Planning & Resources Section (DPA), Liaison & Outreach Section (DPL), and Regulatory Drafting & Policy Support Section (DPW).",
-    "url": "https://www.usajobs.gov/job/872641500",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "7-7",
+    "description": "As a Program Specialist within the NASA Headquarters Office of the Chief Financial Officer, you will serve as the Agency lead for enterprise-wide conference operations. You will direct coordination, executive reporting, quality control, and compliance oversight; adjudicate high-cost travel and conference requests; lead cross-Center subject matter expert teams; and brief the NASA Administrator and executive counterparts on spending, performance, and federal mandates.",
+    "url": "https://www.usajobs.gov/job/872828000",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "872641500",
-    "title": "Program Analyst",
-    "organization": "Drug Enforcement Administration",
+    "job_id": "872794100",
+    "title": "Data Scientist, CG-1560-15",
+    "organization": "Federal Deposit Insurance Corporation",
     "locations": [
-      "Arlington, Virginia"
+      "Washington, District of Columbia"
     ],
-    "description": "The positions are located in the, Diversion Control Division,Drug & Chemical Evaluation Section (DOE), Targeting & Special Projects Section (DOI), Registration & Business Operations Section (DRR), Regulatory Section (DRG), Import/Export Section (DRI), Diversion Technology Section (DRT), Diversion Planning & Resources Section (DPA), Liaison & Outreach Section (DPL), and Regulatory Drafting & Policy Support Section (DPW).",
-    "url": "https://www.usajobs.gov/job/872641500",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "7-7",
+    "description": "This position is located in the Division of Insurance and Research, Headquarters of the Federal Deposit Insurance Corporation and provides technical leadership and serves as team lead on data analysis projects, including projects that use complex analytic approaches common to the field of data science. Additional selections may be made from this vacancy announcement to fill similar vacancies that occur subsequent to this announcement.",
+    "url": "https://www.usajobs.gov/job/872794100",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "15-15",
     "grade": null,
     "remote": null
   },
   {
-    "job_id": "872639700",
-    "title": "Program Analyst",
+    "job_id": "872767300",
+    "title": "Electrical Engineer, AST, Electrical Systems (Direct Hire)",
+    "organization": "George C. Marshall Space Flight Center",
+    "locations": [
+      "Huntsville, Alabama"
+    ],
+    "description": "You will provide ionizing-radiation analysis for avionics and support flight and development projects as the focal engineer for IR (Ionizing Radiation) effects on EEE (Electrical, Electronic, Electromechanical) parts. You will design, implement, and analyze radiation tests, develop IR environments and requirements, prepare IR control plans, and work with designers to select tolerant parts. You will participate in all design reviews and verification activities.",
+    "url": "https://www.usajobs.gov/job/872767300",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872761800",
+    "title": "Facility Operations Specialist",
     "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the DEA, Operations Division, Office of Training - Academy Operations Section, Building and Facility Management Unit (OTAB). This position(s) primary purpose is to organize and facilitate the operations, maintenance, repair work and alterations performed by contractors and Federal Bureau of Investigation (FBI) maintenance staff at the DEA Training Academy.",
+    "url": "https://www.usajobs.gov/job/872761800",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872752800",
+    "title": "AST - Life Sciences Research",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "This position serves as the leader for the Human Health and Performance Directorate (HHPD), Cardiovascular and Vision Laboratory (CVL) providing strategic direction, subject matter expertise, and oversight for contract work related to the cardiovascular and ocular changes of humans that occur during spaceflight, investigate the mechanisms of these adaptations, and develop countermeasures when necessary.",
+    "url": "https://www.usajobs.gov/job/872752800",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872717800",
+    "title": "Management and Program Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland"
+    ],
+    "description": "This position is part of the Office of Environment, Health, Safety, and Security, Department of Energy.",
+    "url": "https://www.usajobs.gov/job/872717800",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872679500",
+    "title": "ASSISTANT / ASSOCIATE PROFESSOR",
+    "organization": "National Defense University",
+    "locations": [
+      "Fort Bragg, North Carolina"
+    ],
+    "description": "National Defense University (NDU) supports the joint warfighter by providing rigorous Joint Professional Military Education to members of the U.S. Armed Forces and select others in order to develop leaders who have the ability to operate and creatively think in an unpredictable and complex world. This is a Title 10 Excepted Service Appointment. Appointment is not to exceed 3 years with the possibility for extension.",
+    "url": "https://www.usajobs.gov/job/872679500",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "2-3",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872584700",
+    "title": "Research Space Scientist, AST, Planetary Studies (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "You will serve as a Space Scientist in a vibrant Astrophysics Branch at the NASA Ames Research Center (ARC) to conduct research in formation and evolution of prebiotic organics in space, and explore the role of astrochemistry in the origin of life using quantum chemistry techniques. The Astrophysics Branch has a world-class laboratory astrophysics group, exoplanet technologies group, modeling and computational group.",
+    "url": "https://www.usajobs.gov/job/872584700",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872584600",
+    "title": "Research Astrophysicist, AST, Stellar, Galactic, and Extra Galactic Astrophysics (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "As an Astrophysicist in the Space Science and Astrobiology Division of the Science Directorate at NASA Ames Research Center, you will lead pioneering studies that enable current and future discoveries of exoplanet atmospheres. The substellar atmosphere group develops and creates novel methodologies to model and interpret the atmospheres of exoplanets and brown dwarfs leveraging NASA flagship missions such as the James Webb, Roman Space Telescope, and upcoming Habitable Worlds Observatory.",
+    "url": "https://www.usajobs.gov/job/872584600",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872478000",
+    "title": "Electronics Engineer, AST, Telecommunications (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida"
+    ],
+    "description": "The Kennedy Space Center (KSC) Office of the Chief Information Officer is seeking a skilled Engineer to support KSC Voice systems, including spaceport alerting and communication capabilities. This position provides technical expertise, system design and update support, operational readiness assessment, troubleshooting, and coordination with contractors and KSC organizations to ensure reliable mission and safety communication services.",
+    "url": "https://www.usajobs.gov/job/872478000",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872721800",
+    "title": "Data Analyst",
+    "organization": "Office of the Inspector General, USPS",
     "locations": [
       "Arlington, Virginia"
     ],
-    "description": "The positions are located in the, Diversion Control Division, Drug & Chemical Evaluation Section (DOE), Targeting & Special Projects Section (DOI), Registration & Business Operations Section (DRR), Regulatory Section (DRG), Import/Export Section (DRI), Diversion Technology Section (DRT), Diversion Planning & Resources Section (DPA), Liaison & Outreach Section (DPL), and Regulatory Drafting & Policy Support Section (DPW).",
-    "url": "https://www.usajobs.gov/job/872639700",
-    "posted_at": "2026-06-11T00:00:00",
+    "description": "The USPS OIG is seeking a highly qualified applicant to fill our Data Analyst position in the Research and Insights Solution Center located in Arlington, Virginia. Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/872721800",
+    "posted_at": "2026-06-11T11:56:33.533000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872719300",
+    "title": "Data Analyst",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
+    "url": "https://www.usajobs.gov/job/872719300",
+    "posted_at": "2026-06-11T11:49:11.807000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872719100",
+    "title": "Optometrist",
+    "organization": "Indian Health Service",
+    "locations": [
+      "Camp Verde, Arizona",
+      "Chinle, Arizona",
+      "Cibecue, Arizona",
+      "Inscription House, Arizona",
+      "Kayenta, Arizona",
+      "Maricopa, Arizona",
+      "McNary, Arizona",
+      "Parker, Arizona",
+      "Peach Springs, Arizona",
+      "Phoenix, Arizona",
+      "Pinon, Arizona",
+      "Polacca, Arizona",
+      "Red Mesa, Arizona",
+      "Sacaton, Arizona",
+      "Supai, Arizona",
+      "Tsaile, Arizona",
+      "Whiteriver, Arizona",
+      "Davis, California",
+      "Havasu Lake, California",
+      "Hemet, California",
+      "Riverside, California",
+      "Winterhaven, California",
+      "Towaoc, Colorado",
+      "Fort Hall, Idaho",
+      "Lawrence, Kansas",
+      "Mashpee, Massachusetts",
+      "Cass Lake, Minnesota",
+      "Naytahwaush, Minnesota",
+      "Ogema, Minnesota",
+      "Ponemah, Minnesota",
+      "Ponsford, Minnesota",
+      "Red Lake, Minnesota",
+      "Browning, Montana",
+      "Crow Agency, Montana",
+      "Harlem, Montana",
+      "Hays, Montana",
+      "Heart Butte, Montana",
+      "Lame Deer, Montana",
+      "Lodge Grass, Montana",
+      "Poplar, Montana",
+      "Pryor, Montana",
+      "Wolf Point, Montana",
+      "Cherokee, North Carolina",
+      "Belcourt, North Dakota",
+      "Cannon Ball, North Dakota",
+      "Fort Yates, North Dakota",
+      "Winnebago, Nebraska",
+      "Acoma, New Mexico",
+      "Albuquerque, New Mexico",
+      "Bernalillo, New Mexico",
+      "Bloomfield, New Mexico",
+      "Cochiti Pueblo, New Mexico",
+      "Crownpoint, New Mexico",
+      "Cuba, New Mexico",
+      "Dulce, New Mexico",
+      "Espanola, New Mexico",
+      "Gallup, New Mexico",
+      "Mescalero, New Mexico",
+      "San Felipe Pueblo, New Mexico",
+      "San Fidel, New Mexico",
+      "Sanostee, New Mexico",
+      "Santa Ana Pueblo, New Mexico",
+      "Santa Fe, New Mexico",
+      "Shiprock, New Mexico",
+      "Taos, New Mexico",
+      "Thoreau, New Mexico",
+      "Toadlena, New Mexico",
+      "Tohatchi, New Mexico",
+      "Zia Indian Reservation, New Mexico",
+      "Zuni, New Mexico",
+      "Elko, Nevada",
+      "Moapa, Nevada",
+      "Wadsworth, Nevada",
+      "Lockport, New York",
+      "Manlius, New York",
+      "Anadarko, Oklahoma",
+      "Carnegie, Oklahoma",
+      "Clinton, Oklahoma",
+      "El Reno, Oklahoma",
+      "Lawton, Oklahoma",
+      "Pawnee, Oklahoma",
+      "Watonga, Oklahoma",
+      "Wewoka, Oklahoma",
+      "Salem, Oregon",
+      "Warm Springs, Oregon",
+      "Rock Hill, South Carolina",
+      "Bullhead, South Dakota",
+      "Eagle Butte, South Dakota",
+      "Fort Thompson, South Dakota",
+      "Kyle, South Dakota",
+      "Lower Brule, South Dakota",
+      "Manderson, South Dakota",
+      "Martin, South Dakota",
+      "McLaughlin, South Dakota",
+      "Mobridge, South Dakota",
+      "Pine Ridge, South Dakota",
+      "Rosebud, South Dakota",
+      "Sisseton, South Dakota",
+      "Wagner, South Dakota",
+      "Wakpala, South Dakota",
+      "Wanblee, South Dakota",
+      "Fort Duchesne, Utah",
+      "Aylett, Virginia",
+      "Charles City, Virginia",
+      "Indian Neck, Virginia",
+      "Madison Heights, Virginia",
+      "Providence Forge, Virginia",
+      "Richmond, Virginia",
+      "Suffolk, Virginia",
+      "Auburn, Washington",
+      "Forks, Washington",
+      "Nespelem, Washington",
+      "Spokane, Washington",
+      "Toppenish, Washington",
+      "Wapato, Washington",
+      "Wellpinit, Washington",
+      "White Swan, Washington"
+    ],
+    "description": "All grade levels may not be available at the locations. Join the Indian Health Service and make a meaningful impact in Native communities. In this role, you will support vital healthcare operations that ensure patients receive timely, high-quality care. If you're looking for a rewarding career where your work directly supports patient services and community well-being, we encourage you to apply. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
+    "url": "https://www.usajobs.gov/job/872719100",
+    "posted_at": "2026-06-11T11:48:22.747000",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872711500",
+    "title": "Committee on Foreign Investment in the US Team Chief",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/872711500",
+    "posted_at": "2026-06-11T11:22:36.707000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872710500",
+    "title": "Committee on Foreign Investment in the US Team Chief",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/872710500",
+    "posted_at": "2026-06-11T11:17:56.063000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872699600",
+    "title": "Program Analyst",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "San Diego, California"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), San Diego Field Division, San Diego, California. The purpose of this position is to serve as an expert advisor to the Special Agent in Charge (SAC) on operations program and policy for the San Diego Division.",
+    "url": "https://www.usajobs.gov/job/872699600",
+    "posted_at": "2026-06-11T10:42:45.963000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872697200",
+    "title": "Public Notice - Engineering Technician (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida",
+      "Houston, Texas"
+    ],
+    "description": "Positions advertised are in various organizations and locations with Kennedy Space Center and Johnson Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-09/10/11/12 levels).",
+    "url": "https://www.usajobs.gov/job/872697200",
+    "posted_at": "2026-06-11T10:32:59.180000",
     "salary": "9-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872696500",
+    "title": "Public Notice - Administrative / Management (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida",
+      "Houston, Texas"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center and Johnson Space Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-0301, 0343, 346 at the GS-09/11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/872696500",
+    "posted_at": "2026-06-11T10:30:22.337000",
+    "salary": "9-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872695900",
+    "title": "Public Notice - Engineering (Direct Hire)",
+    "organization": "John F. Kennedy Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida",
+      "Houston, Texas"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center and Johnson Space Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-0801, 0806, 0830, 0850, 0854, 0861 at the GS-7/9/11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/872695900",
+    "posted_at": "2026-06-11T10:28:48.257000",
+    "salary": "7-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872695800",
+    "title": "Public Notice - Facilities Operations/Management (Direct Hire)",
+    "organization": "Lyndon B. Johnson Space Center",
+    "locations": [
+      "Kennedy Space Center, Florida",
+      "Houston, Texas"
+    ],
+    "description": "Positions advertised are in various organizations at Kennedy Space Center and Johnson Space Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-11/12/13/14 levels).",
+    "url": "https://www.usajobs.gov/job/872695800",
+    "posted_at": "2026-06-11T10:27:29.547000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872684200",
+    "title": "Data Scientist",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "District of Columbia, District of Columbia"
+    ],
+    "description": "As a Data Scientist with the US Office of Personnel Management, Healthcare and Insurance, you will develop and apply statistical models, machine learning methods, risk indicators, anomaly detection, automation, and visual analytics to support oversight, program integrity, fraud/risk detection, and data-driven decisions for federal benefits programs.",
+    "url": "https://www.usajobs.gov/job/872684200",
+    "posted_at": "2026-06-11T09:50:01",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872662500",
+    "title": "Data Scientist (Artificial Intelligence/Machine Learning)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
+    "url": "https://www.usajobs.gov/job/872662500",
+    "posted_at": "2026-06-11T08:19:32.533000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872641500",
+    "title": "Program Analyst",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "The positions are located in the, Diversion Control Division,Drug & Chemical Evaluation Section (DOE), Targeting & Special Projects Section (DOI), Registration & Business Operations Section (DRR), Regulatory Section (DRG), Import/Export Section (DRI), Diversion Technology Section (DRT), Diversion Planning & Resources Section (DPA), Liaison & Outreach Section (DPL), and Regulatory Drafting & Policy Support Section (DPW).",
+    "url": "https://www.usajobs.gov/job/872641500",
+    "posted_at": "2026-06-11T00:00:00",
+    "salary": "7-7",
     "grade": null,
     "remote": null
   },
@@ -138,44 +545,6 @@
     "remote": null
   },
   {
-    "job_id": "872543300",
-    "title": "Attorney Advisor (General)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Chief Counsel. The Drug Enforcement Administration (DEA), Office of Chief Counsel (CC) is seeking an attorney to work as Division Counsel (DC) for the St. Louis Division in St. Louis, MO.",
-    "url": "https://www.usajobs.gov/job/872543300",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872189500",
-    "title": "Management and Program Analyst (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Huntsville, Alabama",
-      "Edwards AFB, California",
-      "Moffett Field, California",
-      "Washington, District of Columbia",
-      "Kennedy Space Center, Florida",
-      "Greenbelt, Maryland",
-      "Bay Saint Louis, Mississippi",
-      "Stennis Space Center, Mississippi",
-      "Cleveland, Ohio",
-      "Houston, Texas",
-      "Hampton, Virginia"
-    ],
-    "description": "The Science Mission Directorate (SMD) at NASA Headquarters seeks an Interagency Agreements (IAA) Analyst, paving the way for the Agency's next missions for the Artemis Generation; partnering with senior executives and management, scientists and researchers, the Office of the Chief Financial Officer, the Office of Procurement, the Office of General Counsel, and SMD partners (internal/external entities), to manage the interagency agreement process when NASA is the requesting Agency.",
-    "url": "https://www.usajobs.gov/job/872189500",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871675100",
     "title": "Environmental Protection Specialist (Direct Hire)",
     "organization": "John C. Stennis Space Center",
@@ -186,22 +555,6 @@
     "url": "https://www.usajobs.gov/job/871675100",
     "posted_at": "2026-06-11T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871592200",
-    "title": "Data Scientist",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Washington, District of Columbia",
-      "Indianapolis, Indiana",
-      "Minneapolis, Minnesota"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, People Analytics Division, in the following locations: Indianapolis, IN Minneapolis, MN Washington, D.C. Salary: Salary listed reflects the rest of U.S. scale and, if applicable, will be adjusted to meet the locality pay or cost of living expenses of the duty location upon selection.",
-    "url": "https://www.usajobs.gov/job/871592200",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -246,20 +599,6 @@
     "url": "https://www.usajobs.gov/job/872558100",
     "posted_at": "2026-06-10T13:24:08.973000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872529800",
-    "title": "IT Specialist - Power Platform (APPSW/INFOSEC)",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As an IT Specialist (APPSW/INFOSEC) (IT Specialist - Power Platform (APPSW/INFOSEC)), you will serve as an agency IT expert and authoritative consultant to design, document, develop, modify, test, install, implement, and support new or legacy Power Platform applications and software security solutions for both the Office of Information Technology (OIT) and other SEC program teams.",
-    "url": "https://www.usajobs.gov/job/872529800",
-    "posted_at": "2026-06-10T11:57:52.737000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -349,6 +688,35 @@
     "remote": null
   },
   {
+    "job_id": "872386300",
+    "title": "Data Scientist",
+    "organization": "Federal Acquisition Service",
+    "locations": [
+      "San Francisco, California",
+      "Lakewood, Colorado",
+      "Washington, District of Columbia",
+      "Orlando, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Boston, Massachusetts",
+      "Kansas City, Missouri",
+      "New York, New York",
+      "Philadelphia, Pennsylvania",
+      "Fort Worth, Texas",
+      "Houston, Texas",
+      "San Antonio, Texas",
+      "Norfolk, Virginia",
+      "Tacoma, Washington"
+    ],
+    "description": "As a Data Scientist, you will serve as a senior authoritative subject matter expert for developing new methods to automate reports, develop predictive models, and analyze trends. Location of position: GSA, Federal Acquisition Service (FAS), Office of Policy and Compliance, Acquisition Evidence & Analysis Division. The Acquisition Evidence and Analysis Division is responsible for conducting analysis and evaluation of acquisition activities to ensure compliance of acquisition across FAS.",
+    "url": "https://www.usajobs.gov/job/872386300",
+    "posted_at": "2026-06-10T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872383500",
     "title": "IT Solutions Development Specialist & AI Technical SME ",
     "organization": "Federal Acquisition Service",
@@ -370,31 +738,6 @@
     "url": "https://www.usajobs.gov/job/872383500",
     "posted_at": "2026-06-10T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872379500",
-    "title": "Data Scientist ",
-    "organization": "Federal Acquisition Service",
-    "locations": [
-      "San Francisco, California",
-      "Lakewood, Colorado",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas",
-      "Norfolk, Virginia",
-      "Tacoma, Washington"
-    ],
-    "description": "As a Data Scientist, you will serve as a subject matter expert and advisor in the highly technical and specialized area of data science. Location of position: Office of Acquisition Solutions Development (ASD) within Federal Acquisition Service (FAS) We are currently filling two vacancies, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/872379500",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -552,18 +895,30 @@
     "remote": null
   },
   {
-    "job_id": "872244300",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
+    "job_id": "872241100",
+    "title": "Business Operations Specialist",
+    "organization": "Export-Import Bank of the United States",
     "locations": [
-      "Phoenix, Arizona",
-      "El Paso, Texas",
-      "Lorton, Virginia"
+      "Washington, District of Columbia"
     ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. The primary purpose of this position is to perform as an intermediate level trainee, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and junior examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/872244300",
-    "posted_at": "2026-06-09T07:55:22.700000",
-    "salary": "9-9",
+    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Merit Promotion (MP) procedures vacancy number: M26-AR-12971679-IDS. Applicants who wish to also be considered under MP must apply to both vacancies separately. About this agency",
+    "url": "https://www.usajobs.gov/job/872241100",
+    "posted_at": "2026-06-09T07:28:23.070000",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872241000",
+    "title": "Business Operations Specialist",
+    "organization": "Export-Import Bank of the United States",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Delegated Examining (DE) procedures vacancy number: D26-AR-12971678-IDS. Applicants who wish to also be considered under DE must apply to both vacancies separately. About this agency",
+    "url": "https://www.usajobs.gov/job/872241000",
+    "posted_at": "2026-06-09T07:26:47.857000",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -722,27 +1077,6 @@
     "url": "https://www.usajobs.gov/job/872195400",
     "posted_at": "2026-06-08T15:40:22.280000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872182800",
-    "title": "Artificial Intelligence Engineer",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $ 187,093 New Cumberland, PA: $142,488- $ 187,093 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/872182800",
-    "posted_at": "2026-06-08T15:01:05.357000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1295,36 +1629,6 @@
     "remote": null
   },
   {
-    "job_id": "872068100",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Phoenix, Arizona",
-      "El Paso, Texas",
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. This primary purpose of this position is to perform as a senior digital forensic examiner, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence for DEA, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/872068100",
-    "posted_at": "2026-06-08T08:45:30.893000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872052100",
-    "title": "Photogrammetric Imagery Scientist",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Wright-Patterson AFB, Ohio"
-    ],
-    "description": "Photogrammetric Imagery Scientists utilize all imaging systems (i.e., satellite, airborne, ground) to extract monoscopic, stereoscopic, and multiscopic mensuration results from objects and geographic features. They create mensuration reports and associated mensuration-derived products. They collaborate with analysts to understand intelligence issues and provide scientific results that augment inte",
-    "url": "https://www.usajobs.gov/job/872052100",
-    "posted_at": "2026-06-08T06:50:14.557000",
-    "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872052100",
     "title": "Photogrammetric Imagery Scientist",
     "organization": "National Geospatial-Intelligence Agency",
@@ -1406,40 +1710,6 @@
     "url": "https://www.usajobs.gov/job/871956200",
     "posted_at": "2026-06-05T12:50:31.307000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871993900",
-    "title": "Lead Information Technology Specialist (APPSW) Software Engineer",
-    "organization": "Internal Revenue Service",
-    "locations": [
-      "Fresno, California",
-      "Washington, District of Columbia",
-      "Jacksonville, Florida",
-      "Chamblee, Georgia",
-      "Chamblee, Georgia",
-      "Fairview Heights, Illinois",
-      "Covington, Kentucky",
-      "Lanham, Maryland",
-      "Detroit, Michigan",
-      "Kansas City, Missouri",
-      "Saint Louis, Missouri",
-      "Holtsville, New York",
-      "Philadelphia, Pennsylvania",
-      "Guaynabo, Puerto Rico",
-      "San Juan, Puerto Rico",
-      "Memphis, Tennessee",
-      "Austin, Texas",
-      "Austin, Texas",
-      "Farmers Branch, Texas",
-      "Ogden, Utah",
-      "Kearneysville, West Virginia"
-    ],
-    "description": "WHAT IS Information Technology Division-Tax Processing 35-41? A description of the business units can be found at: https://www.jobs.irs.gov/about/who/business-divisions Position(s) are to be filled in the following area(s): IT - Tax Processing - Consider each location carefully when applying. If you are selected for a location, that location will become your official post of duty. REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS",
-    "url": "https://www.usajobs.gov/job/871993900",
-    "posted_at": "2026-06-05T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1587,78 +1857,6 @@
     "remote": null
   },
   {
-    "job_id": "871775200",
-    "title": "Physical Scientist(Technical Program Analyst)",
-    "organization": "National Institute of Standards and Technology",
-    "locations": [
-      "Gaithersburg, Maryland"
-    ],
-    "description": "NIST works with industry and science to advance innovation and improve quality of life. We're looking for a Physical Scientist(Technical Program Analyst) to join our team! The Strategy and Planning division provides thought leadership, analysis, strategy development, and office planning for advanced manufacturing in the U.S. government. This notice is issued under direct-hire authority to recruit new talent to occupations for which NIST has a severe shortage of candidates.",
-    "url": "https://www.usajobs.gov/job/871775200",
-    "posted_at": "2026-06-05T00:00:00",
-    "salary": "4-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871723400",
-    "title": "Electrical Engineer, AST, Electrical Experimental Equipment (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "You will serve as an AST, Electrical Engineer, for the Test Operations branch of the Engineering and test Directorate at Stennis Space Center in Mississippi, you will be involved in the planning, designing, and developing of electrical equipment and systems used to operate and control specialized research and development facilities, equipment, and process systems",
-    "url": "https://www.usajobs.gov/job/871723400",
-    "posted_at": "2026-06-05T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871696400",
-    "title": "IT Specialist (ENTARCH) \"AI Solutions Architect\" GS-2210-15 FPL GS-15 (DH)",
-    "organization": "Federal Student Aid",
-    "locations": [
-      "San Francisco, California",
-      "Denver, Colorado",
-      "District of Columbia, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Dallas, Texas",
-      "Seattle, Washington"
-    ],
-    "description": "These positions located in the Federal Student Aid (FSA), Chief Technology Office Technology Operations Division. FSA is modernizing the systems that serve over 17 million students and power more than $120 billion in financial aid each year. We are building a team of senior platform and reliability engineers to strengthen the technical foundation of one of the federal government's highest-impact digital ecosystems.",
-    "url": "https://www.usajobs.gov/job/871696400",
-    "posted_at": "2026-06-05T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871696400",
     "title": "IT Specialist (ENTARCH) \"AI Solutions Architect\" GS-2210-15 FPL GS-15 (DH)",
     "organization": "Federal Student Aid",
@@ -1761,35 +1959,6 @@
     "remote": null
   },
   {
-    "job_id": "871676500",
-    "title": "Accountant",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Seattle, Washington"
-    ],
-    "description": "This position is located in the DEA, Seattle Washington Field Division. This position's primary purpose is to accurately report the financial position of Division business activities for various internal and external stakeholders - including taxpayers, auditors, legislators, DEA executives, DEA financial managers, and others who may have a vested interest in the agency's financial activity.",
-    "url": "https://www.usajobs.gov/job/871676500",
-    "posted_at": "2026-06-04T07:05:38.680000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871959700",
-    "title": "Paralegal Specialist (Bankruptcy)",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "San Diego, California",
-      "Houston, Texas"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: U.S. Trustee Program | Paralegal Recruitment U.S. Trustee Program | Paralegal Recruitment (justice.gov)",
-    "url": "https://www.usajobs.gov/job/871959700",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871959700",
     "title": "Paralegal Specialist (Bankruptcy)",
     "organization": "U.S. Trustee Program",
@@ -1849,20 +2018,6 @@
     "remote": null
   },
   {
-    "job_id": "871608100",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "San Antonio, Texas"
-    ],
-    "description": "The Program Analyst (Informatics) position is responsible for improving the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the Veterans Health Administration (VHA). The incumbent uses knowledge to adapt IT systems to drive management of the health system toward effectiveness and efficiency.",
-    "url": "https://www.usajobs.gov/job/871608100",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871523100",
     "title": "Facilities Technical Project Manager",
     "organization": "Department of Energy - Agency Wide",
@@ -1873,20 +2028,6 @@
     "url": "https://www.usajobs.gov/job/871523100",
     "posted_at": "2026-06-04T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871463200",
-    "title": "Security Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "El Paso, Texas"
-    ],
-    "description": "This position is located in the DEA, El Paso Intelligence Division, El Paso, Texas. This position(s) primary purpose is to provide intelligence and support to all Federal, State, Local, and tribal law enforcement through the EPIC Watch, the National License Plate Reader Program, the National Seizure System, and Operation Fountainhead. In addition, EPIC provides intelligence support to DEA's North Central America Division in support of the Administrator's priorities.",
-    "url": "https://www.usajobs.gov/job/871463200",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "11-12",
     "grade": null,
     "remote": null
   },
@@ -2255,36 +2396,6 @@
     "remote": null
   },
   {
-    "job_id": "871385300",
-    "title": "Mission and Operations Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Billings, Montana",
-      "Cheyenne, Wyoming"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Rocky Mountain Field Division, in the Billings Resident Office and Cheyenne Resident Office. This position's primary purpose is to support the Outlying Office (OO) related to Business Operations and administrative aspects of Law Enforcement Operations.",
-    "url": "https://www.usajobs.gov/job/871385300",
-    "posted_at": "2026-06-02T12:10:29.507000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871385300",
-    "title": "Mission and Operations Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Billings, Montana",
-      "Cheyenne, Wyoming"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Rocky Mountain Field Division, in the Billings Resident Office and Cheyenne Resident Office. This position's primary purpose is to support the Outlying Office (OO) related to Business Operations and administrative aspects of Law Enforcement Operations.",
-    "url": "https://www.usajobs.gov/job/871385300",
-    "posted_at": "2026-06-02T12:10:29.507000",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871378500",
     "title": "Offensive Cybersecurity Operator",
     "organization": "Cybersecurity and Infrastructure Security Agency",
@@ -2375,20 +2486,6 @@
     "remote": null
   },
   {
-    "job_id": "764669300",
-    "title": "Organizational Psychologist",
-    "organization": "Central Intelligence Agency",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Organizational Psychologists work in a consulting environment, eliciting client needs then designing, conducting, and reporting applied research to meet those requirements.",
-    "url": "https://www.usajobs.gov/job/764669300",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871032400",
     "title": "Nurse (Quality Improvement Coordinator)",
     "organization": "Indian Health Service",
@@ -2417,34 +2514,6 @@
     "remote": null
   },
   {
-    "job_id": "870718400",
-    "title": "Data Scientist -  AI Engineer",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "The United States Postal Service, Office of Inspector General is seeking a highly qualified applicant to fill our Data Scientist - AI Engineer position in the Research and Insights Solution Center located in Arlington, Virginia. Bring your skills and voice to our team!",
-    "url": "https://www.usajobs.gov/job/870718400",
-    "posted_at": "2026-05-27T12:33:06.110000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870717900",
-    "title": "Data Scientist - AI Engineer",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED. This announcement provides the opportunity for a reassignment/promotion to Data Scientist - AI Engineer position in the Research and Insights Solution Center located in Arlington, Virginia.",
-    "url": "https://www.usajobs.gov/job/870717900",
-    "posted_at": "2026-05-27T12:31:23.580000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "870514400",
     "title": "SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY",
     "organization": "Air Force Elements, U.S. Strategic Command",
@@ -2455,36 +2524,6 @@
     "url": "https://www.usajobs.gov/job/870514400",
     "posted_at": "2026-05-26T00:00:00",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870113900",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Los Angeles, California",
-      "Riverside, California",
-      "Santa Ana, California",
-      "Miami, Florida",
-      "Tampa, Florida",
-      "Chicago, Illinois",
-      "Peoria, Illinois",
-      "Indianapolis, Indiana",
-      "South Bend, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Baltimore, Maryland",
-      "Greenbelt, Maryland",
-      "Kings, New York",
-      "New York, New York",
-      "Cleveland, Ohio",
-      "Austin, Texas"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: U.S. Trustee Program | Attorneys | United States Department of Justice https://www.justice.gov/ust/careers/attorneys",
-    "url": "https://www.usajobs.gov/job/870113900",
-    "posted_at": "2026-05-20T14:07:58.960000",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   },
