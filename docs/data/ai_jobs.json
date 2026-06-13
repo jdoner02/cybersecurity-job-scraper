@@ -1,5 +1,131 @@
 [
   {
+    "job_id": "872952800",
+    "title": "Information Technology Specialist (Library & Research Services) (AI Specialist)",
+    "organization": "National Labor Relations Board",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located within the Office of the Chief Information Officer (OCIO) and serves as the Agency's senior Information Technology Specialist for Library Services, Knowledge Management, Digital Research Technologies, and AI-Enabled Research Support. The incumbent serves as the principal technical authority responsible for establishing, maintaining, and advancing the digital research infrastructure necessary to support the Agency's mission and strategic objectives.",
+    "url": "https://www.usajobs.gov/job/872952800",
+    "posted_at": "2026-06-12T14:17:00.830000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872934400",
+    "title": "Senior Advisor Artificial Intelligence & Advanced Compute",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/872934400",
+    "posted_at": "2026-06-12T13:26:48.373000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872939200",
+    "title": "Senior Advisor Artificial Intelligence & Advanced Compute",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "McLean, Virginia"
+    ],
+    "description": "The Policy & Capabilities (PC) Directorate ensures the IC is best postured for the threats and challenges of an uncertain future, through strategy, policy, and capabilities development. PC is comprised of the Strategic Capabilities Office (SCO) and Policy Strategy and Accountability (PSA) Office.",
+    "url": "https://www.usajobs.gov/job/872939200",
+    "posted_at": "2026-06-12T13:26:31.607000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872907600",
+    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (DIGITAL EVIDENCE)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Lorton, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. The purpose of this position is to serve as a Digital Forensic Group Supervisor providing first level supervision to a group of digital forensic examiners.",
+    "url": "https://www.usajobs.gov/job/872907600",
+    "posted_at": "2026-06-12T11:52:27.140000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872891100",
+    "title": "Supervisory Program Analyst",
+    "organization": "Joint Activities",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the Fort Meade, Maryland.",
+    "url": "https://www.usajobs.gov/job/872891100",
+    "posted_at": "2026-06-12T11:38:26.493000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872847100",
+    "title": "Data Science - Technical",
+    "organization": "DHS Headquarters",
+    "locations": [
+      "Chandler, Arizona",
+      "Washington, District of Columbia",
+      "Pensacola, Florida",
+      "Idaho Falls, Idaho",
+      "Stennis Space Center, Mississippi",
+      "Arlington, Virginia",
+      "Springfield, Virginia"
+    ],
+    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Data Science, including Data Scientist, Data Engineers, Artificial Intelligence (AI) Specialist, AI Operations Analyst, Data Modeler, Data Security Officer and Operations Research Analyst. All positions are in the DHS Cybersecurity Service.",
+    "url": "https://www.usajobs.gov/job/872847100",
+    "posted_at": "2026-06-12T07:46:54.597000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872847100",
+    "title": "Data Science - Technical",
+    "organization": "DHS Headquarters",
+    "locations": [
+      "Chandler, Arizona",
+      "Washington, District of Columbia",
+      "Pensacola, Florida",
+      "Idaho Falls, Idaho",
+      "Stennis Space Center, Mississippi",
+      "Arlington, Virginia",
+      "Springfield, Virginia"
+    ],
+    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Data Science, including Data Scientist, Data Engineers, Artificial Intelligence (AI) Specialist, AI Operations Analyst, Data Modeler, Data Security Officer and Operations Research Analyst. All positions are in the DHS Cybersecurity Service.",
+    "url": "https://www.usajobs.gov/job/872847100",
+    "posted_at": "2026-06-12T07:46:54.597000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872842700",
+    "title": "IT Specialist (AI Data Engineer)",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "District of Columbia, District of Columbia",
+      "Macon, Georgia",
+      "Kansas City, Missouri"
+    ],
+    "description": "As an IT Specialist (AI Data Engineer) with the US Office of Personnel Management, Office of the Chief Information Officer, Products and Data Engineering Division, you will develop, test, maintain, and support automated data pipelines and AI-assisted data engineering solutions that support OPM mission operations, stakeholder needs, and reliable data-driven services.",
+    "url": "https://www.usajobs.gov/job/872842700",
+    "posted_at": "2026-06-12T06:26:32.920000",
+    "salary": "9-12",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872828000",
     "title": "Program Specialist",
     "organization": "Headquarters, NASA",
@@ -136,20 +262,6 @@
     "url": "https://www.usajobs.gov/job/872478000",
     "posted_at": "2026-06-12T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872721800",
-    "title": "Data Analyst",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "The USPS OIG is seeking a highly qualified applicant to fill our Data Analyst position in the Research and Insights Solution Center located in Arlington, Virginia. Bring your skills and voice to our team!",
-    "url": "https://www.usajobs.gov/job/872721800",
-    "posted_at": "2026-06-11T11:56:33.533000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -777,20 +889,6 @@
     "url": "https://www.usajobs.gov/job/872359100",
     "posted_at": "2026-06-10T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872354500",
-    "title": "Aerospace Engineer, AST, Aerospace Flight Systems (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "As an Increment Manager with the Mission Integration and Operations Office, you will be responsible for providing leadership within the International Space Station (ISS) Program for the integration/execution of complex planning, prioritization, and impact assessment activities that drive the establishment and implementation of ISS Program requirements both at the Increment-specific and overall ISS Program level.",
-    "url": "https://www.usajobs.gov/job/872354500",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1613,22 +1711,6 @@
     "remote": null
   },
   {
-    "job_id": "872068100",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Phoenix, Arizona",
-      "El Paso, Texas",
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. This primary purpose of this position is to perform as a senior digital forensic examiner, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence for DEA, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/872068100",
-    "posted_at": "2026-06-08T08:45:30.893000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872052100",
     "title": "Photogrammetric Imagery Scientist",
     "organization": "National Geospatial-Intelligence Agency",
@@ -1639,20 +1721,6 @@
     "url": "https://www.usajobs.gov/job/872052100",
     "posted_at": "2026-06-08T06:50:14.557000",
     "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872016000",
-    "title": "Supervisory General Engineer, AST, Aerospace Experimental Facilities and Test Technologies",
-    "organization": "John Glenn Research Center at Lewis Field",
-    "locations": [
-      "Sandusky, Ohio"
-    ],
-    "description": "As Chief of the Space Environments Test Division, you will be responsible for the supervisory functions within the division to ensure the success of the Armstrong Test Facility (ATF) Space Environments Complex (SEC) testing capabilities and associated tests.",
-    "url": "https://www.usajobs.gov/job/872016000",
-    "posted_at": "2026-06-08T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -2046,23 +2114,6 @@
     "remote": null
   },
   {
-    "job_id": "871514300",
-    "title": "Business Operations Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Vista, California",
-      "Miami-Dade County, Florida",
-      "Manchester, New Hampshire",
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the DEA, Office of Forensic Sciences, Forensic Laboratories. This position(s) primary purpose is to serve as an intermediate trainee Business Operations Specialist to provide liaison, administrative, and financial support for a DEA Forensic Laboratory.",
-    "url": "https://www.usajobs.gov/job/871514300",
-    "posted_at": "2026-06-03T09:20:06.830000",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871528500",
     "title": "X-Ray Technologist (CT)",
     "organization": "Indian Health Service",
@@ -2365,22 +2416,6 @@
     "remote": null
   },
   {
-    "job_id": "871475600",
-    "title": "Accountant",
-    "organization": "Farm Production and Conservation (FPAC) Business Center",
-    "locations": [
-      "Kansas City, Missouri",
-      "Raleigh, North Carolina",
-      "Fort Worth, Texas"
-    ],
-    "description": "This position is located in the Farm Production and Conservation (FPAC) Business Center (BC), Chief Financial Operations Office (CFOO), Financial Management Division, (FMD). This announcement will fill multiple accounting positions in FMD.",
-    "url": "https://www.usajobs.gov/job/871475600",
-    "posted_at": "2026-06-03T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871432700",
     "title": "Medical Records Technician (Coder)",
     "organization": "Indian Health Service",
@@ -2421,20 +2456,6 @@
     "url": "https://www.usajobs.gov/job/871418700",
     "posted_at": "2026-06-01T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871196700",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Saint Louis, Missouri"
-    ],
-    "description": "Program Analyst (Health Informatics) improve the qualify, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/871196700",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -2496,20 +2517,6 @@
     "url": "https://www.usajobs.gov/job/871032400",
     "posted_at": "2026-05-29T10:41:46.670000",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871002100",
-    "title": "BUDGET ANALYST",
-    "organization": "Air Force Civilian Career Training",
-    "locations": [
-      "Hurlburt Field, Florida"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to provide developmental experience designed to broaden the skills and/or enhance the leadership perspective of an identified high-potential, mid-level manager; it is not a continuing position, assignment duration is NTE 36 months.",
-    "url": "https://www.usajobs.gov/job/871002100",
-    "posted_at": "2026-05-29T08:40:17.043000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },

@@ -1,5 +1,143 @@
 [
   {
+    "job_id": "872945200",
+    "title": "Contract Specialist",
+    "organization": "Cybersecurity and Infrastructure Security Agency",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This announcement is issued under the Direct Hire Authority (DHA) to recruit for positions for which there is a critical hiring need. Selectee(s) will receive a career or career-conditional appointment in the competitive service and may be required to serve a one year probationary period.",
+    "url": "https://www.usajobs.gov/job/872945200",
+    "posted_at": "2026-06-12T13:48:39.830000",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872907600",
+    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (DIGITAL EVIDENCE)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Lorton, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. The purpose of this position is to serve as a Digital Forensic Group Supervisor providing first level supervision to a group of digital forensic examiners.",
+    "url": "https://www.usajobs.gov/job/872907600",
+    "posted_at": "2026-06-12T11:52:27.140000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872905700",
+    "title": "Supervisory IT Specialist (INFOSEC)",
+    "organization": "U.S. Census Bureau",
+    "locations": [
+      "Suitland, Maryland"
+    ],
+    "description": "This vacancy is for an Supervisory IT Specialist (INFOSEC) position in the Office of the Chief Information Officer located at the U.S. Census Bureau Headquarters in Suitland, Maryland. The Census Bureau is accessible from the Metro Rail Green Line - Suitland Station. This Job Opportunity Announcement may be used to fill other Supervisory IT Specialist (INFOSEC), 2210-15 positions within the Census Bureau in the same geographical location with the same qualifications and specialized experience.",
+    "url": "https://www.usajobs.gov/job/872905700",
+    "posted_at": "2026-06-12T11:49:38.330000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872896000",
+    "title": "Supervisory Electronics Engineer",
+    "organization": "Bureau of Reclamation",
+    "locations": [
+      "Sacramento, California"
+    ],
+    "description": "Reclamation is seeking a career professional looking for an opportunity to capitalize on their expertise as a Supervisory Electronics Engineer. You can make a difference in the West by assisting in meeting increasing water demands while protecting the environment. Duty Location: Sacramento, California This is not a remote position.",
+    "url": "https://www.usajobs.gov/job/872896000",
+    "posted_at": "2026-06-12T11:20:49.433000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872849000",
+    "title": "Cybersecurity Research and Development - Technical",
+    "organization": "DHS Headquarters",
+    "locations": [
+      "Chandler, Arizona",
+      "Washington, District of Columbia",
+      "Pensacola, Florida",
+      "Idaho Falls, Idaho",
+      "Stennis Space Center, Mississippi",
+      "Arlington, Virginia",
+      "Springfield, Virginia"
+    ],
+    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Research and Development, including Cybersecurity Strategist, Cybersecurity Researcher, Threat Researcher, Telecommunication Device Distribution Program Expert, and Vulnerability Researcher. All positions are in the DHS Cybersecurity Service.",
+    "url": "https://www.usajobs.gov/job/872849000",
+    "posted_at": "2026-06-12T09:56:32.667000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872847100",
+    "title": "Data Science - Technical",
+    "organization": "DHS Headquarters",
+    "locations": [
+      "Chandler, Arizona",
+      "Washington, District of Columbia",
+      "Pensacola, Florida",
+      "Idaho Falls, Idaho",
+      "Stennis Space Center, Mississippi",
+      "Arlington, Virginia",
+      "Springfield, Virginia"
+    ],
+    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Data Science, including Data Scientist, Data Engineers, Artificial Intelligence (AI) Specialist, AI Operations Analyst, Data Modeler, Data Security Officer and Operations Research Analyst. All positions are in the DHS Cybersecurity Service.",
+    "url": "https://www.usajobs.gov/job/872847100",
+    "posted_at": "2026-06-12T07:46:54.597000",
+    "salary": "2-2",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872846200",
+    "title": "Supervisory Information Technology Specialist",
+    "organization": "U.S. Mint",
+    "locations": [
+      "West Point, New York"
+    ],
+    "description": "This position is located at the West Point United States Mint. As a Supervisory Information Technology Specialist, you will be responsible for providing short-term and long-range plan input for enterprise and IT infrastructure and end user IT equipment and managing the operation of owned and contracted enterprise infrastructure.",
+    "url": "https://www.usajobs.gov/job/872846200",
+    "posted_at": "2026-06-12T07:29:54.917000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872846000",
+    "title": "Supervisory Information Technology Specialist",
+    "organization": "U.S. Mint",
+    "locations": [
+      "West Point, New York"
+    ],
+    "description": "This position is located at the West Point United States Mint. As a Supervisory Information Technology Specialist, you will be responsible for providing short-term and long-range plan input for enterprise and IT infrastructure and end user IT equipment and managing the operation of owned and contracted enterprise infrastructure.",
+    "url": "https://www.usajobs.gov/job/872846000",
+    "posted_at": "2026-06-12T07:28:17.923000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872845800",
+    "title": "Supervisory Information Technology Specialist",
+    "organization": "U.S. Mint",
+    "locations": [
+      "West Point, New York"
+    ],
+    "description": "This position is located at the West Point United States Mint. As a Supervisory Information Technology Specialist, you will be responsible for providing short-term and long-range plan input for enterprise and IT infrastructure and end user IT equipment and managing the operation of owned and contracted enterprise infrastructure.",
+    "url": "https://www.usajobs.gov/job/872845800",
+    "posted_at": "2026-06-12T07:27:19.553000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872768400",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -70,30 +208,16 @@
     "remote": null
   },
   {
-    "job_id": "872834600",
-    "title": "SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC) - TITLE 5",
-    "organization": "Air National Guard Units",
+    "job_id": "872291700",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Mobility Command",
     "locations": [
-      "Hickam AFB, Hawaii"
+      "MacDill AFB, Florida"
     ],
-    "description": "THIS IS A NATIONAL GUARD TITLE 5 EXCEPTED SERVICE POSITION. Under this Accelerated-Hire announcement, all applicants who meet the minimum requirements at the grade level for which they apply will be forwarded to the Selecting Official for consideration. This authority authorizes the appointment of Excepted Service T5 NG Employees and T32 Technicians without the requirement to utilize competitive procedures. Applicants must meet all qualification standards to be considered for the position.",
-    "url": "https://www.usajobs.gov/job/872834600",
-    "posted_at": "2026-06-11T19:56:18.510000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872788200",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "New Orleans, Louisiana"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/872788200",
-    "posted_at": "2026-06-11T15:33:13.463000",
-    "salary": "12-12",
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The proimary purpose of this position is to serve as the primary point of contact to the 6th Security Forces Squadron commander for administrative support programs.",
+    "url": "https://www.usajobs.gov/job/872291700",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "6-6",
     "grade": null,
     "remote": null
   },
@@ -127,20 +251,6 @@
     "remote": null
   },
   {
-    "job_id": "872690500",
-    "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Digital Network Exploitation Analyst at NSA, you'll use your computer science skills to analyze and exploit foreign adversaries' digital networks and communications. You'll play a critical role in NSA's cybersecurity and intelligence operations by providing an understanding of the threat landscape and identifying vulnerabilities within these networks. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1259049",
-    "url": "https://www.usajobs.gov/job/872690500",
-    "posted_at": "2026-06-11T10:09:34.707000",
-    "salary": "11-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872673000",
     "title": "Supervisory IT Project Manager (Policy and Planning)",
     "organization": "U.S. Army Intelligence and Security Command",
@@ -151,6 +261,20 @@
     "url": "https://www.usajobs.gov/job/872673000",
     "posted_at": "2026-06-11T09:09:43.863000",
     "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872690500",
+    "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Digital Network Exploitation Analyst at NSA, you'll use your computer science skills to analyze and exploit foreign adversaries' digital networks and communications. You'll play a critical role in NSA's cybersecurity and intelligence operations by providing an understanding of the threat landscape and identifying vulnerabilities within these networks. For more information, please visit: DNEA Work Roles",
+    "url": "https://www.usajobs.gov/job/872690500",
+    "posted_at": "2026-06-11T00:00:00",
+    "salary": "11-14",
     "grade": null,
     "remote": null
   },
@@ -193,39 +317,6 @@
     "url": "https://www.usajobs.gov/job/872623100",
     "posted_at": "2026-06-11T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872591400",
-    "title": "IT Specialist (SYSADMIN OS)",
-    "organization": "Office of the Inspector General for Tax Administration",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is located at Office of the Inspector General for Tax Admin, Office of Information Technology. As an IT Specialist (SYSADMIN OS), you will leverage system administration experience and expertise to provide customer support to all levels of personnel and workstation hardware, software, testing, configuration, and deployment services.",
-    "url": "https://www.usajobs.gov/job/872591400",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "11-13",
     "grade": null,
     "remote": null
   },
@@ -501,6 +592,20 @@
     "remote": null
   },
   {
+    "job_id": "872345200",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Andersen Air Base, Guam"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/872345200",
+    "posted_at": "2026-06-10T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872311800",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -511,6 +616,34 @@
     "url": "https://www.usajobs.gov/job/872311800",
     "posted_at": "2026-06-10T00:00:00",
     "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872292100",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Education and Training Command",
+    "locations": [
+      "Sheppard AFB, Texas"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/872292100",
+    "posted_at": "2026-06-10T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872289000",
+    "title": "ACTIVITY PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Eielson AFB, Alaska"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve as the primary point of contact to the activity leadership for all administrative support programs. Also serves as liaison with Division Chiefs on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/872289000",
+    "posted_at": "2026-06-10T00:00:00",
+    "salary": "7-7",
     "grade": null,
     "remote": null
   },
@@ -683,20 +816,6 @@
     "remote": null
   },
   {
-    "job_id": "872370400",
-    "title": "Supervisory IT Specialist (InfoSec) (Chief Information Security Officer (CISO))",
-    "organization": "National Labor Relations Board",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Office of CIO (OCIO). The OCIO is responsible for planning, developing, implementing, managing, and supporting data processing, telecommunications, an information resources management systems for Headquarters and Field offices of the National Labor Relations Board (NLRB). This position serves as the Chief Information Security Officer (CISO) and provides leadership and subject matter expertise for Agency information security policies.",
-    "url": "https://www.usajobs.gov/job/872370400",
-    "posted_at": "2026-06-09T14:25:19.923000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872355100",
     "title": "Network IT Specialist",
     "organization": "U.S. Coast Guard",
@@ -735,20 +854,6 @@
     "url": "https://www.usajobs.gov/job/872309800",
     "posted_at": "2026-06-09T11:33:34.573000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872299900",
-    "title": "LIAISON OFFICER (CYBER)",
-    "organization": "Air Force Elements, U.S. Transportation Command",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is part of the Air Force Elements, U.S. Transportation Command, Transportation Command. To serve as the direct senior representative of the US Transportation Command (USTRANSCOM) Commander to the Department of Justice (DoJ)/Federal Bureau of Investigations (FBI) National Cyber Investigative Joint Task Force (NCIJTF), in Arlington VA.",
-    "url": "https://www.usajobs.gov/job/872299900",
-    "posted_at": "2026-06-09T11:00:37.750000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -853,6 +958,20 @@
     "remote": null
   },
   {
+    "job_id": "872097000",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Air Combat Command",
+    "locations": [
+      "Davis Monthan AFB, Arizona"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/directorfor all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight oforganization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/872097000",
+    "posted_at": "2026-06-09T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872081200",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Mobility Command",
@@ -877,20 +996,6 @@
     "url": "https://www.usajobs.gov/job/871929000",
     "posted_at": "2026-06-09T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872222600",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Sea Systems Command",
-    "locations": [
-      "Nanoose, Canada"
-    ],
-    "description": "You will serve as an IT Specialist (INFOSEC) in the Nanoose Bay Range Operations of NAVUNSEAWARCENDIV KEYPORT WA, Canada.",
-    "url": "https://www.usajobs.gov/job/872222600",
-    "posted_at": "2026-06-08T17:47:55.837000",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -926,20 +1031,6 @@
     "url": "https://www.usajobs.gov/job/872163600",
     "posted_at": "2026-06-08T14:02:45.467000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872139700",
-    "title": "IT Cybersecurity Specialist",
-    "organization": "Office of the Secretary of Defense",
-    "locations": [
-      "Alexandria County, Virginia"
-    ],
-    "description": "The Assistant Secretary of War for Acquisition (ASW(A)) is responsible for advising the Secretary of War, Deputy Secretary of War and the USW(A&S) on matters relating to acquisition and the integration and protection of technology that enable capability for the warfighter. The ASW(A) is responsible for Department policies and procedures governing the Department's procurement and acquisition process.",
-    "url": "https://www.usajobs.gov/job/872139700",
-    "posted_at": "2026-06-08T12:40:51.823000",
-    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -1411,64 +1502,6 @@
     "remote": null
   },
   {
-    "job_id": "872068100",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Phoenix, Arizona",
-      "El Paso, Texas",
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. This primary purpose of this position is to perform as a senior digital forensic examiner, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence for DEA, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/872068100",
-    "posted_at": "2026-06-08T08:45:30.893000",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871993800",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Headquarters, Air Force Reserve Command",
-    "locations": [
-      "Hill AFB, Utah"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, etc.",
-    "url": "https://www.usajobs.gov/job/871993800",
-    "posted_at": "2026-06-08T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871981900",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Keesler AFB, Mississippi"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/directorfor all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight oforganization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/871981900",
-    "posted_at": "2026-06-08T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871820100",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "Air Mobility Command",
-    "locations": [
-      "Travis AFB, California"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To serve as the primary point of contact to the squadron commander/ director for administrative support programs to include but not limited to task management, cybersecurity liaison (CL), Government Travel Card (GTC) program, Defense Travel System (DTS) administrator, drug demand reduction program, health care program and others.",
-    "url": "https://www.usajobs.gov/job/871820100",
-    "posted_at": "2026-06-08T00:00:00",
-    "salary": "6-6",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871794000",
     "title": "IT SPECIALIST (PLCYPLN/INFOSEC)",
     "organization": "Naval Facilities Engineering Systems Command",
@@ -1479,20 +1512,6 @@
     "url": "https://www.usajobs.gov/job/871794000",
     "posted_at": "2026-06-08T00:00:00",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871757500",
-    "title": "UNIT PROGRAM COORDINATOR",
-    "organization": "U.S. Air Forces, Europe",
-    "locations": [
-      "Fairford, United Kingdom"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/director for all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
-    "url": "https://www.usajobs.gov/job/871757500",
-    "posted_at": "2026-06-08T00:00:00",
-    "salary": "7-7",
     "grade": null,
     "remote": null
   },
@@ -2788,20 +2807,6 @@
     "remote": null
   },
   {
-    "job_id": "871536300",
-    "title": "Senior Information Technology Specialist (Cybersecurity/ENTARCH)",
-    "organization": "Federal Housing Finance Agency",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is for a Senior Information Technology Specialist (Cybersecurity/ENTARCH) located in the Office of the Chief Information Officer (OCIO) at the Federal Housing Finance Agency (FHFA). In this role, the incumbent will serve as the agency's principal technical authority responsible for establishing and governing enterprise cybersecurity architecture, secure engineering practices, and long-range security modernization strategy.",
-    "url": "https://www.usajobs.gov/job/871536300",
-    "posted_at": "2026-06-03T10:28:45.737000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871354800",
     "title": "SUPV IT SPECIALIST (PLCYPLN) TITLE 32 TEMPORARY/TEMPORARY PROMOTION",
     "organization": "Army National Guard Units",
@@ -2924,20 +2929,6 @@
     "url": "https://www.usajobs.gov/job/871064400",
     "posted_at": "2026-06-01T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871014900",
-    "title": "Deputy Assistant Inspector General for Information Technology Division",
-    "organization": "Office of the Inspector General",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Department of Justice, Office of the Inspector General in Washington, DC and reports to the Assistant Inspector General for the Information Technology Division (ITD). The Deputy Assistant Inspector General (DAIG) for ITD serves as the Deputy Chief Information Officer (DCIO) and manages the ITD. Efforts support the OIG workforce, and the OIG's programs and operations designed to promote economy, efficiency, and effectiveness and prevent fraud, waste, and abuse.",
-    "url": "https://www.usajobs.gov/job/871014900",
-    "posted_at": "2026-05-29T09:34:45.947000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
