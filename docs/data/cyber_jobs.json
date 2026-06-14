@@ -152,6 +152,20 @@
     "remote": null
   },
   {
+    "job_id": "872741000",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "Pacific Air Forces",
+    "locations": [
+      "Hickam AFB, Hawaii"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the squadron commander/directorfor all administrative support programs. Also serves as liaison with personnel flights on personnel issues and assists in oversight of organization manpower resource requirements.",
+    "url": "https://www.usajobs.gov/job/872741000",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872723900",
     "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
     "organization": "Air Force Global Strike Command",
@@ -382,6 +396,20 @@
     "remote": null
   },
   {
+    "job_id": "872508200",
+    "title": "ADMINISTRATIVE PROGRAM COORDINATOR",
+    "organization": "Headquarters, Air Force Reserve Command",
+    "locations": [
+      "Andrews AFB, Maryland"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as the primary point of contact to the group commander or senior air reserve technician (ART) for administrative support programs and support programs to include but not limited to government travel card (GTC) program, Defense Travel System (DTS)and other support programs",
+    "url": "https://www.usajobs.gov/job/872508200",
+    "posted_at": "2026-06-11T00:00:00",
+    "salary": "6-6",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872488600",
     "title": "UNIT PROGRAM COORDINATOR",
     "organization": "Air Education and Training Command",
@@ -392,6 +420,20 @@
     "url": "https://www.usajobs.gov/job/872488600",
     "posted_at": "2026-06-11T00:00:00",
     "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872484700",
+    "title": "UNIT PROGRAM COORDINATOR",
+    "organization": "United States Space Force Forces",
+    "locations": [
+      "Schriever AFB, Colorado"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of the Unit Program Coordinator (UPC) for the 9th Sustainment Squadron (9 STS) is to serve as the primary point of contact to the Squadron Commander for all support programs including manpower, military personnel, and administrative functions.",
+    "url": "https://www.usajobs.gov/job/872484700",
+    "posted_at": "2026-06-11T00:00:00",
+    "salary": "2-2",
     "grade": null,
     "remote": null
   },
@@ -812,20 +854,6 @@
     "url": "https://www.usajobs.gov/job/872374500",
     "posted_at": "2026-06-09T14:38:18.633000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872355100",
-    "title": "Network IT Specialist",
-    "organization": "U.S. Coast Guard",
-    "locations": [
-      "Alexandria, Virginia"
-    ],
-    "description": "This vacancy is for a GS-2210-12, Network IT Specialist located in the Department of Homeland Security, U.S. Coast Guard, C5ISC NETWORK SECTION in ALEXANDRIA, Virginia.",
-    "url": "https://www.usajobs.gov/job/872355100",
-    "posted_at": "2026-06-09T13:38:33.920000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -2988,34 +3016,6 @@
     "url": "https://www.usajobs.gov/job/869613100",
     "posted_at": "2026-05-15T00:00:00",
     "salary": "5-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869353200",
-    "title": "Healthcare Engineer - Network",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Lexington, Kentucky"
-    ],
-    "description": "The incumbent serves as the authoritative technical expert responsible for the architecture, engineering, cybersecurity, and sustained operation of special purpose networked systems that are mission-critical to patient care, life safety, and regulatory compliance within a complex medical center environment. The position plans, designs, implements, integrates, and maintains high-availability server and network infrastructures supporting clinical, environmental, and compliance-driven systems.",
-    "url": "https://www.usajobs.gov/job/869353200",
-    "posted_at": "2026-05-14T11:52:56.287000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869144400",
-    "title": "IT SPECIALIST (PLCYPLN)",
-    "organization": "Immediate Office of the Chief of Naval Operations",
-    "locations": [
-      "Camp H.M. Smith Marine Corp Base, Hawaii"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies through the Certain Personnel/Modified Direct Hiring Authority. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/869144400",
-    "posted_at": "2026-05-14T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   }

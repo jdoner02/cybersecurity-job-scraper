@@ -90,26 +90,6 @@
     "remote": null
   },
   {
-    "job_id": "872847100",
-    "title": "Data Science - Technical",
-    "organization": "DHS Headquarters",
-    "locations": [
-      "Chandler, Arizona",
-      "Washington, District of Columbia",
-      "Pensacola, Florida",
-      "Idaho Falls, Idaho",
-      "Stennis Space Center, Mississippi",
-      "Arlington, Virginia",
-      "Springfield, Virginia"
-    ],
-    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Data Science, including Data Scientist, Data Engineers, Artificial Intelligence (AI) Specialist, AI Operations Analyst, Data Modeler, Data Security Officer and Operations Research Analyst. All positions are in the DHS Cybersecurity Service.",
-    "url": "https://www.usajobs.gov/job/872847100",
-    "posted_at": "2026-06-12T07:46:54.597000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872842700",
     "title": "IT Specialist (AI Data Engineer)",
     "organization": "Office of Personnel Management",
@@ -234,6 +214,34 @@
     "url": "https://www.usajobs.gov/job/872584700",
     "posted_at": "2026-06-12T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872584700",
+    "title": "Research Space Scientist, AST, Planetary Studies (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "You will serve as a Space Scientist in a vibrant Astrophysics Branch at the NASA Ames Research Center (ARC) to conduct research in formation and evolution of prebiotic organics in space, and explore the role of astrochemistry in the origin of life using quantum chemistry techniques. The Astrophysics Branch has a world-class laboratory astrophysics group, exoplanet technologies group, modeling and computational group.",
+    "url": "https://www.usajobs.gov/job/872584700",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872584600",
+    "title": "Research Astrophysicist, AST, Stellar, Galactic, and Extra Galactic Astrophysics (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "As an Astrophysicist in the Space Science and Astrobiology Division of the Science Directorate at NASA Ames Research Center, you will lead pioneering studies that enable current and future discoveries of exoplanet atmospheres. The substellar atmosphere group develops and creates novel methodologies to model and interpret the atmospheres of exoplanets and brown dwarfs leveraging NASA flagship missions such as the James Webb, Roman Space Telescope, and upcoming Habitable Worlds Observatory.",
+    "url": "https://www.usajobs.gov/job/872584600",
+    "posted_at": "2026-06-12T00:00:00",
+    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -521,6 +529,27 @@
     "description": "As a Data Scientist with the US Office of Personnel Management, Healthcare and Insurance, you will develop and apply statistical models, machine learning methods, risk indicators, anomaly detection, automation, and visual analytics to support oversight, program integrity, fraud/risk detection, and data-driven decisions for federal benefits programs.",
     "url": "https://www.usajobs.gov/job/872684200",
     "posted_at": "2026-06-11T09:50:01",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872662500",
+    "title": "Data Scientist (Artificial Intelligence/Machine Learning)",
+    "organization": "Defense Logistics Agency",
+    "locations": [
+      "Battle Creek, Michigan",
+      "Whitehall, Ohio",
+      "Wright-Patterson AFB, Ohio",
+      "New Cumberland Defense Logistics Center, Pennsylvania",
+      "Philadelphia, Pennsylvania",
+      "Hill AFB, Utah",
+      "Fort Belvoir, Virginia",
+      "Richmond, Virginia"
+    ],
+    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
+    "url": "https://www.usajobs.gov/job/872662500",
+    "posted_at": "2026-06-11T08:19:32.533000",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -2013,20 +2042,6 @@
     "remote": null
   },
   {
-    "job_id": "871676500",
-    "title": "Accountant",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Seattle, Washington"
-    ],
-    "description": "This position is located in the DEA, Seattle Washington Field Division. This position's primary purpose is to accurately report the financial position of Division business activities for various internal and external stakeholders - including taxpayers, auditors, legislators, DEA executives, DEA financial managers, and others who may have a vested interest in the agency's financial activity.",
-    "url": "https://www.usajobs.gov/job/871676500",
-    "posted_at": "2026-06-04T07:05:38.680000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871959700",
     "title": "Paralegal Specialist (Bankruptcy)",
     "organization": "U.S. Trustee Program",
@@ -2575,20 +2590,6 @@
     "url": "https://www.usajobs.gov/job/869746100",
     "posted_at": "2026-05-18T13:35:58.347000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869286800",
-    "title": "Associate General Counsel",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Lead. Innovate. Influence. As an Associate General Counsel in OPM's Office of the General Counsel, you'll steer a Division within OGC that advises OPM leadership on mission critical matters-from internal operations to governmentwide programs serving 8 million+ Federal employees, retirees, and families. Openings: General Law; Policy and Rulemaking; Litigation, Employment and Labor Relations.",
-    "url": "https://www.usajobs.gov/job/869286800",
-    "posted_at": "2026-05-14T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   }
