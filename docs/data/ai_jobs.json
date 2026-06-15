@@ -1,5 +1,229 @@
 [
   {
+    "job_id": "873010800",
+    "title": "IT Specialist (AI Data Engineer)",
+    "organization": "Office of Personnel Management",
+    "locations": [
+      "Washington, District of Columbia",
+      "Macon, Georgia",
+      "Kansas City, Missouri"
+    ],
+    "description": "As an IT Specialist (AI Data Engineer) with the US Office of Personnel Management, Office of the Chief Information Officer, Products and Data Engineering Division, you will develop, test, maintain, and support automated data pipelines and AI-assisted data engineering solutions that support OPM mission operations, stakeholder needs, and reliable data-driven services.",
+    "url": "https://www.usajobs.gov/job/873010800",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "7-7",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872985600",
+    "title": "Mission Support Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Minneapolis, Minnesota",
+      "Omaha, Nebraska",
+      "McAllen, Texas"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), San Antonio Division/ McAllen District Office, Omaha Division and Minneapolis/St. Paul District Office. This position's primary purpose is to assist leadership in the performance of administrative, human resource liaison, internal control, logistics to include fleet, personal property (accountable and non-accountable) and supply management, quality assurance, Records Management, and Task for Officer (TFO) Management.",
+    "url": "https://www.usajobs.gov/job/872985600",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872964900",
+    "title": "Student Trainee (Administration and Clerical Assistance)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Mobile, Alabama",
+      "Flint, Michigan",
+      "Cape Girardeau, Missouri",
+      "Gulfport, Mississippi",
+      "Green Bay, Wisconsin"
+    ],
+    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Chicago Division, New Orleans Division, Detroit Division, and St. Louis Division. These position(s) primary purpose is to provide clerical and administrative support to the field and HQ offices.",
+    "url": "https://www.usajobs.gov/job/872964900",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "3-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872962100",
+    "title": "Staff Assistant (Recent Graduate)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Weston, Florida"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Miami Division. The Recent Graduates Program offers dynamic, 1 to 2-year opportunities that give early career talent the chance to support key administrative and operational support functions through focused technical work. Selectees will learn and contribute to essential administrative and operational support functions, ensure process accuracy, and apply their organizational skills in a mission-driven environment.",
+    "url": "https://www.usajobs.gov/job/872962100",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "9-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872786300",
+    "title": "Facility Operations Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "El Paso, Texas"
+    ],
+    "description": "This position is located in the DEA, El Paso Intelligence Division, El Paso, Texas. This position primary purpose is to ensure that the buildings, infrastructures, and support services operate safely, efficiently, and in alignment of organizational goals.",
+    "url": "https://www.usajobs.gov/job/872786300",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872696300",
+    "title": "Inventory Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Training, Academy Operations Section, Logistics and Acquisitions Support Unit (OTAL). This position(s) primary purpose is to provide inventory management control of accountable and non-accountable property (supplies, materials) and to manage the Official Government Vehicle (OGV) Fleet Program.",
+    "url": "https://www.usajobs.gov/job/872696300",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872693000",
+    "title": "Facility Operations Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the DEA, Operations Division, Office of Training - Academy Operations Section, Building and Facility Management Unit (OTAB). This position(s) primary purpose is to organize and facilitate the operations, maintenance, repair work and alterations performed by contractors and Federal Bureau of Investigation (FBI) maintenance staff at the DEA Training Academy.",
+    "url": "https://www.usajobs.gov/job/872693000",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872504600",
+    "title": "Director, G6 (T2COM)",
+    "organization": "Army Transformation and Training Command",
+    "locations": [
+      "Austin, Texas"
+    ],
+    "description": "If you submit a resume that exceeds the two-page limit, you will immediately be deemed ineligible for this position and will receive no further consideration. We recommend using a sans-serif font such as Lato, if available. Other acceptable options include Calibri, Helvetica, Arial, Verdana, Open Sans, Source Sans Pro, Roboto, or Noto Sans. Please use 0.5-inch margins. For formatting, consider using a 14-point font for titles and a 10-point font for the main body text.",
+    "url": "https://www.usajobs.gov/job/872504600",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872313800",
+    "title": "CBP Agriculture Specialist",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Derby Line, Vermont",
+      "Highgate Springs, Vermont",
+      "Norfolk, Virginia",
+      "Sterling, Virginia",
+      "Blaine, Washington",
+      "Oroville, Washington",
+      "Point Roberts, Washington",
+      "Seattle, Washington",
+      "Sumas, Washington",
+      "Mobile, Alabama",
+      "Anchorage, Alaska",
+      "Douglas, Arizona",
+      "Lukeville, Arizona",
+      "Nogales, Arizona",
+      "Phoenix, Arizona",
+      "San Luis, Arizona",
+      "Andrade, California",
+      "Calexico, California",
+      "Campo, California",
+      "Long Beach, California",
+      "Los Angeles, California",
+      "Otay, California",
+      "Port Hueneme, California",
+      "San Diego, California",
+      "San Francisco, California",
+      "San Ysidro, California",
+      "Tecate, California",
+      "Denver, Colorado",
+      "Wilmington, Delaware",
+      "Cape Canaveral, Florida",
+      "Fort Lauderdale, Florida",
+      "Miami, Florida",
+      "Orlando, Florida",
+      "Tampa, Florida",
+      "Atlanta, Georgia",
+      "Atlanta, Georgia",
+      "Savannah, Georgia",
+      "Honolulu, Hawaii",
+      "Eastport, Idaho",
+      "Chicago, Illinois",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "Hebron, Kentucky",
+      "New Orleans, Louisiana",
+      "Calais, Maine",
+      "Coburn Gore, Maine",
+      "Houlton, Maine",
+      "Baltimore, Maryland",
+      "Boston, Massachusetts",
+      "Detroit, Michigan",
+      "Port Huron, Michigan",
+      "International Falls, Minnesota",
+      "Woodson Terrace, Missouri",
+      "Browning, Montana",
+      "Roosville, Montana",
+      "Sweet Grass, Montana",
+      "Las Vegas, Nevada",
+      "Newark, New Jersey",
+      "Columbus, New Mexico",
+      "Santa Teresa, New Mexico",
+      "Alexandria Bay, New York",
+      "Buffalo, New York",
+      "Champlain, New York",
+      "New York, New York",
+      "Queens, New York",
+      "Niagara Falls, New York",
+      "Rouses Point, New York",
+      "Charlotte, North Carolina",
+      "Raleigh, North Carolina",
+      "Pembina, North Dakota",
+      "Portal, North Dakota",
+      "Cincinnati, Ohio",
+      "Portland, Oregon",
+      "Philadelphia, Pennsylvania",
+      "Pittsburgh, Pennsylvania",
+      "Charleston, South Carolina",
+      "Memphis, Tennessee",
+      "Brownsville, Texas",
+      "Dallas, Texas",
+      "Dallas, Texas",
+      "Del Rio, Texas",
+      "Eagle Pass, Texas",
+      "El Paso, Texas",
+      "Fort Worth, Texas",
+      "Hidalgo, Texas",
+      "Houston, Texas",
+      "Laredo, Texas",
+      "Port Arthur, Texas",
+      "Presidio, Texas",
+      "Rio Grande City, Texas",
+      "Roma, Texas"
+    ],
+    "description": "U.S. Customs & Border Protection (CBP): Securing America's Borders CBP Agriculture Specialists safeguard American agriculture by preventing the introduction of harmful plant pests, foreign animal diseases, potential agricultural bioterrorism, and dangerous pests that threaten the health and safety of U.S. agriculture. This is done through the inspection of vessels, vehicles, and baggage for restricted materials and assessing the agricultural risk of entry into the United States.",
+    "url": "https://www.usajobs.gov/job/872313800",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872952800",
     "title": "Information Technology Specialist (Library & Research Services) (AI Specialist)",
     "organization": "National Labor Relations Board",
@@ -214,34 +438,6 @@
     "url": "https://www.usajobs.gov/job/872584700",
     "posted_at": "2026-06-12T00:00:00",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872584700",
-    "title": "Research Space Scientist, AST, Planetary Studies (Direct Hire)",
-    "organization": "Ames Research Center",
-    "locations": [
-      "Moffett Field, California"
-    ],
-    "description": "You will serve as a Space Scientist in a vibrant Astrophysics Branch at the NASA Ames Research Center (ARC) to conduct research in formation and evolution of prebiotic organics in space, and explore the role of astrochemistry in the origin of life using quantum chemistry techniques. The Astrophysics Branch has a world-class laboratory astrophysics group, exoplanet technologies group, modeling and computational group.",
-    "url": "https://www.usajobs.gov/job/872584700",
-    "posted_at": "2026-06-12T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872584600",
-    "title": "Research Astrophysicist, AST, Stellar, Galactic, and Extra Galactic Astrophysics (Direct Hire)",
-    "organization": "Ames Research Center",
-    "locations": [
-      "Moffett Field, California"
-    ],
-    "description": "As an Astrophysicist in the Space Science and Astrobiology Division of the Science Directorate at NASA Ames Research Center, you will lead pioneering studies that enable current and future discoveries of exoplanet atmospheres. The substellar atmosphere group develops and creates novel methodologies to model and interpret the atmospheres of exoplanets and brown dwarfs leveraging NASA flagship missions such as the James Webb, Roman Space Telescope, and upcoming Habitable Worlds Observatory.",
-    "url": "https://www.usajobs.gov/job/872584600",
-    "posted_at": "2026-06-12T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -555,27 +751,6 @@
     "remote": null
   },
   {
-    "job_id": "872662500",
-    "title": "Data Scientist (Artificial Intelligence/Machine Learning)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
-    "url": "https://www.usajobs.gov/job/872662500",
-    "posted_at": "2026-06-11T08:19:32.533000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872641500",
     "title": "Program Analyst",
     "organization": "Drug Enforcement Administration",
@@ -811,20 +986,6 @@
     "url": "https://www.usajobs.gov/job/872419000",
     "posted_at": "2026-06-10T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872393600",
-    "title": "Supervisory Paralegal Specialist",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Field Operations, Area Port of San Francisco, This announcement will be open for 5 business days OR until the first 100 applications have been received, whichever happens first.",
-    "url": "https://www.usajobs.gov/job/872393600",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1204,27 +1365,6 @@
     "url": "https://www.usajobs.gov/job/872195400",
     "posted_at": "2026-06-08T15:40:22.280000",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872182800",
-    "title": "Artificial Intelligence Engineer",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $124,531- $161,889 Columbus, OH: $129,946- $168,929 Dayton, OH: $129,169 - $167,919 Fort Belvoir, VA: $142,488- $ 187,093 New Cumberland, PA: $142,488- $ 187,093 Ogden, UT: $124,531- $161,889 Philadelphia, PA: $137,222- $178,388 Richmond, VA: $130,084- $169,108",
-    "url": "https://www.usajobs.gov/job/872182800",
-    "posted_at": "2026-06-08T15:01:05.357000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1797,20 +1937,6 @@
     "remote": null
   },
   {
-    "job_id": "871956200",
-    "title": "Chief Information Officer",
-    "organization": "Office of the Chief Information Officer",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Chief Information Officer (CIO) serves as the agency's senior executive for information resources management, information technology (IT), cybersecurity, enterprise architecture, digital services, data operations, and technology modernization. The CIO also provides leadership for the planning, acquisition, security, operation, and performance of IT resources and ensures that technology investments support the Department's mission. ***This position may be detailed to another Federal agency",
-    "url": "https://www.usajobs.gov/job/871956200",
-    "posted_at": "2026-06-05T12:50:31.307000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871896900",
     "title": "Clinical Laboratory Scientist",
     "organization": "Indian Health Service",
@@ -1994,20 +2120,6 @@
     "url": "https://www.usajobs.gov/job/871696400",
     "posted_at": "2026-06-05T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "868801600",
-    "title": "Supervisory Human Resources Specialist",
-    "organization": "Administrative Office of the U.S. Courts",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Supervisory Human Resources Specialist position is in the Administrative Office of the U.S. Courts (AO), Department of Administrative Services, Human Resources Office (HRO), Policy and Strategic Initiative Division, Workforce Strategic Planning Branch. HRO provides human resource program leadership, services, and solutions to enable the U.S. courts and the AO to define, recruit, manage, compensate, reward, develop, and retain a highly skilled workforce.",
-    "url": "https://www.usajobs.gov/job/868801600",
-    "posted_at": "2026-06-05T00:00:00",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -2457,53 +2569,6 @@
     "url": "https://www.usajobs.gov/job/871378500",
     "posted_at": "2026-06-02T11:44:46.353000",
     "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871418700",
-    "title": "R&D Program Manager",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/871418700",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870902700",
-    "title": "Marine Interdiction Agent",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
-    "url": "https://www.usajobs.gov/job/870902700",
-    "posted_at": "2026-06-01T00:00:00",
-    "salary": "11-11",
     "grade": null,
     "remote": null
   },
