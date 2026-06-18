@@ -1,5 +1,275 @@
 [
   {
+    "job_id": "873547200",
+    "title": "Security Specialist (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Pasadena, California"
+    ],
+    "description": "A NASA Special Security Officer (SSO) acts as the principal authority for managing and overseeing Sensitive Compartmented Information (SCI) security programs. This role involves enforcing security policies, managing personnel security, and conducting vulnerability assessments to protect national security information. The role also includes safeguarding life, property, and information to support law enforcement activities essential to daily security operations and core Agency programs.",
+    "url": "https://www.usajobs.gov/job/873547200",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873509400",
+    "title": "Public Notice - Engineering (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "Positions advertised are in various organizations at Ames Research Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-0801 and 0861 series, at the GS-11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/873509400",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "11-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873508800",
+    "title": "Public Notice - Information Technology Specialist (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "Positions advertised are in various organizations at Ames Research Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-2210 at the GS-11/12/13/14 levels).",
+    "url": "https://www.usajobs.gov/job/873508800",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873491300",
+    "title": "Public Notice - Engineering Technician (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "Positions advertised are in various organizations at Ames Research Center. NASA may fill positions at any grade level listed in this announcement (GS-0802 at the GS-11/12 levels). Lead Engineering Technician positions may be filled from this announcement, grade level and full performance level will be dependent upon position selected for.",
+    "url": "https://www.usajobs.gov/job/873491300",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873490700",
+    "title": "Public Notice - Administrative Specialist (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "Positions advertised are in various organizations at Ames Research Center. NASA may fill positions at any grade level listed in this announcement (GS-0301 at the GS-9/11/12/13/14 levels).",
+    "url": "https://www.usajobs.gov/job/873490700",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "9-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873457100",
+    "title": "Program Assistant",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the DEA, Diversion Control Division, Reports Analysis Unit (DOIR). This position(s) primary purpose is to support a team of technical experts and leadership within the DOIR that are responsible for compiling information, analyzing trends, auditing registrant compliance, and identifying systemic errors or omissions.",
+    "url": "https://www.usajobs.gov/job/873457100",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "7-8",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873384900",
+    "title": "Physical Scientist/Mathematican",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland"
+    ],
+    "description": "This position is part of the Office of Science - Headquarters, Department of Energy. As a Physical Scientist/Mathematican, deliver the most sophisticated AI and mathematical capabilities for scientific applications in partnership with disciplinary science; create first-of-a-kind AI, advanced computing, and networking capabilities for the Nation; and develop future generations of computing hardware and software tools for science and engineering.",
+    "url": "https://www.usajobs.gov/job/873384900",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873383400",
+    "title": "Operations Supervisor",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the Hydrocarbons and Geothermal Energy Office, Department of Energy. As a Operations Supervisor, you will serves as principal advisor to the Program Manager on all aspects of planning/programing, budget/finance, and administration",
+    "url": "https://www.usajobs.gov/job/873383400",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873301600",
+    "title": "Research Aerospace Engineer, AST, Airbreathing Propulsion Systems (Direct Hire)",
+    "organization": "Langley Research Center",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "As a research aerospace engineer in the Hypersonic Airbreathing Propulsion Branch at NASA Langley Research Center, you will be working to apply experimental methods and advanced measurement techniques to experimentally investigate the performance and operability of high-speed propulsive components and flowpaths. This includes test formulation, test planning, test execution and data analysis to determine operability limits and performance metrics of interest.",
+    "url": "https://www.usajobs.gov/job/873301600",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873299600",
+    "title": "Research Aerospace Engineer, AST, Airbreathing Propulsion Systems (Direct Hire)",
+    "organization": "Langley Research Center",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "As a Computational Fluid Dynamics (CFD) research aerospace engineer in the Hypersonic Airbreathing Propulsion Branch at NASA Langley Research Center, you will be working to apply computational methods and tools to numerically simulate the flow in high-speed propulsive flowpaths and around hypersonic vehicles. You will also be part of the branch's VULCAN-CFD software development team working to enhance existing capabilities, as well as incorporating new capabilities into the software.",
+    "url": "https://www.usajobs.gov/job/873299600",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "11-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873551800",
+    "title": "Technical Director for Artificial Intelligence",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/873551800",
+    "posted_at": "2026-06-17T17:50:21.713000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873551900",
+    "title": "Technical Director for Artificial Intelligence",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/873551900",
+    "posted_at": "2026-06-17T17:49:58.633000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873540000",
+    "title": "Personnel Psychologist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Human Resources Division (HRD), Research and Analysis Section (HRN). This position(s) primary purpose is to serve as the expert psychometrician and staff technical expert on all matters related to selection, promotion, training, and retention of DEA core occupational positions, and organization development and workforce analysis.",
+    "url": "https://www.usajobs.gov/job/873540000",
+    "posted_at": "2026-06-17T16:47:27.150000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873505400",
+    "title": "Dentist (Endodontics)",
+    "organization": "Indian Health Service",
+    "locations": [
+      "Whiteriver, Arizona"
+    ],
+    "description": "This position is located at the Whiteriver Service Unit under Medical Services, Dental Department, in Whiteriver, Arizona. The purpose of this position is to serve as a clinical specialist in Endodontics to provide dental service to the designated population in accordance with the Indian Health Service policies. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
+    "url": "https://www.usajobs.gov/job/873505400",
+    "posted_at": "2026-06-17T14:57:32.563000",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873496300",
+    "title": "PHYSICAL SCIENTIST",
+    "organization": "Defense Threat Reduction Agency",
+    "locations": [
+      "Fort Belvoir, Virginia"
+    ],
+    "description": "This position may be filled using Direct Hire Authority and is in the Department of Defense (DoD) Acquisition Workforce Personnel Demonstration Project (AcqDemo): Z5CAV/Direct-Hire Authority (Certain DoD Personnel) PL 118-31, Sec 125OB (i)(2), 12/22/2023.This position is being filled under the memorandum from the Under Secretary of Defense for Personnel and Readiness (USD(P&R)) \"Expansion of Direct Hire Authority for Certain Personnel of the Department of Defense,\" dated August 12,2024.",
+    "url": "https://www.usajobs.gov/job/873496300",
+    "posted_at": "2026-06-17T14:36:43.290000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873441800",
+    "title": "SUPERVISORY INTERDISCIPLINARY COMPUTER ENGINEER/COMPUTER SCIENCE",
+    "organization": "Naval Special Warfare Command",
+    "locations": [
+      "Coronado, California"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer. This position may be extended or made permanent without further competition.",
+    "url": "https://www.usajobs.gov/job/873441800",
+    "posted_at": "2026-06-17T13:48:30.460000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873431000",
+    "title": "Artificial Intelligence Agent Development Specialist Intern",
+    "organization": "Office of the Chief of Staff of the Army",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "Make an impact while you learn! The Semester of Service Program gives students a volunteer, project-based opportunity to support real Federal missions, gaining hands-on experience and career-ready skills. To participate, students must be enrolled at least half-time in an accredited institution and participation must be with the permission of the institution at which the student is enrolled. With this project, you will support an Artificial Intelligence based project.",
+    "url": "https://www.usajobs.gov/job/873431000",
+    "posted_at": "2026-06-17T11:14:48.723000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873419200",
+    "title": "Nurse Case Management",
+    "organization": "Indian Health Service",
+    "locations": [
+      "Crow Agency, Montana",
+      "Lodge Grass, Montana",
+      "Pryor, Montana"
+    ],
+    "description": "Join the Indian Health Service and care for diverse American Indian and Alaska Native communities. In this role, you'll manage complex patient needs, coordinate care, and help improve services in an outpatient setting while making a real impact in a culturally rich and vibrant city. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
+    "url": "https://www.usajobs.gov/job/873419200",
+    "posted_at": "2026-06-17T10:34:40.673000",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873402200",
+    "title": "Nurse Outpatient",
+    "organization": "Indian Health Service",
+    "locations": [
+      "Crow Agency, Montana",
+      "Lodge Grass, Montana",
+      "Pryor, Montana"
+    ],
+    "description": "At the Indian Health Service (IHS), Nurses do more than practice medicine-they change lives. Guided by our mission to raise the health of American Indian and Alaska Native people, you'll deliver compassionate care where it's needed most. Your expertise brings healing and hope across generations. Begin your journey with purpose -AND receive a recruitment/relocation sign-on bonus, if you are eligible. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
+    "url": "https://www.usajobs.gov/job/873402200",
+    "posted_at": "2026-06-17T09:37:20.433000",
+    "salary": "5-9",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873318600",
     "title": "Division Chief, Artificial Intelligence",
     "organization": "Office of the Assistant Secretary for Administration and Management",
@@ -596,124 +866,6 @@
     "remote": null
   },
   {
-    "job_id": "872313800",
-    "title": "CBP Agriculture Specialist",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Derby Line, Vermont",
-      "Highgate Springs, Vermont",
-      "Norfolk, Virginia",
-      "Sterling, Virginia",
-      "Blaine, Washington",
-      "Oroville, Washington",
-      "Point Roberts, Washington",
-      "Seattle, Washington",
-      "Sumas, Washington",
-      "Mobile, Alabama",
-      "Anchorage, Alaska",
-      "Douglas, Arizona",
-      "Lukeville, Arizona",
-      "Nogales, Arizona",
-      "Phoenix, Arizona",
-      "San Luis, Arizona",
-      "Andrade, California",
-      "Calexico, California",
-      "Campo, California",
-      "Long Beach, California",
-      "Los Angeles, California",
-      "Otay, California",
-      "Port Hueneme, California",
-      "San Diego, California",
-      "San Francisco, California",
-      "San Ysidro, California",
-      "Tecate, California",
-      "Denver, Colorado",
-      "Wilmington, Delaware",
-      "Cape Canaveral, Florida",
-      "Fort Lauderdale, Florida",
-      "Miami, Florida",
-      "Orlando, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Atlanta, Georgia",
-      "Savannah, Georgia",
-      "Honolulu, Hawaii",
-      "Eastport, Idaho",
-      "Chicago, Illinois",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "Hebron, Kentucky",
-      "New Orleans, Louisiana",
-      "Calais, Maine",
-      "Coburn Gore, Maine",
-      "Houlton, Maine",
-      "Baltimore, Maryland",
-      "Boston, Massachusetts",
-      "Detroit, Michigan",
-      "Port Huron, Michigan",
-      "International Falls, Minnesota",
-      "Woodson Terrace, Missouri",
-      "Browning, Montana",
-      "Roosville, Montana",
-      "Sweet Grass, Montana",
-      "Las Vegas, Nevada",
-      "Newark, New Jersey",
-      "Columbus, New Mexico",
-      "Santa Teresa, New Mexico",
-      "Alexandria Bay, New York",
-      "Buffalo, New York",
-      "Champlain, New York",
-      "New York, New York",
-      "Queens, New York",
-      "Niagara Falls, New York",
-      "Rouses Point, New York",
-      "Charlotte, North Carolina",
-      "Raleigh, North Carolina",
-      "Pembina, North Dakota",
-      "Portal, North Dakota",
-      "Cincinnati, Ohio",
-      "Portland, Oregon",
-      "Philadelphia, Pennsylvania",
-      "Pittsburgh, Pennsylvania",
-      "Charleston, South Carolina",
-      "Memphis, Tennessee",
-      "Brownsville, Texas",
-      "Dallas, Texas",
-      "Dallas, Texas",
-      "Del Rio, Texas",
-      "Eagle Pass, Texas",
-      "El Paso, Texas",
-      "Fort Worth, Texas",
-      "Hidalgo, Texas",
-      "Houston, Texas",
-      "Laredo, Texas",
-      "Port Arthur, Texas",
-      "Presidio, Texas",
-      "Rio Grande City, Texas",
-      "Roma, Texas"
-    ],
-    "description": "U.S. Customs & Border Protection (CBP): Securing America's Borders CBP Agriculture Specialists safeguard American agriculture by preventing the introduction of harmful plant pests, foreign animal diseases, potential agricultural bioterrorism, and dangerous pests that threaten the health and safety of U.S. agriculture. This is done through the inspection of vessels, vehicles, and baggage for restricted materials and assessing the agricultural risk of entry into the United States.",
-    "url": "https://www.usajobs.gov/job/872313800",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "7-9",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872952800",
-    "title": "Information Technology Specialist (Library & Research Services) (AI Specialist)",
-    "organization": "National Labor Relations Board",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located within the Office of the Chief Information Officer (OCIO) and serves as the Agency's senior Information Technology Specialist for Library Services, Knowledge Management, Digital Research Technologies, and AI-Enabled Research Support. The incumbent serves as the principal technical authority responsible for establishing, maintaining, and advancing the digital research infrastructure necessary to support the Agency's mission and strategic objectives.",
-    "url": "https://www.usajobs.gov/job/872952800",
-    "posted_at": "2026-06-12T14:17:00.830000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872934400",
     "title": "Senior Advisor Artificial Intelligence & Advanced Compute",
     "organization": "Office of the Director of National Intelligence",
@@ -858,20 +1010,6 @@
     "url": "https://www.usajobs.gov/job/872761800",
     "posted_at": "2026-06-12T00:00:00",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872752800",
-    "title": "AST - Life Sciences Research",
-    "organization": "Lyndon B. Johnson Space Center",
-    "locations": [
-      "Houston, Texas"
-    ],
-    "description": "This position serves as the leader for the Human Health and Performance Directorate (HHPD), Cardiovascular and Vision Laboratory (CVL) providing strategic direction, subject matter expertise, and oversight for contract work related to the cardiovascular and ocular changes of humans that occur during spaceflight, investigate the mechanisms of these adaptations, and develop countermeasures when necessary.",
-    "url": "https://www.usajobs.gov/job/872752800",
-    "posted_at": "2026-06-12T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1048,34 +1186,6 @@
     "remote": null
   },
   {
-    "job_id": "872711500",
-    "title": "Committee on Foreign Investment in the US Team Chief",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/872711500",
-    "posted_at": "2026-06-11T11:22:36.707000",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872710500",
-    "title": "Committee on Foreign Investment in the US Team Chief",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/872710500",
-    "posted_at": "2026-06-11T11:17:56.063000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872699600",
     "title": "Program Analyst",
     "organization": "Drug Enforcement Administration",
@@ -1085,20 +1195,6 @@
     "description": "This position is located in the Drug Enforcement Administration (DEA), San Diego Field Division, San Diego, California. The purpose of this position is to serve as an expert advisor to the Special Agent in Charge (SAC) on operations program and policy for the San Diego Division.",
     "url": "https://www.usajobs.gov/job/872699600",
     "posted_at": "2026-06-11T10:42:45.963000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872684200",
-    "title": "Data Scientist",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "District of Columbia, District of Columbia"
-    ],
-    "description": "As a Data Scientist with the US Office of Personnel Management, Healthcare and Insurance, you will develop and apply statistical models, machine learning methods, risk indicators, anomaly detection, automation, and visual analytics to support oversight, program integrity, fraud/risk detection, and data-driven decisions for federal benefits programs.",
-    "url": "https://www.usajobs.gov/job/872684200",
-    "posted_at": "2026-06-11T09:50:01",
     "salary": "14-14",
     "grade": null,
     "remote": null
@@ -1183,20 +1279,6 @@
     "remote": null
   },
   {
-    "job_id": "872558400",
-    "title": "Supervisory Accountant",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "New Orleans, Louisiana"
-    ],
-    "description": "This position is part of the Office of the Project Manager, Strategic Petroleum Reserve, Department of Energy. As a Supervisory Accountant, you will be responsible for providing technical direction, guidance, and advice to team members, other Division staff, stakeholders and executive management, on major decisions, recommendations and actions which have a direct and substantial effect on the overall financial operations of SPRO.",
-    "url": "https://www.usajobs.gov/job/872558400",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872543300",
     "title": "Attorney Advisor (General)",
     "organization": "Drug Enforcement Administration",
@@ -1221,22 +1303,6 @@
     "url": "https://www.usajobs.gov/job/871675100",
     "posted_at": "2026-06-11T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871592200",
-    "title": "Data Scientist",
-    "organization": "Customs and Border Protection",
-    "locations": [
-      "Washington, District of Columbia",
-      "Indianapolis, Indiana",
-      "Minneapolis, Minnesota"
-    ],
-    "description": "Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Office of Human Resources Management, People Analytics Division, in the following locations: Indianapolis, IN Minneapolis, MN Washington, D.C. Salary: Salary listed reflects the rest of U.S. scale and, if applicable, will be adjusted to meet the locality pay or cost of living expenses of the duty location upon selection.",
-    "url": "https://www.usajobs.gov/job/871592200",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1293,20 +1359,6 @@
     "url": "https://www.usajobs.gov/job/872461900",
     "posted_at": "2026-06-10T08:05:07.970000",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872488700",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Murfreesboro, Tennessee"
-    ],
-    "description": "The incumbent serves as a Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/872488700",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -1490,48 +1542,6 @@
     "url": "https://www.usajobs.gov/job/872241000",
     "posted_at": "2026-06-09T07:26:47.857000",
     "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872227200",
-    "title": "Billing Technician (OA)",
-    "organization": "Indian Health Service",
-    "locations": [
-      "Toppenish, Washington"
-    ],
-    "description": "This position is located in the Business Office at the Yakama Service Unit in Toppenish, Washington. The incumbent serves as a Billing Technician responsible for processing claims on-line to third party carriers which include Medicare, Medicare Part D, Medicaid and all other third-party payors. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
-    "url": "https://www.usajobs.gov/job/872227200",
-    "posted_at": "2026-06-08T19:12:14.893000",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872137300",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia"
-    ],
-    "description": "This position is located in the DEA, Office of Special Intelligence, Counterthreat Targeting Intelligence Unit A (NSTA), in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/872137300",
-    "posted_at": "2026-06-08T12:34:18.907000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872135000",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia"
-    ],
-    "description": "This position is located in the DEA, Office of Special Intelligence, Counterthreat Targeting Intelligence Unit A (NSTA), in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/872135000",
-    "posted_at": "2026-06-08T12:25:21.130000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -1961,64 +1971,6 @@
     "remote": null
   },
   {
-    "job_id": "872124200",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia",
-      "Merrifield, Virginia"
-    ],
-    "description": "These (2) positions are located in the DEA, Intelligence Division: - Office of Special Intelligence, CNTOC, Europe, Asia, Africa Intelligence Support Unit (NSIC), in Chantilly, VA. - Office of Special Intelligence, Operations Analysis Unit 1 (NSOA), in Merrifield, VA.",
-    "url": "https://www.usajobs.gov/job/872124200",
-    "posted_at": "2026-06-08T11:53:49.907000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872121300",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia",
-      "Merrifield, Virginia"
-    ],
-    "description": "These (2) positions are located in the DEA, Intelligence Division: - Office of Special Intelligence, CNTOC, Europe, Asia, Africa Intelligence Support Unit (NSIC), in Chantilly, VA. - Office of Special Intelligence, Operations Analysis Unit 1 (NSOA), in Merrifield, VA.",
-    "url": "https://www.usajobs.gov/job/872121300",
-    "posted_at": "2026-06-08T11:43:17.610000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872117700",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia"
-    ],
-    "description": "This position is located in the DEA, Intelligence Division, Office of Special Intelligence, Mexico, Canada & Central America Intelligence Support Unit, (NSIA), in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/872117700",
-    "posted_at": "2026-06-08T11:32:49.323000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872115900",
-    "title": "Supervisory Intelligence Research Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Chantilly, Virginia"
-    ],
-    "description": "This position is located in the DEA, Intelligence Division, Office of Special Intelligence, Mexico, Canada & Central America Intelligence Support Unit, (NSIA), in Chantilly, VA.",
-    "url": "https://www.usajobs.gov/job/872115900",
-    "posted_at": "2026-06-08T11:27:51.890000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872052100",
     "title": "Photogrammetric Imagery Scientist",
     "organization": "National Geospatial-Intelligence Agency",
@@ -2158,20 +2110,6 @@
     "url": "https://www.usajobs.gov/job/872195400",
     "posted_at": "2026-06-08T00:00:00",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871896800",
-    "title": "Telecommunications Specialist (Intercepts)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Orlando, Florida"
-    ],
-    "description": "This position is located in the DEA, Miami Field Division. This position(s) primary purpose is to support local and domestic investigative personnel with investigative operations by integrating the use of electronic interception equipment and system networking, for voice, data, internet protocol technology, and service providers.",
-    "url": "https://www.usajobs.gov/job/871896800",
-    "posted_at": "2026-06-08T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -2329,20 +2267,6 @@
     "url": "https://www.usajobs.gov/job/871959700",
     "posted_at": "2026-06-04T00:00:00",
     "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871668600",
-    "title": "Marketing and Digital Advertising Specialist",
-    "organization": "Air Combat Command",
-    "locations": [
-      "Tyndall AFB, Florida"
-    ],
-    "description": "About the position: This position is Non-appropriated Fund (NAF) and will be assigned to the Marketing Department located on Tyndall AFB, FL.",
-    "url": "https://www.usajobs.gov/job/871668600",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "3-3",
     "grade": null,
     "remote": null
   },
@@ -2688,20 +2612,6 @@
     "url": "https://www.usajobs.gov/job/870113900",
     "posted_at": "2026-05-20T14:07:58.960000",
     "salary": "13-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "869746100",
-    "title": "Supervisory Attorney Advisor",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "The Office of General Counsel (OGC) seeks a highly qualified and experienced attorney to serve as a Supervisory Attorney Advisor. In this role, the incumbent acts as a senior legal advisor to agency leadership and provides supervisory and managerial oversight of attorneys delivering legal counsel and services across a broad range of internal and governmentwide programs affecting more than 8 million Federal employees, retirees, and family members.",
-    "url": "https://www.usajobs.gov/job/869746100",
-    "posted_at": "2026-05-18T13:35:58.347000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   }
