@@ -1,5 +1,100 @@
 [
   {
+    "job_id": "873638400",
+    "title": "Supervisory Policy Advisor",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Diversion Control Division, Regulatory Drafting & Policy Support Section (DPW), Arlington, VA. This position's primary purpose is to evaluates legislation and current and past policies, analyzes the diversion regulatory program and related issues, conducts a retrospective analysis of existing regulations, and recommends policy and regulatory resolutions that are consistent with statutory and executive mandates.",
+    "url": "https://www.usajobs.gov/job/873638400",
+    "posted_at": "2026-06-19T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873682000",
+    "title": "Student Trainee (Accounting)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Financial Management Division (FC), Office of Finance (FN). This position(s) primary purpose is to provide accounting support to the field and HQ offices.",
+    "url": "https://www.usajobs.gov/job/873682000",
+    "posted_at": "2026-06-18T13:50:22.907000",
+    "salary": "5-5",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873649300",
+    "title": "Division Security Officer",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Washington Division. The primary purpose of this position is to serve as the Division Security Officer (DSO) for the Washington Division. The incumbent directs the lifecycle of the division's security program, overseeing its development, planning, execution, and management.",
+    "url": "https://www.usajobs.gov/job/873649300",
+    "posted_at": "2026-06-18T12:09:26.150000",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873591800",
+    "title": "Senior Incident Response Lead",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "New York, New York"
+    ],
+    "description": "The Office of Information Technology is seeking a IT Specialist (INFOSEC) (Senior Incident Response Lead). In this role, you will be responsible for leading the detection, analysis, and response to cyber incidents that threaten the confidentiality, integrity, and availability of enterprise assets. This position requires deep technical expertise, strong leadership, and the ability to coordinate across teams to ensure rapid, effective, and consistent incident response.",
+    "url": "https://www.usajobs.gov/job/873591800",
+    "posted_at": "2026-06-18T09:11:15.410000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873590600",
+    "title": "Senior Cyber Threat Intelligence (CTI) Analyst",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "New York, New York"
+    ],
+    "description": "The Office of Information Technology is seeking a IT Specialist (INFOSEC) (Senior Cyber Threat Intelligence (CTI) Analyst). In this role, you will lead intelligence-driven detection, hunting, and response initiatives, and serve as a subject matter expert for both internal stakeholders and the broader cyber defense community.",
+    "url": "https://www.usajobs.gov/job/873590600",
+    "posted_at": "2026-06-18T09:03:20.527000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873547200",
     "title": "Security Specialist (Direct Hire)",
     "organization": "Headquarters, NASA",
@@ -10,6 +105,20 @@
     "url": "https://www.usajobs.gov/job/873547200",
     "posted_at": "2026-06-18T00:00:00",
     "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873518000",
+    "title": "Program Analyst Informatics",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Danville, Illinois"
+    ],
+    "description": "This is a non-supervisory position, located at the VA Illiana Health Care System in Danville, IL in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/873518000",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "12-12",
     "grade": null,
     "remote": null
   },
@@ -270,6 +379,20 @@
     "remote": null
   },
   {
+    "job_id": "873569200",
+    "title": "Data Project Analyst",
+    "organization": "U.S. Special Operations Command (Army)",
+    "locations": [
+      "Fort Bragg, North Carolina"
+    ],
+    "description": "Make an impact while you learn! The Semester of Service Program gives students a volunteer, project-based opportunity to support real Federal missions, gaining hands-on experience and career-ready skills. To participate, students must be enrolled at least half-time in an accredited institution and participation must be with the permission of the institution at which the student is enrolled. With this project, you will support the Chief Digital and AI Office.",
+    "url": "https://www.usajobs.gov/job/873569200",
+    "posted_at": "2026-06-17T00:00:00",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873318600",
     "title": "Division Chief, Artificial Intelligence",
     "organization": "Office of the Assistant Secretary for Administration and Management",
@@ -463,17 +586,16 @@
     "remote": null
   },
   {
-    "job_id": "873173800",
-    "title": "Lead IT Cybersecurity Specialist (Direct Hire)",
-    "organization": "Lyndon B. Johnson Space Center",
+    "job_id": "873182700",
+    "title": "General Engineer",
+    "organization": "Missile Defense Agency",
     "locations": [
-      "Huntsville, Alabama",
-      "Houston, Texas"
+      "Redstone Arsenal, Alabama"
     ],
-    "description": "As a Senior Security Operations Center (SOC) Watch Officer in the Cybersecurity and Privacy Division, responsible for developing, reviewing, and executing NASA cybersecurity policies, procedures, schedules, resources, and communications. Lead a team of SOC Watch Officers supporting 24/7/365 operations, oversee a NASA SOC service element, and collaborate with team leads and the SOC Chief to strengthen cyber defense across NASA networks.",
-    "url": "https://www.usajobs.gov/job/873173800",
-    "posted_at": "2026-06-16T00:00:00",
-    "salary": "14-14",
+    "description": "This position is part of the Department of Defense (DoD), Missile Defense Agency (MDA). The incumbent will be responsible for representing MDA/QS on field visits to various Services, Commands and Program Offices to assist in the planning, development, acquisition, and execution of the quality, mission assurance, and assurance programs and processes.",
+    "url": "https://www.usajobs.gov/job/873182700",
+    "posted_at": "2026-06-16T07:24:10.373000",
+    "salary": "4-4",
     "grade": null,
     "remote": null
   },
@@ -500,20 +622,6 @@
     ],
     "description": "This position is part of the Department of Energy's Office of Intelligence and Counterintelligence. As a Government Information Specialist, you will serve as the primary Freedom of Information Act (FOIA) Officer, handle requests for intake, consultations, ensure proper disposition of records, and release of classified information related to sensitive intelligence functions.",
     "url": "https://www.usajobs.gov/job/873026900",
-    "posted_at": "2026-06-16T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872954500",
-    "title": "SUPERVISORY IT SPECIALIST (POLICY AND PLANNING)",
-    "organization": "Defense Health Agency",
-    "locations": [
-      "San Antonio, Texas"
-    ],
-    "description": "About the Position: This position is located in San Antonio, Texas, with the Defense Health Agency.",
-    "url": "https://www.usajobs.gov/job/872954500",
     "posted_at": "2026-06-16T00:00:00",
     "salary": "14-14",
     "grade": null,
@@ -908,20 +1016,6 @@
     "remote": null
   },
   {
-    "job_id": "872891100",
-    "title": "Supervisory Program Analyst",
-    "organization": "Joint Activities",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "About the Position: This position is a DOD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Employees occupying CES positions are in the Excepted Service and must adhere to U.S. Code, Title 10, as well as Department of Defense Instruction 1400.25. This position is located at the Fort Meade, Maryland.",
-    "url": "https://www.usajobs.gov/job/872891100",
-    "posted_at": "2026-06-12T11:38:26.493000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872847100",
     "title": "Data Science - Technical",
     "organization": "DHS Headquarters",
@@ -958,20 +1052,6 @@
     "remote": null
   },
   {
-    "job_id": "872828000",
-    "title": "Program Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "As a Program Specialist within the NASA Headquarters Office of the Chief Financial Officer, you will serve as the Agency lead for enterprise-wide conference operations. You will direct coordination, executive reporting, quality control, and compliance oversight; adjudicate high-cost travel and conference requests; lead cross-Center subject matter expert teams; and brief the NASA Administrator and executive counterparts on spending, performance, and federal mandates.",
-    "url": "https://www.usajobs.gov/job/872828000",
-    "posted_at": "2026-06-12T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872794100",
     "title": "Data Scientist, CG-1560-15",
     "organization": "Federal Deposit Insurance Corporation",
@@ -982,34 +1062,6 @@
     "url": "https://www.usajobs.gov/job/872794100",
     "posted_at": "2026-06-12T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872767300",
-    "title": "Electrical Engineer, AST, Electrical Systems (Direct Hire)",
-    "organization": "George C. Marshall Space Flight Center",
-    "locations": [
-      "Huntsville, Alabama"
-    ],
-    "description": "You will provide ionizing-radiation analysis for avionics and support flight and development projects as the focal engineer for IR (Ionizing Radiation) effects on EEE (Electrical, Electronic, Electromechanical) parts. You will design, implement, and analyze radiation tests, develop IR environments and requirements, prepare IR control plans, and work with designers to select tolerant parts. You will participate in all design reviews and verification activities.",
-    "url": "https://www.usajobs.gov/job/872767300",
-    "posted_at": "2026-06-12T00:00:00",
-    "salary": "11-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872761800",
-    "title": "Facility Operations Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "This position is located in the DEA, Operations Division, Office of Training - Academy Operations Section, Building and Facility Management Unit (OTAB). This position(s) primary purpose is to organize and facilitate the operations, maintenance, repair work and alterations performed by contractors and Federal Bureau of Investigation (FBI) maintenance staff at the DEA Training Academy.",
-    "url": "https://www.usajobs.gov/job/872761800",
-    "posted_at": "2026-06-12T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -1186,6 +1238,34 @@
     "remote": null
   },
   {
+    "job_id": "872711500",
+    "title": "Committee on Foreign Investment in the US Team Chief",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/872711500",
+    "posted_at": "2026-06-11T11:22:36.707000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872710500",
+    "title": "Committee on Foreign Investment in the US Team Chief",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/872710500",
+    "posted_at": "2026-06-11T11:17:56.063000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872699600",
     "title": "Program Analyst",
     "organization": "Drug Enforcement Administration",
@@ -1289,20 +1369,6 @@
     "url": "https://www.usajobs.gov/job/872543300",
     "posted_at": "2026-06-11T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "871675100",
-    "title": "Environmental Protection Specialist (Direct Hire)",
-    "organization": "John C. Stennis Space Center",
-    "locations": [
-      "Stennis Space Center, Mississippi"
-    ],
-    "description": "As an Environmental Protection Specialist, you will develop, implement, and maintain Center-level environmental programs to ensure compliance with federal, state, and local regulations and NASA requirements. You will maintain oversight of the Center's environmental compliance and planning programs; oversee programs or projects; advise Center management and personnel on environmental laws, policies and processes; and support administration of related contracts.",
-    "url": "https://www.usajobs.gov/job/871675100",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -1421,31 +1487,6 @@
     "remote": null
   },
   {
-    "job_id": "872383500",
-    "title": "IT Solutions Development Specialist & AI Technical SME ",
-    "organization": "Federal Acquisition Service",
-    "locations": [
-      "San Francisco, California",
-      "Lakewood, Colorado",
-      "Washington, District of Columbia",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas",
-      "Norfolk, Virginia",
-      "Tacoma, Washington"
-    ],
-    "description": "As a IT Solutions Development Specialist & AI Technical SME, you will identify and analyze current and future customer technology needs, design and implement optimal, state-of-the-art business systems and processes to support and modernize agency information systems. Location of position: Federal Acquisition Service (FAS) - Office of Acquisition Solutions Development - IT Products Services Center. We are currently filling two vacancies, but additional vacancies may be filled as needed.",
-    "url": "https://www.usajobs.gov/job/872383500",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872298000",
     "title": "Financial Specialist",
     "organization": "Drug Enforcement Administration",
@@ -1498,22 +1539,6 @@
     "url": "https://www.usajobs.gov/job/872258100",
     "posted_at": "2026-06-09T08:45:57.823000",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872244300",
-    "title": "IT Cybersecurity Specialist (Digital Evidence)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Phoenix, Arizona",
-      "El Paso, Texas",
-      "Lorton, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Forensic Sciences, Digital Evidence Laboratory. The primary purpose of this position is to perform as an intermediate level trainee, analyzing seized digital evidence, performing on-site acquisition/duplication of digital evidence, testifying in Federal and state courts as an expert witness, and providing subject matter expertise and advice to both DEA investigators and junior examiners in the laboratory.",
-    "url": "https://www.usajobs.gov/job/872244300",
-    "posted_at": "2026-06-09T07:55:22.700000",
-    "salary": "9-9",
     "grade": null,
     "remote": null
   },
@@ -2271,20 +2296,6 @@
     "remote": null
   },
   {
-    "job_id": "871620600",
-    "title": "Chief of Staff, Office of Inspector General",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the National Aeronautics and Space Administration (NASA), Office of Inspector General (OIG). The NASA OIG is an independent audit and investigative organization that conducts objective oversight of NASA programs and operations and independently reports to the Administrator, Congress, and the public to further the Agency's accomplishment of its mission. The OIG's mission is to prevent and detect fraud, waste and abuse in NASA programs and operations.",
-    "url": "https://www.usajobs.gov/job/871620600",
-    "posted_at": "2026-06-04T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "871528500",
     "title": "X-Ray Technologist (CT)",
     "organization": "Indian Health Service",
@@ -2543,21 +2554,6 @@
     "remote": null
   },
   {
-    "job_id": "871378500",
-    "title": "Offensive Cybersecurity Operator",
-    "organization": "Cybersecurity and Infrastructure Security Agency",
-    "locations": [
-      "Pensacola, Florida",
-      "Arlington, Virginia"
-    ],
-    "description": "This announcement is issued under the Direct Hire Authority (DHA) to recruit for positions for which there is a critical hiring need. Selectee(s) will receive a career or career-conditional appointment in the competitive service and may be required to serve a one-year probationary period. The official title of this position is Information Technology Cybersecurity Specialist (INFOSEC) GS-2210-13/14.",
-    "url": "https://www.usajobs.gov/job/871378500",
-    "posted_at": "2026-06-02T00:00:00",
-    "salary": "13-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "764669300",
     "title": "Organizational Psychologist",
     "organization": "Central Intelligence Agency",
@@ -2582,6 +2578,20 @@
     "url": "https://www.usajobs.gov/job/871032400",
     "posted_at": "2026-05-29T10:41:46.670000",
     "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "870514400",
+    "title": "SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY",
+    "organization": "Air Force Elements, U.S. Strategic Command",
+    "locations": [
+      "Dahlgren, Virginia"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to develop, modify, secure, and automate software, analytical methodologies, and processes; and advance computing technologies using state-of-the-art industry best practices",
+    "url": "https://www.usajobs.gov/job/870514400",
+    "posted_at": "2026-05-26T00:00:00",
+    "salary": "2-2",
     "grade": null,
     "remote": null
   },
