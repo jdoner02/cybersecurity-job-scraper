@@ -100,6 +100,7 @@ jobs:
           ls -la out/emails || true
 
       - name: Set email subjects
+        continue-on-error: true
         if: steps.changes.outputs.changed == 'true'
         run: |
           # Defaults without counts
@@ -125,6 +126,7 @@ jobs:
 
       # === Email via SMTP action (works with Office365 or Gmail via secrets) ===
       - name: Send AI email
+        continue-on-error: true
         if: hashFiles('out/emails/ai.html') != ''
         uses: dawidd6/action-send-mail@v3
         with:
@@ -139,6 +141,7 @@ jobs:
           ignore_cert: true
 
       - name: Send Cyber email
+        continue-on-error: true
         if: hashFiles('out/emails/cyber.html') != ''
         uses: dawidd6/action-send-mail@v3
         with:
