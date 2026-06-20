@@ -109,6 +109,20 @@
     "remote": null
   },
   {
+    "job_id": "873547200",
+    "title": "Security Specialist (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Pasadena, California"
+    ],
+    "description": "A NASA Special Security Officer (SSO) acts as the principal authority for managing and overseeing Sensitive Compartmented Information (SCI) security programs. This role involves enforcing security policies, managing personnel security, and conducting vulnerability assessments to protect national security information. The role also includes safeguarding life, property, and information to support law enforcement activities essential to daily security operations and core Agency programs.",
+    "url": "https://www.usajobs.gov/job/873547200",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873518000",
     "title": "Program Analyst Informatics",
     "organization": "Veterans Health Administration",
@@ -454,6 +468,20 @@
     "remote": null
   },
   {
+    "job_id": "873214800",
+    "title": "MANAGEMENT AND PROGRAM ANALYST (DATA AND KM)",
+    "organization": "Air Force Elements, U.S. Special Operations Command",
+    "locations": [
+      "Peterson AFB, Colorado"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position to serve as the Chief Command Data Officer and Knowledge Manager (CDO/KM) for Special Operations Command North (SOCNORTH), a Theater Special Operations Command (TSOC) under the United States Special Operations Command (SOCOM), a unified Combatant Command (CCMD).",
+    "url": "https://www.usajobs.gov/job/873214800",
+    "posted_at": "2026-06-17T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873200100",
     "title": "INTELLIGENCE SPECIALIST",
     "organization": "Department of the Air Force - Agency Wide",
@@ -496,6 +524,34 @@
     "url": "https://www.usajobs.gov/job/873309500",
     "posted_at": "2026-06-16T14:50:28.157000",
     "salary": "3-4",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873296200",
+    "title": "Full Stack Developer (Python)",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "The U.S. Postal Service Office of Inspector General (USPS OIG) is seeking a highly qualified Full Stack Developer to join the Research and Insights Solution Center (RISC) in Arlington, Virginia. In this role, you will build robust, data-driven applications that directly support federal oversight, audits, and investigations. Bring your technical expertise to a mission that matters! Bring your skills and voice to our team!",
+    "url": "https://www.usajobs.gov/job/873296200",
+    "posted_at": "2026-06-16T14:10:38.697000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873294700",
+    "title": "Full Stack Developer (Python)",
+    "organization": "Office of the Inspector General, USPS",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.",
+    "url": "https://www.usajobs.gov/job/873294700",
+    "posted_at": "2026-06-16T14:05:12.060000",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -872,22 +928,6 @@
     "remote": null
   },
   {
-    "job_id": "873010800",
-    "title": "IT Specialist (AI Data Engineer)",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "Washington, District of Columbia",
-      "Macon, Georgia",
-      "Kansas City, Missouri"
-    ],
-    "description": "As an IT Specialist (AI Data Engineer) with the US Office of Personnel Management, Office of the Chief Information Officer, Products and Data Engineering Division, you will develop, test, maintain, and support automated data pipelines and AI-assisted data engineering solutions that support OPM mission operations, stakeholder needs, and reliable data-driven services.",
-    "url": "https://www.usajobs.gov/job/873010800",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "7-7",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872985600",
     "title": "Mission Support Specialist",
     "organization": "Drug Enforcement Administration",
@@ -904,20 +944,6 @@
     "remote": null
   },
   {
-    "job_id": "872962100",
-    "title": "Staff Assistant (Recent Graduate)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Weston, Florida"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Miami Division. The Recent Graduates Program offers dynamic, 1 to 2-year opportunities that give early career talent the chance to support key administrative and operational support functions through focused technical work. Selectees will learn and contribute to essential administrative and operational support functions, ensure process accuracy, and apply their organizational skills in a mission-driven environment.",
-    "url": "https://www.usajobs.gov/job/872962100",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "9-9",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872786300",
     "title": "Facility Operations Specialist",
     "organization": "Drug Enforcement Administration",
@@ -928,6 +954,34 @@
     "url": "https://www.usajobs.gov/job/872786300",
     "posted_at": "2026-06-15T00:00:00",
     "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872742700",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "This position serves as Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA).The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/872742700",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "9-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872742600",
+    "title": "Program Analyst (Informatics)",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Houston, Texas"
+    ],
+    "description": "This position serves as Program Analyst (Health Informatics) located at the medical centers, in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA).The primary purpose of the position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/872742600",
+    "posted_at": "2026-06-15T00:00:00",
+    "salary": "9-12",
     "grade": null,
     "remote": null
   },
@@ -1032,22 +1086,6 @@
     "url": "https://www.usajobs.gov/job/872847100",
     "posted_at": "2026-06-12T07:46:54.597000",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872842700",
-    "title": "IT Specialist (AI Data Engineer)",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "District of Columbia, District of Columbia",
-      "Macon, Georgia",
-      "Kansas City, Missouri"
-    ],
-    "description": "As an IT Specialist (AI Data Engineer) with the US Office of Personnel Management, Office of the Chief Information Officer, Products and Data Engineering Division, you will develop, test, maintain, and support automated data pipelines and AI-assisted data engineering solutions that support OPM mission operations, stakeholder needs, and reliable data-driven services.",
-    "url": "https://www.usajobs.gov/job/872842700",
-    "posted_at": "2026-06-12T06:26:32.920000",
-    "salary": "9-12",
     "grade": null,
     "remote": null
   },
@@ -1280,27 +1318,6 @@
     "remote": null
   },
   {
-    "job_id": "872662500",
-    "title": "Data Scientist (Artificial Intelligence/Machine Learning)",
-    "organization": "Defense Logistics Agency",
-    "locations": [
-      "Battle Creek, Michigan",
-      "Whitehall, Ohio",
-      "Wright-Patterson AFB, Ohio",
-      "New Cumberland Defense Logistics Center, Pennsylvania",
-      "Philadelphia, Pennsylvania",
-      "Hill AFB, Utah",
-      "Fort Belvoir, Virginia",
-      "Richmond, Virginia"
-    ],
-    "description": "See below for important information regarding this job. Position will be filled at any of the locations listed below. Site specific salary information as follows: Battle Creek, MI: $125,776- $163,514 Columbus, OH: $131,245- $170,624 Dayton, OH: $130,461 - $169,604 Fort Belvoir, VA: $143,913- $187,093 New Cumberland, PA: $143,913- $187,093 Ogden, UT: $125,776- $163,514 Philadelphia, PA: $138,595- $180,178 Richmond, VA: $131,385- $170,806",
-    "url": "https://www.usajobs.gov/job/872662500",
-    "posted_at": "2026-06-11T08:19:32.533000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872641500",
     "title": "Program Analyst",
     "organization": "Drug Enforcement Administration",
@@ -1429,20 +1446,6 @@
     "remote": null
   },
   {
-    "job_id": "872424300",
-    "title": "Program Analyst (Informatics)",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Long Beach, California"
-    ],
-    "description": "The Program Analyst (Health Informatics) position is located at the medical centers within the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The primary purpose of this role is to enhance the quality, efficiency, and effectiveness of health care by integrating clinical and information processes essential for the successful adoption and use of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/872424300",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872419000",
     "title": "Deputy Director, Office of Information Technology",
     "organization": "Centers for Medicare & Medicaid Services",
@@ -1454,49 +1457,6 @@
     "url": "https://www.usajobs.gov/job/872419000",
     "posted_at": "2026-06-10T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872386300",
-    "title": "Data Scientist",
-    "organization": "Federal Acquisition Service",
-    "locations": [
-      "San Francisco, California",
-      "Lakewood, Colorado",
-      "Washington, District of Columbia",
-      "Orlando, Florida",
-      "Tampa, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Boston, Massachusetts",
-      "Kansas City, Missouri",
-      "New York, New York",
-      "Philadelphia, Pennsylvania",
-      "Fort Worth, Texas",
-      "Houston, Texas",
-      "San Antonio, Texas",
-      "Norfolk, Virginia",
-      "Tacoma, Washington"
-    ],
-    "description": "As a Data Scientist, you will serve as a senior authoritative subject matter expert for developing new methods to automate reports, develop predictive models, and analyze trends. Location of position: GSA, Federal Acquisition Service (FAS), Office of Policy and Compliance, Acquisition Evidence & Analysis Division. The Acquisition Evidence and Analysis Division is responsible for conducting analysis and evaluation of acquisition activities to ensure compliance of acquisition across FAS.",
-    "url": "https://www.usajobs.gov/job/872386300",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872298000",
-    "title": "Financial Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the DEA, Office of Forensic Science. This position(s) primary purpose is to serve as a Financial Specialist within the Financial Management Unit (SFAF), Administrative Support & Financial Management Section, Office of Forensic Sciences (SF) in the Headquarters Operational Support Division. The incumbent provides expert financial program and operational support.",
-    "url": "https://www.usajobs.gov/job/872298000",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -1996,20 +1956,6 @@
     "remote": null
   },
   {
-    "job_id": "872052100",
-    "title": "Photogrammetric Imagery Scientist",
-    "organization": "National Geospatial-Intelligence Agency",
-    "locations": [
-      "Wright-Patterson AFB, Ohio"
-    ],
-    "description": "Photogrammetric Imagery Scientists utilize all imaging systems (i.e., satellite, airborne, ground) to extract monoscopic, stereoscopic, and multiscopic mensuration results from objects and geographic features. They create mensuration reports and associated mensuration-derived products. They collaborate with analysts to understand intelligence issues and provide scientific results that augment inte",
-    "url": "https://www.usajobs.gov/job/872052100",
-    "posted_at": "2026-06-08T06:50:14.557000",
-    "salary": "03-03",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "872195400",
     "title": "Social Worker",
     "organization": "Indian Health Service",
@@ -2135,6 +2081,20 @@
     "url": "https://www.usajobs.gov/job/872195400",
     "posted_at": "2026-06-08T00:00:00",
     "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "871956200",
+    "title": "Chief Information Officer",
+    "organization": "Office of the Chief Information Officer",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Chief Information Officer (CIO) serves as the agency's senior executive for information resources management, information technology (IT), cybersecurity, enterprise architecture, digital services, data operations, and technology modernization. The CIO also provides leadership for the planning, acquisition, security, operation, and performance of IT resources and ensures that technology investments support the Department's mission. ***This position may be detailed to another Federal agency",
+    "url": "https://www.usajobs.gov/job/871956200",
+    "posted_at": "2026-06-05T12:50:31.307000",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -2277,6 +2237,20 @@
     "url": "https://www.usajobs.gov/job/871838600",
     "posted_at": "2026-06-05T00:00:00",
     "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "868801600",
+    "title": "Supervisory Human Resources Specialist",
+    "organization": "Administrative Office of the U.S. Courts",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "The Supervisory Human Resources Specialist position is in the Administrative Office of the U.S. Courts (AO), Department of Administrative Services, Human Resources Office (HRO), Policy and Strategic Initiative Division, Workforce Strategic Planning Branch. HRO provides human resource program leadership, services, and solutions to enable the U.S. courts and the AO to define, recruit, manage, compensate, reward, develop, and retain a highly skilled workforce.",
+    "url": "https://www.usajobs.gov/job/868801600",
+    "posted_at": "2026-06-05T00:00:00",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -2554,6 +2528,39 @@
     "remote": null
   },
   {
+    "job_id": "870902700",
+    "title": "Marine Interdiction Agent",
+    "organization": "Customs and Border Protection",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "This position is covered by Law Enforcement Availability Pay (LEAP). LEAP is an additional compensation of 25% of the base salary and locality pay. See additional pay information in the Duties section. Organizational Location: This position is with the Department of Homeland Security, within U.S. Customs and Border Protection, Air and Marine Operations.",
+    "url": "https://www.usajobs.gov/job/870902700",
+    "posted_at": "2026-06-01T00:00:00",
+    "salary": "11-11",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "764669300",
     "title": "Organizational Psychologist",
     "organization": "Central Intelligence Agency",
@@ -2592,36 +2599,6 @@
     "url": "https://www.usajobs.gov/job/870514400",
     "posted_at": "2026-05-26T00:00:00",
     "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "870113900",
-    "title": "Trial Attorney",
-    "organization": "U.S. Trustee Program",
-    "locations": [
-      "Los Angeles, California",
-      "Riverside, California",
-      "Santa Ana, California",
-      "Miami, Florida",
-      "Tampa, Florida",
-      "Chicago, Illinois",
-      "Peoria, Illinois",
-      "Indianapolis, Indiana",
-      "South Bend, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Baltimore, Maryland",
-      "Greenbelt, Maryland",
-      "Kings, New York",
-      "New York, New York",
-      "Cleveland, Ohio",
-      "Austin, Texas"
-    ],
-    "description": "This is a public notice flyer. Applications will not be accepted through USA Jobs. If you are interested in applying, please see the official announcement on the DOJs Legal Careers page by following the links below: U.S. Trustee Program | Attorneys | United States Department of Justice https://www.justice.gov/ust/careers/attorneys",
-    "url": "https://www.usajobs.gov/job/870113900",
-    "posted_at": "2026-05-20T14:07:58.960000",
-    "salary": "13-15",
     "grade": null,
     "remote": null
   }

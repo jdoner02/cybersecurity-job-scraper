@@ -225,6 +225,20 @@
     "remote": null
   },
   {
+    "job_id": "873467200",
+    "title": "INTERDISCIPLINARY (CYBER)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the FUSION OPERATIONS BRANCH (REIMB)-J3",
+    "url": "https://www.usajobs.gov/job/873467200",
+    "posted_at": "2026-06-18T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873445400",
     "title": "Human Capital Specialist",
     "organization": "Office of the Assistant Secretary for Administration and Management",
@@ -923,20 +937,6 @@
     "remote": null
   },
   {
-    "job_id": "873039600",
-    "title": "IT CYBERSECURITY SPECIALIST (NETWORK)",
-    "organization": "U.S. Marine Corps",
-    "locations": [
-      "New Orleans, Louisiana"
-    ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer.",
-    "url": "https://www.usajobs.gov/job/873039600",
-    "posted_at": "2026-06-15T11:04:03.103000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873049200",
     "title": "Attorney - Experienced to Expert Level (Maryland)",
     "organization": "National Security Agency/Central Security Service",
@@ -1001,20 +1001,6 @@
     ],
     "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Full Performance Work Level within the CES Occupational Structure. It is located in the DISA HC/Implementation LOB.",
     "url": "https://www.usajobs.gov/job/872845700",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872724200",
-    "title": "IT SPECIALIST (INFOSEC)",
-    "organization": "Naval Education and Training Command",
-    "locations": [
-      "Point Loma Complex, San Diego, California"
-    ],
-    "description": "You will serve as an Information Systems Security Officer (ISSO) in the Surface Combat Systems Training Command (SCSTC), San Diego.",
-    "url": "https://www.usajobs.gov/job/872724200",
     "posted_at": "2026-06-15T00:00:00",
     "salary": "12-12",
     "grade": null,
@@ -1295,6 +1281,20 @@
     "url": "https://www.usajobs.gov/job/872623100",
     "posted_at": "2026-06-11T00:00:00",
     "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872634500",
+    "title": "Biomed Equipment Support Spec",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Billings, Montana"
+    ],
+    "description": "Serves as a Biomedical Equipment Support Specialist (BESS) at the full performance level within a Healthcare Technology Management (HTM) department at a VA facility. Works in support of the medical equipment management program. Troubleshoots and performs planned maintenance on a range of medical devices and clinical systems.",
+    "url": "https://www.usajobs.gov/job/872634500",
+    "posted_at": "2026-06-10T17:47:34.020000",
+    "salary": "5-11",
     "grade": null,
     "remote": null
   },
