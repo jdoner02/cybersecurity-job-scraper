@@ -109,20 +109,6 @@
     "remote": null
   },
   {
-    "job_id": "873547200",
-    "title": "Security Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Pasadena, California"
-    ],
-    "description": "A NASA Special Security Officer (SSO) acts as the principal authority for managing and overseeing Sensitive Compartmented Information (SCI) security programs. This role involves enforcing security policies, managing personnel security, and conducting vulnerability assessments to protect national security information. The role also includes safeguarding life, property, and information to support law enforcement activities essential to daily security operations and core Agency programs.",
-    "url": "https://www.usajobs.gov/job/873547200",
-    "posted_at": "2026-06-18T00:00:00",
-    "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873518000",
     "title": "Program Analyst Informatics",
     "organization": "Veterans Health Administration",
@@ -468,6 +454,20 @@
     "remote": null
   },
   {
+    "job_id": "873214800",
+    "title": "MANAGEMENT AND PROGRAM ANALYST (DATA AND KM)",
+    "organization": "Air Force Elements, U.S. Special Operations Command",
+    "locations": [
+      "Peterson AFB, Colorado"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position to serve as the Chief Command Data Officer and Knowledge Manager (CDO/KM) for Special Operations Command North (SOCNORTH), a Theater Special Operations Command (TSOC) under the United States Special Operations Command (SOCOM), a unified Combatant Command (CCMD).",
+    "url": "https://www.usajobs.gov/job/873214800",
+    "posted_at": "2026-06-17T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873200100",
     "title": "INTELLIGENCE SPECIALIST",
     "organization": "Department of the Air Force - Agency Wide",
@@ -556,20 +556,6 @@
     "remote": null
   },
   {
-    "job_id": "873130800",
-    "title": "Supervisory Administrative Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Pasadena, California"
-    ],
-    "description": "As a Supervisory Admin Specialist, you will provide oversight or guidance for day-to-day operations of protective services in security, law enforcement, and emergency management. You will be responsible for implementing and managing programs designed to prevent information, personnel, property, facilities, or operations from unauthorized disclosure, misuse, theft, assault, espionage, sabotage, or loss. You will develop security policy guidance to ensure organizational requirements are achieved",
-    "url": "https://www.usajobs.gov/job/873130800",
-    "posted_at": "2026-06-16T13:33:55.477000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873251100",
     "title": "Senior Analyst for Operations Research",
     "organization": "Headquarters, AMC",
@@ -609,6 +595,34 @@
     "description": "Make an impact while you learn! The Semester of Service Program gives students a volunteer, project-based opportunity to support real Federal missions, gaining hands-on experience and career-ready skills. To participate, students must be enrolled at least half-time in an accredited institution and participation must be with the permission of the institution at which the student is enrolled. With this opportunity, you will support a security and intelligence based project.",
     "url": "https://www.usajobs.gov/job/873195300",
     "posted_at": "2026-06-16T08:33:35.463000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873195300",
+    "title": "Security and Intelligence System Manager Intern",
+    "organization": "United States Army Installation Management Command",
+    "locations": [
+      "West Point, New York"
+    ],
+    "description": "Make an impact while you learn! The Semester of Service Program gives students a volunteer, project-based opportunity to support real Federal missions, gaining hands-on experience and career-ready skills. To participate, students must be enrolled at least half-time in an accredited institution and participation must be with the permission of the institution at which the student is enrolled. With this opportunity, you will support a security and intelligence based project.",
+    "url": "https://www.usajobs.gov/job/873195300",
+    "posted_at": "2026-06-16T08:33:35.463000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873194900",
+    "title": "Emergency Management Systems Manager Intern",
+    "organization": "United States Army Installation Management Command",
+    "locations": [
+      "Anywhere in the U.S. (remote job), United States"
+    ],
+    "description": "Make an impact while you learn! The Semester of Service Program gives students a volunteer, project-based opportunity to support real Federal missions, gaining hands-on experience and career-ready skills. To participate, students must be enrolled at least half-time in an accredited institution and participation must be with the permission of the institution at which the student is enrolled. With this opportunity, you will support an intelligence based project.",
+    "url": "https://www.usajobs.gov/job/873194900",
+    "posted_at": "2026-06-16T08:32:59.397000",
     "salary": "00-00",
     "grade": null,
     "remote": null
@@ -1300,20 +1314,6 @@
     "url": "https://www.usajobs.gov/job/872710500",
     "posted_at": "2026-06-11T11:17:56.063000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872699600",
-    "title": "Program Analyst",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "San Diego, California"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), San Diego Field Division, San Diego, California. The purpose of this position is to serve as an expert advisor to the Special Agent in Charge (SAC) on operations program and policy for the San Diego Division.",
-    "url": "https://www.usajobs.gov/job/872699600",
-    "posted_at": "2026-06-11T10:42:45.963000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },

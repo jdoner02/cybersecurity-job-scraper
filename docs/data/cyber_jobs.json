@@ -141,6 +141,23 @@
     "remote": null
   },
   {
+    "job_id": "873591800",
+    "title": "Senior Incident Response Lead",
+    "organization": "Securities and Exchange Commission",
+    "locations": [
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Chicago, Illinois",
+      "New York, New York"
+    ],
+    "description": "The Office of Information Technology is seeking a IT Specialist (INFOSEC) (Senior Incident Response Lead). In this role, you will be responsible for leading the detection, analysis, and response to cyber incidents that threaten the confidentiality, integrity, and availability of enterprise assets. This position requires deep technical expertise, strong leadership, and the ability to coordinate across teams to ensure rapid, effective, and consistent incident response.",
+    "url": "https://www.usajobs.gov/job/873591800",
+    "posted_at": "2026-06-18T09:11:15.410000",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873577300",
     "title": "Healthcare Engineer (Network Engineer)",
     "organization": "Veterans Health Administration",
@@ -1225,20 +1242,6 @@
     "url": "https://www.usajobs.gov/job/872712600",
     "posted_at": "2026-06-11T11:23:38.820000",
     "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872690500",
-    "title": "Digital Network Exploitation Analyst - Mid to Experienced Level (Maryland)",
-    "organization": "National Security Agency/Central Security Service",
-    "locations": [
-      "Fort Meade, Maryland"
-    ],
-    "description": "As a Digital Network Exploitation Analyst at NSA, you'll use your computer science skills to analyze and exploit foreign adversaries' digital networks and communications. You'll play a critical role in NSA's cybersecurity and intelligence operations by providing an understanding of the threat landscape and identifying vulnerabilities within these networks. For more information, please visit: DNEA Work Roles",
-    "url": "https://www.usajobs.gov/job/872690500",
-    "posted_at": "2026-06-11T00:00:00",
-    "salary": "11-14",
     "grade": null,
     "remote": null
   },
