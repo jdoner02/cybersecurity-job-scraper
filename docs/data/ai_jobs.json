@@ -1,5 +1,156 @@
 [
   {
+    "job_id": "874047000",
+    "title": "SUPERVISORY COMPUTER ENGINEER",
+    "organization": "Air Force Elements, U.S. Special Operations Command",
+    "locations": [
+      "MacDill AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: To exercise first level supervisory and managerial authorities over professional, administrative and technicals employees in the USSOCOM Chief Data Office.",
+    "url": "https://www.usajobs.gov/job/874047000",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874018900",
+    "title": "Financial Management Specialist",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Washington, District of Columbia",
+      "New York, New York"
+    ],
+    "description": "This position is located in the DEA, New York and Washington Division. This position(s) primary purpose is to support the Domestic Division Financial Procurement Unit (FPU) with processing various types of accounting transactions, analyzing financial information, and providing customer support within the assigned Division offices.",
+    "url": "https://www.usajobs.gov/job/874018900",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "9-11",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874015300",
+    "title": "Program Analyst (Training)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Quantico, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Training, Criminal-Diversion Training Section. This position(s) primary purpose is to develop, prepare, and administer the entry-level training program for newly-hired DIs, Basic Diversion Investigator Training (BDIT). The training program familiarizes basic trainees with federal regulations and DEA policy as well as introduces numerous computer programs and databases used by DEA.",
+    "url": "https://www.usajobs.gov/job/874015300",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "11-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873991300",
+    "title": "Program Analyst Informatics",
+    "organization": "Veterans Health Administration",
+    "locations": [
+      "Milwaukee, Wisconsin"
+    ],
+    "description": "This is a non-supervisory position, located at the Clement J Zablocki VA Medical Center in Milwaukee, WI. The position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
+    "url": "https://www.usajobs.gov/job/873991300",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "12-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873961300",
+    "title": "Energy Program Associate",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is part of the EDF Office of Energy Dominance Financing, Department of Energy. As a Energy Program Associate, you will be individually assisting with carrying out the review, analysis and processing of loan and loan guarantee applications and agreements. The intent of the Department of Energy's (DOE) Business Exchange Program (BEP) is to infuse the Department with industry expertise to meet new or recent program, mission objectives, or regulatory directives on a short-term basis.",
+    "url": "https://www.usajobs.gov/job/873961300",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873946400",
+    "title": "Computer Scientist, AST, Data Analysis (Direct Hire)",
+    "organization": "Headquarters, NASA",
+    "locations": [
+      "Huntsville, Alabama",
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Washington, District of Columbia",
+      "Kennedy Space Center, Florida",
+      "Greenbelt, Maryland",
+      "Bay Saint Louis, Mississippi",
+      "Stennis Space Center, Mississippi",
+      "Cleveland, Ohio",
+      "Houston, Texas",
+      "Hampton, Virginia"
+    ],
+    "description": "As an AST, Computer Scientist in the Office of the Chief Information Officer (OCIO) you will leverage NASA data analytics infrastructure to build systems that process data efficiently and model that data to power analytics. You will engage with users to understand and automate data workflows, while working closely with product managers to identify high impact initiatives that will further NASA's mission by providing technologies that produce high-quality data products.",
+    "url": "https://www.usajobs.gov/job/873946400",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873915900",
+    "title": "Physical Scientist/Computer Scientist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland"
+    ],
+    "description": "This position is part of the Office of Science - Headquarters, Department of Energy. As a Physical Scientist/Computer Scientist, you will identify critical issues and actions necessary to advance research in QIS, especially quantum computing, with an emphasis on the interactions between scientists, next-generation computational facilities, and emerging hardware architectures. You will also identify and implement innovative methods for transitioning advanced research.",
+    "url": "https://www.usajobs.gov/job/873915900",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873909300",
+    "title": "Attorney Advisor (General)",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administrator (DEA), Office of Chief Counsel. This position serves as the principal legal advisor to DEA's Administrator on all administrative, domestic and international criminal, civil, intelligence, regulatory, and asset forfeiture related law issues raised by DEA's worldwide drug enforcement and intelligence efforts. Department of Justice (DOJ) agencies post experienced attorney job announcements on the DOJ Careers page.",
+    "url": "https://www.usajobs.gov/job/873909300",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "13-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873589700",
+    "title": "AST, Aerospace Experimental Facilities and Test Technologies",
+    "organization": "John Glenn Research Center at Lewis Field",
+    "locations": [
+      "Cleveland, Ohio"
+    ],
+    "description": "As an Aerospace Testing Facility Manager with the Test Facility Management Branch at NASA Glenn Research Center, you will oversee the operation, maintenance, and modernization of aerospace research and test facilities. You will provide technical oversight, coordinate testing activities, engage customers and stakeholders, and support strategic planning efforts to ensure facilities safely support NASA programs, projects, and mission objectives.",
+    "url": "https://www.usajobs.gov/job/873589700",
+    "posted_at": "2026-06-24T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873989900",
+    "title": "Associate Deputy Chief of Space Operations for Cyber & Data",
+    "organization": "Department of the Air Force - Agency Wide",
+    "locations": [
+      "Pentagon, Arlington, Virginia"
+    ],
+    "description": "Established by the FY2020 NDAA within the Department of the Air Force, the United States Space Force (USSF) organizes, trains, and equips forces to secure space operations, support national leadership, and enhance joint force lethality through offensive and defensive capabilities. Within this framework, the Assistant Deputy Chief of Space Operations for Cyber and Data provides executive leadership and oversight to advance USSF cyber operations, cybersecurity, and data initiatives.",
+    "url": "https://www.usajobs.gov/job/873989900",
+    "posted_at": "2026-06-23T12:55:18.777000",
+    "salary": "00-00",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873900400",
     "title": "Nutritionist",
     "organization": "Indian Health Service",
@@ -74,6 +225,20 @@
     "remote": null
   },
   {
+    "job_id": "873842400",
+    "title": "Supervisory Program Analyst (Artificial Intelligence)",
+    "organization": "Office of Management and Budget",
+    "locations": [
+      "Washington, District of Columbia"
+    ],
+    "description": "This position is located in the Executive Office of the President (EOP), Office of Management and Budget (OMB), Office of the Federal Chief Information Officer (OFCIO). OFCIO provides strategic direction and oversight for the development and management of all aspects of information technology portfolio and policy management, including: artificial intelligence, cybersecurity, IT modernization, data as a strategic asset, and digital first experience.",
+    "url": "https://www.usajobs.gov/job/873842400",
+    "posted_at": "2026-06-23T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873803000",
     "title": "Cybersecurity Specialist",
     "organization": "Food and Drug Administration",
@@ -98,20 +263,6 @@
     "url": "https://www.usajobs.gov/job/873274200",
     "posted_at": "2026-06-23T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873890800",
-    "title": "Associate Chief Information Officer for Engineering",
-    "organization": "Treasury, Departmental Offices",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position serves as the Associate Chief Information Officer (ACIO) for Engineering within the Treasury Common Services Center (TCSC), reporting to the Deputy Administrator for Technology Services. Leads enterprise engineering operations, technical programs, and modernization initiatives, including artificial intelligence and digital transformation efforts. Advises senior leadership on engineering strategy, technology investments, innovation project execution, and organizational performance.",
-    "url": "https://www.usajobs.gov/job/873890800",
-    "posted_at": "2026-06-22T17:27:19.857000",
-    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -303,20 +454,6 @@
     "remote": null
   },
   {
-    "job_id": "873682000",
-    "title": "Student Trainee (Accounting)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Financial Management Division (FC), Office of Finance (FN). This position(s) primary purpose is to provide accounting support to the field and HQ offices.",
-    "url": "https://www.usajobs.gov/job/873682000",
-    "posted_at": "2026-06-18T13:50:22.907000",
-    "salary": "5-5",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873649300",
     "title": "Division Security Officer",
     "organization": "Drug Enforcement Administration",
@@ -361,20 +498,6 @@
     "url": "https://www.usajobs.gov/job/873590600",
     "posted_at": "2026-06-18T09:03:20.527000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873547200",
-    "title": "Security Specialist (Direct Hire)",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Pasadena, California"
-    ],
-    "description": "A NASA Special Security Officer (SSO) acts as the principal authority for managing and overseeing Sensitive Compartmented Information (SCI) security programs. This role involves enforcing security policies, managing personnel security, and conducting vulnerability assessments to protect national security information. The role also includes safeguarding life, property, and information to support law enforcement activities essential to daily security operations and core Agency programs.",
-    "url": "https://www.usajobs.gov/job/873547200",
-    "posted_at": "2026-06-18T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -487,20 +610,6 @@
     "url": "https://www.usajobs.gov/job/873551900",
     "posted_at": "2026-06-17T17:49:58.633000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873540000",
-    "title": "Personnel Psychologist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Human Resources Division (HRD), Research and Analysis Section (HRN). This position(s) primary purpose is to serve as the expert psychometrician and staff technical expert on all matters related to selection, promotion, training, and retention of DEA core occupational positions, and organization development and workforce analysis.",
-    "url": "https://www.usajobs.gov/job/873540000",
-    "posted_at": "2026-06-17T16:47:27.150000",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -696,38 +805,6 @@
     "remote": null
   },
   {
-    "job_id": "873309500",
-    "title": "Student Trainee (Administration and Clerical Assistance)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Mobile, Alabama",
-      "Flint, Michigan",
-      "Cape Girardeau, Missouri",
-      "Gulfport, Mississippi",
-      "Green Bay, Wisconsin"
-    ],
-    "description": "This is a Student Internship position under the Pathways Internship Program. This position is located in the Drug Enforcement Administration (DEA), Chicago Division, New Orleans Division, Detroit Division, and St. Louis Division. These position(s) primary purpose is to provide clerical and administrative support to the field and HQ offices.",
-    "url": "https://www.usajobs.gov/job/873309500",
-    "posted_at": "2026-06-16T14:50:28.157000",
-    "salary": "3-4",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873296200",
-    "title": "Full Stack Developer (Python)",
-    "organization": "Office of the Inspector General, USPS",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "The U.S. Postal Service Office of Inspector General (USPS OIG) is seeking a highly qualified Full Stack Developer to join the Research and Insights Solution Center (RISC) in Arlington, Virginia. In this role, you will build robust, data-driven applications that directly support federal oversight, audits, and investigations. Bring your technical expertise to a mission that matters! Bring your skills and voice to our team!",
-    "url": "https://www.usajobs.gov/job/873296200",
-    "posted_at": "2026-06-16T14:10:38.697000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873294700",
     "title": "Full Stack Developer (Python)",
     "organization": "Office of the Inspector General, USPS",
@@ -742,20 +819,6 @@
     "remote": null
   },
   {
-    "job_id": "873130800",
-    "title": "Supervisory Administrative Specialist",
-    "organization": "Headquarters, NASA",
-    "locations": [
-      "Pasadena, California"
-    ],
-    "description": "As a Supervisory Admin Specialist, you will provide oversight or guidance for day-to-day operations of protective services in security, law enforcement, and emergency management. You will be responsible for implementing and managing programs designed to prevent information, personnel, property, facilities, or operations from unauthorized disclosure, misuse, theft, assault, espionage, sabotage, or loss. You will develop security policy guidance to ensure organizational requirements are achieved",
-    "url": "https://www.usajobs.gov/job/873130800",
-    "posted_at": "2026-06-16T13:33:55.477000",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873251100",
     "title": "Senior Analyst for Operations Research",
     "organization": "Headquarters, AMC",
@@ -766,22 +829,6 @@
     "url": "https://www.usajobs.gov/job/873251100",
     "posted_at": "2026-06-16T11:37:36.443000",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873221600",
-    "title": "AI Data Engineer",
-    "organization": "Office of Personnel Management",
-    "locations": [
-      "District of Columbia, District of Columbia",
-      "Macon, Georgia",
-      "Kansas City, Missouri"
-    ],
-    "description": "As an IT Specialist (AI Data Engineer) with the US Office of Personnel Management, Office of the Chief Information Officer, Products and Data Engineering Division, you will design, integrate, and modernize enterprise data pipelines, artificial intelligence-enabled data systems, and data architecture solutions that support mission operations, data governance, and technology decision-making.",
-    "url": "https://www.usajobs.gov/job/873221600",
-    "posted_at": "2026-06-16T10:05:44.470000",
-    "salary": "13-14",
     "grade": null,
     "remote": null
   },
@@ -1068,20 +1115,6 @@
     "url": "https://www.usajobs.gov/job/873041500",
     "posted_at": "2026-06-15T09:57:13.600000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873038400",
-    "title": "CURRICULUM AND EDUCATION TECHNOLOGY SPECIALIST",
-    "organization": "Air Education and Training Command",
-    "locations": [
-      "Maxwell AFB, Alabama"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is to serve as a senior expert overseeing projects and/or leading functional teams focused on curriculum development and education technology for Air University and VECTOR, providing enterprise-level leadership in curriculum innovation, digital learning strategy, and integration of advanced education technologies.",
-    "url": "https://www.usajobs.gov/job/873038400",
-    "posted_at": "2026-06-15T09:41:45.300000",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1513,9 +1546,9 @@
     "locations": [
       "Alexandria, Virginia"
     ],
-    "description": "This is an entry-level position located in the Office of the Commissioner for Trademarks, Trademark Examining Groups. This vacancy is developed for applicants seeking an Attorney Advisor position who: currently have a Juris Doctor (JD) , and either have plans to sit for the bar or are awaiting results from the bar.",
+    "description": "This is an entry-level position located in the Office of the Commissioner for Trademarks, Trademark Examining Groups. This vacancy is developed for applicants seeking an Attorney Advisor position who: currently have a Juris Doctor (JD) , and either have plans to sit for the bar or are awaiting results from the bar. NOTE: The closing date of this vacancy announcement has been extended to 07/06/2026.",
     "url": "https://www.usajobs.gov/job/872258200",
-    "posted_at": "2026-06-09T08:46:54.073000",
+    "posted_at": "2026-06-09T00:00:00",
     "salary": "9-9",
     "grade": null,
     "remote": null
@@ -1527,38 +1560,10 @@
     "locations": [
       "Alexandria, Virginia"
     ],
-    "description": "This is an entry-level position. This vacancy is developed for licensed applicants seeking an Attorney Advisor position. These positions are located in the Office of the Commissioner for Trademarks, Trademark Examining Groups.",
+    "description": "This is an entry-level position. This vacancy is developed for licensed applicants seeking an Attorney Advisor position. These positions are located in the Office of the Commissioner for Trademarks, Trademark Examining Groups. NOTE: The closing date of this vacancy announcement has been extended to 07/06/2026.",
     "url": "https://www.usajobs.gov/job/872258100",
-    "posted_at": "2026-06-09T08:45:57.823000",
+    "posted_at": "2026-06-09T00:00:00",
     "salary": "11-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872241100",
-    "title": "Business Operations Specialist",
-    "organization": "Export-Import Bank of the United States",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Merit Promotion (MP) procedures vacancy number: M26-AR-12971679-IDS. Applicants who wish to also be considered under MP must apply to both vacancies separately. About this agency",
-    "url": "https://www.usajobs.gov/job/872241100",
-    "posted_at": "2026-06-09T07:28:23.070000",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872241000",
-    "title": "Business Operations Specialist",
-    "organization": "Export-Import Bank of the United States",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "Announcement may be used to fill similar positions within 90 days of the closing date. This position is also being announced concurrently under Delegated Examining (DE) procedures vacancy number: D26-AR-12971678-IDS. Applicants who wish to also be considered under DE must apply to both vacancies separately. About this agency",
-    "url": "https://www.usajobs.gov/job/872241000",
-    "posted_at": "2026-06-09T07:26:47.857000",
-    "salary": "12-12",
     "grade": null,
     "remote": null
   },
