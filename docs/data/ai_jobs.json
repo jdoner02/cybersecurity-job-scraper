@@ -1,5 +1,236 @@
 [
   {
+    "job_id": "874265300",
+    "title": "Lead Engineering Technician",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Cleveland, Ohio",
+      "Hampton, Virginia"
+    ],
+    "description": "Positions to be filled are in various organizations at the following NASA Centers - Ames Research Center, Armstrong Flight Research Center, Langley Research Center and Glenn Research Center.",
+    "url": "https://www.usajobs.gov/job/874265300",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874264700",
+    "title": "Lead Electronics Technician",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Cleveland, Ohio",
+      "Hampton, Virginia"
+    ],
+    "description": "Positions to be filled are in various organizations at the following NASA Centers - Ames Research Center, Armstrong Flight Research Center, Langley Research Center and Glenn Research Center.",
+    "url": "https://www.usajobs.gov/job/874264700",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874264000",
+    "title": "Electronics Technician Public Notice Flyer (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Cleveland, Ohio",
+      "Hampton, Virginia"
+    ],
+    "description": "Positions to be filled are in various organizations at the following NASA Centers - Ames Research Center, Armstrong Flight Research Center, Langley Research Center and Glenn Research Center. NASA may fill positions in any of the following grade levels listed in this announcement (GS-09/10/11/12 levels).",
+    "url": "https://www.usajobs.gov/job/874264000",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "9-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874263400",
+    "title": "Engineering Public Notice Flyer (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Cleveland, Ohio",
+      "Hampton, Virginia"
+    ],
+    "description": "Positions to be filled are in various organizations at the following NASA Centers - Ames Research Center, Armstrong Flight Research Center, Langley Research Center and Glenn Research Center. NASA may fill positions in any of the following series and at any grade level listed in this announcement (GS-801, 861, 850, 830, 854, 855, 806, and 893 at the GS-7/9/11/12/13/14/15 levels).",
+    "url": "https://www.usajobs.gov/job/874263400",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "7-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874262300",
+    "title": "Engineering Technician Public Notice Flyer (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California",
+      "Moffett Field, California",
+      "Cleveland, Ohio",
+      "Hampton, Virginia",
+      "Fairmont, West Virginia"
+    ],
+    "description": "Positions to be filled are in various organizations at the following NASA Centers - Ames Research Center, Armstrong Flight Research Center, Langley Research Center, Glenn Research Center and the Katherine Johnson IV&V Facility. NASA may fill positions in any of the following grade levels listed in this announcement (GS-09/10/11/12 levels). Examples of positions that may be filled include: Jet Engine Mechanic, Machinist, & Sheet Metal Tech, Life Support Systems, Aircraft Mechanic, Egress Tech.",
+    "url": "https://www.usajobs.gov/job/874262300",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "9-12",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874252000",
+    "title": "IT Specialist (AI)",
+    "organization": "Office of the Assistant Secretary for Administration and Management",
+    "locations": [
+      "Salt Lake City, Utah",
+      "Seattle, Washington",
+      "Phoenix, Arizona",
+      "Los Angeles, California",
+      "San Francisco, California",
+      "Denver, Colorado",
+      "Washington, District of Columbia",
+      "Miami, Florida",
+      "Atlanta, Georgia",
+      "Chicago, Illinois",
+      "Indianapolis, Indiana",
+      "New Orleans, Louisiana",
+      "Boston, Massachusetts",
+      "Minneapolis, Minnesota",
+      "Kansas City, Missouri",
+      "Albuquerque, New Mexico",
+      "New York, New York",
+      "Oklahoma City, Oklahoma",
+      "Portland, Oregon",
+      "Austin, Texas"
+    ],
+    "description": "The Office of the Chief Information Officer (OCIO) serves as the IT hub of the U.S. Department of Labor. We develop, maintain and protect IT solutions and data across our 27 agencies to enable mission outcomes through technology and service. OCIO continually enhances federal IT and digital capability with a focus on cybersecurity and customer experience to serve America's wage earners, job seekers and retirees.",
+    "url": "https://www.usajobs.gov/job/874252000",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874206200",
+    "title": "OPERATIONS RESEARCH ANALYST",
+    "organization": "Air Force Elements, U.S. Special Operations Command",
+    "locations": [
+      "MacDill AFB, Florida"
+    ],
+    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position is: to serve as a senior US Special Operations Command (USSOCOM) analyst, providing professional and scientific expertise in performance of work requiring knowledge and application of engineering, mathematics, statistical analysis, modeling/simulation, and/or other scientific principles, methods, and techniques.",
+    "url": "https://www.usajobs.gov/job/874206200",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873881600",
+    "title": "Management and Program Analyst (Direct Hire)",
+    "organization": "Armstrong Flight Research Center",
+    "locations": [
+      "Edwards AFB, California"
+    ],
+    "description": "Serves as the Center's Emergency Mishap Coordinator, AFRC Mishap Program Manager, and Human Factors Analyst, leading real-time incident communication, operational decision coordination, and alignment with executive leadership during emergencies. Leads mishap response coordination with various agencies to ensure unified command, synchronized response actions, and timely information flow.",
+    "url": "https://www.usajobs.gov/job/873881600",
+    "posted_at": "2026-06-25T00:00:00",
+    "salary": "13-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "873915900",
+    "title": "Physical Scientist/Computer Scientist",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Germantown, Maryland"
+    ],
+    "description": "This position is part of the Office of Science - Headquarters, Department of Energy. As a Physical Scientist/Computer Scientist, you will identify critical issues and actions necessary to advance research in QIS, especially quantum computing, with an emphasis on the interactions between scientists, next-generation computational facilities, and emerging hardware architectures. You will also identify and implement innovative methods for transitioning advanced research.",
+    "url": "https://www.usajobs.gov/job/873915900",
+    "posted_at": "2026-06-24T16:15:24.350000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874152900",
+    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI) and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1259525",
+    "url": "https://www.usajobs.gov/job/874152900",
+    "posted_at": "2026-06-24T11:33:22.277000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874152900",
+    "title": "Software Engineer - Mid to Experienced Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI) and countless others. If it is considered Computer Science, chances are good we have at least one team focused on it. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1259525",
+    "url": "https://www.usajobs.gov/job/874152900",
+    "posted_at": "2026-06-24T11:33:22.277000",
+    "salary": "11-14",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874127700",
+    "title": "Development Program / Software Engineer - Entry Level (Maryland)",
+    "organization": "National Security Agency/Central Security Service",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "As a new Software Engineer, NSA has opportunities for you to contribute, learn, and grow in virtually any Computer Science focus area, including: Cybersecurity, High Performance Computing (HPC), Quantum Computing Research, Data Analytics, Machine Learning/Artificial Intelligence (ML/AI), Cryptology/Cryptography, and countless others. For more information, please visit: https://apply.intelligencecareers.gov/job-description/1259528",
+    "url": "https://www.usajobs.gov/job/874127700",
+    "posted_at": "2026-06-24T10:13:50.027000",
+    "salary": "7-9",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874119600",
+    "title": "Supervisory Accountant",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Financial Management Division (FC), Office of Finance, Accounts Payable Section. This position(s) primary purpose is to provide DEA-wide professional accounting and financial management services, management advice, and assistance.",
+    "url": "https://www.usajobs.gov/job/874119600",
+    "posted_at": "2026-06-24T09:49:53.473000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874119200",
+    "title": "Supervisory Accountant",
+    "organization": "Drug Enforcement Administration",
+    "locations": [
+      "Arlington County, Virginia"
+    ],
+    "description": "This position is located in the Drug Enforcement Administration (DEA), Financial Management Division (FC), Office of Finance, Financial Reporting Section.. This position(s) primary purpose is to provide DEA-wide professional accounting and financial management services, management advice, and assistance.",
+    "url": "https://www.usajobs.gov/job/874119200",
+    "posted_at": "2026-06-24T09:49:18.153000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "874047000",
     "title": "SUPERVISORY COMPUTER ENGINEER",
     "organization": "Air Force Elements, U.S. Special Operations Command",
@@ -91,20 +322,6 @@
     "url": "https://www.usajobs.gov/job/873946400",
     "posted_at": "2026-06-24T00:00:00",
     "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873915900",
-    "title": "Physical Scientist/Computer Scientist",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Germantown, Maryland"
-    ],
-    "description": "This position is part of the Office of Science - Headquarters, Department of Energy. As a Physical Scientist/Computer Scientist, you will identify critical issues and actions necessary to advance research in QIS, especially quantum computing, with an emphasis on the interactions between scientists, next-generation computational facilities, and emerging hardware architectures. You will also identify and implement innovative methods for transitioning advanced research.",
-    "url": "https://www.usajobs.gov/job/873915900",
-    "posted_at": "2026-06-24T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -207,20 +424,6 @@
     "url": "https://www.usajobs.gov/job/873893400",
     "posted_at": "2026-06-23T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873842400",
-    "title": "Supervisory Program Analyst (Artificial Intelligence)",
-    "organization": "Office of Management and Budget",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Executive Office of the President (EOP), Office of Management and Budget (OMB), Office of the Federal Chief Information Officer (OFCIO). OFCIO provides strategic direction and oversight for the development and management of all aspects of information technology portfolio and policy management, including: artificial intelligence, cybersecurity, IT modernization, data as a strategic asset, and digital first experience.",
-    "url": "https://www.usajobs.gov/job/873842400",
-    "posted_at": "2026-06-23T00:00:00",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -502,20 +705,6 @@
     "remote": null
   },
   {
-    "job_id": "873518000",
-    "title": "Program Analyst Informatics",
-    "organization": "Veterans Health Administration",
-    "locations": [
-      "Danville, Illinois"
-    ],
-    "description": "This is a non-supervisory position, located at the VA Illiana Health Care System in Danville, IL in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). The position is to improve the quality, efficiency, and effectiveness of health care by integrating clinical and information processes necessary to achieve successful adoption and application of new technologies throughout the VHA.",
-    "url": "https://www.usajobs.gov/job/873518000",
-    "posted_at": "2026-06-18T00:00:00",
-    "salary": "12-12",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873457100",
     "title": "Program Assistant",
     "organization": "Drug Enforcement Administration",
@@ -538,20 +727,6 @@
     ],
     "description": "This position is part of the Office of Science - Headquarters, Department of Energy. As a Physical Scientist/Mathematican, deliver the most sophisticated AI and mathematical capabilities for scientific applications in partnership with disciplinary science; create first-of-a-kind AI, advanced computing, and networking capabilities for the Nation; and develop future generations of computing hardware and software tools for science and engineering.",
     "url": "https://www.usajobs.gov/job/873384900",
-    "posted_at": "2026-06-18T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873383400",
-    "title": "Operations Supervisor",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is part of the Hydrocarbons and Geothermal Energy Office, Department of Energy. As a Operations Supervisor, you will serves as principal advisor to the Program Manager on all aspects of planning/programing, budget/finance, and administration",
-    "url": "https://www.usajobs.gov/job/873383400",
     "posted_at": "2026-06-18T00:00:00",
     "salary": "15-15",
     "grade": null,
@@ -642,16 +817,16 @@
     "remote": null
   },
   {
-    "job_id": "873441800",
-    "title": "SUPERVISORY INTERDISCIPLINARY COMPUTER ENGINEER/COMPUTER SCIENCE",
-    "organization": "Naval Special Warfare Command",
+    "job_id": "873431000",
+    "title": "Artificial Intelligence Agent Development Specialist Intern",
+    "organization": "Office of the Chief of Staff of the Army",
     "locations": [
-      "Coronado, California"
+      "Arlington, Virginia"
     ],
-    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer. This position may be extended or made permanent without further competition.",
-    "url": "https://www.usajobs.gov/job/873441800",
-    "posted_at": "2026-06-17T13:48:30.460000",
-    "salary": "15-15",
+    "description": "Make an impact while you learn! The Semester of Service Program gives students a volunteer, project-based opportunity to support real Federal missions, gaining hands-on experience and career-ready skills. To participate, students must be enrolled at least half-time in an accredited institution and participation must be with the permission of the institution at which the student is enrolled. With this project, you will support an Artificial Intelligence based project.",
+    "url": "https://www.usajobs.gov/job/873431000",
+    "posted_at": "2026-06-17T11:14:48.723000",
+    "salary": "00-00",
     "grade": null,
     "remote": null
   },
@@ -716,6 +891,20 @@
     "remote": null
   },
   {
+    "job_id": "873441800",
+    "title": "SUPERVISORY INTERDISCIPLINARY COMPUTER ENGINEER/COMPUTER SCIENCE",
+    "organization": "Naval Special Warfare Command",
+    "locations": [
+      "Coronado, California"
+    ],
+    "description": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer. This position may be extended or made permanent without further competition.",
+    "url": "https://www.usajobs.gov/job/873441800",
+    "posted_at": "2026-06-17T00:00:00",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873318600",
     "title": "Division Chief, Artificial Intelligence",
     "organization": "Office of the Assistant Secretary for Administration and Management",
@@ -745,48 +934,6 @@
     "url": "https://www.usajobs.gov/job/873318600",
     "posted_at": "2026-06-17T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873297500",
-    "title": "Principal Technical Advisor for Enterprise Modernization and Artificial Intelligence (AI)",
-    "organization": "Office of the Assistant Secretary for Administration and Management",
-    "locations": [
-      "Seattle, Washington"
-    ],
-    "description": "The Office of the Chief Information Officer (OCIO) serves as the IT hub of the U.S. Department of Labor. We develop, maintain and protect IT solutions and data across our 27 agencies to enable mission outcomes through technology and service. OCIO continually enhances federal IT and digital capability with a focus on cybersecurity and customer experience to serve America's wage earners, job seekers and retirees.",
-    "url": "https://www.usajobs.gov/job/873297500",
-    "posted_at": "2026-06-17T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873214800",
-    "title": "MANAGEMENT AND PROGRAM ANALYST (DATA AND KM)",
-    "organization": "Air Force Elements, U.S. Special Operations Command",
-    "locations": [
-      "Peterson AFB, Colorado"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below to view Eligibilities being considered and other IMPORTANT information. The primary purpose of this position to serve as the Chief Command Data Officer and Knowledge Manager (CDO/KM) for Special Operations Command North (SOCNORTH), a Theater Special Operations Command (TSOC) under the United States Special Operations Command (SOCOM), a unified Combatant Command (CCMD).",
-    "url": "https://www.usajobs.gov/job/873214800",
-    "posted_at": "2026-06-17T00:00:00",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873200100",
-    "title": "INTELLIGENCE SPECIALIST",
-    "organization": "Department of the Air Force - Agency Wide",
-    "locations": [
-      "Langley AFB, Virginia"
-    ],
-    "description": "Click on \"Learn more about this agency\" button below for IMPORTANT additional information. The primary purpose of this position is to serve as the senior specialist for Data and Object Governance, Standards and Strategies. Direct and advise on compliance with Office of the Director of Intelligence (ODNI), Department of Defense (DoD) and Air Force (AF) legal and policy requirements for ISR data and object, as well as processes or policies that have the weight of law.",
-    "url": "https://www.usajobs.gov/job/873200100",
-    "posted_at": "2026-06-17T00:00:00",
-    "salary": "13-13",
     "grade": null,
     "remote": null
   },
@@ -1091,20 +1238,6 @@
     "remote": null
   },
   {
-    "job_id": "873048600",
-    "title": "Security Specialist (Insider Threat)",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Arlington, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Inspection Division, Office of Security Programs (IS), Insider Threat Section (IST), Defensive Counterintelligence Unit (ISTB). This position(s) primary purpose is to serve as a Security Specialist, providing support by identifying new and existing counterintelligence risks, and helping prepare the workforce on how to respond if they encounter those risks.",
-    "url": "https://www.usajobs.gov/job/873048600",
-    "posted_at": "2026-06-15T10:24:21.877000",
-    "salary": "12-13",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873041500",
     "title": "Chemist (Forensic Program Manager)",
     "organization": "Drug Enforcement Administration",
@@ -1115,64 +1248,6 @@
     "url": "https://www.usajobs.gov/job/873041500",
     "posted_at": "2026-06-15T09:57:13.600000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872985600",
-    "title": "Mission Support Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Minneapolis, Minnesota",
-      "Omaha, Nebraska",
-      "McAllen, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), San Antonio Division/ McAllen District Office, Omaha Division and Minneapolis/St. Paul District Office. This position's primary purpose is to assist leadership in the performance of administrative, human resource liaison, internal control, logistics to include fleet, personal property (accountable and non-accountable) and supply management, quality assurance, Records Management, and Task for Officer (TFO) Management.",
-    "url": "https://www.usajobs.gov/job/872985600",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872786300",
-    "title": "Facility Operations Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "El Paso, Texas"
-    ],
-    "description": "This position is located in the DEA, El Paso Intelligence Division, El Paso, Texas. This position primary purpose is to ensure that the buildings, infrastructures, and support services operate safely, efficiently, and in alignment of organizational goals.",
-    "url": "https://www.usajobs.gov/job/872786300",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872696300",
-    "title": "Inventory Management Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Office of Training, Academy Operations Section, Logistics and Acquisitions Support Unit (OTAL). This position(s) primary purpose is to provide inventory management control of accountable and non-accountable property (supplies, materials) and to manage the Official Government Vehicle (OGV) Fleet Program.",
-    "url": "https://www.usajobs.gov/job/872696300",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "9-11",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872693000",
-    "title": "Facility Operations Specialist",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Quantico, Virginia"
-    ],
-    "description": "This position is located in the DEA, Operations Division, Office of Training - Academy Operations Section, Building and Facility Management Unit (OTAB). This position(s) primary purpose is to organize and facilitate the operations, maintenance, repair work and alterations performed by contractors and Federal Bureau of Investigation (FBI) maintenance staff at the DEA Training Academy.",
-    "url": "https://www.usajobs.gov/job/872693000",
-    "posted_at": "2026-06-15T00:00:00",
-    "salary": "9-11",
     "grade": null,
     "remote": null
   },
@@ -1267,6 +1342,34 @@
     "remote": null
   },
   {
+    "job_id": "872711500",
+    "title": "Committee on Foreign Investment in the US Team Chief",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/872711500",
+    "posted_at": "2026-06-11T11:22:36.707000",
+    "salary": "14-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "872710500",
+    "title": "Committee on Foreign Investment in the US Team Chief",
+    "organization": "Office of the Director of National Intelligence",
+    "locations": [
+      "Bethesda, Maryland"
+    ],
+    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
+    "url": "https://www.usajobs.gov/job/872710500",
+    "posted_at": "2026-06-11T11:17:56.063000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "872719100",
     "title": "Optometrist",
     "organization": "Indian Health Service",
@@ -1293,7 +1396,6 @@
       "Hemet, California",
       "Riverside, California",
       "Winterhaven, California",
-      "Towaoc, Colorado",
       "Fort Hall, Idaho",
       "Lawrence, Kansas",
       "Mashpee, Massachusetts",
@@ -1391,36 +1493,8 @@
     ],
     "description": "All grade levels may not be available at the locations. Join the Indian Health Service and make a meaningful impact in Native communities. In this role, you will support vital healthcare operations that ensure patients receive timely, high-quality care. If you're looking for a rewarding career where your work directly supports patient services and community well-being, we encourage you to apply. A REAL ID will be required beginning May 7, 2025, in accordance with 6 C.F.R. 37.5 (2021).",
     "url": "https://www.usajobs.gov/job/872719100",
-    "posted_at": "2026-06-11T11:48:22.747000",
+    "posted_at": "2026-06-11T00:00:00",
     "salary": "11-12",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872711500",
-    "title": "Committee on Foreign Investment in the US Team Chief",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/872711500",
-    "posted_at": "2026-06-11T11:22:36.707000",
-    "salary": "14-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872710500",
-    "title": "Committee on Foreign Investment in the US Team Chief",
-    "organization": "Office of the Director of National Intelligence",
-    "locations": [
-      "Bethesda, Maryland"
-    ],
-    "description": "ODNI established the Office of Economic Security and Emerging Technologies (OESET) in response to increasing demand for improved intelligence on the application of disruptive technologies and related global supply chains. Improved IC posture in this area is critical to enabling the whole-of-government response that maintains United States' economic and technological competitive advantage and ensures U.S. access to goods and services central to its national security.",
-    "url": "https://www.usajobs.gov/job/872710500",
-    "posted_at": "2026-06-11T11:17:56.063000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },
@@ -1493,49 +1567,6 @@
     "url": "https://www.usajobs.gov/job/872529800",
     "posted_at": "2026-06-10T11:57:52.737000",
     "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872502300",
-    "title": "Director Marshall Space Flight Center",
-    "organization": "George C. Marshall Space Flight Center",
-    "locations": [
-      "Redstone Arsenal, Alabama"
-    ],
-    "description": "NASA is seeking a visionary leader to serve as Director, George C. Marshall Space Flight Center (MSFC), a critical executive role advancing research and technology maturation. As Director of MSFC, you will be responsible for managing an annual budget of over $4 billion, with direction and oversight of a blended workforce of over 6,000 civil servants and support service contractors. This is your opportunity to influence decisions that shape humanity's future in space.",
-    "url": "https://www.usajobs.gov/job/872502300",
-    "posted_at": "2026-06-10T10:56:35.960000",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872419000",
-    "title": "Deputy Director, Office of Information Technology",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "San Francisco, California",
-      "Woodlawn, Maryland"
-    ],
-    "description": "This position is located in the Office of Information Technology at the Centers for Medicare & Medicaid Services (CMS). As the Deputy Director, Office of Information Technology, you will provide executive leadership to the planning, organization, coordination, and management of the activities required to maintain an agency-wide information technology (IT) program.",
-    "url": "https://www.usajobs.gov/job/872419000",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872287800",
-    "title": "Astrophysicist, AST, Stellar, Galactic, and Extra Galactic Astrophysics (Direct Hire)",
-    "organization": "Ames Research Center",
-    "locations": [
-      "Moffett Field, California"
-    ],
-    "description": "You will serve as an Astrophysicist in the Space Science and Astrobiology Division of the Science Directorate and lead pioneering studies in the design, development, and testing of novel exoplanet coronagraph technologies e.g., Photonics) at NASA Ames Research Center. The exoplanet technology group develops and tests high contrast coronagraph technologies for directly imaging exoplanets around single and binary stars.",
-    "url": "https://www.usajobs.gov/job/872287800",
-    "posted_at": "2026-06-10T00:00:00",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
