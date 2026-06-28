@@ -86,6 +86,23 @@
     "remote": null
   },
   {
+    "job_id": "874445100",
+    "title": "Management and Program Analyst (Contracting Officer's Representative)",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia",
+      "Germantown, Maryland",
+      "Cincinnati, Ohio",
+      "Oak Ridge, Tennessee"
+    ],
+    "description": "This position is part of the Office of the Chief Human Capital Officer, Department of Energy. As a Management and Program Analyst (Contracting Officer's Representative), you will act as the Contracting Officer's Representative in monitoring specified aspects of contract performance ensuring compliance with all requirements of the statement of work (SOW), specifications, performance work statement (PWS) or other technical requirements by deliver date(s)/within the period of performance.",
+    "url": "https://www.usajobs.gov/job/874445100",
+    "posted_at": "2026-06-26T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "874424100",
     "title": "Program Analyst (Artificial Intelligence)",
     "organization": "Office of Management and Budget",
@@ -776,6 +793,24 @@
     "remote": null
   },
   {
+    "job_id": "873893400",
+    "title": "Budget Analyst",
+    "organization": "Department of Energy - Agency Wide",
+    "locations": [
+      "Washington, District of Columbia",
+      "Cincinnati, Ohio",
+      "Albany, Oregon",
+      "Pittsburgh, Pennsylvania",
+      "Morgantown, West Virginia"
+    ],
+    "description": "This position is part of the Hydrocarbons and Geothermal Energy Office, Department of Energy. As a Budget Analyst, you will provide expertise in the analysis of a variety of DOE budgetary operations and functions.",
+    "url": "https://www.usajobs.gov/job/873893400",
+    "posted_at": "2026-06-23T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "873842400",
     "title": "Supervisory Program Analyst (Artificial Intelligence)",
     "organization": "Office of Management and Budget",
@@ -959,20 +994,6 @@
     "url": "https://www.usajobs.gov/job/873638400",
     "posted_at": "2026-06-19T00:00:00",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873649300",
-    "title": "Division Security Officer",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Washington, District of Columbia"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Washington Division. The primary purpose of this position is to serve as the Division Security Officer (DSO) for the Washington Division. The incumbent directs the lifecycle of the division's security program, overseeing its development, planning, execution, and management.",
-    "url": "https://www.usajobs.gov/job/873649300",
-    "posted_at": "2026-06-18T12:09:26.150000",
-    "salary": "12-13",
     "grade": null,
     "remote": null
   },
@@ -1493,26 +1514,6 @@
     "url": "https://www.usajobs.gov/job/872939200",
     "posted_at": "2026-06-12T13:26:31.607000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872847100",
-    "title": "Data Science - Technical",
-    "organization": "DHS Headquarters",
-    "locations": [
-      "Chandler, Arizona",
-      "Washington, District of Columbia",
-      "Pensacola, Florida",
-      "Idaho Falls, Idaho",
-      "Stennis Space Center, Mississippi",
-      "Arlington, Virginia",
-      "Springfield, Virginia"
-    ],
-    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Data Science, including Data Scientist, Data Engineers, Artificial Intelligence (AI) Specialist, AI Operations Analyst, Data Modeler, Data Security Officer and Operations Research Analyst. All positions are in the DHS Cybersecurity Service.",
-    "url": "https://www.usajobs.gov/job/872847100",
-    "posted_at": "2026-06-12T07:46:54.597000",
-    "salary": "2-2",
     "grade": null,
     "remote": null
   },

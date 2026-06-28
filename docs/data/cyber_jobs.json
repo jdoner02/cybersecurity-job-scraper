@@ -19,6 +19,21 @@
     "remote": null
   },
   {
+    "job_id": "874313100",
+    "title": "IT Specialist",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Woodlawn, Maryland",
+      "Philadelphia, Pennsylvania"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Program Integrity, Data Analytics and Systems Group (DASG). As a IT Specialist, GS-2210-15, you will serve as a senior technical authority and program expert for data analytics, investigative systems, and program integrity (PI) operations within DASG.",
+    "url": "https://www.usajobs.gov/job/874313100",
+    "posted_at": "2026-06-26T14:25:30.483000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "874568800",
     "title": "Supervisory Senior Operations Officer",
     "organization": "Cybersecurity and Infrastructure Security Agency",
@@ -28,6 +43,21 @@
     "description": "This announcement is issued under the Direct Hire Authority (DHA) to recruit for positions for which there is a critical hiring need. Selectee(s) will receive a career or career-conditional appointment in the competitive service and may be required to serve a one year probationary period. The official title of this position is Supervisory IT Cybersecurity Specialist (INFOSEC) GS-2210-15.",
     "url": "https://www.usajobs.gov/job/874568800",
     "posted_at": "2026-06-26T14:17:39.513000",
+    "salary": "15-15",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874311500",
+    "title": "Senior Advisor (PLCYPLN/SYSANALYSIS)",
+    "organization": "Centers for Medicare & Medicaid Services",
+    "locations": [
+      "Woodlawn, Maryland",
+      "Philadelphia, Pennsylvania"
+    ],
+    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Program Integrity, Data Analytics and Systems Group (DASG). As a IT Specialist, GS-2210-15, you will serve as a senior technical authority and program expert for data analytics, investigative systems, and program integrity (PI) operations within DASG.",
+    "url": "https://www.usajobs.gov/job/874311500",
+    "posted_at": "2026-06-26T14:07:00.977000",
     "salary": "15-15",
     "grade": null,
     "remote": null
@@ -2115,46 +2145,6 @@
     "url": "https://www.usajobs.gov/job/872504600",
     "posted_at": "2026-06-15T00:00:00",
     "salary": "00-00",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872849000",
-    "title": "Cybersecurity Research and Development - Technical",
-    "organization": "DHS Headquarters",
-    "locations": [
-      "Chandler, Arizona",
-      "Washington, District of Columbia",
-      "Pensacola, Florida",
-      "Idaho Falls, Idaho",
-      "Stennis Space Center, Mississippi",
-      "Arlington, Virginia",
-      "Springfield, Virginia"
-    ],
-    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Research and Development, including Cybersecurity Strategist, Cybersecurity Researcher, Threat Researcher, Telecommunication Device Distribution Program Expert, and Vulnerability Researcher. All positions are in the DHS Cybersecurity Service.",
-    "url": "https://www.usajobs.gov/job/872849000",
-    "posted_at": "2026-06-12T09:56:32.667000",
-    "salary": "2-2",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "872847100",
-    "title": "Data Science - Technical",
-    "organization": "DHS Headquarters",
-    "locations": [
-      "Chandler, Arizona",
-      "Washington, District of Columbia",
-      "Pensacola, Florida",
-      "Idaho Falls, Idaho",
-      "Stennis Space Center, Mississippi",
-      "Arlington, Virginia",
-      "Springfield, Virginia"
-    ],
-    "description": "The Department of Homeland Security (DHS) is recruiting professionals to support a range of technical roles in Cybersecurity Data Science, including Data Scientist, Data Engineers, Artificial Intelligence (AI) Specialist, AI Operations Analyst, Data Modeler, Data Security Officer and Operations Research Analyst. All positions are in the DHS Cybersecurity Service.",
-    "url": "https://www.usajobs.gov/job/872847100",
-    "posted_at": "2026-06-12T07:46:54.597000",
-    "salary": "2-2",
     "grade": null,
     "remote": null
   },
