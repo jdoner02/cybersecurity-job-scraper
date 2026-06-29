@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "874202000",
+    "title": "IT CYBERSECURITY SPECIALIST (INFOSEC)",
+    "organization": "Defense Information Systems Agency",
+    "locations": [
+      "Fort Meade, Maryland"
+    ],
+    "description": "This position is being recruited under 10 USC 1599f into the Cyber Excepted Service and does NOT convey eligibility to be converted to the Competitive Service. It has been identified as a position necessary to carry out and support the mission of the US Cyber Command. It is in the Professional Work Category at the Senior Work Level within the CES Occupational Structure. It is located in the Department of Defense Cyber Defense Command (DCDC) - Cyberspace Resilience Evaluation Directorate (CRED)",
+    "url": "https://www.usajobs.gov/job/874202000",
+    "posted_at": "2026-06-29T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "874508100",
     "title": "IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)",
     "organization": "Defense Information Systems Agency",
@@ -15,21 +29,6 @@
     "url": "https://www.usajobs.gov/job/874508100",
     "posted_at": "2026-06-27T00:00:00",
     "salary": "13-13",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "874313100",
-    "title": "IT Specialist",
-    "organization": "Centers for Medicare & Medicaid Services",
-    "locations": [
-      "Woodlawn, Maryland",
-      "Philadelphia, Pennsylvania"
-    ],
-    "description": "This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Program Integrity, Data Analytics and Systems Group (DASG). As a IT Specialist, GS-2210-15, you will serve as a senior technical authority and program expert for data analytics, investigative systems, and program integrity (PI) operations within DASG.",
-    "url": "https://www.usajobs.gov/job/874313100",
-    "posted_at": "2026-06-26T14:25:30.483000",
-    "salary": "15-15",
     "grade": null,
     "remote": null
   },

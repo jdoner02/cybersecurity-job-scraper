@@ -1,5 +1,50 @@
 [
   {
+    "job_id": "874552800",
+    "title": "Equipment Specialist (Direct Hire)",
+    "organization": "Langley Research Center",
+    "locations": [
+      "Hampton, Virginia"
+    ],
+    "description": "The Research Directorate at Langley Research Center is currently seeking qualified applicants for the position of Equipment Specialist. Provides technical and mechanical support to tunnel operations, maintenance, machining, hardware fabrication and enhancement. Interfaces with/operates a vast array of tunnel systems including high-pressure air, combustible fuels, hydraulics, pneumatics, vacuum, and electronic instrumentation for data acquisition and system control.",
+    "url": "https://www.usajobs.gov/job/874552800",
+    "posted_at": "2026-06-29T00:00:00",
+    "salary": "12-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874321400",
+    "title": "FINANCIAL MANAGEMENT ANALYST",
+    "organization": "Naval Air Systems Command",
+    "locations": [
+      "San Diego, California",
+      "Patuxent River, Maryland",
+      "Naval Support Activity, Mechanicsburg, Pennsylvania",
+      "Norfolk, Virginia"
+    ],
+    "description": "You will serve as a FINANCIAL MANAGEMENT ANALYST in the GENERAL FUND BUSINESS OFFICE DIVISION, FINANCIAL SYSTEMS DEPARTMENT, COMPTROLLER GROUP of NAVAIRWARCENAC DIV.",
+    "url": "https://www.usajobs.gov/job/874321400",
+    "posted_at": "2026-06-29T00:00:00",
+    "salary": "13-13",
+    "grade": null,
+    "remote": null
+  },
+  {
+    "job_id": "874244200",
+    "title": "Program Specialist (Direct Hire)",
+    "organization": "Ames Research Center",
+    "locations": [
+      "Moffett Field, California"
+    ],
+    "description": "The role is responsible for managing NASA Open Science Data Repository (OSDR) project requirements, budgets, schedules, scope, and risk for a multimillion-dollar effort that enables the collection, curation, preservation, and accessibility of biological data used in mission planning and scientific decision-making. As the technical manager, the DPM ensures continuity of operations, governance through change control, configuration management, and coordination across scientific & software teams.",
+    "url": "https://www.usajobs.gov/job/874244200",
+    "posted_at": "2026-06-29T00:00:00",
+    "salary": "14-14",
+    "grade": null,
+    "remote": null
+  },
+  {
     "job_id": "874282500",
     "title": "Public Notice - Administrative / Management (Direct Hire)",
     "organization": "George C. Marshall Space Flight Center",
@@ -82,23 +127,6 @@
     "url": "https://www.usajobs.gov/job/874522500",
     "posted_at": "2026-06-26T11:27:43.707000",
     "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "874445100",
-    "title": "Management and Program Analyst (Contracting Officer's Representative)",
-    "organization": "Department of Energy - Agency Wide",
-    "locations": [
-      "Washington, District of Columbia",
-      "Germantown, Maryland",
-      "Cincinnati, Ohio",
-      "Oak Ridge, Tennessee"
-    ],
-    "description": "This position is part of the Office of the Chief Human Capital Officer, Department of Energy. As a Management and Program Analyst (Contracting Officer's Representative), you will act as the Contracting Officer's Representative in monitoring specified aspects of contract performance ensuring compliance with all requirements of the statement of work (SOW), specifications, performance work statement (PWS) or other technical requirements by deliver date(s)/within the period of performance.",
-    "url": "https://www.usajobs.gov/job/874445100",
-    "posted_at": "2026-06-26T00:00:00",
-    "salary": "14-14",
     "grade": null,
     "remote": null
   },
@@ -965,39 +993,6 @@
     "remote": null
   },
   {
-    "job_id": "873638400",
-    "title": "Supervisory Policy Advisor",
-    "organization": "Drug Enforcement Administration",
-    "locations": [
-      "Salt Lake City, Utah",
-      "Seattle, Washington",
-      "Phoenix, Arizona",
-      "Los Angeles, California",
-      "San Francisco, California",
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Miami, Florida",
-      "Atlanta, Georgia",
-      "Chicago, Illinois",
-      "Indianapolis, Indiana",
-      "New Orleans, Louisiana",
-      "Boston, Massachusetts",
-      "Minneapolis, Minnesota",
-      "Kansas City, Missouri",
-      "Albuquerque, New Mexico",
-      "New York, New York",
-      "Oklahoma City, Oklahoma",
-      "Portland, Oregon",
-      "Austin, Texas"
-    ],
-    "description": "This position is located in the Drug Enforcement Administration (DEA), Diversion Control Division, Regulatory Drafting & Policy Support Section (DPW), Arlington, VA. This position's primary purpose is to evaluates legislation and current and past policies, analyzes the diversion regulatory program and related issues, conducts a retrospective analysis of existing regulations, and recommends policy and regulatory resolutions that are consistent with statutory and executive mandates.",
-    "url": "https://www.usajobs.gov/job/873638400",
-    "posted_at": "2026-06-19T00:00:00",
-    "salary": "15-15",
-    "grade": null,
-    "remote": null
-  },
-  {
     "job_id": "873591800",
     "title": "Senior Incident Response Lead",
     "organization": "Securities and Exchange Commission",
@@ -1010,23 +1005,6 @@
     "description": "The Office of Information Technology is seeking a IT Specialist (INFOSEC) (Senior Incident Response Lead). In this role, you will be responsible for leading the detection, analysis, and response to cyber incidents that threaten the confidentiality, integrity, and availability of enterprise assets. This position requires deep technical expertise, strong leadership, and the ability to coordinate across teams to ensure rapid, effective, and consistent incident response.",
     "url": "https://www.usajobs.gov/job/873591800",
     "posted_at": "2026-06-18T09:11:15.410000",
-    "salary": "14-14",
-    "grade": null,
-    "remote": null
-  },
-  {
-    "job_id": "873590600",
-    "title": "Senior Cyber Threat Intelligence (CTI) Analyst",
-    "organization": "Securities and Exchange Commission",
-    "locations": [
-      "Denver, Colorado",
-      "Washington, District of Columbia",
-      "Chicago, Illinois",
-      "New York, New York"
-    ],
-    "description": "The Office of Information Technology is seeking a IT Specialist (INFOSEC) (Senior Cyber Threat Intelligence (CTI) Analyst). In this role, you will lead intelligence-driven detection, hunting, and response initiatives, and serve as a subject matter expert for both internal stakeholders and the broader cyber defense community.",
-    "url": "https://www.usajobs.gov/job/873590600",
-    "posted_at": "2026-06-18T09:03:20.527000",
     "salary": "14-14",
     "grade": null,
     "remote": null
